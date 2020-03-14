@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:55.871548 GMT-4",
+    "_uid": "f6331f76d0084b0e88d5c4f2ebf164f3",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "donec-felis-aptent.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:56.200582 GMT-4",
+    "title": "Donec felis aptent.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Velit augue semper mi feugiat amet consequat orci eni.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Netus metus nec curae curabitur nisi nunc duis quis lorem. Proin ipsum elit lectus montes justo ve. Lacus morbi. Netus metus. Vitae nulla nisi quisque. Curae nulla cursus nec sodales ve auctor integer dapibus convallis. Risus justo. Proin dolor eni lorem morbi eros fusce potenti est amet eleifend arcu orci odio tincidunt. Risus curae a tempor tincidunt porta tristique. Neque ipsum primis etiam. Metus risus sit orci in diam vehicula inceptos class ad. Justo purus dolor. Massa curae nascetur vestibulum habitasse suspendisse fringilla elit. Vitae fames. Etiam justo mus urna sapien tortor lobortis facilisis.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:55.876938 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:56.196098 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Laelius clamores sof\u00f2w ille so lebat Edere compellans gumias ex ordine nostros.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid de Platone aut de Democrito loquar? Beatum, inquit. Collige omnia, quae soletis: Praesidium amicorum. </p>\n\n<p>An hoc usque quaque, aliter in vita? Quo igitur, inquit, modo? Respondeat totidem verbis. <a href='http://loripsum.net/' target='_blank'>Qua ex cognitione facilior facta est investigatio rerum occultissimarum.</a> </p>\n\n<ol>\n\t<li>Verba tu fingas et ea dicas, quae non sentias?</li>\n\t<li>Satis est ad hoc responsum.</li>\n\t<li>Videamus animi partes, quarum est conspectus illustrior;</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Immo videri fortasse.</dfn></dt>\n\t<dd>Miserum hominem! Si dolor summum malum est, dici aliter non potest.</dd>\n\t<dt><dfn>Etiam beatissimum?</dfn></dt>\n\t<dd>Si enim, ut mihi quidem videtur, non explet bona naturae voluptas, iure praetermissa est;</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Atque his de rebus et splendida est eorum et illustris oratio.</dd>\n</dl>\n\n\n<ul>\n\t<li>Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</li>\n\t<li>Illud mihi a te nimium festinanter dictum videtur, sapientis omnis esse semper beatos;</li>\n\t<li>Et tamen tantis vectigalibus ad liberalitatem utens etiam sine hac Pyladea amicitia multorum te benivolentia praeclare tuebere et munies.</li>\n</ul>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>Qui ita affectus, beatum esse numquam probabis;</a> Respondeat totidem verbis. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "donec-felis-aptent.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Magna velit class dictumst adipiscing integer enim vestibulum ve elementum. Class fames mus neque semper interdum. Dolor augue. Neque dolor congue adipiscing magna arcu suspendisse eu ornare. Netus lacus dictumst enim sit. Porta felis dignissim. Nulla fusce semper mauris odio nisi aliquam ut. Porta metus accumsan velit bibendum vestibulum gravida nec arcu. Lorem dolor convallis amet ridiculus class dis eros. Etiam proin elit blandit sapien mi ante eu nisl. Vitae lacus eleifend nisl duis. Fames risus a rhoncus. Netus lacus suspendisse maecenas commodo proin enim fusce urna fringilla. Neque magna facilisis fusce mi sollicitudin. Metus magna dolor fusce enim vivamus facilisis. Class metus. Purus magna inceptos habitasse justo sit turpis litora amet. Felis justo duis sed mattis duis quisque. Morbi lorem interdum vitae a cubilia ad leo elit. Justo magna. Risus massa nullam magnis eget montes.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec felis aptent.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./donec-felis-aptent."
+}

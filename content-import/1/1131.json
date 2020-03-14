@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quantum Aristoxeni ingenium consumptum videmus in musicis?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Conferam avum tuum Drusum cum C. Sed ille, ut dixi, vitiose. Duo Reges: constructio interrete. Sit enim idem caecus, debilis. Cur id non ita fit? An tu me de L. </p>\n\n<ol>\n\t<li>Sine ea igitur iucunde negat posse se vivere?</li>\n\t<li>Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</li>\n</ol>\n\n\n<p>Tamen a proposito, inquam, aberramus. Tu quidem reddes; Tum Triarius: Posthac quidem, inquit, audacius. Philosophi autem in suis lectulis plerumque moriuntur. Quae cum magnifice primo dici viderentur, considerata minus probabantur. Haec et tu ita posuisti, et verba vestra sunt. Sed haec omittamus; </p>\n\n<ul>\n\t<li>Licet hic rursus ea commemores, quae optimis verbis ab Epicuro de laude amicitiae dicta sunt.</li>\n\t<li>Vide, ne etiam menses! nisi forte eum dicis, qui, simul atque arripuit, interficit.</li>\n\t<li>Idemne, quod iucunde?</li>\n\t<li>Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat?</li>\n\t<li>Et homini, qui ceteris animantibus plurimum praestat, praecipue a natura nihil datum esse dicemus?</li>\n\t<li>Longum est enim ad omnia respondere, quae a te dicta sunt.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Immo alio genere;</dfn></dt>\n\t<dd>Sed virtutem ipsam inchoavit, nihil amplius.</dd>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari virum vetant in dolore.</dd>\n\t<dt><dfn>Quid Zeno?</dfn></dt>\n\t<dd>Scisse enim te quis coarguere possit?</dd>\n\t<dt><dfn>Quid adiuvas?</dfn></dt>\n\t<dd>Suo enim quisque studio maxime ducitur.</dd>\n</dl>\n\n\n<p>Nam quid possumus facere melius? An eiusdem modi? Prioris generis est docilitas, memoria; An est aliquid, quod te sua sponte delectet? </p>\n\n",
+    "creation_date": "2018/10/26 18:02:29.947523 GMT-4",
+    "imageCaption": "Dolor curae tincidunt torquent bibendum ve rutrum.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-curae.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:30.279577 GMT-4",
+    "title": "Dolor curae.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae risus inceptos etiam pretium.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Vitae fames scelerisque bibendum elementum sollicitudin cubilia sit at arcu erat. Class ipsum eni nunc molestie a. Purus justo. Dolor vitae semper sapien sagittis imperdiet ve. Ipsum purus quis lobortis ante luctus fermentum velit mi sapien sit erat eleifend venenatis magna ut morbi luctus lectus. Augue proin viverra elementum pulvinar ante interdum nisi blandit potenti mollis in purus. Lorem donec tortor ullamcorper massa tristique. Donec proin sodales. Lacus neque est quis sodales hendrerit cras eget porta erat. Nulla augue aliquet lacinia odio inceptos et.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:29.951330 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:30.275421 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "dolor-curae.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla etiam. Porta magna ante sed arcu vel nisl in consectetuer ornare ac odio neque in. Morbi netus amet viverra ante mi non varius inceptos. Curae morbi. Etiam justo condimentum nibh convallis vehicula tempus. Porta etiam platea ipsum viverra egestas laoreet netus at porttitor. Curae velit dis cras imperdiet. Velit massa natoque etiam feugiat hendrerit mi luctus ve. Dolor ipsum. Class felis natoque non parturient. Morbi fusce a posuere mi est nulla ante diam curabitur molestie mauris eget. Curae fusce scelerisque.",
+    "_content_type_description": "text/plain",
+    "_uid": "5a9c3a21dcce4c2691fd9bc5e7ae48b5",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor curae.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 66,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./dolor-curae."
+}

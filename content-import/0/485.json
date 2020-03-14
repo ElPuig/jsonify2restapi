@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Itaque his sapiens semper vacabit.</a> Scrupulum, inquam, abeunti; Quid adiuvas? Duo Reges: constructio interrete. Quonam, inquit, modo? Sed nimis multa. </p>\n\n<ol>\n\t<li>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</li>\n\t<li>Septem autem illi non suo, sed populorum suffragio omnium nominati sunt.</li>\n</ol>\n\n\n<ul>\n\t<li>Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis.</li>\n\t<li>Quasi ego id curem, quid ille aiat aut neget.</li>\n\t<li>Quamvis enim depravatae non sint, pravae tamen esse possunt.</li>\n\t<li>Ex quo intellegitur nec intemperantiam propter se esse fugiendam temperantiamque expetendam, non quia voluptates fugiat, sed quia maiores consequatur.</li>\n\t<li>Aliter enim explicari, quod quaeritur, non potest.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</dd>\n\t<dt><dfn>Easdemne res?</dfn></dt>\n\t<dd>Illa videamus, quae a te de amicitia dicta sunt.</dd>\n\t<dt><dfn>Memini vero, inquam;</dfn></dt>\n\t<dd>Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem.</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit?</dd>\n\t<dt><dfn>Ille incendat?</dfn></dt>\n\t<dd>Hic ego: Etsi facit hic quidem, inquam, Piso, ut vides, ea, quae praecipis, tamen mihi grata hortatio tua est.</dd>\n</dl>\n\n\n<p>Multoque hoc melius nos veriusque quam Stoici. Hoc loco tenere se Triarius non potuit. Idem iste, inquam, de voluptate quid sentit? Tollenda est atque extrahenda radicitus. Nunc de hominis summo bono quaeritur; </p>\n\n<h2>Non est igitur summum malum dolor.</h2>\n\n<p>An nisi populari fama? Simus igitur contenti his. Ille incendat? </p>\n\n",
+    "creation_date": "2018/10/26 17:57:8.107792 GMT-4",
+    "imageCaption": "Curae vitae scelerisque vel cras nam consectetuer augue.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-lorem.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:8.431206 GMT-4",
+    "title": "Dolor lorem.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem etiam aenean sem quisque odio eni morbi risus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Donec lorem nisi ultricies massa ipsum nisi. Netus proin quam aliquam ut mi. Netus vitae varius lectus tristique proin litora. Morbi etiam enim at enim nisi ridiculus pellentesque. Donec justo sodales dolor id lacus leo eros sem urna. Risus massa suspendisse per ac sociis urna. Purus netus per odio imperdiet et hymenaeos fames. Justo magna. Proin felis a posuere ve lobortis per. Dolor class arcu lorem conubia. Netus augue a primis morbi nonummy id. Etiam netus eros ve odio.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:8.111905 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:8.426974 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "dolor-lorem.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor neque curae tortor dictumst nullam montes cum id. Vitae netus magna. Lacus morbi ullamcorper lobortis. Velit curae natoque ut vel odio purus. Etiam vitae primis cum vestibulum mi ligula vel vestibulum nullam. Proin porta nonummy vel sociosqu quisque magnis dis. Proin fames cum torquent a bibendum cum aptent. Proin metus sem odio venenatis consectetuer adipiscing nisi imperdiet ad aptent placerat vulputate. Felis morbi viverra erat. Curae morbi lacus lorem curabitur nisi arcu mollis conubia in dolor curabitur cum non hac nam dui in congue.",
+    "_content_type_description": "text/plain",
+    "_uid": "9e9ac73821af461daa02b5de0ee6fccb",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor lorem.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./dolor-lorem."
+}

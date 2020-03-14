@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quare hoc videndum est, possitne nobis hoc ratio philosophorum dare.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praeclare hoc quidem. Sit sane ista voluptas. Haeret in salebra. </p>\n\n<ol>\n\t<li>Nihil enim iam habes, quod ad corpus referas;</li>\n\t<li>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</li>\n</ol>\n\n\n<ul>\n\t<li>Est autem etiam actio quaedam corporis, quae motus et status naturae congruentis tenet;</li>\n\t<li>Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat.</li>\n\t<li>Pauca mutat vel plura sane;</li>\n\t<li>Quis Pullum Numitorium Fregellanum, proditorem, quamquam rei publicae nostrae profuit, non odit?</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>De quibus cupio scire quid sentias.</a> Duo Reges: constructio interrete. Bonum integritas corporis: misera debilitas. Respondent extrema primis, media utrisque, omnia omnibus. Invidiosum nomen est, infame, suspectum. Cur post Tarentum ad Archytam? Quamquam id quidem licebit iis existimare, qui legerint. </p>\n\n<dl>\n\t<dt><dfn>Perge porro;</dfn></dt>\n\t<dd>Duarum enim vitarum nobis erunt instituta capienda.</dd>\n\t<dt><dfn>Tubulo putas dicere?</dfn></dt>\n\t<dd>Ita similis erit ei finis boni, atque antea fuerat, neque idem tamen;</dd>\n</dl>\n\n\n<h2>Heri, inquam, ludis commissis ex urbe profectus veni ad vesperum.</h2>\n\n<p>Quae contraria sunt his, malane? Age, inquies, ista parva sunt. Si quicquam extra virtutem habeatur in bonis. Expectoque quid ad id, quod quaerebam, respondeas. Potius inflammat, ut coercendi magis quam dedocendi esse videantur. At enim sequor utilitatem. </p>\n\n",
+    "creation_date": "2018/10/26 17:58:26.827570 GMT-4",
+    "imageCaption": "Neque augue maecenas tristique massa mi consequat scelerisque mus elit duis ac erat.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "nulla-lacus-eni.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:27.153670 GMT-4",
+    "title": "Nulla lacus eni.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Donec justo lorem a platea tristique dapibus luctus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Massa metus. Magna fames senectus hac felis venenatis nec quam orci dis elit. Lorem morbi. Massa lorem facilisi fermentum dolor ante. Risus velit. Velit massa hymenaeos accumsan neque vulputate suscipit class conubia sapien mus. Purus felis erat ve lorem ve. Justo proin. Netus proin bibendum urna eros per tempus blandit orci eleifend rhoncus metus vestibulum erat. Metus netus sem tempor sapien lobortis. Justo velit dolor curae neque commodo hymenaeos cras. Fusce augue dapibus diam eget. Nulla neque aptent lectus elementum. Lacus ipsum congue tempor velit. Justo class netus feugiat viverra lectus. Lacus lorem pede quam velit integer congue id nisl duis eu. Augue nulla cursus metus penatibus rhoncus lacus amet sociis per potenti. Purus massa montes platea massa. Risus proin taciti tempus penatibus at aptent.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:26.831302 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:27.150280 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "nulla-lacus-eni.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum dolor. Massa porta praesent. Felis fames non parturient tortor ac proin vel potenti at praesent sem rhoncus ultrices. Netus donec iaculis conubia ornare. Dolor class nibh pede egestas velit. Fames proin conubia nam pharetra augue et magna enim metus at a mattis pede lacus. Justo morbi inceptos mi ullamcorper. Augue morbi nullam pede ullamcorper. Lacus porta semper lobortis erat luctus vehicula erat. Dolor etiam posuere lobortis nostra tellus viverra aliquam. Augue ipsum vitae commodo. Curae purus vel quis facilisis. Porta lacus cras id ligula facilisi.",
+    "_content_type_description": "text/plain",
+    "_uid": "80396054d5244bfa8783905b1411c8ee",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Nulla lacus eni.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./nulla-lacus-eni."
+}

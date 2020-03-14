@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 13:42:45.744387 GMT-4",
+    "_uid": "1ad12c1faa5b4275975957342e932a91",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-proin-sociis-sem-tellus-metus-nonummy.",
+    "subject": [],
+    "modification_date": "2018/10/26 13:42:45.930015 GMT-4",
+    "title": "Fames proin sociis sem tellus metus nonummy.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue neque eget.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Image",
+    "description": "Dolor class. Metus purus ultrices leo. Dolor felis interdum at etiam porta. Netus fusce risus lobortis fames metus. Nulla curae. Dolor curae vehicula. Dolor purus. Magna curae viverra ut ultricies donec urna curae lacinia primis erat. Donec justo aptent maecenas ridiculus. Dolor massa euismod at tempus quisque. Magna felis facilisis risus venenatis vulputate porta pulvinar quis egestas curae natoque venenatis. Justo purus.",
+    "_atrefs": {},
+    "_layout": "image_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:41:39.788424 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:41:42.467922 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobImage",
+        "Products.ATContentTypes.interfaces.image.IATImage",
+        "Products.ATContentTypes.interfaces.image.IImageContent"
+    ],
+    "_classname": "ATBlob",
+    "_datafield_image": {
+        "encoding": "base64",
+        "filename": "None",
+        "data": "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",
+        "content_type": "image/jpeg",
+        "size": [
+            300,
+            200
+        ]
+    },
+    "_userdefined_roles": [],
+    "_content_type": "image/jpeg",
+    "_id": "fames-proin-sociis-sem-tellus-metus-nonummy.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae dolor magnis ad fames pulvinar lorem massa. Donec fames urna mi mattis proin et tempor placerat ridiculus. Donec vitae purus montes nullam. Ipsum vitae a luctus metus montes suspendisse velit fringilla. Nulla donec habitasse ve aenean nibh scelerisque quisque eni ut a mattis. Lacus dolor mauris auctor nam lectus libero nonummy et cum ut felis litora. Neque fames morbi tempor primis molestie vestibulum phasellus lorem sem nulla. Netus neque eros. Morbi vitae sed quis. Metus dolor luctus sollicitudin malesuada netus fames enim. Dolor porta enim ad odio nec primis lacinia sodales quam. Purus curae tempor etiam nonummy lectus dui quam. Justo porta aptent tincidunt purus. Magna fames a auctor magna interdum adipiscing. Neque etiam sem amet quam suscipit non eget urna ut justo ut a nisi. Risus porta mollis dictum natoque quisque. Dolor magna nullam ut. Ipsum risus. Felis class sed.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fames proin sociis sem tellus metus nonummy.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 44,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/news/fames-proin-sociis-sem-tellus-metus-nonummy."
+}

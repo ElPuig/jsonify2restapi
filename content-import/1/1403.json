@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:05:5.757317 GMT-4",
+    "_uid": "0456c11c38c649f3a47201b31c6079be",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "massa-nulla-est-dolor-netus-taciti-adipiscing-lacus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:05:5.815075 GMT-4",
+    "title": "Massa nulla est dolor netus taciti adipiscing lacus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue lorem nibh ultrices nullam nisl per sollicitudin semper mattis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Justo morbi hac eget diam eleifend non euismod eu mus. Donec augue per. Dolor donec. Dolor metus nulla sem nisi dolor ut aptent maecenas ullamcorper mus. Justo velit cursus ut sapien augue suspendisse sociosqu vitae. Morbi fusce taciti amet quis. Fames dolor etiam a platea neque parturient. Proin neque a arcu lorem commodo justo vel leo. Class donec gravida egestas ligula amet. Fames metus mus cras suscipit nec urna ridiculus tempus molestie nisl. Morbi justo litora non maecenas a sollicitudin orci laoreet ve. Morbi felis vel adipiscing phasellus orci sed taciti netus natoque hendrerit. Risus vitae bibendum parturient nonummy. Curae morbi mauris eros elit varius nostra elit ac nascetur nisl. Velit fusce quisque nunc et. Lacus ipsum. Porta class laoreet consequat. Vitae lorem varius donec molestie. Felis nulla natoque phasellus diam lectus iaculis vivamus. Fames massa lobortis eni quis eni vivamus nisi justo. Risus massa nibh.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:48.380747 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:48.722711 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "dapibus..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "massa-nulla-est-dolor-netus-taciti-adipiscing-lacus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Proin purus urna enim placerat justo at nunc. Justo augue ligula vestibulum pellentesque. Nulla augue lectus fringilla integer class lacus ipsum natoque in varius interdum. Velit fusce sed ante. Velit lacus sociosqu sed conubia turpis nulla vivamus. Metus lacus orci netus vehicula sem. Etiam fames inceptos porta ve neque tincidunt. Purus fames hymenaeos aptent. Fusce etiam mus porta nonummy. Porta justo. Metus neque libero at mi diam. Magna justo. Nulla fusce massa turpis ornare. Vitae magna. Morbi curae cras quisque fames duis nullam eni mollis mi eleifend posuere. Dolor risus massa ornare mattis eni quam amet ac. Ipsum curae molestie et nam. Massa curae cum erat at elementum a tristique vitae ut per eu.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Massa nulla est dolor netus taciti adipiscing lacus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel./massa-nulla-est-dolor-netus-taciti-adipiscing-lacus."
+}

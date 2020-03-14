@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:53.020070 GMT-4",
+    "_uid": "c58f4822e811479abbc5bde3dedb1981",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-neque-nec-commodo-fames.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:53.078936 GMT-4",
+    "title": "Lorem neque nec commodo fames.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Massa felis varius cursus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Augue metus fusce eros a justo. Vitae class porta. Fusce lorem. Morbi curae fusce. Velit class etiam iaculis aliquam ultricies montes lorem vivamus augue quam facilisis libero ante. Porta metus varius platea bibendum suspendisse volutpat sodales. Justo class ipsum cum. Purus neque eleifend ve sem et sapien convallis est. Dolor class vel morbi ligula tempor blandit tincidunt montes pulvinar cubilia. Proin nulla eros sem augue parturient laoreet. Netus lorem aliquet. Fusce vitae. Morbi neque scelerisque vel orci a urna adipiscing tristique amet cursus ad. Lorem curae montes auctor erat libero ve aptent a nonummy mi id tempus nulla cum proin. Morbi fames. Purus metus class dui vestibulum convallis ullamcorper etiam tincidunt hac nec.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:37.807574 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:38.127110 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "cum..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lorem-neque-nec-commodo-fames.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor class nibh. Nulla dolor maecenas fermentum a vel dignissim magnis vestibulum eleifend erat volutpat hac. Donec netus lectus rutrum accumsan lorem in placerat. Magna velit potenti lectus duis cras diam montes habitasse cum quisque faucibus. Metus purus. Etiam risus rhoncus litora vitae commodo cras sollicitudin adipiscing enim sociis curabitur porta. Curae magna cursus ad conubia ante eu pede morbi nibh laoreet. Neque purus morbi fusce feugiat quis risus ut proin imperdiet mattis sapien. Dolor netus litora scelerisque etiam habitasse vel maecenas laoreet feugiat aenean justo massa justo sem nisl quis integer fringilla. Neque magna sociosqu dignissim. Dolor curae libero hendrerit posuere pellentesque euismod donec ut. Nulla augue habitant vulputate praesent. Velit lorem pharetra vitae ac a semper morbi viverra phasellus lobortis platea enim ullamcorper. Risus proin cursus adipiscing.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lorem neque nec commodo fames.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./lorem-neque-nec-commodo-fames."
+}

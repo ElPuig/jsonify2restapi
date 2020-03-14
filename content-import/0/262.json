@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/12 02:47:41.080215 GMT-4",
+    "endDate": "2018/11/12 05:15:28.866456 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliter enim explicari, quod quaeritur, non potest. Duo Reges: constructio interrete. At ille pellit, qui permulcet sensum voluptate. Peccata paria. </p>\n\n<dl>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Tubulo putas dicere?</dd>\n\t<dt><dfn>Respondeat totidem verbis.</dfn></dt>\n\t<dd>In qua quid est boni praeter summam voluptatem, et eam sempiternam?</dd>\n\t<dt><dfn>Quis negat?</dfn></dt>\n\t<dd>Nisi enim id faceret, cur Plato Aegyptum peragravit, ut a sacerdotibus barbaris numeros et caelestia acciperet?</dd>\n</dl>\n\n\n<h2>Hoc ipsum elegantius poni meliusque potuit.</h2>\n\n<p>A mene tu? <a href='http://loripsum.net/' target='_blank'>Quare conare, quaeso.</a> Apparet statim, quae sint officia, quae actiones. Honesta oratio, Socratica, Platonis etiam. Ergo ita: non posse honeste vivi, nisi honeste vivatur? </p>\n\n<pre>\nAc tamen, ne cui loco non videatur esse responsum, pauca\netiam nunc dicam ad reliquam orationem tuam.\n\nNam neque virtute retinetur ille in vita, nec iis, qui sine\nvirtute sunt, mors est oppetenda.\n</pre>\n\n\n<ul>\n\t<li>Sin ea non neglegemus neque tamen ad finem summi boni referemus, non multum ab Erilli levitate aberrabimus.</li>\n\t<li>Quae duo sunt, unum facit.</li>\n\t<li>Ex quo, id quod omnes expetunt, beate vivendi ratio inveniri et comparari potest.</li>\n</ul>\n\n\n<h3>Verba tu fingas et ea dicas, quae non sentias?</h3>\n\n<p><code>Ita multa dicunt, quae vix intellegam.</code> Non quam nostram quidem, inquit Pomponius iocans; Omnia contraria, quos etiam insanos esse vultis. Collatio igitur ista te nihil iuvat. Hoc mihi cum tuo fratre convenit. <a href='http://loripsum.net/' target='_blank'>Age sane, inquam.</a> </p>\n\n<ol>\n\t<li>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</li>\n\t<li>Dolere malum est: in crucem qui agitur, beatus esse non potest.</li>\n\t<li>Ita similis erit ei finis boni, atque antea fuerat, neque idem tamen;</li>\n\t<li>Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus.</li>\n\t<li>Nam illud quidem adduci vix possum, ut ea, quae senserit ille, tibi non vera videantur.</li>\n\t<li>Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem.</li>\n</ol>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:47.166015 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "314d8209ffb944288336c2e7266c4870",
+    "expirationDate": "None",
+    "contactName": "Magna metus urna suspendisse est elit vestibulum eni felis duis venenatis tellus.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Netus lorem justo nisi ultricies consequat velit ante vivamus a condimentum sed mollis.",
+    "id": "justo-porta-dis-hac.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.125123 GMT-4",
+    "title": "Justo porta dis hac.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Purus massa blandit ultricies mollis erat elementum sit orci.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Porta metus ultrices vestibulum cursus proin fermentum. Nulla ipsum. Morbi neque volutpat cras mauris. Neque velit blandit hymenaeos sociis augue aliquet elit eu consectetuer aptent. Felis fames purus venenatis odio euismod natoque erat est neque fermentum. Neque purus gravida amet vestibulum ve taciti per. Vitae fames ligula. Class augue felis fames tempus proin sed. Morbi netus. Purus lorem bibendum fusce aliquam nec vulputate. Metus lorem senectus pede malesuada dictumst odio facilisi pulvinar vitae lorem. Netus morbi a erat adipiscing nam parturient. Ipsum risus nostra fusce. Morbi class a aenean porta felis taciti. Class justo. Donec massa mauris sapien risus facilisis natoque est. Curae lorem odio vel posuere lobortis. Velit etiam per diam donec phasellus volutpat. Velit curae sem leo.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:47.169719 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.138597 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "justo-porta-dis-hac.",
+    "modification_date": "2018/10/26 13:51:42.125412 GMT-4",
+    "language": "en",
+    "rights": "Augue morbi libero diam. Donec etiam. Ipsum risus nonummy ipsum porta ipsum convallis accumsan tortor semper purus sociis. Dolor fames. Risus ipsum eget dis tempus nascetur mi eros dis odio blandit ac nostra pulvinar. Morbi ipsum. Metus lacus a iaculis cursus. Massa netus fusce laoreet vivamus dapibus nibh. Fusce ipsum iaculis quis pellentesque vestibulum diam magnis ridiculus morbi ut. Porta morbi eget suscipit donec etiam cursus. Fusce velit nonummy nec congue iaculis potenti posuere sapien auctor felis duis. Ipsum risus nullam curabitur. Risus vitae.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo porta dis hac.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 58,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/justo-porta-dis-hac."
+}

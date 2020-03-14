@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:53.054378 GMT-4",
+    "_uid": "b8a569149b1e4ba79432c4c2851eebfd",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "felis-massa-amet-ornare-tincidunt-et-porttitor-erat-per.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:53.395934 GMT-4",
+    "title": "Felis massa amet ornare tincidunt et porttitor erat per.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae felis accumsan hendrerit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Felis morbi. Class dolor. Fames porta molestie mi cras proin nibh morbi et. Dolor magna amet rhoncus at. Velit morbi nisl cubilia rhoncus duis id nibh. Netus lacus tortor mauris quis iaculis euismod eget quam sodales. Metus etiam orci a duis ut elit magna. Ipsum morbi est orci in habitant pulvinar egestas sodales primis. Vitae purus pretium ac magnis fames cum eget litora. Morbi etiam bibendum mi suspendisse arcu eros. Risus massa dictum tortor lacus dapibus tincidunt sociosqu. Risus lacus enim quis vehicula ac. Massa netus nec netus leo dictum risus hymenaeos sem hac. Augue curae risus magna class tempor. Class donec hac erat sed torquent. Ipsum curae libero aptent gravida conubia eros.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:53.059928 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:53.390228 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Pugnant Stoici cum Peripateticis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid, de quo nulla dissensio est? Ego vero isti, inquam, permitto. Haec dicuntur inconstantissime. Proclivi currit oratio. Restinguet citius, si ardentem acceperit. Quo igitur, inquit, modo? </p>\n\n<dl>\n\t<dt><dfn>Immo alio genere;</dfn></dt>\n\t<dd>An vero, inquit, quisquam potest probare, quod perceptfum, quod.</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</dd>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Conferam tecum, quam cuique verso rem subicias;</dd>\n\t<dt><dfn>Si longus, levis;</dfn></dt>\n\t<dd>Ut necesse sit omnium rerum, quae natura vigeant, similem esse finem, non eundem.</dd>\n\t<dt><dfn>Paria sunt igitur.</dfn></dt>\n\t<dd>Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri.</dd>\n</dl>\n\n\n<ul>\n\t<li>Non minor, inquit, voluptas percipitur ex vilissimis rebus quam ex pretiosissimis.</li>\n\t<li>Itaque his sapiens semper vacabit.</li>\n\t<li>Materiam vero rerum et copiam apud hos exilem, apud illos uberrimam reperiemus.</li>\n\t<li>Quam si explicavisset, non tam haesitaret.</li>\n</ul>\n\n\n<ol>\n\t<li>Aeque enim contingit omnibus fidibus, ut incontentae sint.</li>\n\t<li>Num igitur dubium est, quin, si in re ipsa nihil peccatur a superioribus, verbis illi commodius utantur?</li>\n\t<li>Respondent extrema primis, media utrisque, omnia omnibus.</li>\n</ol>\n\n\n<p>Duo Reges: constructio interrete. Quid sequatur, quid repugnet, vident. </p>\n\n<p>Torquatus, is qui consul cum Cn. Sed tamen intellego quid velit. Sed fortuna fortis; Omnia contraria, quos etiam insanos esse vultis. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "felis-massa-amet-ornare-tincidunt-et-porttitor-erat-per.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lorem ipsum massa luctus. Augue metus scelerisque. Metus etiam condimentum ut libero dignissim. Metus lacus lobortis augue ad. Neque etiam turpis netus amet dis enim. Porta morbi dictumst netus. Purus lacus non nullam. Massa morbi mollis ad curae rutrum luctus ridiculus sem habitant dapibus fermentum enim sit. Class fusce est vel sollicitudin aptent eu fames metus turpis montes nunc mattis. Fusce purus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Felis massa amet ornare tincidunt et porttitor erat per.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./felis-massa-amet-ornare-tincidunt-et-porttitor-erat-per."
+}

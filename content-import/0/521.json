@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:31.991135 GMT-4",
+    "_uid": "8dd17e75cb754158a00a0403370e2583",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "metus-risus-lacus-malesuada-nostra.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:32.039771 GMT-4",
+    "title": "Metus risus lacus malesuada nostra.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Justo dolor.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Neque ipsum risus suspendisse sed id laoreet diam ultricies cursus. Proin vitae. Netus nulla justo metus litora risus aliquam. Lacus velit accumsan imperdiet. Dolor metus. Fusce netus cum neque vulputate erat posuere. Risus justo augue. Class purus. Massa porta dictumst adipiscing nullam etiam viverra primis mus gravida proin per. Neque lacus conubia turpis ad velit semper dignissim vestibulum arcu netus. Vitae neque augue fames scelerisque ante urna. Risus fusce justo leo sed nam elementum tellus sit platea sapien proin sagittis. Morbi felis euismod elit porttitor varius adipiscing consectetuer natoque. Justo fusce scelerisque elit venenatis vel risus justo. Dolor justo pharetra fringilla mi auctor dapibus nisl quam vehicula mus integer augue. Netus proin volutpat nam platea litora nunc duis pretium a. Lacus fames. Massa fames enim sem lorem nam vel hendrerit cras leo purus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "urna..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "metus-risus-lacus-malesuada-nostra.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta magna libero justo lorem ipsum consequat habitant. Neque donec pede suscipit aenean rutrum vehicula elementum nam. Vitae augue dui quis donec orci lorem habitasse vel augue. Lacus velit suspendisse leo aptent. Curae magna ornare in laoreet ante ad. Massa lacus. Fames porta velit semper eros odio vestibulum. Vitae velit. Purus vitae. Morbi class luctus ad varius. Massa class molestie id ipsum at phasellus. Velit magna tempus ultrices odio cras class. Morbi lorem tempus mauris id ornare libero nascetur parturient montes amet. Lacus class ligula leo quam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Metus risus lacus malesuada nostra.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./metus-risus-lacus-malesuada-nostra."
+}

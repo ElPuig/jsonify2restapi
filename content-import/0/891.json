@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Haec para/doca illi, nos admirabilia dicamus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cave putes quicquam esse verius. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; </p>\n\n<ul>\n\t<li>Ut id aliis narrare gestiant?</li>\n\t<li>Hos contra singulos dici est melius.</li>\n\t<li>In motu et in statu corporis nihil inest, quod animadvertendum esse ipsa natura iudicet?</li>\n\t<li>Semper enim ex eo, quod maximas partes continet latissimeque funditur, tota res appellatur.</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Sed ad bona praeterita redeamus.</a> Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Res enim concurrent contrariae.</a> Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris. Omnes enim iucundum motum, quo sensus hilaretur. </p>\n\n<dl>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Quorum sine causa fieri nihil putandum est.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Quia nec honesto quic quam honestius nec turpi turpius.</dd>\n\t<dt><dfn>ALIO MODO.</dfn></dt>\n\t<dd>Non enim ipsa genuit hominem, sed accepit a natura inchoatum.</dd>\n</dl>\n\n\n<ol>\n\t<li>Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse.</li>\n\t<li>Ita enim vivunt quidam, ut eorum vita refellatur oratio.</li>\n</ol>\n\n\n<p>Quod equidem non reprehendo; Vide, quaeso, rectumne sit. <a href='http://loripsum.net/' target='_blank'>Ita graviter et severe voluptatem secrevit a bono.</a> Hanc quoque iucunditatem, si vis, transfer in animum; Ita credo. Itaque hic ipse iam pridem est reiectus; </p>\n\n",
+    "creation_date": "2018/10/26 18:00:28.925538 GMT-4",
+    "imageCaption": "Netus augue felis primis libero torquent nulla tellus vulputate.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "proin-felis-per-quis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:29.255845 GMT-4",
+    "title": "Proin felis per quis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi purus urna eget arcu porttitor ac.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Purus magna enim potenti ac mattis egestas. Proin class magna hymenaeos ante diam parturient pede donec commodo. Lorem velit. Netus metus nullam mauris. Lacus purus. Lacus fames dolor pharetra. Proin class dictumst id dis scelerisque conubia fames dis duis auctor id laoreet. Netus magna sociis nisi aliquet. Metus felis elit magnis ut lorem. Justo lorem congue nibh ullamcorper gravida. Purus nulla sapien proin bibendum facilisis ante condimentum at. Donec dolor. Ipsum proin facilisi nulla nibh ullamcorper aliquam risus velit mus eni ut. Etiam risus sit nisl mi consectetuer posuere. Purus curae lorem bibendum vestibulum varius fusce penatibus nam dolor donec. Justo donec augue. Netus augue facilisi ut morbi senectus curae. Felis vitae vel vestibulum varius nulla condimentum nibh penatibus. Nulla justo mattis sociis tincidunt morbi id varius. Class justo aenean purus ullamcorper nam mi magna consectetuer. Lorem fames duis netus non neque sed. Donec ipsum proin bibendum id enim. Lorem metus porta condimentum inceptos ante pharetra mollis mauris vel et.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:28.929946 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:29.251565 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "proin-felis-per-quis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Metus proin sodales habitant mauris urna nisl tincidunt vehicula nullam lectus justo iaculis. Morbi purus. Class morbi luctus ipsum aliquet ut odio montes et conubia eros sagittis. Massa purus. Curae etiam torquent pede. Curae metus felis interdum id proin. Etiam vitae. Purus proin lectus arcu eros euismod donec at metus leo. Netus fames taciti accumsan nunc nonummy habitasse eu tellus risus adipiscing. Velit class leo adipiscing parturient mi. Nulla lacus pharetra dignissim ipsum pede quisque arcu sit ornare mi quam sociis elementum litora ac. Lorem morbi hendrerit nam felis vitae. Felis curae posuere et ad nostra interdum leo viverra pulvinar. Etiam augue auctor at urna id nam ac metus malesuada ve. Proin metus phasellus habitant.",
+    "_content_type_description": "text/plain",
+    "_uid": "ede5b89b418549509b31b5d4d2a8aee6",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Proin felis per quis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 69,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./proin-felis-per-quis."
+}

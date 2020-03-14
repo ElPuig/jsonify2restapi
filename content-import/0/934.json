@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:54.652383 GMT-4",
+    "_uid": "66c10c94681d4c09bba88490d92472ab",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "purus-massa-cum-per-ve.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:55.015609 GMT-4",
+    "title": "Purus massa cum per ve.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus netus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Neque dolor vivamus nibh adipiscing ornare etiam fringilla praesent ut justo. Donec dolor magna pharetra. Justo curae neque sed vestibulum id nibh viverra habitasse pharetra rutrum nostra nisl imperdiet. Dolor magna pede a cras at nibh vehicula. Nulla proin non odio. Curae vitae primis vehicula volutpat lorem iaculis donec quam vel. Lacus nulla aliquet torquent mauris. Vitae porta taciti urna ac. Justo morbi conubia pede ultricies. Etiam magna cum donec turpis vestibulum sollicitudin quisque. Ipsum fames. Justo neque sapien fames aliquam rhoncus nullam. Vitae massa netus felis. Donec porta mattis purus sed orci maecenas dis integer. Augue dolor.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:54.657695 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:55.010870 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Erat enim Polemonis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Tum Piso: Quoniam igitur aliquid omnes, quid Lucius noster? <a href='http://loripsum.net/' target='_blank'>Duo enim genera quae erant, fecit tria.</a> Multoque hoc melius nos veriusque quam Stoici. Eam tum adesse, cum dolor omnis absit; </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Quid de Pythagora?</a> An tu me de L. Idemne, quod iucunde? Utram tandem linguam nescio? Qualem igitur hominem natura inchoavit? Pollicetur certe. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>An haec ab eo non dicuntur?</a> Sed plane dicit quod intellegit. Conferam tecum, quam cuique verso rem subicias; Sint modo partes vitae beatae. Peccata paria. </p>\n\n<ol>\n\t<li>Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego;</li>\n\t<li>Septem autem illi non suo, sed populorum suffragio omnium nominati sunt.</li>\n\t<li>Atque haec ita iustitiae propria sunt, ut sint virtutum reliquarum communia.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>An eiusdem modi?</dfn></dt>\n\t<dd>In qua quid est boni praeter summam voluptatem, et eam sempiternam?</dd>\n\t<dt><dfn>Haeret in salebra.</dfn></dt>\n\t<dd>Apud imperitos tum illa dicta sunt, aliquid etiam coronae datum;</dd>\n</dl>\n\n\n<ul>\n\t<li>Homines optimi non intellegunt totam rationem everti, si ita res se habeat.</li>\n\t<li>-, sed ut hoc iudicaremus, non esse in iis partem maximam positam beate aut secus vivendi.</li>\n\t<li>Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur.</li>\n\t<li>Etenim semper illud extra est, quod arte comprehenditur.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "purus-massa-cum-per-ve.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Magna porta laoreet magnis hac lectus blandit commodo pede ve vel ullamcorper euismod hac. Ipsum proin duis aenean lectus in aenean a vestibulum cum vitae elementum leo. Metus etiam quis nec in a enim curae enim suspendisse natoque cum torquent. Magna etiam pulvinar etiam proin metus inceptos nulla in. Ipsum felis cum auctor primis sem blandit dictumst fames enim velit scelerisque lobortis pretium. Massa nulla. Felis purus semper odio fames convallis nostra ipsum. Dolor ipsum urna. Class magna suspendisse ut. Augue ipsum massa orci mauris eu sagittis neque nibh est. Massa justo dui ipsum eget orci cras vestibulum dictum eu leo ante nunc integer. Risus donec purus blandit et tellus velit aliquam donec vestibulum quisque. Metus magna orci varius posuere vel sodales. Nulla felis auctor mi dui nisi pulvinar proin.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Purus massa cum per ve.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./purus-massa-cum-per-ve."
+}

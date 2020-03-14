@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:19.910371 GMT-4",
+    "_uid": "73a49e98cd5748f08ed9445bc303b40c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "ipsum-purus-posuere-euismod.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:20.242045 GMT-4",
+    "title": "Ipsum purus posuere euismod.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Velit donec.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Lorem purus curae augue aliquet tincidunt. Purus metus quam sed litora in. Netus ipsum magnis enim lectus sodales tempor cum libero dis cum sollicitudin ipsum enim condimentum. Fusce lacus. Donec curae. Vitae augue vel adipiscing ut sociosqu aliquet sodales aenean elit. Massa magna ridiculus. Dolor velit commodo iaculis taciti id sem in velit eni enim. Magna augue eleifend ut ullamcorper eros nibh. Metus fusce taciti risus laoreet nec vestibulum semper. Fames class. Felis morbi nostra adipiscing facilisi integer nullam enim suspendisse id litora duis. Proin class quam lacus volutpat. Morbi metus mus massa justo. Massa fusce curabitur. Velit dolor bibendum class magna class nisi urna iaculis. Etiam risus lorem dapibus ve pede. Augue lacus nullam. Class nulla. Proin class.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:19.916936 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:20.237066 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Dolere malum est: in crucem qui agitur, beatus esse non potest.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mihi, inquam, qui te id ipsum rogavi? Nam Pyrrho, Aristo, Erillus iam diu abiecti. Est, ut dicis, inquam. Quo studio Aristophanem putamus aetatem in litteris duxisse? Duo Reges: constructio interrete. </p>\n\n<p>Ego vero isti, inquam, permitto. In schola desinis. Mihi enim satis est, ipsis non satis. Prodest, inquit, mihi eo esse animo. </p>\n\n<ul>\n\t<li>Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius.</li>\n\t<li>Nec vero alia sunt quaerenda contra Carneadeam illam sententiam.</li>\n\t<li>Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius.</li>\n\t<li>Tum Quintus: Est plane, Piso, ut dicis, inquit.</li>\n</ul>\n\n\n<p>Esse enim, nisi eris, non potes. Non risu potius quam oratione eiciendum? </p>\n\n<dl>\n\t<dt><dfn>ALIO MODO.</dfn></dt>\n\t<dd>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim.</dd>\n\t<dt><dfn>Idemne, quod iucunde?</dfn></dt>\n\t<dd>Neminem videbis ita laudatum, ut artifex callidus comparandarum voluptatum diceretur.</dd>\n</dl>\n\n\n<ol>\n\t<li>Mihi, inquam, qui te id ipsum rogavi?</li>\n\t<li>Maximas vero virtutes iacere omnis necesse est voluptate dominante.</li>\n\t<li>Illa sunt similia: hebes acies est cuipiam oculorum, corpore alius senescit;</li>\n\t<li>Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse;</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "ipsum-purus-posuere-euismod.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Felis class diam. Purus lorem. Purus justo semper donec. Donec fusce etiam iaculis molestie blandit ante faucibus. Donec metus nunc molestie hac aliquet ac habitasse. Justo magna cum porta netus a nunc augue purus laoreet sociis ac platea eu. Felis morbi lorem mollis ve urna phasellus ve ridiculus a. Massa purus metus erat mauris semper senectus eget hac. Donec dolor cursus eu malesuada a dis consequat proin nibh a. Dolor nulla. Fames nulla. Etiam purus nunc. Massa morbi. Etiam metus luctus. Lacus felis. Dolor lorem augue pede.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Ipsum purus posuere euismod.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./ipsum-purus-posuere-euismod."
+}

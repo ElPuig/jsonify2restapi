@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:17.296736 GMT-4",
+    "_uid": "27cf5a1ccf9e4c23b2f87da08969dd8f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "ipsum-metus-dictum-etiam-eleifend-arcu-viverra-eu.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:17.623497 GMT-4",
+    "title": "Ipsum metus dictum etiam eleifend arcu viverra eu.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Nulla purus rhoncus cum dictumst elementum faucibus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Class justo sociis aptent leo id enim curabitur eu congue ve at. Lacus vitae. Justo class tempor. Nulla ipsum mauris etiam felis cursus nullam vel amet adipiscing magnis nulla blandit. Justo morbi elit justo quisque. Nulla vitae eros natoque at. Morbi curae libero morbi sociosqu adipiscing. Netus dolor dis urna cum erat magnis nullam lorem. Etiam class augue aliquet cum habitant quisque lacinia congue nec eget. Neque risus. Fames porta odio nisl nam diam elit velit magnis nostra. Vitae justo rutrum class viverra felis. Lacus class dolor fames phasellus volutpat platea parturient maecenas nisi vivamus pede vestibulum erat. Lacus fusce vitae neque cras quisque velit arcu lacus diam. Neque ipsum a nunc.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:17.302480 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:17.618864 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Sin aliud quid voles, postea.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illa tamen simplicia, vestra versuta. Omnis enim est natura diligens sui. Sed fac ista esse non inportuna; Est enim effectrix multarum et magnarum voluptatum. </p>\n\n<dl>\n\t<dt><dfn>Haeret in salebra.</dfn></dt>\n\t<dd>Vitae autem degendae ratio maxime quidem illis placuit quieta.</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Aliud est enim po\u00ebtarum more verba fundere, aliud ea, quae dicas, ratione et arte distinguere.</dd>\n\t<dt><dfn>Quare conare, quaeso.</dfn></dt>\n\t<dd>Nam ista vestra: Si gravis, brevis;</dd>\n</dl>\n\n\n<p>Duo Reges: constructio interrete. Nihil enim iam habes, quod ad corpus referas; Nam quid possumus facere melius? <a href='http://loripsum.net/' target='_blank'>Contineo me ab exemplis.</a> </p>\n\n<ul>\n\t<li>Itaque in rebus minime obscuris non multus est apud eos disserendi labor.</li>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n\t<li>Sed in rebus apertissimis nimium longi sumus.</li>\n\t<li>Vide ne ista sint Manliana vestra aut maiora etiam, si imperes quod facere non possim.</li>\n\t<li>Tum Piso: Quoniam igitur aliquid omnes, quid Lucius noster?</li>\n</ul>\n\n\n<ol>\n\t<li>Ut proverbia non nulla veriora sint quam vestra dogmata.</li>\n\t<li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>\n\t<li>Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum.</li>\n\t<li>Quid, si etiam iucunda memoria est praeteritorum malorum?</li>\n\t<li>Idcirco enim non desideraret, quia, quod dolore caret, id in voluptate est.</li>\n\t<li>Quid enim est a Chrysippo praetermissum in Stoicis?</li>\n</ol>\n\n\n<h2>Ut proverbia non nulla veriora sint quam vestra dogmata.</h2>\n\n<p>Quid ergo? An hoc usque quaque, aliter in vita? Age sane, inquam. Tecum optime, deinde etiam cum mediocri amico. Quod vestri non item. Bestiarum vero nullum iudicium puto. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "ipsum-metus-dictum-etiam-eleifend-arcu-viverra-eu.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Fusce fames nibh elit vivamus class aliquam euismod rutrum porttitor felis at. Fames dolor nostra mattis quis quisque in rutrum proin. Fames etiam sociis ut nostra iaculis ad. Netus metus dis etiam eros habitasse inceptos. Fames nulla a aliquet ac vel condimentum rhoncus. Vitae felis pede. Etiam class. Netus metus nostra phasellus varius. Magna justo magnis pretium ante donec duis tristique litora habitant amet cubilia. Ipsum fames.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Ipsum metus dictum etiam eleifend arcu viverra eu.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./ipsum-metus-dictum-etiam-eleifend-arcu-viverra-eu."
+}

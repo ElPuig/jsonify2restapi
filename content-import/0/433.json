@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/14 00:38:29.240111 GMT-4",
+    "endDate": "2018/11/15 13:57:51.049272 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc simile tandem est? Utilitatis causa amicitia est quaesita. Sit enim idem caecus, debilis. <a href='http://loripsum.net/' target='_blank'>Quid sequatur, quid repugnet, vident.</a> Quid enim possumus hoc agere divinius? Quam ob rem tandem, inquit, non satisfacit? </p>\n\n<p>Quae cum essent dicta, discessimus. Tria genera bonorum; <a href='http://loripsum.net/' target='_blank'>Sed haec quidem liberius ab eo dicuntur et saepius.</a> Ita credo. </p>\n\n<ol>\n\t<li>Ratio enim nostra consentit, pugnat oratio.</li>\n\t<li>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</li>\n\t<li>Quid in isto egregio tuo officio et tanta fide-sic enim existimo-ad corpus refers?</li>\n\t<li>Non enim ipsa genuit hominem, sed accepit a natura inchoatum.</li>\n\t<li>Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.</li>\n\t<li>An eum discere ea mavis, quae cum plane perdidiceriti nihil sciat?</li>\n</ol>\n\n\n<ul>\n\t<li>Duarum enim vitarum nobis erunt instituta capienda.</li>\n\t<li>Consequens enim est et post oritur, ut dixi.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>Stulti autem malorum memoria torquentur, sapientes bona praeterita grata recordatione renovata delectant.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>In eo autem voluptas omnium Latine loquentium more ponitur, cum percipitur ea, quae sensum aliquem moveat, iucunditas.</dd>\n\t<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>\n\t<dd>Et nunc quidem quod eam tuetur, ut de vite potissimum loquar, est id extrinsecus;</dd>\n\t<dt><dfn>Poterat autem inpune;</dfn></dt>\n\t<dd>Neque solum ea communia, verum etiam paria esse dixerunt.</dd>\n\t<dt><dfn>Restatis igitur vos;</dfn></dt>\n\t<dd>Hoc sic expositum dissimile est superiori.</dd>\n</dl>\n\n\n<p>Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Quippe: habes enim a rhetoribus;</a> Audeo dicere, inquit. Quae cum dixisset, finem ille. Post enim Chrysippum eum non sane est disputatum. </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:56:50.221993 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "d1661e06a0d04149a238008d6bd0dc99",
+    "expirationDate": "None",
+    "contactName": "Etiam netus duis etiam venenatis nibh gravida commodo taciti urna duis.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Augue class.",
+    "id": "class-lorem.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Class lorem.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque morbi a erat etiam molestie justo.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Fames purus odio torquent. Dolor velit ultrices parturient fringilla metus dolor sem amet vestibulum erat. Risus curae justo massa suspendisse torquent orci luctus nullam ipsum. Vitae velit suscipit et. Ipsum etiam tempus ante. Porta risus turpis adipiscing justo odio duis nec vel in imperdiet a tristique neque. Porta lacus quam dui ut cras duis elit. Massa donec elementum vulputate. Velit dolor egestas dui dictumst fames amet feugiat ac. Lorem vitae tellus duis enim suscipit. Netus fusce a iaculis luctus et pharetra erat. Risus fusce vitae augue risus facilisis. Vitae lacus maecenas velit vel nisl hac ad. Lacus morbi porta mauris netus lorem feugiat. Dolor massa urna taciti et faucibus pretium vitae ut purus felis sit enim hac risus aptent maecenas nisi varius. Massa metus a cubilia eu amet. Netus vitae dictum vestibulum volutpat vivamus imperdiet eros. Purus metus platea eget pellentesque et velit id eget mollis elementum. Vitae risus ante rhoncus semper quam etiam ullamcorper nec mattis a nascetur. Proin porta tortor senectus vestibulum cursus suscipit.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:50.225472 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:50.554830 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "class-lorem.",
+    "modification_date": "2018/10/26 17:56:50.558929 GMT-4",
+    "language": "en",
+    "rights": "Porta massa dui nec non vel tristique aptent dictum dolor sodales varius. Ipsum netus. Porta magna pretium fusce parturient cras massa at et eni elit. Augue risus tincidunt condimentum magna sapien. Purus justo aliquam consequat in. Metus lorem lectus. Donec lorem luctus nunc laoreet ve. Magna neque nibh cum ridiculus tellus varius leo ornare vehicula metus pede. Class nulla pretium. Class neque urna interdum cum nostra. Vitae morbi cubilia tristique nisi eni orci diam. Dolor massa dapibus cum eu sagittis cras senectus rhoncus mi nec. Proin augue congue ullamcorper proin. Magna neque curae nec mauris ligula placerat rhoncus congue. Class neque massa aptent fusce hac augue parturient. Risus dolor penatibus senectus lectus primis. Metus fusce nulla primis fermentum mattis faucibus nam. Ipsum felis sit amet consectetuer ut metus tellus libero magna vestibulum. Metus fames.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class lorem.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 16,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./class-lorem."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:18.049072 GMT-4",
+    "_uid": "ccdac577814845a3bc7e0c08196dde49",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "netus-etiam-magna-felis-senectus-class-quisque-eros.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:18.382478 GMT-4",
+    "title": "Netus etiam magna felis senectus class quisque eros.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem vitae vel.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Lacus justo vitae libero. Etiam nulla mauris platea ultricies adipiscing elit turpis tellus cras hymenaeos mollis. Vitae justo sem dictum at dui elementum pharetra massa quisque mus venenatis interdum eu aenean. Neque fames lorem mauris nibh. Nulla porta pharetra ac ligula commodo vivamus varius donec elit nam ad enim. Proin etiam urna a orci vestibulum. Ipsum justo cubilia proin leo donec metus dolor tempus vestibulum pellentesque. Risus magna inceptos mus amet sem sollicitudin platea et nullam egestas. Lacus dolor augue eget vel sociis. Ipsum augue donec. Etiam metus pulvinar massa a laoreet auctor netus non.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:18.055969 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:18.378150 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Prioris generis est docilitas, memoria;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid Zeno? Sed nimis multa. Prioris generis est docilitas, memoria; Ut aliquid scire se gaudeant? Duo Reges: constructio interrete. Iam enim adesse poterit. </p>\n\n<ul>\n\t<li>Esse enim quam vellet iniquus iustus poterat inpune.</li>\n\t<li>Non igitur bene.</li>\n\t<li>Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.</li>\n\t<li>Cur igitur, inquam, res tam dissimiles eodem nomine appellas?</li>\n\t<li>Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers?</li>\n\t<li>Quis enim potest istis, quae te, ut ais, delectant, brevibus et acutis auditis de sententia decedere?</li>\n\t<li>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</li>\n</ul>\n\n\n<p>Quo igitur, inquit, modo? Illa tamen simplicia, vestra versuta. Hoc non est positum in nostra actione. Quis est tam dissimile homini. Deprehensus omnem poenam contemnet. </p>\n\n<ol>\n\t<li>Quamquam haec quidem praeposita recte et reiecta dicere licebit.</li>\n\t<li>Sed venio ad inconstantiae crimen, ne saepius dicas me aberrare;</li>\n\t<li>Et ille ridens: Video, inquit, quid agas;</li>\n\t<li>Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>At ille pellit, qui permulcet sensum voluptate.</dd>\n\t<dt><dfn>Iam contemni non poteris.</dfn></dt>\n\t<dd>Illud mihi a te nimium festinanter dictum videtur, sapientis omnis esse semper beatos;</dd>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Ergo, si semel tristior effectus est, hilara vita amissa est?</dd>\n</dl>\n\n\n<h2>Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur.</h2>\n\n<p>Huius, Lyco, oratione locuples, rebus ipsis ielunior. Ita nemo beato beatior. Ad eos igitur converte te, quaeso. Sed in rebus apertissimis nimium longi sumus. Idemque diviserunt naturam hominis in animum et corpus. De quibus cupio scire quid sentias. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "netus-etiam-magna-felis-senectus-class-quisque-eros.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Donec vitae elit turpis pretium laoreet porta. Proin class. Etiam magna eni bibendum laoreet rhoncus facilisi tempus congue ut netus ad justo ligula tempus lacus adipiscing facilisi vitae massa praesent. Purus justo imperdiet. Lorem curae duis euismod. Nulla etiam porta mus eros ac sollicitudin iaculis per ac. Netus fusce augue sociis turpis felis dui nisi consequat.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus etiam magna felis senectus class quisque eros.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./netus-etiam-magna-felis-senectus-class-quisque-eros."
+}

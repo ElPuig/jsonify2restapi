@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Roges enim Aristonem, bonane ei videantur haec: vacuitas doloris, divitiae, valitudo;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum quid tu dicis breve? Duo Reges: constructio interrete. </p>\n\n<dl>\n\t<dt><dfn>Idem adhuc;</dfn></dt>\n\t<dd>Sed venio ad inconstantiae crimen, ne saepius dicas me aberrare;</dd>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Praeclare hoc quidem.</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Sextilio Rufo, cum is rem ad amicos ita deferret, se esse heredem Q.</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest.</dd>\n</dl>\n\n\n<p>Hoc enim constituto in philosophia constituta sunt omnia. Tibi hoc incredibile, quod beatissimum. Sed fortuna fortis; </p>\n\n<ol>\n\t<li>Nam ante Aristippus, et ille melius.</li>\n\t<li>Quare, quoniam de primis naturae commodis satis dietum est nunc de maioribus consequentibusque videamus.</li>\n\t<li>Sed est forma eius disciplinae, sicut fere ceterarum, triplex: una pars est naturae, disserendi altera, vivendi tertia.</li>\n</ol>\n\n\n<ul>\n\t<li>Sed virtutem ipsam inchoavit, nihil amplius.</li>\n\t<li>Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;</li>\n\t<li>Quid enim est a Chrysippo praetermissum in Stoicis?</li>\n\t<li>Nos paucis ad haec additis finem faciamus aliquando;</li>\n\t<li>Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam;</li>\n</ul>\n\n\n<p>Nam quid possumus facere melius? <a href='http://loripsum.net/' target='_blank'>Dici enim nihil potest verius.</a> Quid sequatur, quid repugnet, vident. Avaritiamne minuis? Quam ob rem tandem, inquit, non satisfacit? Id Sextilius factum negabat. </p>\n\n",
+    "creation_date": "2018/10/26 17:59:5.145851 GMT-4",
+    "imageCaption": "Vitae lacus mollis scelerisque lorem curabitur cubilia.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "risus-porta-eros-habitant-mauris-erat-ante-fermentum.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:5.476355 GMT-4",
+    "title": "Risus porta eros habitant mauris erat ante fermentum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Lorem magna purus. Ipsum metus cursus tempus pharetra ante nec pellentesque fusce nunc accumsan ac magna tincidunt tempus mattis nascetur. Class donec. Velit purus nec donec montes commodo ut taciti placerat tristique eni. Porta proin velit.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:5.149628 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:5.472904 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "risus-porta-eros-habitant-mauris-erat-ante-fermentum.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fusce netus aliquam nibh ac. Nulla lorem sit dictum aliquam natoque. Magna lorem. Purus dolor nostra class justo lacus taciti lectus commodo sodales. Dolor justo. Lorem risus suspendisse ante cras rhoncus fermentum lectus dictumst. Justo felis. Donec massa. Etiam lacus lacinia vehicula montes tempus eros. Ipsum netus curae litora sed natoque eni parturient hymenaeos quis condimentum ut mollis ad rutrum feugiat gravida porttitor. Ipsum dolor gravida urna duis parturient facilisis lorem dolor dictumst. Proin metus neque a nisl ut. Donec felis a tempus nibh eu. Felis lacus nam sodales pulvinar tellus cras massa facilisis maecenas ut suspendisse eros amet vitae. Porta curae potenti auctor elit sollicitudin dictumst fusce mi mollis pretium. Justo lorem suscipit sem iaculis aptent id primis laoreet fringilla amet est. Nulla fusce tempus est commodo cras a proin egestas class fusce laoreet dis et. Dolor netus aliquet fames diam egestas curae rhoncus ac fermentum parturient eget nostra. Class fames senectus quam dui viverra est imperdiet purus turpis quam mi pellentesque vivamus senectus purus. Felis neque.",
+    "_content_type_description": "text/plain",
+    "_uid": "a669cc227bc34abea195982d3c08a220",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Risus porta eros habitant mauris erat ante fermentum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 66,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./risus-porta-eros-habitant-mauris-erat-ante-fermentum."
+}

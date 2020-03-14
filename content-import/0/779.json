@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:35.928843 GMT-4",
+    "_uid": "c470a080670d422b98765a11c4acd0c3",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "dolor-magna-aenean-ve.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:36.258327 GMT-4",
+    "title": "Dolor magna aenean ve.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Porta velit taciti faucibus arcu pede urna vestibulum taciti diam mi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Augue purus auctor. Curae class eget volutpat. Porta magna fermentum est phasellus neque at. Ipsum massa tempor nam orci tortor imperdiet habitant tortor magnis quisque et. Metus lorem fusce erat per sit ac nostra egestas eros. Lacus velit ipsum sed felis fusce dictum massa class aenean sociosqu quisque id. Netus felis. Purus lorem quis leo metus risus mattis et dictumst sodales dapibus justo mus. Porta lacus nunc morbi nisl est nunc vitae donec integer arcu in quis mi lorem pellentesque metus ad eleifend accumsan. Risus vitae per aenean volutpat orci sed. Neque magna mus orci natoque. Fames fusce a. Neque morbi eros mus fames gravida iaculis viverra luctus dolor class tellus netus id sem ullamcorper egestas. Curae felis. Magna neque nostra massa. Metus nulla sagittis consequat. Justo fames a nibh class taciti venenatis etiam ad ante volutpat curabitur.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:35.934256 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:36.251973 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quis non odit sordidos, vanos, leves, futtiles?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non igitur bene. Minime vero, inquit ille, consentit. Duo Reges: constructio interrete. Immo alio genere; </p>\n\n<p>Magna laus. Non semper, inquam; Non est igitur summum malum dolor. Iam enim adesse poterit. </p>\n\n<dl>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</dd>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Rapior illuc, revocat autem Antiochus, nec est praeterea, quem audiamus.</dd>\n\t<dt><dfn>Quare attende, quaeso.</dfn></dt>\n\t<dd>In schola desinis.</dd>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Rem unam praeclarissimam omnium maximeque laudandam, penitus viderent, quonam gaudio complerentur, cum tantopere eius adumbrata opinione laetentur?</dd>\n</dl>\n\n\n<ul>\n\t<li>Que Manilium, ab iisque M.</li>\n\t<li>Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio.</li>\n\t<li>Nulla profecto est, quin suam vim retineat a primo ad extremum.</li>\n\t<li>Dat enim intervalla et relaxat.</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Maximas vero virtutes iacere omnis necesse est voluptate dominante.</a> Obsecro, inquit, Torquate, haec dicit Epicurus? Summum en\u00edm bonum exposuit vacuitatem doloris; Quis est tam dissimile homini. Videamus animi partes, quarum est conspectus illustrior; Quid ad utilitatem tantae pecuniae? </p>\n\n<ol>\n\t<li>Tollitur beneficium, tollitur gratia, quae sunt vincla concordiae.</li>\n\t<li>Beatus autem esse in maximarum rerum timore nemo potest.</li>\n\t<li>Atqui haec patefactio quasi rerum opertarum, cum quid quidque sit aperitur, definitio est.</li>\n\t<li>Tu autem, si tibi illa probabantur, cur non propriis verbis ea tenebas?</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "dolor-magna-aenean-ve.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Fames etiam ullamcorper ac montes ad dictumst augue dolor nam. Class augue. Nulla magna. Ipsum vitae. Class risus mollis velit ve id purus dictum sapien etiam semper ad faucibus aliquam. Augue morbi hac nisl a nulla. Massa class libero in risus aenean interdum. Fusce risus habitant phasellus. Neque ipsum primis mauris cum eget a eros.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor magna aenean ve.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./dolor-magna-aenean-ve."
+}

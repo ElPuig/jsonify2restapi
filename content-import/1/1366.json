@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Dicet pro me ipsa virtus nec dubitabit isti vestro beato M.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illi enim inter se dissentiunt. Bonum liberi: misera orbitas. Duo Reges: constructio interrete. Confecta res esset. Ne discipulum abducam, times. </p>\n\n<h2>Prodest, inquit, mihi eo esse animo.</h2>\n\n<p>Sequitur disserendi ratio cognitioque naturae; Frater et T. Praeclarae mortes sunt imperatoriae; Verum hoc idem saepe faciamus. Omnes enim iucundum motum, quo sensus hilaretur. Quasi ego id curem, quid ille aiat aut neget. </p>\n\n<ul>\n\t<li>Minime vero probatur huic disciplinae, de qua loquor, aut iustitiam aut amicitiam propter utilitates adscisci aut probari.</li>\n\t<li>Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus;</li>\n</ul>\n\n\n<ol>\n\t<li>Utrum igitur tibi litteram videor an totas paginas commovere?</li>\n\t<li>Nec vero sum nescius esse utilitatem in historia, non modo voluptatem.</li>\n\t<li>Itaque e contrario moderati aequabilesque habitus, affectiones ususque corporis apti esse ad naturam videntur.</li>\n</ol>\n\n\n<p>Efficiens dici potest. Eadem nunc mea adversum te oratio est. Ac tamen hic mallet non dolere. Deprehensus omnem poenam contemnet. </p>\n\n<dl>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Mihi vero, inquit, placet agi subtilius et, ut ipse dixisti, pressius.</dd>\n\t<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>\n\t<dd>Ita multa dicunt, quae vix intellegam.</dd>\n\t<dt><dfn>At certe gravius.</dfn></dt>\n\t<dd>Sunt enim quasi prima elementa naturae, quibus ubertas orationis adhiberi vix potest, nec equidem eam cogito consectari.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 18:04:37.670935 GMT-4",
+    "imageCaption": "Metus lorem a semper erat ante convallis hendrerit elit.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "velit-proin-neque-tincidunt-erat.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:38.003101 GMT-4",
+    "title": "Velit proin neque tincidunt erat.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin dolor vulputate pulvinar mattis dictum convallis penatibus duis quis velit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Netus donec ipsum lacinia duis porttitor vehicula et montes at. Donec lorem cursus pharetra placerat aliquam varius. Vitae curae turpis id bibendum. Velit dolor. Netus porta placerat neque in dictum etiam senectus. Magna justo. Porta dolor rutrum id amet facilisi sollicitudin mollis vitae vivamus integer enim. Neque dolor dis nunc pulvinar platea parturient maecenas orci non suscipit. Risus lorem nulla sed cras. Neque donec. Porta morbi sagittis nibh vulputate. Justo velit enim lacinia sodales. Netus proin dictum. Purus nulla arcu placerat cras sem gravida at vel venenatis ligula eni. Massa class sodales quis laoreet id eu.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:37.675228 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:37.999206 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "velit-proin-neque-tincidunt-erat.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla ipsum. Proin dolor volutpat ante ve proin senectus lorem amet tempor magnis ut magnis ve. Felis class faucibus risus quisque dui pharetra. Magna lorem integer ut morbi scelerisque eget phasellus molestie eu eget nascetur a. Morbi fames hac faucibus commodo nonummy. Fames nulla ipsum elit feugiat ac nonummy nisi habitasse sed rhoncus a. Dolor felis dapibus nisl habitant et platea ac. Porta massa aenean ut augue velit duis feugiat ad. Velit etiam mus adipiscing platea nisl elit in pellentesque libero at. Class lorem. Felis augue cum dolor vulputate leo ipsum porttitor placerat. Morbi velit taciti eu diam. Class risus libero taciti. Risus lorem bibendum vestibulum rutrum sed est nec id nostra iaculis commodo turpis. Proin nulla dictum est enim etiam. Curae dolor. Nulla lorem litora pellentesque tristique. Etiam justo netus pulvinar per. Curae massa dolor hendrerit sodales sollicitudin imperdiet morbi eget. Dolor porta cum magna per nulla tristique nec risus blandit eget ac eros. Fames felis laoreet arcu dis morbi ligula at erat vitae porttitor.",
+    "_content_type_description": "text/plain",
+    "_uid": "f8c8ac281c3043e89ccaa89c38bb342d",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Velit proin neque tincidunt erat.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./velit-proin-neque-tincidunt-erat."
+}

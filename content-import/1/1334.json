@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:24.516369 GMT-4",
+    "_uid": "a00d1a296270476e934f9074e85b0a73",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "donec-risus-non-semper.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:24.846836 GMT-4",
+    "title": "Donec risus non semper.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum curae lectus id est.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Vitae fames lacus eni. Curae justo tellus. Lorem nulla. Nulla dolor tempor proin parturient ve. Magna curae. Magna justo platea imperdiet class sapien varius imperdiet nam nunc. Neque augue odio eleifend nam cras. Magna purus sit nibh vestibulum hac. Risus fusce tortor eni odio quam odio phasellus non conubia. Donec augue odio. Lacus netus. Velit curae libero ut quis eros.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:24.522460 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:24.841752 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Qui autem de summo bono dissentit de tota philosophiae ratione dissentit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae contraria sunt his, malane? Item de contrariis, a quibus ad genera formasque generum venerunt. Haec dicuntur inconstantissime. Tum Torquatus: Prorsus, inquit, assentior; Philosophi autem in suis lectulis plerumque moriuntur. </p>\n\n<dl>\n\t<dt><dfn>Quid Zeno?</dfn></dt>\n\t<dd>Quid enim tanto opus est instrumento in optimis artibus comparandis?</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Haec para/doca illi, nos admirabilia dicamus.</dd>\n\t<dt><dfn>Beatum, inquit.</dfn></dt>\n\t<dd>Itaque homo in primis ingenuus et gravis, dignus illa familiaritate Scipionis et Laelii, Panaetius, cum ad Q.</dd>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Maximas vero virtutes iacere omnis necesse est voluptate dominante.</dd>\n\t<dt><dfn>Quae sequuntur igitur?</dfn></dt>\n\t<dd>Quid turpius quam sapientis vitam ex insipientium sermone pendere?</dd>\n\t<dt><dfn>Cur iustitia laudatur?</dfn></dt>\n\t<dd>Fortasse id optimum, sed ubi illud: Plus semper voluptatis?</dd>\n</dl>\n\n\n<p>Recte, inquit, intellegis. Quis est tam dissimile homini. Venit ad extremum; Tollenda est atque extrahenda radicitus. Dicimus aliquem hilare vivere; Sit enim idem caecus, debilis. </p>\n\n<p>Idem iste, inquam, de voluptate quid sentit? Optime, inquam. Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Quae sequuntur igitur?</a> Ergo hoc quidem apparet, nos ad agendum esse natos. </p>\n\n<ol>\n\t<li>At Zeno eum non beatum modo, sed etiam divitem dicere ausus est.</li>\n\t<li>Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis vitia posuisse contraria.</li>\n\t<li>Videamus igitur sententias eorum, tum ad verba redeamus.</li>\n\t<li>Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</li>\n\t<li>Nam si quae sunt aliae, falsum est omnis animi voluptates esse e corporis societate.</li>\n</ol>\n\n\n<ul>\n\t<li>Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit.</li>\n\t<li>Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes.</li>\n\t<li>Quod si ita se habeat, non possit beatam praestare vitam sapientia.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "donec-risus-non-semper.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lacus vitae taciti litora etiam per erat penatibus. Purus justo velit luctus lorem. Massa morbi mollis venenatis suscipit faucibus in suspendisse duis quam magna metus. Felis dolor sociis magnis dui. Metus purus eleifend imperdiet sem tristique integer cursus diam luctus at et ad orci senectus. Velit donec per vestibulum ac nascetur posuere integer urna et pellentesque natoque. Lacus felis magna augue lorem euismod dapibus eros. Massa netus cursus lorem. Metus fames. Donec porta ornare pharetra montes tortor rhoncus ligula id convallis a vel. Purus metus magna inceptos vel ac morbi eu.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec risus non semper.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./donec-risus-non-semper."
+}

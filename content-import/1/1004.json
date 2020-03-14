@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:32.131639 GMT-4",
+    "_uid": "a317430a29264e5b899af5c2d0f0d955",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-massa-purus-lorem-sed.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:32.178629 GMT-4",
+    "title": "Netus massa purus lorem sed.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Lacus justo eni luctus torquent fusce pharetra nisl blandit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Proin massa. Porta proin mollis nonummy conubia quis nulla. Felis class quam integer et ad. Massa purus nascetur malesuada. Fames proin posuere eleifend. Risus proin eget leo. Magna fusce urna blandit justo quam ad nibh.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.204606 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.527359 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "elit..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "netus-massa-purus-lorem-sed.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Purus ipsum vel hymenaeos pede dignissim. Fusce porta torquent vestibulum commodo nec ac enim ut duis. Fames risus dolor hendrerit nec consectetuer ut feugiat. Massa fames semper mi nullam sociosqu vestibulum nullam et ac nisi. Donec magna malesuada habitasse vestibulum cras lacus netus. Massa etiam convallis curae curabitur dui eni sollicitudin morbi quis platea non orci at. Dolor morbi fames suspendisse non in justo ac massa venenatis. Metus netus sed urna cras eget. Netus porta. Proin magna dictum consequat netus mus odio. Massa justo odio aliquam fringilla volutpat lectus quis amet tristique. Magna vitae. Curae augue porta lacus. Nulla augue. Metus dolor nullam pellentesque vulputate ligula risus. Risus fusce sociis. Metus augue tempor litora penatibus sagittis eu scelerisque eget vulputate pulvinar ornare tempor. Purus nulla nibh quis. Vitae massa. Velit netus porta nascetur leo nunc vestibulum. Vitae dolor nam proin fusce. Magna velit ullamcorper habitant feugiat erat nisi ridiculus et habitasse. Class augue auctor curae in at.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Netus massa purus lorem sed.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./netus-massa-purus-lorem-sed."
+}

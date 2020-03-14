@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:22.418012 GMT-4",
+    "_uid": "6d473d13f41e40fe8af3a3837d98fc93",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-lacus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:22.460449 GMT-4",
+    "title": "Class lacus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus massa vehicula enim nibh.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Morbi dolor sapien diam scelerisque. Fusce metus mauris. Etiam felis inceptos proin nibh potenti curabitur cras. Dolor etiam vivamus ornare nunc. Purus massa orci class litora lectus eni nec hac eu. Class morbi scelerisque cum ornare potenti duis faucibus mus etiam. Proin dolor. Porta morbi natoque quisque fringilla pede sodales ve arcu ut consectetuer auctor primis vitae feugiat.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:22.421212 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:22.456345 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-lacus.",
+    "remoteUrl": "Lorem%20etiam%20natoque%20nulla%20et.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta augue velit ligula eu maecenas viverra. Velit proin velit tristique urna duis vestibulum aptent. Risus metus. Magna purus tellus fames quisque tellus arcu consequat id justo cum. Ipsum justo vitae sem nisl senectus netus. Augue porta tempus condimentum augue semper velit. Risus ipsum. Etiam porta sociis et egestas duis at dignissim. Ipsum vitae a nisi curae arcu a donec ve eu lectus inceptos adipiscing. Purus velit curae eni donec vulputate. Curae donec semper egestas commodo pede eu lobortis sociosqu eu urna. Lacus risus morbi fringilla sed enim sollicitudin adipiscing amet ligula dictum ad. Vitae lorem tempus nunc taciti lacinia nibh. Neque augue tempor litora amet morbi magnis sollicitudin consequat auctor. Nulla justo euismod nostra id. Ipsum dolor penatibus nascetur in sapien. Nulla donec nec ridiculus sociis lorem. Lorem massa velit lorem laoreet litora quis. Dolor proin metus purus ullamcorper eget varius ve.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class lacus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 58,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./class-lacus."
+}

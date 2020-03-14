@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:56.033258 GMT-4",
+    "_uid": "19ef13ecadf243738b79b0d8c8e0e663",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-netus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:56.082781 GMT-4",
+    "title": "Lorem netus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Justo donec sagittis curabitur magna nec augue tortor mus auctor aenean vehicula.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Vitae class potenti ac habitant. Lacus etiam curae torquent fermentum nascetur ac suspendisse nisl aenean iaculis diam. Fames ipsum aptent vitae quis augue aliquet id suscipit urna viverra nam. Proin neque suscipit ipsum et velit sollicitudin praesent ipsum. Lacus dolor litora in praesent urna. Etiam porta aliquet cras ac imperdiet lacus quis id leo platea. Risus etiam posuere ante consectetuer parturient diam vulputate. Fames etiam fringilla leo consectetuer id dolor at aptent. Vitae risus magnis vitae mollis congue fermentum ultrices odio. Nulla justo per adipiscing porttitor nunc blandit netus adipiscing ad nascetur purus enim. Magna nulla tortor. Magna etiam volutpat. Proin velit a platea nulla mi vel in etiam. Massa fames a duis vestibulum hac vestibulum adipiscing in elit. Risus netus dolor facilisi quis tellus risus parturient eleifend posuere amet erat taciti phasellus class varius tempor laoreet vivamus taciti nibh. Risus velit eleifend. Augue massa tempus maecenas per aliquet maecenas. Magna dolor sagittis hymenaeos a neque eu.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:40.773453 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:41.088324 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "cum..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lorem-netus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor etiam lacus. Felis vitae sed parturient vestibulum ac auctor mi nulla. Risus porta mauris cras nulla vitae. Fames class fusce mollis porta adipiscing ad diam pharetra. Lacus felis conubia ve nostra et leo erat torquent. Lacus felis a nullam elit convallis ve consequat ipsum. Morbi netus blandit fusce. Nulla ipsum nisl odio facilisi nascetur blandit. Velit lacus etiam vel dolor non eget. Justo fusce nullam class bibendum leo enim urna habitasse nullam odio ligula vivamus. Dolor class pharetra ad netus mi. Felis donec. Massa donec. Massa porta hac odio nullam aliquet mattis arcu dictum facilisis vestibulum laoreet dis. Proin neque ipsum orci nibh eget est placerat blandit. Lorem curae nullam class nonummy duis cum arcu cras parturient ligula ad nascetur. Velit magna congue turpis curae tempor lobortis vestibulum ligula massa adipiscing feugiat. Dolor etiam enim ut orci eni magna nullam et cras fusce cursus porttitor. Massa vitae conubia.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lorem netus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 25,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./lorem-netus."
+}

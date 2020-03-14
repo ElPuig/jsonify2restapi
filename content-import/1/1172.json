@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:56.261884 GMT-4",
+    "_uid": "bc5dc029358b49d89cd2a0369d17bb63",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "morbi-metus-ipsum-torquent-ad-magna-congue.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:56.311783 GMT-4",
+    "title": "Morbi metus ipsum torquent ad magna congue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue lorem gravida ac taciti fames blandit erat et.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Felis metus turpis convallis vitae cras ante lorem libero suspendisse fames tristique nonummy. Etiam vitae erat gravida potenti tortor id morbi. Augue lorem. Felis curae quisque arcu mi massa at tortor torquent. Porta neque luctus diam scelerisque lacinia. Augue purus nam vitae commodo sodales urna diam. Nulla augue varius auctor aliquet enim cras feugiat id dui. Class vitae felis eni suscipit vulputate. Donec lacus scelerisque pulvinar laoreet pulvinar natoque id etiam varius fusce. Magna lorem nibh sit fusce aliquet quisque sociis lorem. Metus donec. Fames ipsum arcu velit habitasse parturient mus parturient. Velit magna accumsan augue eros. Neque porta.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:40.773453 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:41.088324 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "nec..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "morbi-metus-ipsum-torquent-ad-magna-congue.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Proin vitae ornare class vestibulum pharetra enim sit. Massa metus potenti auctor turpis nonummy odio ad pellentesque nullam fames habitasse molestie cras molestie id tortor. Lorem velit eget ac lacus ac risus sit inceptos tristique erat metus lorem. Neque vitae. Etiam neque maecenas purus felis a tellus phasellus. Netus nulla. Lacus porta eget eros orci ante fusce primis. Etiam proin. Lacus donec. Lorem lacus risus penatibus condimentum proin dignissim adipiscing eros phasellus consectetuer vestibulum duis. Morbi proin netus sem convallis vel potenti. Felis augue sodales malesuada aptent vitae pretium cras. Magna dolor magnis tellus duis ad ante ligula mattis. Metus lacus. Massa risus luctus nisl erat velit.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Morbi metus ipsum torquent ad magna congue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./morbi-metus-ipsum-torquent-ad-magna-congue."
+}

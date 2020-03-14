@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:54.073203 GMT-4",
+    "_uid": "785f0cac21154d45a0d5c8b437797e24",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-risus-gravida-justo-diam-euismod-fermentum-sit-porta-non.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:54.125851 GMT-4",
+    "title": "Netus risus gravida justo diam euismod fermentum sit porta non.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Donec magna torquent vestibulum consequat purus id lacus facilisis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Ipsum etiam bibendum ve ullamcorper ut mattis. Proin lorem a. Lacus vitae etiam. Augue donec scelerisque id sociis metus ultricies hendrerit morbi porttitor. Proin fusce tellus sollicitudin dignissim. Fames magna placerat. Morbi dolor pede enim in elit. Lacus metus tempus interdum urna semper sagittis vestibulum phasellus. Porta morbi ligula neque massa dui. Velit proin facilisi hymenaeos interdum mi risus fermentum bibendum nisl ac netus. Felis fusce. Massa lorem ligula torquent cum quam maecenas mus iaculis volutpat. Netus vitae hac fusce. Donec massa. Etiam neque montes urna tristique pellentesque aliquet suscipit.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:37.807574 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:38.127110 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "a..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "netus-risus-gravida-justo-diam-euismod-fermentum-sit-porta-non.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Morbi felis praesent at class dictum massa erat tristique mi nullam. Curae risus quisque pede class nunc etiam ornare. Justo curae mus nisi vestibulum magnis per eget. Neque velit. Etiam augue nostra felis vestibulum pharetra justo malesuada feugiat. Metus fames leo nunc leo consectetuer cursus. Porta fusce pretium dapibus mollis metus curae rutrum nonummy elementum. Felis class dis pede sagittis leo curae. Dolor velit nulla odio risus ve nostra ut nisi erat pretium enim. Fusce etiam nisi rutrum. Vitae lorem. Risus purus odio ipsum vel erat pellentesque. Fames ipsum magnis malesuada id nunc. Neque fames nec urna dignissim. Fusce netus cum quam varius in quis suscipit. Magna netus laoreet montes cras hymenaeos praesent auctor aenean nascetur elementum a.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Netus risus gravida justo diam euismod fermentum sit porta non.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./netus-risus-gravida-justo-diam-euismod-fermentum-sit-porta-non."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:11.778304 GMT-4",
+    "_uid": "dccdb933eee748bbaf9eb823aca631b7",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-neque-congue-sociis-ultrices-cum-metus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:11.828546 GMT-4",
+    "title": "Lacus neque congue sociis ultrices cum metus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Dolor felis morbi per.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Metus risus. Donec ipsum magna montes arcu scelerisque. Felis purus blandit diam lobortis a pellentesque ante felis natoque. Donec class nascetur curae. Velit nulla turpis. Vitae augue nonummy per facilisi ridiculus enim per velit pede hymenaeos congue ipsum sed nisi tincidunt tempor. Class velit tellus magnis vel parturient hymenaeos enim. Felis curae nibh. Curae massa erat ac est.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.494394 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.810314 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "ultrices..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lacus-neque-congue-sociis-ultrices-cum-metus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum vitae maecenas amet sem purus mollis fusce natoque dis. Dolor netus. Neque etiam eget lectus tellus non. Proin curae mattis sit nostra faucibus phasellus justo ad vitae leo eget tempus. Felis neque ullamcorper lobortis sodales quam at nisl mi neque mauris odio euismod. Donec felis sapien ad diam viverra pede conubia quam pellentesque faucibus nulla. Netus metus. Proin lorem sagittis nam justo sed adipiscing lorem eget congue tristique. Proin morbi quis inceptos. Lacus neque sed pede mus nisi parturient mus felis dictum vestibulum velit. Class donec. Class lorem. Risus netus auctor. Velit netus velit ipsum turpis ut neque platea et amet etiam ridiculus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lacus neque congue sociis ultrices cum metus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./lacus-neque-congue-sociis-ultrices-cum-metus."
+}

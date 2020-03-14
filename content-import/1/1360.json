@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Immo alio genere;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum quid tu dicis breve? Non quam nostram quidem, inquit Pomponius iocans; Rationis enim perfectio est virtus; Duo Reges: constructio interrete. ALIO MODO. Tecum optime, deinde etiam cum mediocri amico. </p>\n\n<p>Si id dicis, vicimus. <a href='http://loripsum.net/' target='_blank'>Hoc simile tandem est?</a> Tum Quintus: Est plane, Piso, ut dicis, inquit. Ille enim occurrentia nescio quae comminiscebatur; Venit ad extremum; Expectoque quid ad id, quod quaerebam, respondeas. </p>\n\n<ol>\n\t<li>Est autem etiam actio quaedam corporis, quae motus et status naturae congruentis tenet;</li>\n\t<li>Utilitatis causa amicitia est quaesita.</li>\n\t<li>Restinguet citius, si ardentem acceperit.</li>\n\t<li>Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est.</li>\n\t<li>Quod autem magnum dolorem brevem, longinquum levem esse dicitis, id non intellego quale sit.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Haeret in salebra.</dfn></dt>\n\t<dd>Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.</dd>\n\t<dt><dfn>Confecta res esset.</dfn></dt>\n\t<dd>Vidit Homerus probari fabulam non posse, si cantiunculis tantus irretitus vir teneretur;</dd>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Ut optime, secundum naturam affectum esse possit.</dd>\n</dl>\n\n\n<ul>\n\t<li>Ita multo sanguine profuso in laetitia et in victoria est mortuus.</li>\n\t<li>Si ista mala sunt, in quae potest incidere sapiens, sapientem esse non esse ad beate vivendum satis.</li>\n\t<li>Sextilio Rufo, cum is rem ad amicos ita deferret, se esse heredem Q.</li>\n\t<li>Quae duo sunt, unum facit.</li>\n</ul>\n\n\n<h2>Et harum quidem rerum facilis est et expedita distinctio.</h2>\n\n<p>An eiusdem modi? <a href='http://loripsum.net/' target='_blank'>Iam enim adesse poterit.</a> In schola desinis. Illi enim inter se dissentiunt. Paria sunt igitur. Age, inquies, ista parva sunt. </p>\n\n",
+    "creation_date": "2018/10/26 18:04:34.340787 GMT-4",
+    "imageCaption": "Lacus neque tempus porta eros lacus ipsum curae sit.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-magna.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:34.675777 GMT-4",
+    "title": "Dolor magna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce justo euismod ac rutrum hendrerit dolor non amet facilisis venenatis diam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Nulla augue consequat cum amet. Augue risus turpis et. Purus dolor aenean curabitur lectus purus lorem eni ante sem. Class proin rhoncus curae quis potenti tincidunt et vulputate lacus accumsan etiam. Magna fusce habitant dui felis lacus. Magna nulla nonummy. Morbi neque pretium montes massa vitae habitant. Purus magna facilisi parturient mattis ante ad lobortis elit. Vitae etiam proin ornare ridiculus semper dictumst fames ornare. Lacus justo commodo nisl praesent et scelerisque elit enim. Netus class suspendisse praesent felis sit. Vitae morbi fames convallis urna nisl posuere. Lorem justo leo platea id donec ve morbi vitae tempor augue. Augue etiam quam non morbi. Class augue. Class felis amet duis. Massa donec torquent felis. Lacus velit dis erat sed cras.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:34.345202 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:34.672069 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "dolor-magna.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum justo proin mattis at rutrum nam mus phasellus neque in dui nibh lectus vulputate praesent nostra etiam metus. Ipsum proin. Neque netus interdum sit commodo. Donec vitae lacus cum conubia eleifend gravida. Augue neque. Donec velit vivamus varius pede elit ornare id ultrices. Felis purus. Dolor velit montes velit augue. Felis fusce arcu cubilia. Magna fusce montes ullamcorper donec tristique venenatis orci nisl. Justo morbi sapien porta suscipit cum in fusce. Lorem vitae suspendisse habitant. Lacus magna habitasse suspendisse curae phasellus ac enim blandit tempus est arcu.",
+    "_content_type_description": "text/plain",
+    "_uid": "eb695553c3954416824e98fc72106fc3",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor magna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 62,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./dolor-magna."
+}

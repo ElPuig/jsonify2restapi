@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:57.207641 GMT-4",
+    "_uid": "fb6cfbcf39c142d58ba68e928ddb500f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "proin-ipsum-fames-tincidunt-molestie.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:57.548672 GMT-4",
+    "title": "Proin ipsum fames tincidunt molestie.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Massa risus placerat class et sapien vehicula pede ultrices a consectetuer.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Porta magna mauris hymenaeos vitae ad. Massa curae netus nostra nullam magna congue aenean ultrices curabitur. Massa curae sed lacus nisi metus convallis dui conubia. Vitae neque amet mi magna dictum luctus. Purus porta augue taciti amet. Risus massa pharetra fusce eu a tortor orci. Dolor massa. Neque lacus duis per diam porttitor. Morbi massa phasellus iaculis proin est. Massa curae bibendum fusce odio ve vehicula odio. Nulla morbi. Purus felis rhoncus iaculis nisl metus. Donec dolor litora montes hendrerit accumsan semper adipiscing. Purus etiam natoque ante vitae velit rutrum arcu erat purus natoque erat. Purus neque sed cubilia vitae in. Massa morbi. Donec netus. Purus metus magna suspendisse.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:57.213503 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:57.542861 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Id enim volumus, id contendimus, ut officii fructus sit ipsum officium.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec dicuntur fortasse ieiunius; Duo Reges: constructio interrete. Nos vero, inquit ille; <a href='http://loripsum.net/' target='_blank'>At hoc in eo M.</a> </p>\n\n<ol>\n\t<li>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum.</li>\n\t<li>De hominibus dici non necesse est.</li>\n\t<li>Nec vero hoc oratione solum, sed multo magis vita et factis et moribus comprobavit.</li>\n</ol>\n\n\n<ul>\n\t<li>Nonne videmus quanta perturbatio rerum omnium consequatur, quanta confusio?</li>\n\t<li>At iam decimum annum in spelunca iacet.</li>\n\t<li>Dolere malum est: in crucem qui agitur, beatus esse non potest.</li>\n\t<li>Negat enim summo bono afferre incrementum diem.</li>\n\t<li>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Quid de Pythagora?</dfn></dt>\n\t<dd>Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet.</dd>\n\t<dt><dfn>An nisi populari fama?</dfn></dt>\n\t<dd>Quae tamen a te agetur non melior, quam illae sunt, quas interdum optines.</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Omnes, qui non sint sapientes, aeque miseros esse, sapientes omnes summe beatos, recte facta omnia aequalia, omnia peccata paria;</dd>\n\t<dt><dfn>Itaque ab his ordiamur.</dfn></dt>\n\t<dd>Primum in nostrane potestate est, quid meminerimus?</dd>\n\t<dt><dfn>Quis enim redargueret?</dfn></dt>\n\t<dd>Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.</dd>\n</dl>\n\n\n<p>Tamen a proposito, inquam, aberramus. Quorum sine causa fieri nihil putandum est. Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit? At enim hic etiam dolore. </p>\n\n<h2>Urgent tamen et nihil remittunt.</h2>\n\n<p>Negare non possum. De hominibus dici non necesse est. Nihil enim hoc differt. Hoc tu nunc in illo probas. Sin aliud quid voles, postea. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "proin-ipsum-fames-tincidunt-molestie.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Porta vitae a odio adipiscing ve. Ipsum nulla. Etiam purus cum arcu. Metus nulla habitant consequat molestie ac urna tempus id elit augue potenti leo hymenaeos varius curabitur aliquet ligula. Porta neque vehicula lacus. Purus felis. Massa neque sociosqu odio eu sem facilisis nullam malesuada fusce. Donec velit scelerisque ac mauris viverra nisi ipsum et lorem vulputate. Vitae donec mus diam nisl nullam. Lacus dolor sociosqu ridiculus consectetuer gravida morbi ante dui. Nulla vitae curae erat suspendisse ad lectus molestie tellus platea nec parturient proin lacinia. Dolor porta nisi primis. Porta netus. Massa ipsum. Lorem felis massa a cras dolor ullamcorper cras ridiculus pellentesque. Proin curae litora. Curae justo proin suscipit eu metus ut dolor scelerisque sed duis inceptos. Lacus justo dolor vel lacus arcu rhoncus id.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Proin ipsum fames tincidunt molestie.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./proin-ipsum-fames-tincidunt-molestie."
+}

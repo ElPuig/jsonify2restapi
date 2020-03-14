@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:37.407689 GMT-4",
+    "_uid": "7d66aecafd1b481682ff4ed8703ff4d3",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-morbi-egestas-leo-odio.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:37.457269 GMT-4",
+    "title": "Lacus morbi egestas leo odio.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Risus morbi habitant lacus consectetuer hendrerit morbi at.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Magna justo. Felis proin platea pellentesque consequat aenean hymenaeos parturient. Class fusce mollis etiam montes mi nascetur leo gravida leo. Risus felis vitae. Fusce augue. Purus velit. Donec felis a nullam arcu. Augue ipsum. Donec class eleifend ipsum aliquet posuere. Netus massa consequat ultricies. Curae justo. Proin purus. Justo neque a. Morbi ipsum nec diam dignissim elementum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.410644 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.741094 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "cum..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lacus-morbi-egestas-leo-odio.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lorem velit sed penatibus nullam felis aenean semper vitae laoreet. Morbi vitae tempor. Proin fames orci nullam tortor donec sociis ut enim fusce ad phasellus. Fames donec dui odio sagittis sit iaculis ac pede scelerisque aliquam risus urna. Vitae felis. Metus magna sit quis. Lacus nulla integer diam velit. Proin justo dui enim donec senectus odio dictum ultricies molestie tortor. Purus augue ante leo ipsum sem nunc accumsan sollicitudin auctor netus vivamus aptent et amet dolor per. Velit justo. Neque porta a luctus hendrerit id ligula. Lorem ipsum a feugiat mauris risus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lacus morbi egestas leo odio.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./lacus-morbi-egestas-leo-odio."
+}

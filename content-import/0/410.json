@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:36.574779 GMT-4",
+    "_uid": "8798f97c3f0045c68a79b43263156f89",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-metus-felis-nisi-porttitor-mi-fringilla.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:36.623766 GMT-4",
+    "title": "Curae metus felis nisi porttitor mi fringilla.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Netus morbi orci sed nonummy nibh eleifend pellentesque mauris fusce et curae ut pede.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Risus fusce. Porta donec cursus non ve sollicitudin. Velit lorem magnis tincidunt congue vestibulum. Etiam justo nam primis eros quisque libero. Donec lorem massa. Dolor purus suscipit. Curae massa posuere. Class risus tellus lorem cum vel. Vitae class sapien mi aptent ridiculus fusce proin semper etiam. Risus etiam felis leo elit. Etiam lacus. Lacus etiam pretium montes augue ornare morbi suspendisse nec at. Augue justo mauris sem sodales lacus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.410644 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.741094 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "congue..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "curae-metus-felis-nisi-porttitor-mi-fringilla.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Proin vitae leo augue ipsum fermentum. Dolor felis sit eget sem mi nulla. Felis fames porta lacinia purus et elementum a consequat justo id eros. Donec justo. Curae lacus primis mollis non duis mus. Nulla augue libero. Ipsum neque. Netus ipsum turpis in mollis integer luctus dui conubia taciti. Metus magna a laoreet id nostra nam vivamus a. Augue risus per duis dis porta dapibus eros. Velit curae amet maecenas fusce dignissim. Fames donec inceptos at odio lorem. Justo felis nonummy dis vivamus praesent montes tempus integer cubilia mauris vitae condimentum ultrices. Ipsum augue taciti vivamus tempus pede congue. Netus fusce. Nulla ipsum per amet hac enim sem. Augue class nibh egestas et tempus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Curae metus felis nisi porttitor mi fringilla.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-metus-felis-nisi-porttitor-mi-fringilla."
+}

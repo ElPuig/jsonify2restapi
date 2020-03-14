@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:26.126870 GMT-4",
+    "_uid": "5199cda9d4184a9a9934ee6036fb53de",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-lacus-sagittis-sit-mauris-a-molestie-cras.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:26.173356 GMT-4",
+    "title": "Magna lacus sagittis sit mauris a molestie cras.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Donec risus potenti eleifend proin nibh.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Proin felis iaculis eni placerat phasellus consectetuer vestibulum ante lacus hymenaeos. Purus porta. Metus neque. Vitae etiam feugiat rhoncus mauris enim consectetuer eu. Ipsum augue. Netus felis vivamus faucibus ipsum a. Metus class varius convallis felis. Justo neque suspendisse eget.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:26.130507 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:26.169411 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-lacus-sagittis-sit-mauris-a-molestie-cras.",
+    "remoteUrl": "Porta%20metus%20faucibus%20eget%20luctus%20at%20eros%20lorem%20vitae%20diam%20nunc%20ridiculus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Curae risus. Velit morbi erat tincidunt risus etiam egestas tortor. Velit dolor commodo dui dignissim laoreet hac. Dolor risus a diam dolor. Dolor velit lectus erat egestas duis fames. Augue justo scelerisque senectus nulla duis feugiat ridiculus senectus nulla. Fusce donec litora magnis massa id sollicitudin elit netus ac. Metus proin feugiat quam senectus. Lorem class lacinia ad blandit nibh augue tristique condimentum convallis urna mus cum eu. Nulla netus ipsum lectus libero ultricies nascetur sapien varius pharetra imperdiet ad. Vitae netus congue libero id mauris massa sed orci. Justo vitae. Etiam metus proin quis elit dictum. Proin curae. Dolor curae massa aenean tortor nulla. Class felis est hendrerit justo a. Metus class curae per convallis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna lacus sagittis sit mauris a molestie cras.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 57,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./magna-lacus-sagittis-sit-mauris-a-molestie-cras."
+}

@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/04 20:45:59.909782 GMT-4",
+    "endDate": "2018/11/07 18:06:42.548355 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Atque his de rebus et splendida est eorum et illustris oratio.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ego in hoc resisto; Bestiarum vero nullum iudicium puto. Iam enim adesse poterit. Duo Reges: constructio interrete. </p>\n\n<h3>Duarum enim vitarum nobis erunt instituta capienda.</h3>\n\n<p><a href='http://loripsum.net/' target='_blank'>Sint ista Graecorum;</a> Bonum incolumis acies: misera caecitas. Sed haec nihil sane ad rem; <a href='http://loripsum.net/' target='_blank'>Haec para/doca illi, nos admirabilia dicamus.</a> </p>\n\n<ol>\n\t<li>Semovenda est igitur voluptas, non solum ut recta sequamini, sed etiam ut loqui deceat frugaliter.</li>\n\t<li>At quicum ioca seria, ut dicitur, quicum arcana, quicum occulta omnia?</li>\n\t<li>Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;</li>\n\t<li>Beatus sibi videtur esse moriens.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Tubulo putas dicere?</dfn></dt>\n\t<dd>Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.</dd>\n\t<dt><dfn>In schola desinis.</dfn></dt>\n\t<dd>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</dd>\n\t<dt><dfn>Disserendi artem nullam habuit.</dfn></dt>\n\t<dd>Explanetur igitur.</dd>\n</dl>\n\n\n<h2>Eadem fortitudinis ratio reperietur.</h2>\n\n<p>An hoc usque quaque, aliter in vita? Quonam, inquit, modo? Easdemne res? </p>\n\n<ul>\n\t<li>Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur.</li>\n\t<li>Laboro autem non sine causa;</li>\n\t<li>Facillimum id quidem est, inquam.</li>\n\t<li>Primum quid tu dicis breve?</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:58:49.955018 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "d1c1453cd022481f8da0256b6f5989fa",
+    "expirationDate": "None",
+    "contactName": "Fusce neque curae luctus ve malesuada justo et etiam aptent sollicitudin.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Massa purus aliquam.",
+    "id": "donec-velit-lorem-platea.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Donec velit lorem platea.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae morbi congue eu venenatis velit erat montes ultricies at phasellus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Class curae pretium est facilisi egestas fames mi vel fringilla est pretium ultrices primis lobortis odio dictumst consequat nunc dapibus. Neque velit. Etiam risus fusce vivamus quam adipiscing ultricies cras nisl ridiculus. Justo morbi conubia volutpat tempus sociis sed mollis mattis felis cum morbi ultricies. Neque felis velit per vulputate cubilia. Purus fames aliquam mauris eros amet lacus porta tortor convallis. Dolor neque accumsan. Etiam fames taciti pretium euismod congue non urna. Lacus netus.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:49.958635 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:50.310484 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "donec-velit-lorem-platea.",
+    "modification_date": "2018/10/26 17:58:50.314343 GMT-4",
+    "language": "en",
+    "rights": "Lacus augue. Lacus fames class molestie porta. Curae massa ipsum lacus dictum luctus ipsum parturient odio magnis. Netus morbi mollis montes. Neque morbi lacus accumsan est fusce vestibulum condimentum ligula ad quam. Nulla morbi netus sed. Netus purus. Massa magna maecenas quis blandit et tristique laoreet ipsum curae condimentum.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec velit lorem platea.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 19,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./donec-velit-lorem-platea."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Duo Reges: constructio interrete.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hunc vos beatum; Id mihi magnum videtur. Quid de Pythagora? At iam decimum annum in spelunca iacet. Quid, de quo nulla dissensio est? </p>\n\n<h2>Negat esse eam, inquit, propter se expetendam.</h2>\n\n<p>Sed tamen intellego quid velit. Istic sum, inquit. Dat enim intervalla et relaxat. An haec ab eo non dicuntur? </p>\n\n<ol>\n\t<li>Ita relinquet duas, de quibus etiam atque etiam consideret.</li>\n\t<li>Aliis esse maiora, illud dubium, ad id, quod summum bonum dicitis, ecquaenam possit fieri accessio.</li>\n\t<li>Ergo in utroque exercebantur, eaque disciplina effecit tantam illorum utroque in genere dicendi copiam.</li>\n</ol>\n\n\n<ul>\n\t<li>Ut in geometria, prima si dederis, danda sunt omnia.</li>\n\t<li>Ratio quidem vestra sic cogit.</li>\n\t<li>Sed haec quidem liberius ab eo dicuntur et saepius.</li>\n\t<li>At ego quem huic anteponam non audeo dicere;</li>\n</ul>\n\n\n<p>Quid, quod res alia tota est? Deinde dolorem quem maximum? Claudii libidini, qui tum erat summo ne imperio, dederetur. Tum ille: Ain tandem? </p>\n\n<dl>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>An potest, inquit ille, quicquam esse suavius quam nihil dolere?</dd>\n\t<dt><dfn>Restatis igitur vos;</dfn></dt>\n\t<dd>Haec dicuntur inconstantissime.</dd>\n\t<dt><dfn>Quid de Pythagora?</dfn></dt>\n\t<dd>Egone non intellego, quid sit don Graece, Latine voluptas?</dd>\n\t<dt><dfn>Haeret in salebra.</dfn></dt>\n\t<dd>Ecce aliud simile dissimile.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:58:24.779366 GMT-4",
+    "imageCaption": "Justo lorem quisque lectus nunc litora vestibulum senectus euismod donec.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-etiam-taciti-ante-dictum-natoque-quis-at.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:25.108300 GMT-4",
+    "title": "Magna etiam taciti ante dictum natoque quis at.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque class rutrum parturient inceptos lorem lacus cum porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Dolor netus quisque risus et a sapien eros tortor. Velit curae. Netus proin. Risus proin nisl dapibus lacinia quis mi quis nec elit lorem fusce a lacinia. Risus curae nullam tellus metus venenatis suscipit nullam cras pellentesque. Augue morbi lobortis pede egestas a rutrum class ac. Porta lorem. Felis curae mattis porta adipiscing. Lorem donec arcu pede molestie aliquam in diam. Vitae morbi magnis ullamcorper morbi libero metus volutpat urna sapien adipiscing lorem elit.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:24.783369 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:25.104674 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "magna-etiam-taciti-ante-dictum-natoque-quis-at.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla metus auctor nulla feugiat purus ipsum egestas sem ad. Morbi massa orci. Curae netus vulputate. Netus lorem condimentum at mauris hendrerit quisque risus nec eget conubia amet in erat volutpat. Risus class dictumst ve. Risus ipsum a. Fusce netus. Velit morbi dapibus suscipit natoque viverra. Porta magna proin diam maecenas per commodo. Vitae neque a varius orci id nibh ut interdum erat id. Class curae nunc fusce. Morbi dolor sem. Fusce velit cras sem lorem litora magnis proin. Nulla magna. Massa augue diam quam rutrum laoreet commodo.",
+    "_content_type_description": "text/plain",
+    "_uid": "5651fcf5eaad4f06b6bedc578f60a710",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna etiam taciti ante dictum natoque quis at.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 64,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./magna-etiam-taciti-ante-dictum-natoque-quis-at."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:22.666686 GMT-4",
+    "_uid": "3868d6dd1d3146cbae907a403109a8e1",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "vitae-porta-ullamcorper-facilisi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:22.997617 GMT-4",
+    "title": "Vitae porta ullamcorper facilisi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Porta velit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Felis lacus aliquam cursus nisi ut habitant diam. Morbi fames penatibus sed diam blandit duis neque. Netus curae semper penatibus maecenas enim ligula. Netus purus risus iaculis platea penatibus fames consequat orci scelerisque. Curae class morbi turpis vivamus integer luctus class vestibulum lobortis lorem. Lacus fames nostra integer. Massa curae. Class felis netus. Metus class facilisi.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:22.672588 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:22.992262 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>At enim hic etiam dolore.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid est enim aliud esse versutum? Solum praeterea formosum, solum liberum, solum civem, stultost; Duo enim genera quae erant, fecit tria. </p>\n\n<ul>\n\t<li>Solum praeterea formosum, solum liberum, solum civem, stultost;</li>\n\t<li>Reguli reiciendam;</li>\n\t<li>Nam si beatus umquam fuisset, beatam vitam usque ad illum a Cyro extructum rogum pertulisset.</li>\n\t<li>Ita relinquet duas, de quibus etiam atque etiam consideret.</li>\n\t<li>Negat esse eam, inquit, propter se expetendam.</li>\n</ul>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>Verum hoc idem saepe faciamus.</a> Est, ut dicis, inquit; Quid autem habent admirationis, cum prope accesseris? </p>\n\n<dl>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Nemo nostrum istius generis asotos iucunde putat vivere.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Sine ea igitur iucunde negat posse se vivere?</dd>\n\t<dt><dfn>Paria sunt igitur.</dfn></dt>\n\t<dd>Et hercule-fatendum est enim, quod sentio -mirabilis est apud illos contextus rerum.</dd>\n\t<dt><dfn>Magna laus.</dfn></dt>\n\t<dd>Quae cum magnifice primo dici viderentur, considerata minus probabantur.</dd>\n</dl>\n\n\n<p>Suo enim quisque studio maxime ducitur. Sequitur disserendi ratio cognitioque naturae; <a href='http://loripsum.net/' target='_blank'>Praeclare hoc quidem.</a> Etenim semper illud extra est, quod arte comprehenditur. </p>\n\n<ol>\n\t<li>Contemnit enim disserendi elegantiam, confuse loquitur.</li>\n\t<li>Aliter enim nosmet ipsos nosse non possumus.</li>\n\t<li>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</li>\n\t<li>Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "vitae-porta-ullamcorper-facilisi.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Proin purus nam varius cubilia. Risus neque. Dolor lacus mus eget iaculis in enim erat. Ipsum risus praesent hymenaeos cras. Massa metus platea eros scelerisque cubilia non inceptos phasellus cursus. Ipsum vitae massa porta non tempor. Dolor porta lorem scelerisque cum id venenatis ipsum pulvinar.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae porta ullamcorper facilisi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./vitae-porta-ullamcorper-facilisi."
+}

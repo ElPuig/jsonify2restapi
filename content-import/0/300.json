@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/10 09:35:55.725840 GMT-4",
+    "endDate": "2018/10/12 23:09:57.228280 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Memini vero, inquam;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis non odit sordidos, vanos, leves, futtiles? Ex rebus enim timiditas, non ex vocabulis nascitur. At iam decimum annum in spelunca iacet. Tum Triarius: Posthac quidem, inquit, audacius. Conferam avum tuum Drusum cum C. </p>\n\n<ul>\n\t<li>Curium putes loqui, interdum ita laudat, ut quid praeterea sit bonum neget se posse ne suspicari quidem.</li>\n\t<li>Nam bonum ex quo appellatum sit, nescio, praepositum ex eo credo, quod praeponatur aliis.</li>\n\t<li>Quae quidem vel cum periculo est quaerenda vobis;</li>\n\t<li>Quid ergo hoc loco intellegit honestum?</li>\n\t<li>Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat.</li>\n</ul>\n\n\n<h3>Mihi quidem Antiochum, quem audis, satis belle videris attendere.</h3>\n\n<p>Sed ad bona praeterita redeamus. Tria genera bonorum; Prodest, inquit, mihi eo esse animo. Beatus sibi videtur esse moriens. An haec ab eo non dicuntur? Itaque his sapiens semper vacabit. </p>\n\n<pre>\nElicerem ex te cogeremque, ut responderes, nisi vererer ne\nHerculem ipsum ea, quae pro salute gentium summo labore\ngessisset, voluptatis causa gessisse diceres.\n\nAb his oratores, ab his imperatores ac rerum publicarum\nprincipes extiterunt.\n</pre>\n\n\n<dl>\n\t<dt><dfn>A mene tu?</dfn></dt>\n\t<dd>Ergo adhuc, quantum equidem intellego, causa non videtur fuisse mutandi nominis.</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Ergo id est convenienter naturae vivere, a natura discedere.</dd>\n\t<dt><dfn>Quis enim redargueret?</dfn></dt>\n\t<dd>Quid autem habent admirationis, cum prope accesseris?</dd>\n\t<dt><dfn>Ita credo.</dfn></dt>\n\t<dd>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</dd>\n\t<dt><dfn>Praeclare hoc quidem.</dfn></dt>\n\t<dd>Illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit.</dd>\n</dl>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>At eum nihili facit; Huius ego nunc auctoritatem sequens idem faciam. Recte dicis; At, si voluptas esset bonum, desideraret. Est enim effectrix multarum et magnarum voluptatum. Tuo vero id quidem, inquam, arbitratu. Is es profecto tu. </p>\n\n<ol>\n\t<li>Piso igitur hoc modo, vir optimus tuique, ut scis, amantissimus.</li>\n\t<li>Quid in isto egregio tuo officio et tanta fide-sic enim existimo-ad corpus refers?</li>\n\t<li>Negat enim summo bono afferre incrementum diem.</li>\n</ol>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:50:1.289546 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "38f368b9f5b84fef855c1dcb716fb6b0",
+    "expirationDate": "None",
+    "contactName": "Fusce morbi duis a ipsum mi risus elit hac duis sem augue ridiculus sodales.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Massa magna.",
+    "id": "morbi-class-vel-sociosqu-neque-aptent-ullamcorper-felis-luctus-parturient.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:43.125188 GMT-4",
+    "title": "Morbi class vel sociosqu neque aptent ullamcorper felis luctus parturient.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem neque class mattis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Lorem neque litora rutrum nisi nostra parturient sollicitudin vivamus imperdiet at litora sed. Risus vitae egestas potenti tempus class scelerisque vel ve nisi nullam quisque iaculis magnis dolor. Netus ipsum nulla volutpat fames sociosqu proin eu pulvinar pede ut non. Donec massa. Etiam felis a urna vitae commodo mi nisl accumsan tellus adipiscing pulvinar. Fames massa. Risus ipsum nullam rutrum dolor. Augue curae hac enim consectetuer accumsan nulla dui rutrum mi habitant sociis tortor metus arcu molestie. Magna porta. Purus vitae nec enim pede dictum arcu cursus egestas. Class fusce volutpat nulla id eros netus mi. Metus lorem justo. Vitae ipsum luctus. Class lacus felis scelerisque duis ligula habitasse vestibulum quisque nam maecenas a senectus. Metus felis.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:50:1.292817 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:43.139901 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "morbi-class-vel-sociosqu-neque-aptent-ullamcorper-felis-luctus-parturient.",
+    "modification_date": "2018/10/26 13:51:43.125457 GMT-4",
+    "language": "en",
+    "rights": "Risus etiam lacus. Proin fusce curae a blandit auctor et. Donec neque gravida torquent magna a ante adipiscing aenean arcu aliquet velit nunc convallis tempor. Fusce etiam mattis. Lacus massa fames dignissim leo metus commodo dictum cum mi a. Magna fames leo eget habitant cum conubia torquent litora. Fusce porta nullam augue massa sit ante consequat sed est ut. Felis augue cursus ac mus rutrum sagittis. Proin justo metus turpis eu mus amet molestie nam egestas. Morbi augue pede viverra vel ve hymenaeos. Augue lorem sed egestas a ullamcorper sit eget. Augue justo placerat parturient montes justo natoque auctor nibh augue curae. Magna purus cursus arcu pellentesque parturient enim tempus taciti vel adipiscing. Purus morbi a commodo tellus enim nisl litora elementum eu velit. Velit justo nec amet et erat eu nibh lacinia. Donec augue nascetur ipsum sociis vulputate sem sagittis lacinia vivamus. Fames dolor sagittis. Dolor risus pede convallis vulputate curae.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Morbi class vel sociosqu neque aptent ullamcorper felis luctus parturient.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 96,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/morbi-class-vel-sociosqu-neque-aptent-ullamcorper-felis-luctus-parturient."
+}

@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:25.268540 GMT-4",
+    "_uid": "84c67dcfaa7e4e33a4b36114bceea327",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "etiam-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:25.316387 GMT-4",
+    "title": "Etiam augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Porta vitae proin lectus duis condimentum pretium sollicitudin sapien ac litora risus lacinia elit morbi curae a.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Fames dolor nec sapien tellus vulputate pharetra amet nostra nonummy aliquam odio vestibulum. Ipsum neque faucibus ad quis magna ullamcorper interdum. Curae justo. Massa ipsum nibh sodales nisl bibendum vulputate at sociis lorem. Lacus donec magnis laoreet nonummy enim nascetur non. Lacus fames ullamcorper ante nunc posuere nunc enim diam purus. Fames felis aliquet sodales ligula ipsum dui proin dignissim faucibus. Magna purus nisi ac dolor. Lorem ipsum dolor purus rutrum risus id. Magna netus pede penatibus interdum porta ridiculus conubia velit ipsum sapien at sociis. Velit morbi auctor luctus vivamus per mauris ut mollis sed tellus praesent convallis. Justo augue. Etiam lorem. Magna etiam eros lobortis quam leo enim. Magna massa ornare sociis class. Felis purus aliquet sit. Nulla lorem velit aptent adipiscing fames quam ligula potenti.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:25.272932 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:25.312817 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "etiam-augue.",
+    "remoteUrl": "Proin%20magna.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa lacus. Lacus justo lacus nulla vehicula. Fusce porta neque laoreet fusce. Justo felis massa lectus eu mauris ac inceptos. Neque massa lacinia nullam nulla ut quis augue. Purus etiam conubia purus ve. Felis donec non dis consequat torquent tempor quisque. Donec netus. Justo felis quis ipsum ridiculus. Porta augue habitant quis sociis. Fames risus quisque in urna eleifend a consectetuer ante. Class massa diam eget amet vestibulum vulputate odio eni mi rutrum torquent curabitur leo amet mus ipsum amet. Neque dolor lacus purus elit eu. Massa proin bibendum ut tortor. Metus morbi quisque.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Etiam augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 52,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./etiam-augue."
+}

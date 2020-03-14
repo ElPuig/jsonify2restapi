@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quae cum essent dicta, discessimus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Memini vero, inquam; <a href='http://loripsum.net/' target='_blank'>Quare attende, quaeso.</a> Igitur ne dolorem quidem. Quicquid porro animo cernimus, id omne oritur a sensibus; </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Hunc vos beatum;</a> At, si voluptas esset bonum, desideraret. <a href='http://loripsum.net/' target='_blank'>Omnes enim iucundum motum, quo sensus hilaretur.</a> Ea possunt paria non esse. </p>\n\n<ol>\n\t<li>Aut, Pylades cum sis, dices te esse Orestem, ut moriare pro amico?</li>\n\t<li>Quae hic rei publicae vulnera inponebat, eadem ille sanabat.</li>\n\t<li>Id et fieri posse et saepe esse factum et ad voluptates percipiendas maxime pertinere.</li>\n\t<li>Dicam, inquam, et quidem discendi causa magis, quam quo te aut Epicurum reprehensum velim.</li>\n\t<li>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</li>\n\t<li>Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec.</li>\n</ol>\n\n\n<ul>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n\t<li>At negat Epicurus-hoc enim vestrum lumen estquemquam, qui honeste non vivat, iucunde posse vivere.</li>\n\t<li>Profectus in exilium Tubulus statim nec respondere ausus;</li>\n\t<li>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</li>\n\t<li>Illi enim inter se dissentiunt.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Omnis enim est natura diligens sui.</dd>\n\t<dt><dfn>Scrupulum, inquam, abeunti;</dfn></dt>\n\t<dd>An eum discere ea mavis, quae cum plane perdidiceriti nihil sciat?</dd>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>Item de contrariis, a quibus ad genera formasque generum venerunt.</dd>\n\t<dt><dfn>Sed fortuna fortis;</dfn></dt>\n\t<dd>Negat esse eam, inquit, propter se expetendam.</dd>\n</dl>\n\n\n<p>Duo Reges: constructio interrete. Ita credo. </p>\n\n",
+    "creation_date": "2018/10/26 17:59:42.684052 GMT-4",
+    "imageCaption": "Ipsum velit mauris dolor natoque sed eget nec nostra tortor bibendum.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-vitae-tellus-ve-per.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:43.011034 GMT-4",
+    "title": "Lacus vitae tellus ve per.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce etiam vitae senectus cum vivamus id.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Dolor proin conubia hymenaeos amet sodales ve. Velit lorem. Porta vitae cursus turpis non. Velit porta. Velit fames eget aliquam diam risus nonummy iaculis enim cum rutrum enim facilisis cum. Porta donec proin nec nam sit sed eni curabitur. Curae fusce tellus condimentum lacus tincidunt pede ullamcorper pretium consectetuer ridiculus felis ad congue. Nulla metus quisque cursus. Metus class. Class justo placerat curae tellus ac habitant nunc. Proin velit eni morbi donec conubia libero ante eget fames. Ipsum augue nulla scelerisque. Justo lorem scelerisque erat varius mi dictum ad vehicula. Morbi donec. Risus nulla enim est mattis massa parturient. Ipsum lacus porta nisl a quis neque dapibus. Lacus morbi mattis ad amet eni sollicitudin aptent magna vitae urna. Dolor risus volutpat nisl.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:42.687540 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:43.007565 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "lacus-vitae-tellus-ve-per.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae felis gravida quis pharetra faucibus montes urna iaculis ve nec. Fusce donec class cum convallis. Curae massa posuere montes erat urna. Risus justo curae suspendisse vehicula cras. Curae donec mauris id torquent lacinia nisi. Felis purus justo lobortis fringilla rutrum ligula odio malesuada. Proin ipsum nisl class ultricies. Class morbi sociis litora massa. Morbi netus. Metus ipsum aptent fringilla viverra dui fermentum ligula. Nulla felis habitant vitae convallis torquent erat.",
+    "_content_type_description": "text/plain",
+    "_uid": "3cd079871a1341acbfedbdf90bef65f1",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lacus vitae tellus ve per.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 62,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./lacus-vitae-tellus-ve-per."
+}

@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:1.640971 GMT-4",
+    "_uid": "8ec185c5fb954dbea46a1fe846a1dc14",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-purus-nam-ornare-dapibus-platea-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:1.684460 GMT-4",
+    "title": "Curae purus nam ornare dapibus platea augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae lacus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Fames magna fusce quis arcu donec lorem aenean. Ipsum massa nam platea porttitor. Purus lacus posuere ridiculus at consequat a elementum. Augue morbi. Metus fusce vel amet in senectus proin nibh lobortis sociosqu aliquam. Risus metus leo suscipit malesuada vitae viverra hymenaeos nibh hymenaeos elit sit semper venenatis. Class purus nisl curae imperdiet. Velit massa sem posuere placerat. Donec netus dui fames venenatis adipiscing nonummy nunc nibh habitasse. Porta class suspendisse mus tempus a parturient sit vestibulum. Augue proin non proin fermentum ullamcorper hymenaeos eget dis. Massa felis. Class fusce sed duis. Netus dolor duis dis neque eni eros id faucibus morbi ornare. Ipsum metus morbi. Metus justo. Proin justo. Nulla purus tortor nibh justo turpis bibendum etiam at. Risus massa auctor turpis eni adipiscing neque pretium sem ve platea ve gravida et.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:1.644558 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:1.680709 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-purus-nam-ornare-dapibus-platea-augue.",
+    "remoteUrl": "Risus%20nulla%20nunc%20phasellus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Class massa nibh porta et. Porta justo magnis class torquent sit rhoncus a condimentum vel. Class morbi ullamcorper et lectus lacus. Lorem velit felis curae conubia. Ipsum magna. Metus dolor nostra duis habitasse aptent id pulvinar cubilia. Etiam curae nec leo. Nulla lacus iaculis euismod platea. Velit fusce inceptos netus. Fames augue sociis blandit integer eget amet aliquam porta aliquet laoreet massa. Vitae metus facilisis curabitur parturient. Porta fusce dictum morbi magna ornare.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae purus nam ornare dapibus platea augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 58,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./curae-purus-nam-ornare-dapibus-platea-augue."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:37.800833 GMT-4",
+    "_uid": "ee6bcae415a343bf8aae71226fc5c5b4",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:38.131242 GMT-4",
+    "title": "Justo morbi porta suspendisse sed sapien lobortis malesuada arcu.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Morbi netus tempus montes donec viverra morbi. Nulla purus senectus. Fames curae sagittis in mus habitasse lorem interdum magna feugiat turpis eget quis ipsum. Massa neque. Ipsum magna ultrices sem urna sagittis a consectetuer odio potenti a condimentum leo. Metus lorem sem quis. Ipsum curae. Dolor donec tristique ultricies eros convallis. Fames fusce hac. Donec dolor. Risus justo montes pellentesque quisque felis fusce condimentum vel nisi hac. Risus porta nam tempus. Curae fames. Class felis porta hac odio. Curae augue. Risus neque ultricies lacus aptent ac cras tempor conubia ridiculus pharetra nullam quisque. Augue felis vel. Etiam netus praesent risus feugiat potenti vulputate nisl scelerisque iaculis ullamcorper enim eget risus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:37.807574 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:38.127110 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Esse enim quam vellet iniquus iustus poterat inpune.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis istud, quaeso, nesciebat? Praeclare hoc quidem. Duo Reges: constructio interrete. Hoc non est positum in nostra actione. </p>\n\n<dl>\n\t<dt><dfn>Poterat autem inpune;</dfn></dt>\n\t<dd>Primum in nostrane potestate est, quid meminerimus?</dd>\n\t<dt><dfn>Scrupulum, inquam, abeunti;</dfn></dt>\n\t<dd>Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis vitia posuisse contraria.</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</dd>\n\t<dt><dfn>Inquit, dasne adolescenti veniam?</dfn></dt>\n\t<dd>At coluit ipse amicitias.</dd>\n\t<dt><dfn>Immo alio genere;</dfn></dt>\n\t<dd>Iubet igitur nos Pythius Apollo noscere nosmet ipsos.</dd>\n</dl>\n\n\n<ul>\n\t<li>Nihil ad rem! Ne sit sane;</li>\n\t<li>Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere.</li>\n\t<li>In qua si nihil est praeter rationem, sit in una virtute finis bonorum;</li>\n\t<li>Conferam avum tuum Drusum cum C.</li>\n\t<li>Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur.</li>\n</ul>\n\n\n<h3>Est autem officium, quod ita factum est, ut eius facti probabilis ratio reddi possit.</h3>\n\n<p>Velut ego nunc moveor. Quis hoc dicit? Quod equidem non reprehendo; Egone non intellego, quid sit don Graece, Latine voluptas? Bonum liberi: misera orbitas. At ille pellit, qui permulcet sensum voluptate. Quonam modo? Hic nihil fuit, quod quaereremus. </p>\n\n<h2>Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum.</h2>\n\n<p>Quid sequatur, quid repugnet, vident. At iam decimum annum in spelunca iacet. Quid ergo attinet gloriose loqui, nisi constanter loquare? Que Manilium, ab iisque M. Iam contemni non poteris. Tanta vis admonitionis inest in locis; </p>\n\n<ol>\n\t<li>Dulce amarum, leve asperum, prope longe, stare movere, quadratum rotundum.</li>\n\t<li>Sed mehercule pergrata mihi oratio tua.</li>\n\t<li>Atque ita re simpliciter primo collocata reliqua subtilius persequentes corporis bona facilem quandam rationem habere censebant;</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lorem augue sem odio eleifend enim egestas urna. Curae justo rutrum quis. Curae fames gravida vivamus enim morbi proin hac. Lacus class viverra primis nisi consequat aptent mattis purus. Lorem lacus nibh at fusce. Lacus felis. Fusce velit lectus enim conubia ut rutrum conubia integer. Neque metus. Augue purus morbi felis a vivamus id ut. Metus etiam. Morbi fusce aenean. Curae magna ridiculus in ornare fusce purus nostra ad felis. Fames velit sagittis eros natoque magna eu vel ut primis justo. Lorem metus dis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo morbi porta suspendisse sed sapien lobortis malesuada arcu.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu."
+}

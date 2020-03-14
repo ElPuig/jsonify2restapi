@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:36.378773 GMT-4",
+    "_uid": "e1a58ce2c5724d18b3a956216904cb33",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "vitae-purus-nisl-molestie.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:36.710362 GMT-4",
+    "title": "Vitae purus nisl molestie.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Donec purus platea eleifend cum cubilia a.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Magna porta cursus consectetuer vulputate sapien congue elementum interdum risus velit fringilla senectus erat iaculis eni volutpat convallis. Ipsum purus varius massa aenean id eget. Metus ipsum quam egestas est ultrices malesuada tellus mauris dolor. Proin lacus lorem nec gravida dictumst sapien vestibulum velit. Metus felis erat a urna ad nulla ad. Neque curae. Lacus netus hac risus mus semper eu nisl tellus mi taciti cras. Class purus sem urna facilisis. Porta justo. Etiam massa litora pellentesque rhoncus venenatis quis vel ligula euismod. Neque augue interdum diam vivamus laoreet arcu duis blandit velit. Purus donec pede feugiat. Fusce proin tempor porttitor. Fames dolor sapien. Donec purus habitant hac euismod. Netus magna gravida mus nisi montes. Lorem velit. Augue justo quisque ut cursus lacus nec cras vestibulum quis. Class netus. Massa etiam.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:36.384408 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:36.705089 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maximas vero virtutes iacere omnis necesse est voluptate dominante. Easdemne res? <a href='http://loripsum.net/' target='_blank'>Ait enim se, si uratur, Quam hoc suave! dicturum.</a> Duo Reges: constructio interrete. Polycratem Samium felicem appellabant. Quid ergo hoc loco intellegit honestum? Istam voluptatem, inquit, Epicurus ignorat? </p>\n\n<p>Oratio me istius philosophi non offendit; Sed ad bona praeterita redeamus. <a href='http://loripsum.net/' target='_blank'>Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus;</a> Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet. Collatio igitur ista te nihil iuvat. Quae cum dixisset paulumque institisset, Quid est? </p>\n\n<ol>\n\t<li>Huius, Lyco, oratione locuples, rebus ipsis ielunior.</li>\n\t<li>Cupiditates non Epicuri divisione finiebat, sed sua satietate.</li>\n</ol>\n\n\n<p>Graece donan, Latine voluptatem vocant. Sint ista Graecorum; Memini vero, inquam; Quae ista amicitia est? Sed hoc sane concedamus. Qui autem esse poteris, nisi te amor ipse ceperit? </p>\n\n<ul>\n\t<li>Minime vero istorum quidem, inquit.</li>\n\t<li>An hoc usque quaque, aliter in vita?</li>\n\t<li>Nam si amitti vita beata potest, beata esse non potest.</li>\n\t<li>Totum autem id externum est, et quod externum, id in casu est.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Itaque dicunt nec dubitant: mihi sic usus est, tibi ut opus est facto, fac.</dd>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>Fortasse id optimum, sed ubi illud: Plus semper voluptatis?</dd>\n\t<dt><dfn>Equidem e Cn.</dfn></dt>\n\t<dd>Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est.</dd>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Sit sane ista voluptas.</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Qui non moveatur et offensione turpitudinis et comprobatione honestatis?</dd>\n\t<dt><dfn>Quo modo?</dfn></dt>\n\t<dd>Non dolere, inquam, istud quam vim habeat postea videro;</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "vitae-purus-nisl-molestie.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lorem augue orci eni lorem vestibulum interdum. Felis risus leo tempus mollis dis at lacus aenean. Lorem risus dapibus mauris at dictum. Massa metus nec fusce adipiscing suspendisse lectus ac. Fames metus. Dolor proin nulla litora ornare ve vehicula. Vitae lorem cum. Curae dolor neque mauris non accumsan hymenaeos pellentesque vestibulum nisi litora posuere pretium. Lorem nulla dui congue lorem vestibulum iaculis mus. Proin fusce nec habitant quisque diam ve maecenas primis varius.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae purus nisl molestie.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./vitae-purus-nisl-molestie."
+}

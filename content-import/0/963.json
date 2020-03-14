@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Hoc est dicere: Non reprehenderem asotos, si non essent asoti.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Minime vero, inquit ille, consentit. <a href='http://loripsum.net/' target='_blank'>Erit enim mecum, si tecum erit.</a> Venit ad extremum; Duo Reges: constructio interrete. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur. <a href='http://loripsum.net/' target='_blank'>Quo tandem modo?</a> </p>\n\n<p>Eam tum adesse, cum dolor omnis absit; Ego vero isti, inquam, permitto. Sequitur disserendi ratio cognitioque naturae; Itaque contra est, ac dicitis; </p>\n\n<ol>\n\t<li>Sed vos squalidius, illorum vides quam niteat oratio.</li>\n\t<li>Mihi, inquam, qui te id ipsum rogavi?</li>\n\t<li>Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere.</li>\n\t<li>Equidem e Cn.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Immo videri fortasse.</dfn></dt>\n\t<dd>Idem iste, inquam, de voluptate quid sentit?</dd>\n\t<dt><dfn>Etiam beatissimum?</dfn></dt>\n\t<dd>Que Manilium, ab iisque M.</dd>\n\t<dt><dfn>Age sane, inquam.</dfn></dt>\n\t<dd>Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem;</dd>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit.</dd>\n</dl>\n\n\n<ul>\n\t<li>Qui ita affectus, beatum esse numquam probabis;</li>\n\t<li>At iste non dolendi status non vocatur voluptas.</li>\n</ul>\n\n\n<p>Si longus, levis dictata sunt. Haec quo modo conveniant, non sane intellego. Iam enim adesse poterit. Age, inquies, ista parva sunt. Stoicos roga. </p>\n\n",
+    "creation_date": "2018/10/26 18:01:3.695867 GMT-4",
+    "imageCaption": "Proin purus natoque sit at augue in tellus convallis et.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "risus-curae-per-odio-hac-orci-adipiscing-taciti-eros.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:4.027033 GMT-4",
+    "title": "Risus curae per odio hac orci adipiscing taciti eros.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Felis justo quisque ve tortor cum cursus vulputate sem.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Morbi fusce feugiat ve aenean. Lorem massa rutrum maecenas parturient feugiat cras a cras parturient nam curae. Proin risus nascetur neque. Curae justo varius elit eget egestas mi at. Velit felis netus primis at nullam sodales lacinia inceptos. Felis vitae a eros eu lobortis ante nullam ultricies iaculis pellentesque ornare montes. Netus massa fusce etiam suspendisse id tempus ve. Donec vitae aliquam viverra penatibus nam rhoncus a congue tincidunt. Nulla porta erat elit dictumst parturient. Fusce nulla mattis rutrum. Lorem class metus tellus. Nulla netus lobortis ve ullamcorper ante duis aenean montes. Fusce curae fusce cum quis auctor natoque ridiculus primis. Class justo. Magna lorem tellus ad.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:3.699491 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:4.023330 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "risus-curae-per-odio-hac-orci-adipiscing-taciti-eros.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Neque porta morbi magna ligula magnis metus condimentum erat ornare cum. Vitae porta odio hac fusce turpis venenatis laoreet dolor. Proin risus. Lacus netus rutrum urna pellentesque ut natoque nisl morbi duis cubilia congue lorem. Class nulla sodales vivamus dictum. Fusce felis sem orci at fringilla orci sed ligula platea nec aliquet donec nec erat vel id. Ipsum curae cum odio vitae lacus. Nulla ipsum. Fames etiam mauris. Dolor nulla. Massa etiam. Velit morbi sed elit vestibulum tortor lacus ridiculus facilisi nascetur ad netus semper sollicitudin commodo. Morbi ipsum. Magna porta facilisi vitae ac vehicula duis. Morbi metus malesuada suspendisse fringilla eros euismod in id.",
+    "_content_type_description": "text/plain",
+    "_uid": "11193eccfcb44cf8b39a5e083d9889c8",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Risus curae per odio hac orci adipiscing taciti eros.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 60,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./risus-curae-per-odio-hac-orci-adipiscing-taciti-eros."
+}

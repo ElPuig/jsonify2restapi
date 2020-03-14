@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:14.589157 GMT-4",
+    "_uid": "8adf6a9de08b4b1cb7f9004e9df0cd47",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-fames-tortor.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:14.638851 GMT-4",
+    "title": "Neque fames tortor.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Porta etiam phasellus est cras arcu ac.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Morbi magna netus. Velit lorem vehicula vel. Justo class semper imperdiet donec at pellentesque vivamus. Ipsum lacus potenti ve mi ad porttitor posuere. Ipsum morbi semper et nibh dictumst. Proin fames montes ad cras lobortis elit nec nibh nam. Metus felis ullamcorper eu magnis et elit eget viverra a aenean eros quis. Etiam magna cras sodales ad. Fusce donec tristique ligula dictumst. Fusce ipsum ultricies per nulla pretium convallis platea id amet sapien phasellus accumsan eu. Vitae neque a libero. Class dolor tempus proin. Vitae nulla sociis vulputate dictumst arcu montes rutrum penatibus. Risus fames lectus class adipiscing placerat ante habitant at suspendisse at tortor montes. Morbi class a cras parturient nostra diam risus phasellus sed.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.377699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.696020 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "tempor..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "neque-fames-tortor.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lacus etiam a arcu magna et auctor. Vitae lorem odio gravida. Curae metus odio lacinia arcu parturient vel massa. Magna lorem dignissim arcu duis elementum libero eget mi. Fames lorem luctus consectetuer vulputate. Etiam curae eros cubilia diam. Risus morbi cras. Massa purus facilisi nec natoque mi. Velit magna porta a primis eros enim nonummy. Velit purus laoreet aliquam sociis eros feugiat vulputate cras. Ipsum porta auctor scelerisque curae vulputate consequat amet vel ve placerat. Vitae risus felis massa nam elit dis at. Massa neque est odio consectetuer vestibulum eros augue suscipit dis aliquam proin. Fames purus litora dolor at erat. Magna velit mauris semper fusce dis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Neque fames tortor.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./neque-fames-tortor."
+}

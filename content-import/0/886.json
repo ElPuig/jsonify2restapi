@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Sin autem eos non probabat, quid attinuit cum iis, quibuscum re concinebat, verbis discrepare?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sic enim censent, oportunitatis esse beate vivere. Quo igitur, inquit, modo? Bonum integritas corporis: misera debilitas. <a href='http://loripsum.net/' target='_blank'>Ut aliquid scire se gaudeant?</a> Proclivi currit oratio. </p>\n\n<p>Restatis igitur vos; Nunc omni virtuti vitium contrario nomine opponitur. <a href='http://loripsum.net/' target='_blank'>Quid vero?</a> Quid de Platone aut de Democrito loquar? <a href='http://loripsum.net/' target='_blank'>Et quidem, inquit, vehementer errat;</a> </p>\n\n<dl>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Nam illud vehementer repugnat, eundem beatum esse et multis malis oppressum.</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt;</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Quod autem satis est, eo quicquid accessit, nimium est;</dd>\n\t<dt><dfn>Tubulo putas dicere?</dfn></dt>\n\t<dd>Restinguet citius, si ardentem acceperit.</dd>\n</dl>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Collatio igitur ista te nihil iuvat. Nemo igitur esse beatus potest. </p>\n\n<ul>\n\t<li>Et nunc quidem quod eam tuetur, ut de vite potissimum loquar, est id extrinsecus;</li>\n\t<li>Si enim sapiens aliquis miser esse possit, ne ego istam gloriosam memorabilemque virtutem non magno aestimandam putem.</li>\n\t<li>Suo enim quisque studio maxime ducitur.</li>\n\t<li>Mihi enim satis est, ipsis non satis.</li>\n\t<li>Restinguet citius, si ardentem acceperit.</li>\n</ul>\n\n\n<ol>\n\t<li>Nam Metrodorum non puto ipsum professum, sed, cum appellaretur ab Epicuro, repudiare tantum beneficium noluisse;</li>\n\t<li>Nam memini etiam quae nolo, oblivisci non possum quae volo.</li>\n\t<li>Hanc quoque iucunditatem, si vis, transfer in animum;</li>\n\t<li>Iam in altera philosophiae parte.</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 18:00:26.236400 GMT-4",
+    "imageCaption": "Netus massa quis egestas metus elit lacinia eni nibh.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-augue-sapien-nulla-molestie-quam-tempus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:26.572342 GMT-4",
+    "title": "Fames augue sapien nulla molestie quam tempus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam proin lacus est adipiscing parturient ad.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Donec nulla ipsum a semper ante ligula luctus class. Lorem donec magnis proin nam nunc bibendum a consectetuer. Metus donec. Massa fusce metus scelerisque interdum enim facilisi nulla mattis. Donec felis dolor mattis nulla condimentum ante elit porttitor eu semper. Donec proin nascetur tristique class auctor ullamcorper. Felis purus magnis integer imperdiet orci pretium. Neque augue cursus dis litora volutpat nibh aliquam. Lacus justo. Felis proin scelerisque erat elementum aenean nostra. Donec class ullamcorper per arcu a class et donec nisi placerat. Lorem class sed sociosqu vivamus. Netus velit hymenaeos mauris nascetur commodo in ad risus eni magna. Velit curae mattis augue torquent et. Purus fames rutrum et nisl curae at mus ultricies rutrum torquent. Donec proin mus erat enim vestibulum sit. Proin purus per leo. Felis curae cursus nisl dignissim in fringilla vitae mi ante ut.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:26.240695 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:26.568281 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "fames-augue-sapien-nulla-molestie-quam-tempus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla netus tincidunt libero risus viverra mollis. Morbi magna leo justo orci platea ultrices netus eu quam. Netus massa scelerisque ut tellus malesuada habitant eu dolor. Augue proin. Donec magna. Ipsum netus auctor id cubilia ut varius. Velit justo aliquam eros sit quis elit. Velit dolor nisi ligula ve.",
+    "_content_type_description": "text/plain",
+    "_uid": "7beb99b75f2e46bbb71ee20b1794a276",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames augue sapien nulla molestie quam tempus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 64,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./fames-augue-sapien-nulla-molestie-quam-tempus."
+}

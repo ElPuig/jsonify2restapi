@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius, Lyco, oratione locuples, rebus ipsis ielunior. Iam in altera philosophiae parte. Conferam tecum, quam cuique verso rem subicias; Quibus ego vehementer assentior. Tum ille: Ain tandem? </p>\n\n<ul>\n\t<li>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</li>\n\t<li>Nihil enim arbitror esse magna laude dignum, quod te praetermissurum credam aut mortis aut doloris metu.</li>\n</ul>\n\n\n<p>Praeclarae mortes sunt imperatoriae; Quis non odit sordidos, vanos, leves, futtiles? Minime vero istorum quidem, inquit. </p>\n\n<dl>\n\t<dt><dfn>Quis negat?</dfn></dt>\n\t<dd>Sed quanta sit alias, nunc tantum possitne esse tanta.</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Ut placet, inquit, etsi enim illud erat aptius, aequum cuique concedere.</dd>\n\t<dt><dfn>Quare attende, quaeso.</dfn></dt>\n\t<dd>Qui enim voluptatem ipsam contemnunt, iis licet dicere se acupenserem maenae non anteponere.</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Quid enim possumus hoc agere divinius?</dd>\n\t<dt><dfn>Etiam beatissimum?</dfn></dt>\n\t<dd>Quamquam te quidem video minime esse deterritum.</dd>\n\t<dt><dfn>Recte dicis;</dfn></dt>\n\t<dd>Si quicquam extra virtutem habeatur in bonis.</dd>\n</dl>\n\n\n<ol>\n\t<li>Dulce amarum, leve asperum, prope longe, stare movere, quadratum rotundum.</li>\n\t<li>At ille pellit, qui permulcet sensum voluptate.</li>\n\t<li>Cave putes quicquam esse verius.</li>\n\t<li>Quae autem natura suae primae institutionis oblita est?</li>\n</ol>\n\n\n<p>Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Restinguet citius, si ardentem acceperit.</a> Vestri haec verecundius, illi fortasse constantius. Ea possunt paria non esse. Qualem igitur hominem natura inchoavit? Qui ita affectus, beatum esse numquam probabis; </p>\n\n",
+    "creation_date": "2018/10/26 18:02:28.296908 GMT-4",
+    "imageCaption": "Velit augue pretium posuere odio id massa at.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-porta-sed-natoque.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:28.622445 GMT-4",
+    "title": "Lorem porta sed natoque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus vitae quam felis ullamcorper nisl fermentum fringilla parturient conubia hac et nulla tortor fusce iaculis vivamus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Vitae massa eleifend ipsum tristique integer vitae nisl hac eleifend netus. Augue risus. Porta fames. Curae justo faucibus imperdiet in nibh ante sociosqu magna nulla bibendum leo ad pellentesque. Augue vitae molestie porta. Nulla fames condimentum pharetra. Morbi fames amet nam vitae mauris arcu pede nunc. Velit porta tellus consectetuer cubilia morbi quam at etiam rutrum malesuada nascetur curae senectus. Nulla ipsum libero auctor lorem class nec natoque accumsan congue mauris eni vestibulum. Massa donec suspendisse sed id enim donec leo vestibulum ridiculus. Lacus porta ullamcorper sociosqu quis leo dolor venenatis aliquet morbi parturient. Curae lorem purus condimentum et luctus. Fusce metus velit elit aenean eni ac diam eu elementum. Velit lacus a magnis eros imperdiet at fringilla suspendisse. Donec justo tempus ullamcorper fusce ridiculus bibendum augue id magna eu primis. Ipsum porta ipsum sapien tellus sem egestas pede consectetuer ve integer ut nec convallis augue eget.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:28.301005 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:28.619027 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "lorem-porta-sed-natoque.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor justo. Felis neque scelerisque in. Felis dolor neque magna nulla sed pede. Fusce nulla sociosqu lorem ad praesent iaculis in class eros dapibus. Justo massa. Donec morbi. Augue vitae egestas platea justo tincidunt.",
+    "_content_type_description": "text/plain",
+    "_uid": "b46f8dd18b99406d89b9459c51348453",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem porta sed natoque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 63,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./lorem-porta-sed-natoque."
+}

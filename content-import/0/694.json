@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:54.447138 GMT-4",
+    "_uid": "7006ceb9c5d244a78d7d14be72698195",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "etiam-risus-nisl-auctor-curae-nascetur-ipsum-a-pretium-tempor-leo-arcu-urna-erat.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:54.780978 GMT-4",
+    "title": "Etiam risus nisl auctor curae nascetur ipsum a pretium tempor leo arcu urna erat.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Velit augue ornare arcu ullamcorper eni enim et duis maecenas.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Ipsum fames ridiculus cras ullamcorper sodales sollicitudin mattis. Magna curae nisl cras aliquet in dis ridiculus primis eu netus. Lorem proin quis mauris sed. Metus class nisl class suscipit class. Dolor metus. Fames etiam diam gravida a ullamcorper leo diam. Donec fusce mauris praesent scelerisque facilisi ante eu amet velit mi. Porta purus egestas vel nonummy at eget augue ac diam. Lacus morbi enim quis justo. Nulla proin. Neque etiam scelerisque sem elit ut purus facilisis. Proin purus primis pellentesque commodo senectus litora mattis hac pede viverra ac eu. Purus ipsum mus fusce ante. Morbi massa sodales dictumst cursus tempus nulla convallis scelerisque ultricies quis nec.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:54.453214 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:54.776421 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Si longus, levis;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Tria genera bonorum;</a> Istam voluptatem, inquit, Epicurus ignorat? Quis est tam dissimile homini. </p>\n\n<ul>\n\t<li>Non enim ipsa genuit hominem, sed accepit a natura inchoatum.</li>\n\t<li>Quibus rebus vita consentiens virtutibusque respondens recta et honesta et constans et naturae congruens existimari potest.</li>\n</ul>\n\n\n<p>Expectoque quid ad id, quod quaerebam, respondeas. Que Manilium, ab iisque M. Nihil ad rem! Ne sit sane; Aliter enim nosmet ipsos nosse non possumus. Ex rebus enim timiditas, non ex vocabulis nascitur. </p>\n\n<p>Est enim effectrix multarum et magnarum voluptatum. Duo Reges: constructio interrete. Nunc haec primum fortasse audientis servire debemus. ALIO MODO. </p>\n\n<dl>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Tu vero, inquam, ducas licet, si sequetur;</dd>\n\t<dt><dfn>Nunc vides, quid faciat.</dfn></dt>\n\t<dd>Iam contemni non poteris.</dd>\n\t<dt><dfn>Hic ambiguo ludimur.</dfn></dt>\n\t<dd>Ergo illi intellegunt quid Epicurus dicat, ego non intellego?</dd>\n\t<dt><dfn>Respondeat totidem verbis.</dfn></dt>\n\t<dd>Inde sermone vario sex illa a Dipylo stadia confecimus.</dd>\n</dl>\n\n\n<ol>\n\t<li>Nec vero alia sunt quaerenda contra Carneadeam illam sententiam.</li>\n\t<li>Num igitur utiliorem tibi hunc Triarium putas esse posse, quam si tua sint Puteolis granaria?</li>\n\t<li>Quo modo?</li>\n\t<li>Universa enim illorum ratione cum tota vestra confligendum puto.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "etiam-risus-nisl-auctor-curae-nascetur-ipsum-a-pretium-tempor-leo-arcu-urna-erat.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Porta dolor sem egestas a suspendisse nam ac justo felis. Etiam dolor. Nulla ipsum class primis. Morbi netus integer donec eu. Fusce morbi. Metus donec molestie penatibus ante. Etiam netus a eros at cum in magna. Ipsum vitae nisi ve justo aenean ut nostra. Morbi velit. Fusce purus. Magna fusce sagittis dui viverra. Risus porta facilisis. Porta morbi vel adipiscing vestibulum id. Ipsum felis pede nisi vitae pretium quis quam gravida. Felis augue ullamcorper hac. Neque fusce netus pharetra class a libero diam duis. Class proin nisi nec cubilia ve imperdiet ve dictum suscipit at metus. Dolor justo. Neque ipsum enim eu consectetuer magnis risus at. Nulla ipsum aliquam convallis maecenas amet nam est sollicitudin mi fusce ut donec.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Etiam risus nisl auctor curae nascetur ipsum a pretium tempor leo arcu urna erat.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./etiam-risus-nisl-auctor-curae-nascetur-ipsum-a-pretium-tempor-leo-arcu-urna-erat."
+}

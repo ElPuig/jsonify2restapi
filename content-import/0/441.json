@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:53.248008 GMT-4",
+    "_uid": "7c6792899b3549a1a31567c189ac768d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-ipsum-sagittis-massa-sed-fames-sed-vitae-nec-montes-lorem-penatibus-mollis-ante.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:53.297712 GMT-4",
+    "title": "Fames ipsum sagittis massa sed fames sed vitae nec montes lorem penatibus mollis ante.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Neque lorem aptent lorem vel duis erat.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Nulla justo ullamcorper inceptos lacinia egestas semper metus mollis dictum metus euismod sed eu proin. Magna felis. Felis velit taciti vulputate magna diam risus dignissim tempus. Proin augue fames a. Justo class iaculis tempor ipsum. Etiam fusce. Donec curae. Velit proin urna est nisi neque fringilla sociosqu. Porta justo auctor urna scelerisque gravida consectetuer. Nulla neque. Fusce velit nam est hac pellentesque ve feugiat eros class ad enim natoque in cum. Massa ipsum urna lacinia mi eni lectus semper in mattis nascetur hymenaeos. Class massa magnis torquent sodales erat in netus ac. Netus felis.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:37.807574 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:38.127110 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "hac..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fames-ipsum-sagittis-massa-sed-fames-sed-vitae-nec-montes-lorem-penatibus-mollis-ante.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fusce augue auctor etiam integer vel pede dapibus a. Class augue dis lorem amet eni sollicitudin et metus. Neque etiam velit arcu ornare rutrum fames nulla congue. Vitae massa fames erat nunc hac. Augue donec. Etiam morbi. Donec lorem metus accumsan in hac nisi hac eget nec elit sem sollicitudin. Risus lacus quam est donec nec faucibus integer lacus magna aliquam leo parturient adipiscing. Curae lacus class quam potenti lacus. Purus porta libero habitant aliquam dictumst tortor orci duis parturient tempor nam at consectetuer. Morbi fusce vulputate in fringilla a. Donec etiam posuere iaculis sodales tortor sed nibh vestibulum semper dolor. Ipsum lorem. Donec curae a feugiat id dui. Nulla neque vel enim per nullam iaculis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fames ipsum sagittis massa sed fames sed vitae nec montes lorem penatibus mollis ante.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./fames-ipsum-sagittis-massa-sed-fames-sed-vitae-nec-montes-lorem-penatibus-mollis-ante."
+}

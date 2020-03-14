@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Hunc vos beatum;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim Polemonis. Proclivi currit oratio. Quo modo autem philosophus loquitur? <a href='http://loripsum.net/' target='_blank'>Suo enim quisque studio maxime ducitur.</a> Prodest, inquit, mihi eo esse animo. <a href='http://loripsum.net/' target='_blank'>Tibi hoc incredibile, quod beatissimum.</a> Duo Reges: constructio interrete. Respondeat totidem verbis. </p>\n\n<dl>\n\t<dt><dfn>Quare attende, quaeso.</dfn></dt>\n\t<dd>Nec vero intermittunt aut admirationem earum rerum, quae sunt ab antiquis repertae, aut investigationem novarum.</dd>\n\t<dt><dfn>Sint ista Graecorum;</dfn></dt>\n\t<dd>Sed in rebus apertissimis nimium longi sumus.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere.</dd>\n</dl>\n\n\n<ul>\n\t<li>Dic in quovis conventu te omnia facere, ne doleas.</li>\n\t<li>Mihi enim erit isdem istis fortasse iam utendum.</li>\n</ul>\n\n\n<p>Hunc vos beatum; Explanetur igitur. Tria genera bonorum; <a href='http://loripsum.net/' target='_blank'>Age, inquies, ista parva sunt.</a> Equidem, sed audistine modo de Carneade? <a href='http://loripsum.net/' target='_blank'>Quonam, inquit, modo?</a> </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Sint modo partes vitae beatae.</a> Omnia contraria, quos etiam insanos esse vultis. Tum Triarius: Posthac quidem, inquit, audacius. Quid turpius quam sapientis vitam ex insipientium sermone pendere? </p>\n\n<ol>\n\t<li>Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;</li>\n\t<li>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</li>\n\t<li>Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse;</li>\n\t<li>Negat enim summo bono afferre incrementum diem.</li>\n\t<li>Ego vero volo in virtute vim esse quam maximam;</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 17:59:41.604659 GMT-4",
+    "imageCaption": "Morbi vitae maecenas sed vitae gravida ornare sem et aliquet mi sociis.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "vitae-curae-nullam-venenatis-litora-parturient-augue-nunc-tortor-magna.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:41.936467 GMT-4",
+    "title": "Vitae curae nullam venenatis litora parturient augue nunc tortor magna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi nulla lacinia auctor fusce malesuada litora vestibulum fusce urna aliquam vivamus congue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Lacus morbi sociis phasellus blandit. Ipsum justo duis massa habitasse torquent nulla a dapibus tempus cras viverra. Augue porta a congue eros. Morbi class. Fames ipsum ultricies ornare pharetra eu suspendisse quis duis natoque fermentum eros leo. Curae morbi magnis fusce adipiscing cras habitasse inceptos tempus tellus dolor curae. Augue justo turpis nisl nibh dis fringilla sem elementum ligula. Netus ipsum interdum diam dictumst interdum. Metus etiam. Magna fames fusce sed cum consectetuer at laoreet arcu neque semper et elit.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:41.608865 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:41.932853 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "vitae-curae-nullam-venenatis-litora-parturient-augue-nunc-tortor-magna.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna fames nisi iaculis. Felis proin a orci magna mollis. Fames vitae facilisi nunc per. Justo metus. Dolor vitae lacus. Porta ipsum tempus ridiculus id ullamcorper arcu. Dolor proin erat cubilia. Dolor lorem. Curae velit a. Donec augue taciti duis feugiat morbi quam ve amet hymenaeos vulputate massa.",
+    "_content_type_description": "text/plain",
+    "_uid": "f3208535b63e423ea03e6a9b92faa4cc",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae curae nullam venenatis litora parturient augue nunc tortor magna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 60,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./vitae-curae-nullam-venenatis-litora-parturient-augue-nunc-tortor-magna."
+}

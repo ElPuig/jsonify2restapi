@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:37.773550 GMT-4",
+    "_uid": "710c7cafa8094b6db3676b47098b861f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "metus-velit-lorem-ultrices-velit-integer-aptent-felis-sociosqu-lorem-proin-libero-morbi-ipsum-turpis-pretium-ac.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:38.112575 GMT-4",
+    "title": "Metus velit lorem ultrices velit integer aptent felis sociosqu lorem proin libero morbi ipsum turpis pretium ac.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus magna mus vitae felis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Lacus felis. Velit porta dapibus tellus ac ve enim habitant integer potenti elit malesuada. Lacus purus dui parturient facilisis quam. Velit lacus sit pede nunc mus integer et. Donec lacus. Nulla magna justo vitae etiam nisl. Massa proin montes neque. Ipsum lorem. Felis vitae natoque mattis id commodo in. Risus vitae. Justo purus condimentum eu. Proin netus. Dolor massa varius mauris quam sed in class mollis. Vitae metus amet natoque aliquet libero eget convallis placerat ve. Velit dolor luctus netus parturient vehicula rhoncus praesent laoreet nostra arcu.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:37.779953 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:38.105417 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Qui est in parvis malis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Estne, quaeso, inquam, sitienti in bibendo voluptas? Inde igitur, inquit, ordiendum est. Expectoque quid ad id, quod quaerebam, respondeas. Itaque contra est, ac dicitis; <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Fortemne possumus dicere eundem illum Torquatum? </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Facillimum id quidem est, inquam.</a> Quae sequuntur igitur? Putabam equidem satis, inquit, me dixisse. Negat enim summo bono afferre incrementum diem. Rhetorice igitur, inquam, nos mavis quam dialectice disputare? Non potes, nisi retexueris illa. </p>\n\n<ol>\n\t<li>Itaque in rebus minime obscuris non multus est apud eos disserendi labor.</li>\n\t<li>Non igitur de improbo, sed de callido improbo quaerimus, qualis Q.</li>\n\t<li>Ita est quoddam commune officium sapientis et insipientis, ex quo efficitur versari in iis, quae media dicamus.</li>\n\t<li>Sed mehercule pergrata mihi oratio tua.</li>\n</ol>\n\n\n<ul>\n\t<li>Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur.</li>\n\t<li>Itaque rursus eadem ratione, qua sum paulo ante usus, haerebitis.</li>\n\t<li>Hoc ille tuus non vult omnibusque ex rebus voluptatem quasi mercedem exigit.</li>\n\t<li>Erit enim mecum, si tecum erit.</li>\n</ul>\n\n\n<p>Videsne quam sit magna dissensio? Egone quaeris, inquit, quid sentiam? Solum praeterea formosum, solum liberum, solum civem, stultost; Nihil enim hoc differt. Oratio me istius philosophi non offendit; </p>\n\n<dl>\n\t<dt><dfn>Age sane, inquam.</dfn></dt>\n\t<dd>Nec vero alia sunt quaerenda contra Carneadeam illam sententiam.</dd>\n\t<dt><dfn>In schola desinis.</dfn></dt>\n\t<dd>Universa enim illorum ratione cum tota vestra confligendum puto.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "metus-velit-lorem-ultrices-velit-integer-aptent-felis-sociosqu-lorem-proin-libero-morbi-ipsum-turpis-pretium-ac.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Massa curae. Felis etiam conubia. Felis dolor nisl sed a mauris ante mi nisi. Fusce etiam dui eget vestibulum ligula. Proin lacus porta gravida cum. Netus morbi eni odio vel consectetuer morbi ve vel. Justo neque nisl. Felis fusce aenean sodales erat velit in. Lacus velit a eget velit ve pharetra. Massa neque est donec ridiculus fringilla. Donec velit fusce augue volutpat adipiscing litora interdum urna cum consectetuer velit. Curae lorem non morbi consequat orci nam massa vestibulum in venenatis duis. Neque vitae cubilia enim vel.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Metus velit lorem ultrices velit integer aptent felis sociosqu lorem proin libero morbi ipsum turpis pretium ac.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./metus-velit-lorem-ultrices-velit-integer-aptent-felis-sociosqu-lorem-proin-libero-morbi-ipsum-turpis-pretium-ac."
+}

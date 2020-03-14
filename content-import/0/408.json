@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:36.128958 GMT-4",
+    "_uid": "5df39ad5ff0647bc8df8dfd5ba9ebf89",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-proin.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:36.181947 GMT-4",
+    "title": "Fusce proin.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue purus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Massa magna non egestas interdum nibh nunc. Nulla class rutrum fames maecenas dui gravida a scelerisque nec nibh. Risus donec scelerisque mi ligula ac enim. Morbi etiam semper sapien. Curae netus mattis senectus quis tempus augue tristique cursus id pretium. Massa neque tempor iaculis consequat amet hac eget. Ipsum proin cum velit enim ve amet eros conubia malesuada sed diam. Nulla justo hac cubilia id odio dolor mattis. Neque class primis ac placerat nisl blandit. Magna class auctor urna orci imperdiet. Fusce augue sem risus per odio. Neque proin torquent penatibus a fusce lacinia nullam quam consectetuer in. Nulla felis enim risus tempor.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.410644 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.741094 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "magna..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fusce-proin.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Etiam porta duis proin vulputate fusce a erat purus lorem bibendum. Curae metus class cum metus lacinia mus. Lorem massa tempus ac sem tristique volutpat ut lectus ve vel fermentum. Velit metus suspendisse torquent metus. Proin risus mollis nisl gravida a condimentum. Justo metus facilisi vitae malesuada orci sit sed nam sollicitudin. Lacus etiam hymenaeos lectus diam facilisis vehicula. Risus porta a posuere tempus massa morbi magnis tellus. Massa vitae sociis neque proin nulla velit elit leo ut. Justo etiam rhoncus mi duis. Curae porta felis ligula cursus non nibh. Nulla magna dolor a semper fames imperdiet dictumst ut. Curae etiam platea proin euismod accumsan vivamus ut mauris imperdiet velit. Donec dolor aptent facilisis est pellentesque eu nulla elit in. Lacus massa dolor felis netus nam nisl eni. Class justo dis urna. Purus dolor leo tincidunt class senectus enim cursus nostra. Class fames laoreet nec. Felis magna volutpat tincidunt nisi nostra.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fusce proin.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./fusce-proin."
+}

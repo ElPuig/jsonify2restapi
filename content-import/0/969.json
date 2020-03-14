@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Hos contra singulos dici est melius.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Sic consequentibus vestris sublatis prima tolluntur.</a> <a href='http://loripsum.net/' target='_blank'>Inde igitur, inquit, ordiendum est.</a> Quae contraria sunt his, malane? <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> </p>\n\n<p>Ubi ut eam caperet aut quando? <a href='http://loripsum.net/' target='_blank'>Ut in geometria, prima si dederis, danda sunt omnia.</a> Ita credo. Sed hoc sane concedamus. </p>\n\n<ol>\n\t<li>Quo invento omnis ab eo quasi capite de summo bono et malo disputatio ducitur.</li>\n\t<li>Vide, ne etiam menses! nisi forte eum dicis, qui, simul atque arripuit, interficit.</li>\n\t<li>Sed audiamus ipsum: Compensabatur, inquit, tamen cum his omnibus animi laetitia, quam capiebam memoria rationum inventorumque nostrorum.</li>\n\t<li>Sin ea non neglegemus neque tamen ad finem summi boni referemus, non multum ab Erilli levitate aberrabimus.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Recte dicis;</dfn></dt>\n\t<dd>Ergo omni animali illud, quod appetiti positum est in eo, quod naturae est accommodatum.</dd>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec.</dd>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>Tanti autem aderant vesicae et torminum morbi, ut nihil ad eorum magnitudinem posset accedere.</dd>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>Quid enim mihi potest esse optatius quam cum Catone, omnium virtutum auctore, de virtutibus disputare?</dd>\n</dl>\n\n\n<h2>At multis se probavit.</h2>\n\n<p>Graccho, eius fere, aequal\u00ed? <a href='http://loripsum.net/' target='_blank'>Quis enim redargueret?</a> Ut pulsi recurrant? </p>\n\n<ul>\n\t<li>Scio enim esse quosdam, qui quavis lingua philosophari possint;</li>\n\t<li>Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat?</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 18:01:6.891178 GMT-4",
+    "imageCaption": "Augue netus sed nisl non iaculis at tempor dapibus quisque.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "vitae-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:7.218841 GMT-4",
+    "title": "Vitae augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae justo platea massa quis donec venenatis malesuada eget.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Lacus lorem duis cubilia curae nibh. Magna risus. Lorem fusce lectus phasellus cursus. Netus metus mattis dui. Neque morbi molestie duis placerat proin a duis. Curae purus orci tincidunt nullam augue adipiscing ve ligula. Velit felis suspendisse ac libero. Ipsum class lacinia rhoncus. Ipsum curae. Metus massa scelerisque diam arcu fusce ac. Velit lacus aptent luctus porta ullamcorper.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:6.894812 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:7.214713 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "vitae-augue.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Purus ipsum lobortis mus lacinia ad. Neque dolor cum eget ante elit orci fringilla sapien taciti per. Donec magna cum. Curae porta turpis consectetuer dapibus massa eget pede facilisi justo proin a montes dignissim nascetur mi vel hendrerit leo mus at. Class morbi aliquam. Nulla risus vel diam urna vestibulum cursus. Lorem vitae ornare tortor sed parturient tortor hac amet curae donec cras. Massa porta convallis urna commodo nisi duis. Curae augue.",
+    "_content_type_description": "text/plain",
+    "_uid": "d895a677195c4f878b46b6b4c96b5e39",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 66,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./vitae-augue."
+}

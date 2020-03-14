@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:20.415975 GMT-4",
+    "_uid": "3a9ac55c28b74ccba09940bc577dfb9a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-proin-nec-etiam-ridiculus-velit-dignissim-facilisi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:20.474921 GMT-4",
+    "title": "Magna proin nec etiam ridiculus velit dignissim facilisi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Magna curae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Neque curae rhoncus class id velit. Netus metus sociis eros vulputate ultrices in morbi. Ipsum netus. Fames felis sociosqu est feugiat eni et a mauris. Porta justo nascetur curabitur vehicula nullam faucibus habitasse. Morbi porta lectus ullamcorper etiam tellus mi neque primis augue dis. Dolor purus. Velit fames auctor velit adipiscing dictumst posuere sodales arcu curae. Ipsum lacus magna quisque tellus mi metus montes sagittis curae ut vehicula potenti ad nulla. Purus velit inceptos vestibulum rutrum. Porta class. Fusce justo facilisi. Massa morbi risus aliquam. Lorem felis varius. Nulla magna elit condimentum eni eu lacus maecenas adipiscing fermentum suspendisse dui. Donec fusce nisl rutrum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.205244 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.565584 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "molestie..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "magna-proin-nec-etiam-ridiculus-velit-dignissim-facilisi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Justo massa. Lacus neque arcu mattis nisi consequat nullam donec euismod nonummy tortor nec turpis nulla sit inceptos feugiat ad. Porta metus scelerisque nascetur orci inceptos adipiscing platea. Justo proin duis cubilia ad nisl nulla primis. Felis lorem justo vivamus hendrerit pede mus risus. Vitae justo mollis netus parturient. Netus fames lobortis risus etiam posuere nisl. Donec dolor ullamcorper bibendum ante. Proin justo leo accumsan potenti vivamus. Class vitae lectus suspendisse metus dictum. Donec lorem nullam integer mus ac nunc condimentum id. Lorem fames curae platea magnis lacinia egestas amet sollicitudin. Proin augue eget risus praesent imperdiet id ridiculus a. Risus ipsum. Fames class. Metus netus duis convallis pellentesque egestas porta felis dictum sollicitudin rhoncus facilisis sem donec tincidunt. Morbi justo porta netus congue cursus nisl pretium donec ut malesuada. Augue netus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Magna proin nec etiam ridiculus velit dignissim facilisi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 25,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./magna-proin-nec-etiam-ridiculus-velit-dignissim-facilisi."
+}

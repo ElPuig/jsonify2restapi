@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quis, quaeso, illum negat et bonum virum et comem et humanum fuisse?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Tubulo putas dicere? Quo modo autem philosophus loquitur? </p>\n\n<ol>\n\t<li>Idemne, quod iucunde?</li>\n\t<li>Ab his oratores, ab his imperatores ac rerum publicarum principes extiterunt.</li>\n\t<li>Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit.</li>\n\t<li>Nam constitui virtus nullo modo potesti nisi ea, quae sunt prima naturae, ut ad summam pertinentia tenebit.</li>\n</ol>\n\n\n<ul>\n\t<li>Cum sciret confestim esse moriendum eamque mortem ardentiore studio peteret, quam Epicurus voluptatem petendam putat.</li>\n\t<li>Peccata paria.</li>\n\t<li>Quid iudicant sensus?</li>\n\t<li>Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est.</li>\n</ul>\n\n\n<h2>Re mihi non aeque satisfacit, et quidem locis pluribus.</h2>\n\n<p>Proclivi currit oratio. Cyrenaici quidem non recusant; At hoc in eo M. Prodest, inquit, mihi eo esse animo. </p>\n\n<p>Quid me istud rogas? Quippe: habes enim a rhetoribus; Apparet statim, quae sint officia, quae actiones. Itaque contra est, ac dicitis; Tum mihi Piso: Quid ergo? Traditur, inquit, ab Epicuro ratio neglegendi doloris. </p>\n\n<dl>\n\t<dt><dfn>Restatis igitur vos;</dfn></dt>\n\t<dd>Sed utrum hortandus es nobis, Luci, inquit, an etiam tua sponte propensus es?</dd>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Pungunt quasi aculeis interrogatiunculis angustis, quibus etiam qui assentiuntur nihil commutantur animo et idem abeunt, qui venerant.</dd>\n\t<dt><dfn>Quis enim redargueret?</dfn></dt>\n\t<dd>Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 18:00:25.139446 GMT-4",
+    "imageCaption": "Ipsum lorem cum orci turpis convallis molestie ut.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "proin-nulla.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:25.479189 GMT-4",
+    "title": "Proin nulla.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam felis primis venenatis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Velit fusce platea donec enim. Nulla etiam placerat massa eu turpis. Fusce magna rutrum nibh cursus in eget purus ridiculus fusce hymenaeos felis mi. Justo lacus morbi hac cum habitasse litora nisi erat parturient rutrum. Fames velit nonummy convallis pulvinar duis aenean commodo dapibus odio facilisi. Ipsum donec. Neque etiam cum ipsum aptent. Fames morbi nibh nec. Justo porta ullamcorper enim facilisis at porta luctus dolor massa. Risus lacus libero class feugiat fusce quis sagittis. Donec dolor montes quis dictum nam in amet inceptos. Fusce proin nunc dignissim cursus pulvinar ullamcorper nascetur cubilia class arcu. Morbi purus magna sit elit ve dignissim adipiscing. Felis fusce hac adipiscing ve tellus sit nunc neque euismod eros.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:25.143978 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:25.475259 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "proin-nulla.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Morbi felis massa nulla conubia dapibus sapien sem nibh pharetra sed. Lorem nulla dui orci mus a platea nunc eros lorem auctor class imperdiet. Class felis rutrum. Vitae fames nec cras eros placerat imperdiet. Massa class. Massa lacus nisi cras duis nascetur natoque. Purus felis. Donec velit cum dui et ultrices nunc ligula euismod. Lacus metus curae dictum ad nam porttitor dui nonummy mollis eros ipsum integer. Proin augue pulvinar hendrerit per facilisi imperdiet. Lacus dolor curae magna lacus dictumst purus sem. Magna lorem ipsum viverra eni bibendum a. Lacus porta cras dui cursus vivamus at eu. Metus risus. Curae dolor accumsan eros facilisi nascetur egestas amet molestie elementum fames consequat mauris. Ipsum velit a cras in quis facilisi turpis nunc ullamcorper aliquam cum vulputate lorem elit. Justo morbi sapien condimentum.",
+    "_content_type_description": "text/plain",
+    "_uid": "dd6248267ba04faa9cbe84f6159296fc",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Proin nulla.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 62,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./proin-nulla."
+}

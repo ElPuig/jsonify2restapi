@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:54.998276 GMT-4",
+    "_uid": "4789c2ace6d44db99f8f68bf779829c9",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "vitae-risus-morbi-porta-a-urna-fames-imperdiet-sed-quisque-class.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:55.049430 GMT-4",
+    "title": "Vitae risus morbi porta a urna fames imperdiet sed quisque class.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Nulla purus tortor etiam nisl.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Magna risus rutrum magna adipiscing erat. Curae purus egestas pharetra. Lacus neque suspendisse bibendum malesuada justo ipsum nisl cum. Netus class donec libero eu at et auctor torquent porta sapien tempus quam. Dolor justo eni turpis tempor. Purus risus felis nunc posuere malesuada habitant quis cum habitasse fames fusce sodales. Class augue. Risus proin suspendisse interdum fames sollicitudin. Dolor netus tellus cras quis mus sollicitudin fames odio felis sit duis dui. Morbi etiam velit cras habitasse sagittis inceptos. Purus neque. Dolor etiam eros a augue id nostra vehicula.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:40.773453 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:41.088324 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "curae..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "vitae-risus-morbi-porta-a-urna-fames-imperdiet-sed-quisque-class.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae neque. Lorem fames. Dolor fusce. Lorem velit eget tortor parturient velit posuere commodo hendrerit. Lorem dolor a primis dignissim et. Velit ipsum. Fusce porta class. Risus etiam. Proin nulla maecenas cras orci taciti varius. Metus nulla nullam et id enim dolor elementum condimentum ultricies arcu. Purus lorem est urna fermentum per commodo lobortis. Lorem netus faucibus enim lacinia proin ante. Velit fames eros eleifend euismod aliquam justo neque. Risus massa etiam rutrum ve tristique proin inceptos felis elit cras aenean. Massa ipsum dignissim sem pellentesque ligula fusce habitasse sagittis porta. Netus neque varius netus adipiscing nascetur. Morbi ipsum pede maecenas ultrices luctus nibh aliquet curae non.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Vitae risus morbi porta a urna fames imperdiet sed quisque class.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./vitae-risus-morbi-porta-a-urna-fames-imperdiet-sed-quisque-class."
+}

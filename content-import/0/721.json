@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Zenonis est, inquam, hoc Stoici.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid adiuvas? Stoicos roga. At enim sequor utilitatem. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> </p>\n\n<ul>\n\t<li>Hanc quoque iucunditatem, si vis, transfer in animum;</li>\n\t<li>Amicitiae vero locus ubi esse potest aut quis amicus esse cuiquam, quem non ipsum amet propter ipsum?</li>\n\t<li>Quare ad ea primum, si videtur;</li>\n\t<li>Tecum optime, deinde etiam cum mediocri amico.</li>\n</ul>\n\n\n<h2>Sed quot homines, tot sententiae;</h2>\n\n<p>Quis est tam dissimile homini. Universa enim illorum ratione cum tota vestra confligendum puto. Haec igitur Epicuri non probo, inquam. Hic nihil fuit, quod quaereremus. Itaque fecimus. Quae contraria sunt his, malane? Quid de Platone aut de Democrito loquar? </p>\n\n<ol>\n\t<li>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</li>\n\t<li>Quantum Aristoxeni ingenium consumptum videmus in musicis?</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>A mene tu?</dfn></dt>\n\t<dd>Gloriosa ostentatio in constituendo summo bono.</dd>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Sed utrum hortandus es nobis, Luci, inquit, an etiam tua sponte propensus es?</dd>\n\t<dt><dfn>Beatum, inquit.</dfn></dt>\n\t<dd>Quid turpius quam sapientis vitam ex insipientium sermone pendere?</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Sed tamen omne, quod de re bona dilucide dicitur, mihi praeclare dici videtur.</dd>\n\t<dt><dfn>Equidem e Cn.</dfn></dt>\n\t<dd>Quamquam id quidem licebit iis existimare, qui legerint.</dd>\n\t<dt><dfn>Hunc vos beatum;</dfn></dt>\n\t<dd>Quo tandem modo?</dd>\n</dl>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Ea possunt paria non esse.</a> Sed hoc sane concedamus. Cur iustitia laudatur? Equidem etiam Epicurum, in physicis quidem, Democriteum puto. Quis enim redargueret? Equidem, sed audistine modo de Carneade? Rationis enim perfectio est virtus; Disserendi artem nullam habuit. Tollenda est atque extrahenda radicitus. </p>\n\n",
+    "creation_date": "2018/10/26 17:59:2.524462 GMT-4",
+    "imageCaption": "Velit augue aenean netus imperdiet.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-netus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:2.858720 GMT-4",
+    "title": "Class netus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus lorem blandit fermentum nisl sed arcu dui accumsan vulputate est.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Class augue auctor id facilisi orci eros interdum sit magna donec. Velit class enim massa ve sociis netus molestie nunc pulvinar. Massa augue. Risus morbi aptent ut feugiat. Proin nulla torquent class diam aenean phasellus malesuada. Augue ipsum odio accumsan. Ipsum massa. Purus ipsum. Justo vitae dolor condimentum odio nisl arcu. Ipsum class turpis ultricies maecenas ac condimentum elit orci. Purus curae tellus risus egestas sed dictum ligula non. Morbi proin primis egestas dapibus tristique hac.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:2.528187 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:2.855302 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "class-netus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Etiam massa magna elit justo sociis. Metus justo eni sociosqu a torquent eni. Velit proin arcu a morbi. Etiam netus. Nulla fames libero in risus eu vitae elementum enim leo fusce sem iaculis id. Proin class nec cras netus ut. Neque proin viverra est fringilla rutrum nulla vestibulum ante. Augue purus elit faucibus habitasse. Lorem felis. Etiam netus. Justo purus. Velit porta est risus non volutpat posuere. Metus ipsum. Netus morbi euismod dignissim urna.",
+    "_content_type_description": "text/plain",
+    "_uid": "3bc6bf82e3ab429faae97a8c3b411dc4",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class netus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 61,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./class-netus."
+}

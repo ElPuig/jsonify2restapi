@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Primum cur ista res digna odio est, nisi quod est turpis?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Respondeat totidem verbis. <a href='http://loripsum.net/' target='_blank'>Atqui reperies, inquit, in hoc quidem pertinacem;</a> Eam stabilem appellas. </p>\n\n<dl>\n\t<dt><dfn>Quid Zeno?</dfn></dt>\n\t<dd>Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit?</dd>\n\t<dt><dfn>Tubulo putas dicere?</dfn></dt>\n\t<dd>Praeterea et appetendi et refugiendi et omnino rerum gerendarum initia proficiscuntur aut a voluptate aut a dolore.</dd>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Neminem videbis ita laudatum, ut artifex callidus comparandarum voluptatum diceretur.</dd>\n</dl>\n\n\n<p>Ut aliquid scire se gaudeant? Illa argumenta propria videamus, cur omnia sint paria peccata. Maximas vero virtutes iacere omnis necesse est voluptate dominante. Bonum patria: miserum exilium. Bonum incolumis acies: misera caecitas. Iam in altera philosophiae parte. </p>\n\n<ol>\n\t<li>Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur.</li>\n\t<li>Hoc est vim afferre, Torquate, sensibus, extorquere ex animis cognitiones verborum, quibus inbuti sumus.</li>\n\t<li>Hanc se tuus Epicurus omnino ignorare dicit quam aut qualem esse velint qui honestate summum bonum metiantur.</li>\n\t<li>Cenasti in vita numquam bene, cum omnia in ista Consumis squilla atque acupensere cum decimano.</li>\n</ol>\n\n\n<ul>\n\t<li>Iubet igitur nos Pythius Apollo noscere nosmet ipsos.</li>\n\t<li>Videamus animi partes, quarum est conspectus illustrior;</li>\n\t<li>Quodcumque in mentem incideret, et quodcumque tamquam occurreret.</li>\n\t<li>Quam ob rem tandem, inquit, non satisfacit?</li>\n</ul>\n\n\n<h2>De hominibus dici non necesse est.</h2>\n\n<p>At hoc in eo M. Summus dolor plures dies manere non potest? </p>\n\n",
+    "creation_date": "2018/10/26 17:57:47.740008 GMT-4",
+    "imageCaption": "Lacus porta dapibus et diam laoreet nulla.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-dolor-magnis-condimentum-metus-tincidunt-maecenas-class-eni-nisi-odio-enim.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:48.258230 GMT-4",
+    "title": "Curae dolor magnis condimentum metus tincidunt maecenas class eni nisi odio enim.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin dolor tempor tortor senectus nullam urna nisi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Vitae lorem justo est nisl a. Ipsum massa suscipit nulla tempor scelerisque vitae tristique nec nisi porta imperdiet sem. Fusce lorem tellus mi quis luctus adipiscing ultrices neque pede blandit id amet. Netus fusce a amet vitae praesent diam varius placerat fames. Fusce neque ullamcorper pharetra. Neque ipsum. Lacus fusce fames arcu porttitor. Magna risus maecenas magna. Justo vitae a erat ad justo pede eget dolor id lacus ac litora. Class risus pede iaculis potenti rutrum lacus id enim ac taciti at dui et. Vitae magna a nonummy semper mauris placerat adipiscing. Lorem massa per dolor dis massa proin interdum. Metus netus felis dis pharetra posuere pellentesque fringilla risus est quam tincidunt velit integer.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:47.744120 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:48.254454 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "curae-dolor-magnis-condimentum-metus-tincidunt-maecenas-class-eni-nisi-odio-enim.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Class dolor. Metus lorem semper odio integer id sed curae ridiculus dictumst augue orci. Donec proin cursus pellentesque feugiat. Metus felis curabitur hendrerit quam sociis cursus lorem vestibulum volutpat nonummy. Dolor lorem nibh quisque litora. Fusce dolor aenean arcu litora. Purus velit. Nulla curae mattis lorem hac magna tellus risus suspendisse id. Porta purus libero ut suscipit amet. Risus class lectus aptent mus amet a morbi. Ipsum metus turpis ac arcu donec vitae auctor ante fames mi ut. Augue magna scelerisque ad nostra sem in integer. Neque class rutrum felis nulla nascetur fames. Donec vitae.",
+    "_content_type_description": "text/plain",
+    "_uid": "a42fc8ea81b640ae8f54990b4b3800fd",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae dolor magnis condimentum metus tincidunt maecenas class eni nisi odio enim.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./curae-dolor-magnis-condimentum-metus-tincidunt-maecenas-class-eni-nisi-odio-enim."
+}

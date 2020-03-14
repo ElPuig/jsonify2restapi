@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:58.138762 GMT-4",
+    "_uid": "a780aa47d0d044d09423a8f74610488f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "augue-fames-primis-netus-eleifend-ridiculus-consectetuer-parturient-odio.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:58.463897 GMT-4",
+    "title": "Augue fames primis netus eleifend ridiculus consectetuer parturient odio.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi class tortor augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Risus neque cursus sociis nam adipiscing. Donec magna nunc mi per imperdiet primis. Fusce felis. Lacus augue. Metus class. Morbi metus. Morbi magna class a. Massa augue bibendum per blandit metus orci netus phasellus sem sollicitudin magna mi. Class ipsum tempor semper suscipit nonummy mi ultricies quis vel nisi. Fames etiam primis nulla adipiscing pulvinar vivamus. Magna netus primis class parturient. Donec lacus a pede class metus vel.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:58.144846 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:58.459415 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Theophrasti igitur, inquit, tibi liber ille placet de beata vita?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod cum dixissent, ille contra. Summum en\u00edm bonum exposuit vacuitatem doloris; Nos commodius agimus. Frater et T. Ita nemo beato beatior. Duo Reges: constructio interrete. </p>\n\n<h2>Sin laboramus, quis est, qui alienae modum statuat industriae?</h2>\n\n<p>Polycratem Samium felicem appellabant. Eam tum adesse, cum dolor omnis absit; Qui non moveatur et offensione turpitudinis et comprobatione honestatis? <a href='http://loripsum.net/' target='_blank'>Si verbum sequimur, primum longius verbum praepositum quam bonum.</a> Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Hoc ipsum elegantius poni meliusque potuit. </p>\n\n<p>Verum hoc idem saepe faciamus. De illis, cum volemus. Sed tamen intellego quid velit. </p>\n\n<ul>\n\t<li>Itaque vides, quo modo loquantur, nova verba fingunt, deserunt usitata.</li>\n\t<li>Sed finge non solum callidum eum, qui aliquid improbe faciat, verum etiam praepotentem, ut M.</li>\n</ul>\n\n\n<ol>\n\t<li>Fortemne possumus dicere eundem illum Torquatum?</li>\n\t<li>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</li>\n\t<li>Mene ergo et Triarium dignos existimas, apud quos turpiter loquare?</li>\n\t<li>Sic enim maiores nostri labores non fugiendos tristissimo tamen verbo aerumnas etiam in deo nominaverunt.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Stoici scilicet.</dfn></dt>\n\t<dd>Nam Pyrrho, Aristo, Erillus iam diu abiecti.</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Bonum valitudo: miser morbus.</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Ratio enim nostra consentit, pugnat oratio.</dd>\n\t<dt><dfn>Sed nimis multa.</dfn></dt>\n\t<dd>Erit enim instructus ad mortem contemnendam, ad exilium, ad ipsum etiam dolorem.</dd>\n\t<dt><dfn>Tenent mordicus.</dfn></dt>\n\t<dd>Sin aliud quid voles, postea.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "augue-fames-primis-netus-eleifend-ridiculus-consectetuer-parturient-odio.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Netus proin. Purus dolor. Donec etiam quisque amet velit in velit mollis. Ipsum netus dolor. Fusce lorem nec iaculis ut ad venenatis nunc congue integer id tincidunt egestas ligula. Velit ipsum luctus mi aptent vulputate. Justo fames. Porta magna conubia at enim condimentum laoreet augue ut justo. Felis velit dictum urna commodo mi diam commodo. Neque magna luctus tempus facilisis. Metus purus aenean suspendisse justo vulputate integer metus cras arcu vel a tempus erat felis. Donec lacus. Ipsum risus tempor sapien hac. Fusce neque nibh scelerisque conubia etiam at cras condimentum. Augue justo fames a blandit. Lacus neque facilisis eni placerat blandit penatibus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue fames primis netus eleifend ridiculus consectetuer parturient odio.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./augue-fames-primis-netus-eleifend-ridiculus-consectetuer-parturient-odio."
+}

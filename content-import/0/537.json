@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:38.497836 GMT-4",
+    "_uid": "d6ce6e456c3942e782cca52bd200df62",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "felis-justo-nostra-senectus-fringilla-lacus-non.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:38.823782 GMT-4",
+    "title": "Felis justo nostra senectus fringilla lacus non.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Felis augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Felis nulla taciti justo suscipit in aenean habitant fusce class. Neque massa elit ac leo quam eget. Etiam metus ligula class nulla egestas quis. Dolor augue aenean pellentesque gravida justo mi nisi enim eget. Lorem nulla suspendisse dui orci nec. Fusce proin sociosqu leo aptent. Purus porta vehicula. Magna justo fringilla hendrerit nibh nisi. Porta magna. Morbi magna etiam nunc ligula nonummy at libero eleifend. Etiam risus justo proin donec magna taciti enim at. Porta magna proin habitant sit curae purus. Fusce purus erat mi duis at malesuada dolor. Proin morbi cursus quisque sodales cras et risus habitasse. Donec justo eget accumsan suspendisse molestie vulputate. Ipsum donec praesent vestibulum dignissim enim pede quam amet aliquam hymenaeos nunc laoreet a suspendisse nam nisi. Lorem dolor metus vitae varius ac enim sociis. Magna lorem volutpat erat convallis sapien velit sociosqu nec.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:38.503296 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:38.819155 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Et harum quidem rerum facilis est et expedita distinctio.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Respondeat totidem verbis.</a> Conferam tecum, quam cuique verso rem subicias; An eiusdem modi? Quid ergo? </p>\n\n<dl>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>At quicum ioca seria, ut dicitur, quicum arcana, quicum occulta omnia?</dd>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</dd>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Gloriosa ostentatio in constituendo summo bono.</dd>\n\t<dt><dfn>Quo modo?</dfn></dt>\n\t<dd>Habent enim et bene longam et satis litigiosam disputationem.</dd>\n</dl>\n\n\n<h2>Sed tu istuc dixti bene Latine, parum plane.</h2>\n\n<p>Tum Torquatus: Prorsus, inquit, assentior; Duarum enim vitarum nobis erunt instituta capienda. Nihil illinc huc pervenit. Sed quid sentiat, non videtis. <a href='http://loripsum.net/' target='_blank'>Duo enim genera quae erant, fecit tria.</a> Quae sequuntur igitur? Egone quaeris, inquit, quid sentiam? Eademne, quae restincta siti? </p>\n\n<ol>\n\t<li>Si longus, levis;</li>\n\t<li>Sed tempus est, si videtur, et recta quidem ad me.</li>\n\t<li>An hoc usque quaque, aliter in vita?</li>\n\t<li>Paulum, cum regem Persem captum adduceret, eodem flumine invectio?</li>\n\t<li>Qui bonum omne in virtute ponit, is potest dicere perfici beatam vitam perfectione virtutis;</li>\n</ol>\n\n\n<ul>\n\t<li>Quamquam id quidem, infinitum est in hac urbe;</li>\n\t<li>Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus.</li>\n\t<li>Cum sciret confestim esse moriendum eamque mortem ardentiore studio peteret, quam Epicurus voluptatem petendam putat.</li>\n</ul>\n\n\n<p>Invidiosum nomen est, infame, suspectum. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Quod ea non occurrentia fingunt, vincunt Aristonem; Bestiarum vero nullum iudicium puto. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "felis-justo-nostra-senectus-fringilla-lacus-non.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Fames vitae magnis vitae condimentum volutpat ridiculus donec ipsum. Fusce dolor arcu a quam id convallis metus ad. Felis fames non donec sit eni dis leo. Augue risus justo tempor. Ipsum purus vel fusce tristique massa suscipit velit. Ipsum felis mattis dictum est. Class fusce condimentum faucibus nisi interdum a sociosqu vel. Ipsum felis mauris primis tincidunt rhoncus justo dui nisl. Neque justo semper primis praesent vestibulum tempus morbi tristique eu lacus nostra. Class vitae a sapien arcu eget nec. Fames etiam ullamcorper at mattis ultrices facilisis inceptos. Velit augue eros ve senectus curae sem enim cubilia. Nulla donec lacus velit rutrum lacus eleifend. Dolor metus quis curae placerat ante eni metus cubilia. Dolor massa. Netus neque elit semper fringilla ac eu. Massa dolor vehicula adipiscing. Netus felis tortor suscipit mi condimentum. Morbi vitae vel quam netus rhoncus sociis ac nascetur posuere. Donec curae.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Felis justo nostra senectus fringilla lacus non.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./felis-justo-nostra-senectus-fringilla-lacus-non."
+}

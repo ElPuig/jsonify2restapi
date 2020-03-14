@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:37.744225 GMT-4",
+    "_uid": "12c96304ee7a4eaeb88c67f27a176245",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "donec-risus-fermentum.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:38.081283 GMT-4",
+    "title": "Donec risus fermentum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin justo sit nec ut nostra praesent nonummy mattis augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Morbi velit egestas duis dis. Donec lacus. Risus magna. Fames fusce cubilia nisl. Risus fusce suspendisse eleifend enim molestie morbi. Lorem justo. Nulla donec tempus malesuada proin eget aliquet class lacinia mollis dui blandit etiam. Lacus metus dis nulla habitasse netus nibh integer diam ac vulputate scelerisque sem. Augue velit aptent primis purus. Magna lorem. Metus lorem duis habitasse tempor felis viverra tempor fusce. Proin lorem curae ligula semper fames natoque dignissim non dapibus ac nam eget vestibulum et. Risus proin per pulvinar viverra pretium turpis eni posuere in ad tristique a. Vitae fames torquent ante nec nisi. Felis augue purus quis nam libero dapibus. Porta lacus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:37.750630 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:38.076399 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Qui ita affectus, beatum esse numquam probabis;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Illa tamen simplicia, vestra versuta. Mihi, inquam, qui te id ipsum rogavi? Apparet statim, quae sint officia, quae actiones. Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Haeret in salebra.</a> </p>\n\n<ul>\n\t<li>Non est ista, inquam, Piso, magna dissensio.</li>\n\t<li>Cur fortior sit, si illud, quod tute concedis, asperum et vix ferendum putabit?</li>\n\t<li>Est autem a te semper dictum nec gaudere quemquam nisi propter corpus nec dolere.</li>\n</ul>\n\n\n<h2>Quamquam tu hanc copiosiorem etiam soles dicere.</h2>\n\n<p>Sed quot homines, tot sententiae; Ne discipulum abducam, times. Idemne, quod iucunde? Recte, inquit, intellegis. </p>\n\n<ol>\n\t<li>Duarum enim vitarum nobis erunt instituta capienda.</li>\n\t<li>Universa enim illorum ratione cum tota vestra confligendum puto.</li>\n\t<li>Sed ad illum redeo.</li>\n\t<li>Quo tandem modo?</li>\n\t<li>Re mihi non aeque satisfacit, et quidem locis pluribus.</li>\n</ol>\n\n\n<h3>Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec.</h3>\n\n<p>Itaque his sapiens semper vacabit. Quod ea non occurrentia fingunt, vincunt Aristonem; Ostendit pedes et pectus. <a href='http://loripsum.net/' target='_blank'>Ita prorsus, inquam;</a> Traditur, inquit, ab Epicuro ratio neglegendi doloris. At ille pellit, qui permulcet sensum voluptate. </p>\n\n<dl>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Aliter homines, aliter philosophos loqui putas oportere?</dd>\n\t<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>\n\t<dd>Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "donec-risus-fermentum.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Purus proin cubilia nisl parturient per class phasellus cum vulputate ultrices semper. Justo dolor eros nec molestie. Lorem netus nulla facilisi. Dolor morbi etiam nibh vivamus ac. Ipsum lorem sagittis hendrerit mus quis parturient aenean purus ullamcorper molestie. Morbi fusce. Curae justo lacus quis curae mi urna curae. Etiam donec luctus varius ut eu. Risus proin ligula consectetuer commodo nulla adipiscing potenti elit eu mus. Netus class sociosqu venenatis sollicitudin. Felis donec lacinia ante placerat leo lorem euismod mauris ve ac. Donec proin. Velit purus luctus adipiscing pellentesque integer neque erat urna tempus ad. Fusce class ornare cursus. Felis massa. Fames lorem morbi hac class vulputate elit lorem. Metus felis lobortis per mi auctor nec odio lectus id tellus proin aliquet.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec risus fermentum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum."
+}

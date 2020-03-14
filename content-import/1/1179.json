@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:58.482221 GMT-4",
+    "_uid": "b97dfb0800c048cdac33a5e9a23e10d0",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "justo-porta-nisl-elementum-per-enim-inceptos-magna-mi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:58.816107 GMT-4",
+    "title": "Justo porta nisl elementum per enim inceptos magna mi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus ipsum duis mattis parturient sollicitudin egestas eget faucibus ad.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Lorem risus suscipit ipsum ut sit. Lacus proin. Etiam morbi neque leo vestibulum sociis est iaculis. Dolor magna. Neque fusce dictum parturient nulla quisque. Felis porta morbi montes. Lacus justo a viverra in dui erat inceptos. Proin neque sem elit vestibulum habitasse urna nam non nam. Metus etiam faucibus per lacinia eget molestie. Curae massa odio malesuada faucibus tortor litora purus ut. Class porta sem quis ante integer in ve venenatis fringilla massa ac. Purus augue dictumst per neque fusce libero ac neque venenatis. Purus dolor ligula torquent penatibus. Risus augue feugiat eni ut. Fames massa dui nibh vestibulum sociis dis lacinia mi nisl accumsan vitae proin.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:58.489079 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:58.810907 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>At enim hic etiam dolore.</a> Quorum altera prosunt, nocent altera. Iubet igitur nos Pythius Apollo noscere nosmet ipsos. Ita prorsus, inquam; </p>\n\n<p>Duo Reges: constructio interrete. Itaque fecimus. Verba tu fingas et ea dicas, quae non sentias? </p>\n\n<p>Vide, quantum, inquam, fallare, Torquate. Minime vero, inquit ille, consentit. Conferam avum tuum Drusum cum C. Avaritiamne minuis? An nisi populari fama? Recte, inquit, intellegis. Tamen a proposito, inquam, aberramus. </p>\n\n<ul>\n\t<li>Istam voluptatem, inquit, Epicurus ignorat?</li>\n\t<li>Quantum Aristoxeni ingenium consumptum videmus in musicis?</li>\n\t<li>Comprehensum, quod cognitum non habet?</li>\n\t<li>Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio.</li>\n\t<li>Qui non moveatur et offensione turpitudinis et comprobatione honestatis?</li>\n\t<li>Sed haec quidem liberius ab eo dicuntur et saepius.</li>\n</ul>\n\n\n<ol>\n\t<li>Omnia contraria, quos etiam insanos esse vultis.</li>\n\t<li>Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.</li>\n\t<li>Hoc ne statuam quidem dicturam pater aiebat, si loqui posset.</li>\n\t<li>Sed existimo te, sicut nostrum Triarium, minus ab eo delectari, quod ista Platonis, Aristoteli, Theophrasti orationis ornamenta neglexerit.</li>\n\t<li>Erit enim instructus ad mortem contemnendam, ad exilium, ad ipsum etiam dolorem.</li>\n\t<li>Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Recte dicis;</dfn></dt>\n\t<dd>Quamvis enim depravatae non sint, pravae tamen esse possunt.</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Magni enim aestimabat pecuniam non modo non contra leges, sed etiam legibus partam.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Quod non faceret, si in voluptate summum bonum poneret.</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Nec vero sum nescius esse utilitatem in historia, non modo voluptatem.</dd>\n\t<dt><dfn>Si longus, levis;</dfn></dt>\n\t<dd>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "justo-porta-nisl-elementum-per-enim-inceptos-magna-mi.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Dolor metus. Class augue faucibus nisl est nisl. Ipsum lorem. Magna augue. Metus purus litora turpis augue conubia eni tempus felis per diam sed vitae nam ipsum donec platea porttitor. Justo nulla a commodo sapien eget eros viverra eu. Ipsum augue varius dui mi consectetuer varius. Neque curae posuere nam ligula nascetur. Dolor nulla. Netus metus eget. Lacus class. Donec etiam euismod cum. Porta nulla aliquam amet varius et est imperdiet eros hymenaeos volutpat tortor nullam. Ipsum lacus nibh quisque ultricies interdum lorem quisque vehicula arcu quis. Vitae netus dis natoque nibh.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo porta nisl elementum per enim inceptos magna mi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./justo-porta-nisl-elementum-per-enim-inceptos-magna-mi."
+}

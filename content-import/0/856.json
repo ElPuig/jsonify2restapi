@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:15.457155 GMT-4",
+    "_uid": "625cd48901ce4d488573babe4904fa46",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "curae-metus-iaculis-cubilia-magnis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:15.785693 GMT-4",
+    "title": "Curae metus iaculis cubilia magnis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Augue ipsum nullam urna.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Vitae lacus. Neque class nec justo sit. Lacus justo non risus sapien urna eu eleifend tortor rutrum hac parturient neque rhoncus. Velit class. Massa donec aenean tempus eni vivamus a suspendisse nam nibh quis morbi purus dis arcu. Risus purus. Donec massa ornare viverra.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:15.464259 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:15.781086 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At, si voluptas esset bonum, desideraret. Hoc Hieronymus summum bonum esse dixit. Quamquam tu hanc copiosiorem etiam soles dicere. Duo Reges: constructio interrete. </p>\n\n<p>Claudii libidini, qui tum erat summo ne imperio, dederetur. Venit ad extremum; Quod vestri non item. Dici enim nihil potest verius. </p>\n\n<dl>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Conferam tecum, quam cuique verso rem subicias;</dd>\n\t<dt><dfn>Est, ut dicis, inquam.</dfn></dt>\n\t<dd>Videmus igitur ut conquiescere ne infantes quidem possint.</dd>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Quamquam tu hanc copiosiorem etiam soles dicere.</dd>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>Quae cum magnifice primo dici viderentur, considerata minus probabantur.</dd>\n</dl>\n\n\n<ul>\n\t<li>Ut necesse sit omnium rerum, quae natura vigeant, similem esse finem, non eundem.</li>\n\t<li>Quamquam haec quidem praeposita recte et reiecta dicere licebit.</li>\n\t<li>Vadem te ad mortem tyranno dabis pro amico, ut Pythagoreus ille Siculo fecit tyranno?</li>\n\t<li>Quamvis enim depravatae non sint, pravae tamen esse possunt.</li>\n\t<li>Quid enim necesse est, tamquam meretricem in matronarum coetum, sic voluptatem in virtutum concilium adducere?</li>\n</ul>\n\n\n<ol>\n\t<li>Itaque hic ipse iam pridem est reiectus;</li>\n\t<li>Sed vos squalidius, illorum vides quam niteat oratio.</li>\n</ol>\n\n\n<p>Teneo, inquit, finem illi videri nihil dolere. Quam illa ardentis amores excitaret sui! Cur tandem? Sed ad bona praeterita redeamus. <a href='http://loripsum.net/' target='_blank'>Beatus autem esse in maximarum rerum timore nemo potest.</a> Egone quaeris, inquit, quid sentiam? An haec ab eo non dicuntur? Ea possunt paria non esse. Nihil enim hoc differt. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-metus-iaculis-cubilia-magnis.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Donec fusce augue varius class scelerisque dui. Class dolor. Justo morbi cum eros sit. Nulla fames suscipit ve primis gravida id enim lorem augue suspendisse sem. Risus morbi class urna sociis et varius non cubilia torquent et. Justo metus leo urna amet nunc id eros inceptos malesuada enim dui dolor. Vitae metus. Velit neque cubilia nonummy semper. Nulla fusce. Fusce netus a elit. Netus vitae cursus arcu etiam fermentum nisl viverra fusce sit dignissim nulla. Magna massa. Fames dolor placerat vestibulum lacinia erat hac nec pellentesque in. Lacus neque phasellus quis pretium augue natoque cum id purus fusce. Justo dolor. Proin donec egestas aliquam arcu eleifend a interdum hac porta felis placerat. Fames lacus sapien fusce curabitur dis per. Fusce class a nonummy in id. Class morbi suspendisse volutpat ridiculus volutpat bibendum montes luctus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae metus iaculis cubilia magnis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./curae-metus-iaculis-cubilia-magnis."
+}

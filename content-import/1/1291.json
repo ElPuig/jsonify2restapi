@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:59.828921 GMT-4",
+    "_uid": "89bc199985da47df925983165645883a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "augue-justo-vel-cum-non-per-hac-ut-curae-primis-dignissim-laoreet-ipsum-eni.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:59.887096 GMT-4",
+    "title": "Augue justo vel cum non per hac ut curae primis dignissim laoreet ipsum eni.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Fames purus scelerisque eget hymenaeos eni viverra eu.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Ipsum morbi ligula dignissim eleifend. Augue proin duis a fusce conubia lorem egestas blandit euismod molestie euismod. Class netus a blandit ve per ve a. Justo metus vitae magnis eros odio nonummy nibh. Magna ipsum. Purus proin velit morbi massa rutrum nisl taciti nam auctor ligula donec risus. Etiam magna. Nulla metus. Velit felis eni metus sem malesuada congue facilisi pede egestas. Class lorem sit etiam cras mollis aliquet montes. Justo fames lobortis nam erat enim eget mus fusce parturient erat nullam ad. Etiam lacus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.286624 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.614922 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "vulputate..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "augue-justo-vel-cum-non-per-hac-ut-curae-primis-dignissim-laoreet-ipsum-eni.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lorem ipsum nec velit tempor tristique. Class risus platea netus iaculis. Proin risus luctus metus aliquam natoque fermentum nisi vel ipsum elementum vehicula. Justo velit. Proin netus a amet nulla. Augue porta a mollis tristique lorem malesuada parturient odio felis tincidunt per fermentum sociis. Etiam netus feugiat litora elementum. Class lacus lobortis phasellus a sed hendrerit placerat ornare amet dignissim risus. Purus proin urna tincidunt sociis a parturient. Velit morbi. Augue magna montes tempus etiam senectus ve taciti. Massa vitae suspendisse vel. Porta purus hac felis. Magna purus. Augue fusce curae bibendum curabitur. Magna donec suscipit lorem ad. Morbi porta venenatis feugiat enim ipsum suspendisse in sapien dictumst ipsum in etiam id amet turpis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Augue justo vel cum non per hac ut curae primis dignissim laoreet ipsum eni.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./augue-justo-vel-cum-non-per-hac-ut-curae-primis-dignissim-laoreet-ipsum-eni."
+}

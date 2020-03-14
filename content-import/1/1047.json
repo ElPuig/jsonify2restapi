@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Tecum optime, deinde etiam cum mediocri amico.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si enim ad populum me vocas, eum. Tum Piso: Quoniam igitur aliquid omnes, quid Lucius noster? Huius ego nunc auctoritatem sequens idem faciam. </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Sed vos squalidius, illorum vides quam niteat oratio. At enim hic etiam dolore. Addidisti ad extremum etiam indoctum fuisse. Illi enim inter se dissentiunt. Si longus, levis dictata sunt. Sed ad illum redeo. </p>\n\n<ul>\n\t<li>Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus;</li>\n\t<li>Si alia sentit, inquam, alia loquitur, numquam intellegam quid sentiat;</li>\n\t<li>Beatus autem esse in maximarum rerum timore nemo potest.</li>\n\t<li>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</li>\n\t<li>Partim cursu et peragratione laetantur, congregatione aliae coetum quodam modo civitatis imitantur;</li>\n\t<li>Consequens enim est et post oritur, ut dixi.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Ita relinquet duas, de quibus etiam atque etiam consideret.</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Non igitur de improbo, sed de callido improbo quaerimus, qualis Q.</dd>\n\t<dt><dfn>Etiam beatissimum?</dfn></dt>\n\t<dd>Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec.</dd>\n\t<dt><dfn>Facete M.</dfn></dt>\n\t<dd>Quamquam non negatis nos intellegere quid sit voluptas, sed quid ille dicat.</dd>\n</dl>\n\n\n<ol>\n\t<li>Mihi autem nihil tam perspicuum videtur, quam has sententias eorum philosophorum re inter se magis quam verbis dissidere;</li>\n\t<li>Illi enim inter se dissentiunt.</li>\n\t<li>Aliter enim nosmet ipsos nosse non possumus.</li>\n</ol>\n\n\n<p>Maximas vero virtutes iacere omnis necesse est voluptate dominante. Non semper, inquam; Beatus autem esse in maximarum rerum timore nemo potest. <a href='http://loripsum.net/' target='_blank'>Frater et T.</a> Negare non possum. Quod ea non occurrentia fingunt, vincunt Aristonem; </p>\n\n",
+    "creation_date": "2018/10/26 18:01:45.914919 GMT-4",
+    "imageCaption": "Augue dolor libero adipiscing massa quis mus a lectus tincidunt habitasse enim suspendisse lacinia.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "vitae-porta.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:46.244599 GMT-4",
+    "title": "Vitae porta.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem fames montes elit sapien pretium magnis nisi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Magna etiam blandit nascetur nisi cubilia lorem at. Class metus vel risus nec orci gravida duis. Morbi fames ullamcorper eleifend consequat magnis eni sociis. Fusce metus faucibus tincidunt. Morbi felis. Metus dolor lectus vel tempor conubia urna mi class eni. Donec proin sem massa consequat ultrices dictum. Fusce netus mus blandit mattis neque condimentum. Massa porta erat. Risus purus odio sodales quam metus habitasse. Fames class convallis per. Risus fames dis. Vitae risus non quam per. Nulla felis primis scelerisque fames elementum etiam eu fames.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:45.918843 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:46.240523 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "vitae-porta.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa nulla amet lacus pulvinar felis feugiat. Class fusce. Magna fusce ligula dolor vulputate suspendisse fermentum ante. Lorem vitae laoreet ve donec eros nam justo phasellus gravida risus in quam magna curabitur nam. Nulla netus. Neque class. Justo risus luctus in senectus. Etiam magna nascetur parturient posuere amet metus. Lacus vitae potenti montes in aliquam cras pellentesque dictumst felis dis elit ad. Class netus auctor accumsan nisl arcu posuere et felis. Massa ipsum velit auctor id. Ipsum fames a tortor nisi ornare. Metus magna cum eros curae. Nulla neque morbi sit eros nisl nam eu porta. Felis class bibendum erat et lacus suscipit mus taciti laoreet eu placerat.",
+    "_content_type_description": "text/plain",
+    "_uid": "266ac2db85134e618fd8374079596000",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae porta.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 63,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./vitae-porta."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:30.707419 GMT-4",
+    "_uid": "9550c1fcf6b54ec0924d92e82b4ac8bc",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-massa.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:30.757897 GMT-4",
+    "title": "Neque massa.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Ipsum risus mattis per pede sollicitudin ac egestas duis urna morbi nunc.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Ipsum velit ipsum sem. Dolor magna. Lacus nulla hendrerit nulla ut. Fusce metus tortor nostra pulvinar aliquet euismod. Metus risus pharetra pede in nunc aliquet in. Risus fames mattis ut habitant inceptos tempus erat. Dolor felis bibendum adipiscing tortor nulla quis pretium commodo. Etiam dolor metus per senectus donec eu. Class metus lacus amet convallis eros hac blandit fames quis sapien iaculis arcu a. Neque fusce dolor nulla. Netus fames nec amet. Lorem velit ligula ridiculus pharetra tempor. Velit donec nunc leo at class mauris. Lacus purus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "nisl..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "neque-massa.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Netus magna arcu habitasse id auctor fringilla feugiat felis dis. Vitae proin class vulputate imperdiet donec nisl ullamcorper blandit sollicitudin convallis tempor. Morbi donec cursus sociosqu parturient. Justo vitae etiam quisque vel ut urna euismod potenti magna nunc. Dolor curae pretium odio ut venenatis felis dictum eu. Etiam proin a platea. Etiam vitae hymenaeos netus in nullam convallis at felis pharetra dis laoreet. Ipsum etiam a blandit sociis enim pellentesque adipiscing enim varius quisque dui ultrices dignissim. Netus massa per taciti semper ac ve consequat a morbi. Proin purus lectus senectus ut justo ad taciti. Curae fusce donec fusce cursus id. Fames risus primis etiam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Neque massa.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./neque-massa."
+}

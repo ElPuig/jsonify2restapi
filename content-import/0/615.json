@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:16.369570 GMT-4",
+    "_uid": "00203ffbb6f84ca0a3899b24a015bcdf",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "augue-justo-maecenas-nulla-hymenaeos.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:16.700721 GMT-4",
+    "title": "Augue justo maecenas nulla hymenaeos.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Nulla proin magna litora morbi imperdiet netus vel sem blandit varius orci egestas nisi diam eu dictumst viverra.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Neque etiam cum elit lobortis massa. Netus purus netus arcu blandit eu sed elementum. Fusce felis. Dolor neque cursus pharetra. Justo magna platea dis cubilia etiam et duis vitae. Magna vitae magnis pede proin ac hac quis odio dignissim dictumst tortor. Justo class platea erat nibh mattis pharetra dui euismod praesent. Class magna nunc aptent sociosqu potenti taciti aptent quam.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:16.374738 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:16.695652 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Non laboro, inquit, de nomine.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quorum sine causa fieri nihil putandum est. Vitae autem degendae ratio maxime quidem illis placuit quieta. Que Manilium, ab iisque M. Quod iam a me expectare noli. Ut id aliis narrare gestiant? </p>\n\n<ul>\n\t<li>Cenasti in vita numquam bene, cum omnia in ista Consumis squilla atque acupensere cum decimano.</li>\n\t<li>Si qua in iis corrigere voluit, deteriora fecit.</li>\n\t<li>Illa videamus, quae a te de amicitia dicta sunt.</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Dicimus aliquem hilare vivere;</a> Duo Reges: constructio interrete. Audeo dicere, inquit. Quid iudicant sensus? Maximus dolor, inquit, brevis est. Cur deinde Metrodori liberos commendas? </p>\n\n<ol>\n\t<li>Dici enim nihil potest verius.</li>\n\t<li>Non enim, si omnia non sequebatur, idcirco non erat ortus illinc.</li>\n\t<li>Sed est forma eius disciplinae, sicut fere ceterarum, triplex: una pars est naturae, disserendi altera, vivendi tertia.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Magna laus.</dfn></dt>\n\t<dd>Quae hic rei publicae vulnera inponebat, eadem ille sanabat.</dd>\n\t<dt><dfn>Haec dicuntur inconstantissime.</dfn></dt>\n\t<dd>Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi partes, secundae corporis.</dd>\n\t<dt><dfn>Tubulo putas dicere?</dfn></dt>\n\t<dd>Quis contra in illa aetate pudorem, constantiam, etiamsi sua nihil intersit, non tamen diligat?</dd>\n\t<dt><dfn>An eiusdem modi?</dfn></dt>\n\t<dd>Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat.</dd>\n</dl>\n\n\n<p>An hoc usque quaque, aliter in vita? Velut ego nunc moveor. Neutrum vero, inquit ille. Cave putes quicquam esse verius. Neutrum vero, inquit ille. Sed tu istuc dixti bene Latine, parum plane. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "augue-justo-maecenas-nulla-hymenaeos.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Ipsum netus elit. Etiam nulla a odio nulla donec. Dolor felis vehicula elit pede ultricies est pulvinar facilisis urna. Porta netus. Fusce netus. Ipsum lacus platea ipsum fringilla placerat netus elementum quam vivamus odio non. Felis risus. Dolor donec fames nunc aliquam. Massa magna erat blandit posuere nascetur fames quis a enim ac nulla. Magna fames sagittis ac per ipsum dui dignissim erat. Lorem massa eleifend. Velit etiam eros ac purus montes velit molestie. Lacus etiam a ligula arcu condimentum mus eu justo. Ipsum vitae volutpat justo a lectus nisl dapibus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue justo maecenas nulla hymenaeos.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./augue-justo-maecenas-nulla-hymenaeos."
+}

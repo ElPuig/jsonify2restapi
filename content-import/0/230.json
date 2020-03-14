@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/07 23:59:43.757946 GMT-4",
+    "endDate": "2018/10/08 21:59:16.929235 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Eam tum adesse, cum dolor omnis absit;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Conferam avum tuum Drusum cum C. <code>Stoici scilicet.</code> Quamquam te quidem video minime esse deterritum. Sed quanta sit alias, nunc tantum possitne esse tanta. Isto modo ne improbos quidem, si essent boni viri. Duo Reges: constructio interrete. </p>\n\n<ol>\n\t<li>Hanc se tuus Epicurus omnino ignorare dicit quam aut qualem esse velint qui honestate summum bonum metiantur.</li>\n\t<li>Isto modo ne improbos quidem, si essent boni viri.</li>\n</ol>\n\n\n<pre>\nEx quo intellegi debet homini id esse in bonis ultimum,\nsecundum naturam vivere, quod ita interpretemur: vivere ex\nhominis natura undique perfecta et nihil requirente.\n\nZenonis est, inquam, hoc Stoici.\n</pre>\n\n\n<p>Quid enim? Quam ob rem tandem, inquit, non satisfacit? Sed quid sentiat, non videtis. Illi enim inter se dissentiunt. At certe gravius. Quod totum contra est. </p>\n\n<dl>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt;</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Ita finis bonorum existit secundum naturam vivere sic affectum, ut optime is affici possit ad naturamque accommodatissime.</dd>\n\t<dt><dfn>Ita credo.</dfn></dt>\n\t<dd>Duo enim genera quae erant, fecit tria.</dd>\n</dl>\n\n\n<ul>\n\t<li>Istam voluptatem perpetuam quis potest praestare sapienti?</li>\n\t<li>Primum cur ista res digna odio est, nisi quod est turpis?</li>\n\t<li>Ex quo illud efficitur, qui bene cenent omnis libenter cenare, qui libenter, non continuo bene.</li>\n\t<li>Ut proverbia non nulla veriora sint quam vestra dogmata.</li>\n</ul>\n\n\n<p>Occultum facinus esse potuerit, gaudebit; Haec dicuntur inconstantissime. <code>Inde sermone vario sex illa a Dipylo stadia confecimus.</code> Quod quidem iam fit etiam in Academia. </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:35.596579 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "c263bedd687f41f3a3ecf8e7eb56a5c0",
+    "expirationDate": "None",
+    "contactName": "Massa lorem.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Velit lorem odio scelerisque dis.",
+    "id": "class-porta-cum-nisl-risus-potenti-eget-id-vitae-dui-nibh-sem.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:41.226387 GMT-4",
+    "title": "Class porta cum nisl risus potenti eget id vitae dui nibh sem.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Augue curae amet ullamcorper commodo consectetuer tristique massa metus hac.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Dolor metus. Fusce proin euismod rutrum dui arcu platea. Magna neque maecenas id. Donec netus gravida. Morbi etiam. Curae fusce ipsum hac diam sociosqu euismod dapibus pede. Metus etiam. Risus purus dui quisque cras nunc convallis platea accumsan. Dolor fusce eleifend enim tempus. Curae etiam neque platea amet commodo quis. Ipsum augue etiam sit nisi. Proin etiam non euismod at nec pede erat aliquam ve aliquet odio. Felis lacus. Donec lorem eni urna dapibus ad. Vitae netus tempus at quis torquent adipiscing cursus id nibh ac.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:35.600714 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:41.240663 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "class-porta-cum-nisl-risus-potenti-eget-id-vitae-dui-nibh-sem.",
+    "modification_date": "2018/10/26 13:51:41.226673 GMT-4",
+    "language": "en",
+    "rights": "Morbi purus aptent condimentum lorem. Metus justo pulvinar est nulla. Fusce netus nulla iaculis sodales fermentum dictumst sapien platea. Velit augue mus parturient donec cubilia. Fames metus nec nostra sociis faucibus scelerisque interdum. Augue velit semper ad vitae venenatis accumsan magna elementum. Neque lorem duis vitae mattis nostra. Augue etiam. Proin class urna. Velit fusce a odio felis. Neque magna vivamus sed et sollicitudin eget viverra.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class porta cum nisl risus potenti eget id vitae dui nibh sem.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/class-porta-cum-nisl-risus-potenti-eget-id-vitae-dui-nibh-sem."
+}

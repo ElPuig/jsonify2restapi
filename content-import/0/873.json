@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:22.446732 GMT-4",
+    "_uid": "5ede9b0b336d467d986b2648d104f2c5",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-class-velit-cubilia-lectus-sit-aliquet-ad.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:22.496371 GMT-4",
+    "title": "Curae class velit cubilia lectus sit aliquet ad.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Nulla risus mattis facilisi ornare velit vestibulum eros etiam vivamus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Fusce nulla felis praesent malesuada sollicitudin parturient ante mauris luctus integer elit in. Fames magna. Proin vitae cras mattis. Fusce proin magnis augue mi. Risus ipsum dictumst porta lacinia gravida urna et odio vulputate mauris. Purus vitae sapien ornare netus dui urna lobortis scelerisque pharetra pretium proin sit. Proin velit a aliquet primis at. Netus justo. Purus nulla. Neque curae scelerisque praesent risus facilisis congue pede eget.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:22.449899 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:22.492007 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-class-velit-cubilia-lectus-sit-aliquet-ad.",
+    "remoteUrl": "Purus%20magna%20nulla%20a%20sapien%20cras%20scelerisque%20mi%20rutrum%20venenatis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna proin. Fames netus magnis turpis dolor nulla suscipit. Ipsum etiam aliquam dui ultrices curabitur nibh est in consectetuer nisl velit. Metus porta. Neque felis tempor justo at. Proin lacus sociosqu massa mi et elit mi amet habitasse. Proin nulla pede gravida sit in auctor. Fames risus lorem dolor blandit tempus mus nunc proin purus mattis dignissim torquent porta rutrum. Neque metus cum cras. Etiam massa mollis convallis penatibus morbi fusce enim. Metus risus cursus. Magna vitae dis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae class velit cubilia lectus sit aliquet ad.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 51,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./curae-class-velit-cubilia-lectus-sit-aliquet-ad."
+}

@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:42.358764 GMT-4",
+    "_uid": "70375f480bb241ef80e7d3d6aed21cec",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-class-dui-massa.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:42.400538 GMT-4",
+    "title": "Magna class dui massa.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Porta fusce viverra mattis purus quisque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Metus felis magnis risus ut tempor hymenaeos porta ante sapien pharetra convallis eget turpis purus parturient. Fames magna. Donec magna blandit vel nostra conubia. Purus lorem a elit id donec ac. Porta lorem orci erat diam magna. Augue metus proin nam nibh. Nulla class condimentum nec turpis suscipit orci rhoncus. Fusce dolor convallis fringilla risus. Vitae neque aptent vitae blandit ut. Morbi ipsum. Proin fusce metus quam suspendisse posuere dui tempus ad ac. Proin risus libero felis adipiscing amet ornare adipiscing sollicitudin. Netus donec sed ante cum curae fermentum sed pede. Nulla fames a. Augue morbi rutrum at placerat blandit viverra quis.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:42.362154 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:42.397082 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-class-dui-massa.",
+    "remoteUrl": "Risus%20etiam%20sapien%20sollicitudin%20lacinia%20amet%20congue%20vestibulum%20porta%20arcu%20duis%20vel.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa proin magna. Magna velit nunc elit. Augue felis. Justo curae dolor primis netus et porta ac sem scelerisque quisque. Netus purus sociis ante odio nam platea lectus interdum felis phasellus. Porta donec nulla sagittis vel at mollis habitasse primis sociosqu condimentum. Justo magna faucibus hymenaeos et neque mi lorem. Class netus feugiat aliquam curabitur. Proin massa sociis sollicitudin posuere tristique. Proin nulla semper ullamcorper dolor tortor accumsan diam ut. Porta neque velit eget.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna class dui massa.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 50,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./magna-class-dui-massa."
+}

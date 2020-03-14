@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:59.427004 GMT-4",
+    "_uid": "04fd873e28574501b5012632810e8229",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "risus-class.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:59.757882 GMT-4",
+    "title": "Risus class.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus ipsum ante gravida mi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Magna porta libero morbi adipiscing amet class ante facilisis platea a cubilia ut ac. Netus donec lectus et. Porta fusce habitasse penatibus vitae. Metus dolor fames ipsum. Fusce donec a duis donec tristique eleifend mollis. Ipsum velit metus cum vitae morbi elit cubilia ultricies. Vitae donec. Massa metus lacinia varius cras lectus suscipit. Lorem nulla dapibus molestie ac hac ve tortor mus auctor a. Dolor lorem maecenas eu ornare pellentesque viverra magna eu neque. Massa vitae lacus varius. Velit nulla nisl cursus natoque. Purus justo. Morbi netus volutpat morbi ut mollis cubilia. Lacus nulla.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:59.433032 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:59.752863 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>An quod ita callida est, ut optime possit architectari voluptates?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed residamus, inquit, si placet. <a href='http://loripsum.net/' target='_blank'>Huius ego nunc auctoritatem sequens idem faciam.</a> Duo Reges: constructio interrete. Id mihi magnum videtur. </p>\n\n<h2>Si mala non sunt, iacet omnis ratio Peripateticorum.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>Venit ad extremum;</a> Compensabatur, inquit, cum summis doloribus laetitia. Optime, inquam. </p>\n\n<ol>\n\t<li>Dicet pro me ipsa virtus nec dubitabit isti vestro beato M.</li>\n\t<li>Quas enim kakaw Graeci appellant, vitia malo quam malitias nominare.</li>\n\t<li>Nam et a te perfici istam disputationem volo, nec tua mihi oratio longa videri potest.</li>\n\t<li>Non ego tecum iam ita iocabor, ut isdem his de rebus, cum L.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>An eiusdem modi?</dfn></dt>\n\t<dd>Ut alios omittam, hunc appello, quem ille unum secutus est.</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Quamquam in hac divisione rem ipsam prorsus probo, elegantiam desidero.</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec.</dd>\n</dl>\n\n\n<p>Praeteritis, inquit, gaudeo. Sed quod proximum fuit non vidit. Suo enim quisque studio maxime ducitur. Qualem igitur hominem natura inchoavit? </p>\n\n<ul>\n\t<li>Cum autem assumpta rat\u00edo est, tanto in dominatu locatur, ut omnia illa prima naturae hulus tutelae subiciantur.</li>\n\t<li>Hanc ergo intuens debet institutum illud quasi signum absolvere.</li>\n\t<li>Quod autem principium officii quaerunt, melius quam Pyrrho;</li>\n\t<li>Philosophi autem in suis lectulis plerumque moriuntur.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "risus-class.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Proin etiam. Risus morbi vel sed sollicitudin ipsum id aptent per gravida ac eget dignissim. Metus purus congue tortor sociosqu pulvinar neque facilisi class luctus. Metus netus. Massa neque gravida habitant vitae a erat adipiscing luctus mi. Porta curae ante ad pede condimentum integer condimentum nibh semper mi. Lacus magna congue laoreet lacinia odio at pellentesque rhoncus nulla iaculis. Ipsum donec. Fames porta a natoque eu aptent dictumst convallis a risus. Fames fusce sociis ad porta scelerisque dis enim elit mus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Risus class.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./risus-class."
+}

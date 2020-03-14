@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:19.655624 GMT-4",
+    "_uid": "185666a34d604544b60e8f029e73ca99",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "proin-ipsum.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:19.738666 GMT-4",
+    "title": "Proin ipsum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Lorem massa.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Velit proin arcu eleifend consectetuer tempus mi mollis in habitant varius. Felis donec varius proin. Etiam fusce cubilia aliquam litora mi. Justo fames dapibus facilisi taciti sapien vel elit consequat per nunc. Fames nulla purus euismod nibh accumsan vehicula eu taciti torquent class. Proin fusce duis nunc sed ve erat suspendisse lacinia dis ve tellus. Fusce donec nibh senectus hac nisi leo consectetuer rutrum proin risus netus. Proin neque ultricies et phasellus a ultricies ipsum tristique tortor sit libero taciti elementum tincidunt enim augue. Augue risus a magnis diam scelerisque aliquam vitae ad justo cras. Fusce vitae.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.205244 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.565584 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "vitae..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "proin-ipsum.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla donec vivamus in mus nulla dui enim vestibulum curabitur. Risus porta auctor vulputate facilisi aenean egestas. Lacus lorem porttitor integer sociis ut pede facilisi integer eget non viverra nam. Lorem neque nam nunc tortor. Justo ipsum quam. Porta fames litora quam mi sollicitudin natoque. Metus neque diam ipsum egestas ad facilisi gravida. Fames etiam cras platea sem elit cras ad nulla. Porta ipsum facilisi ve mauris class ve. Dolor massa odio volutpat primis mauris sodales. Netus proin diam cubilia quam mi. Proin dolor vehicula enim. Massa curae. Netus velit hac dolor venenatis libero adipiscing pharetra elit aliquam in sociosqu. Vitae porta. Fusce fames. Proin augue cum netus non nunc. Purus morbi ullamcorper inceptos feugiat felis et.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Proin ipsum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./proin-ipsum."
+}

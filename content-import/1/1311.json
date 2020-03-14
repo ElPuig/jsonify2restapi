@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/07 09:12:52.693455 GMT-4",
+    "endDate": "2018/10/07 15:36:27.209160 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Sic enim censent, oportunitatis esse beate vivere.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Sint ista Graecorum; Nunc agendum est subtilius. Ut id aliis narrare gestiant? <a href='http://loripsum.net/' target='_blank'>Non autem hoc: igitur ne illud quidem.</a> Non est igitur voluptas bonum. Quid est enim aliud esse versutum? </p>\n\n<ul>\n\t<li>Quid censes in Latino fore?</li>\n\t<li>Qui enim voluptatem ipsam contemnunt, iis licet dicere se acupenserem maenae non anteponere.</li>\n\t<li>Piso, familiaris noster, et alia multa et hoc loco Stoicos irridebat: Quid enim?</li>\n\t<li>Haec qui audierit, ut ridere non curet, discedet tamen nihilo firmior ad dolorem ferendum, quam venerat.</li>\n</ul>\n\n\n<ol>\n\t<li>Nihil ad rem! Ne sit sane;</li>\n\t<li>Illum mallem levares, quo optimum atque humanissimum virum, Cn.</li>\n\t<li>Quid, si reviviscant Platonis illi et deinceps qui eorum auditores fuerunt, et tecum ita loquantur?</li>\n\t<li>Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta.</li>\n</ol>\n\n\n<h2>Sic, et quidem diligentius saepiusque ista loquemur inter nos agemusque communiter.</h2>\n\n<p>Haeret in salebra. Non est igitur voluptas bonum. Itaque his sapiens semper vacabit. Ut id aliis narrare gestiant? Itaque ab his ordiamur. Zenonis est, inquam, hoc Stoici. <a href='http://loripsum.net/' target='_blank'>Sullae consulatum?</a> <a href='http://loripsum.net/' target='_blank'>Praeclarae mortes sunt imperatoriae;</a> </p>\n\n<dl>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia;</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Nescio quo modo praetervolavit oratio.</dd>\n\t<dt><dfn>Scrupulum, inquam, abeunti;</dfn></dt>\n\t<dd>Hoc dictum in una re latissime patet, ut in omnibus factis re, non teste moveamur.</dd>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>Gerendus est mos, modo recte sentiat.</dd>\n\t<dt><dfn>Perge porro;</dfn></dt>\n\t<dd>Quare conare, quaeso.</dd>\n</dl>\n\n\n<p>Rationis enim perfectio est virtus; Tum ille timide vel potius verecunde: Facio, inquit. Non potes, nisi retexueris illa. <a href='http://loripsum.net/' target='_blank'>Inquit, dasne adolescenti veniam?</a> Nam quid possumus facere melius? Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 18:04:14.185846 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "d400e8a23ac44eba86f34908199c86a8",
+    "expirationDate": "None",
+    "contactName": "Fames donec a.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Vitae massa per eros sem mattis a integer et mattis pretium.",
+    "id": "curae-morbi-vel-odio.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Curae morbi vel odio.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Velit lorem dictum ipsum ornare cursus natoque eu sapien.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Velit felis phasellus aliquet sem cursus proin porta justo metus torquent porta mi vel. Neque morbi varius proin inceptos elit tempor commodo conubia accumsan velit proin risus. Purus ipsum netus felis lacus nascetur nulla. Fames class. Etiam justo arcu cubilia a suspendisse. Velit fames amet vehicula suspendisse molestie posuere viverra diam nibh sed amet in. Fusce porta platea. Augue neque vitae sem nisl ut nisi lobortis tempus gravida dapibus quisque suscipit. Lorem fames hac. Risus fusce netus nibh viverra pede est. Velit neque mollis lacus commodo nostra risus adipiscing sagittis potenti. Lacus curae mattis proin rutrum mi ad eni. Curae fames eni. Curae magna. Netus donec urna gravida imperdiet leo pellentesque risus eget lobortis parturient. Curae magna montes purus lacus lorem magnis donec volutpat. Donec lacus. Velit augue. Neque porta tellus ornare class accumsan purus fermentum nam.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:14.189404 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:14.786082 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "curae-morbi-vel-odio.",
+    "modification_date": "2018/10/26 18:04:14.790195 GMT-4",
+    "language": "en",
+    "rights": "Neque magna felis suspendisse volutpat. Nulla vitae cum parturient vestibulum mi molestie erat. Massa curae. Vitae lacus primis in lobortis ipsum velit aenean convallis ut tellus. Fusce velit diam suscipit. Etiam massa condimentum sem. Purus curae condimentum placerat hendrerit eget. Metus nulla libero dictumst libero adipiscing neque odio pretium. Vitae nulla. Vitae dolor. Etiam justo congue ac elit pulvinar vel augue porta.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae morbi vel odio.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 13,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./curae-morbi-vel-odio."
+}

@@ -1,0 +1,77 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:20.656316 GMT-4",
+    "_uid": "d5a3cca5879e47d8922d87521fecd78d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "massa-purus-dui-nisl-vestibulum-eros.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:20.720788 GMT-4",
+    "title": "Massa purus dui nisl vestibulum eros.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Velit augue elit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Augue purus duis ultrices. Neque curae per neque dapibus fames et amet. Vitae metus fringilla. Vitae etiam sem. Donec curae etiam augue a posuere. Magna purus maecenas adipiscing tellus accumsan consequat sollicitudin vestibulum. Felis proin taciti lectus aliquet nisl. Augue netus a nisl metus dolor nec parturient ultricies suspendisse justo. Neque felis suscipit parturient elementum suspendisse vel quis. Purus lorem dictum massa aptent ligula ad lectus consequat aptent. Justo netus inceptos adipiscing iaculis odio sollicitudin et lorem. Lacus nulla a elit purus cursus ut nibh non cum. Massa justo dictum dolor egestas dignissim pede nibh ve velit condimentum sed. Ipsum nulla lorem eros. Ipsum curae tempor elit massa fermentum non. Class curae diam risus conubia eni. Velit nulla. Morbi curae euismod in turpis a conubia ac eu. Metus velit sed venenatis aptent. Ipsum metus. Donec ipsum. Etiam fames sociis ultrices vitae posuere amet. Netus purus sed. Neque proin montes primis nascetur fusce ligula mattis facilisis conubia velit. Justo curae. Morbi magna nonummy semper eu.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "donec..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "massa-purus-dui-nisl-vestibulum-eros.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Felis porta morbi proin arcu. Metus lorem eros euismod porta quam nam. Felis massa augue risus bibendum adipiscing laoreet vel venenatis sapien. Justo fusce turpis parturient curae lacinia integer nisi ut pellentesque odio fames imperdiet. Metus porta eros ad duis ultrices luctus sapien tristique augue sit curae. Augue nulla. Felis proin tincidunt. Ipsum velit rutrum curae et. Ipsum metus maecenas hac pede cum ligula pharetra parturient semper. Augue vitae quisque placerat ligula auctor in vel orci ridiculus pellentesque. Purus class tempor mi congue rhoncus eu. Massa morbi. Porta proin turpis ve felis hac sit potenti interdum arcu nisl fermentum rutrum ante. Nulla porta rhoncus commodo fringilla duis egestas massa per augue. Felis risus sociis in iaculis enim quam nec fames neque risus nulla gravida.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Massa purus dui nisl vestibulum eros.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 27,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/massa-purus-dui-nisl-vestibulum-eros."
+}

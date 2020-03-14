@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:53.996732 GMT-4",
+    "_uid": "4d6f5c6e734042cc9102c74c4d9d917a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "justo-vitae-luctus-dui-conubia-curae-diam-posuere-at-elit-pede-duis-urna.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:54.044422 GMT-4",
+    "title": "Justo vitae luctus dui conubia curae diam posuere at elit pede duis urna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Ipsum lorem pulvinar.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fames proin commodo elit quam tempor tortor cum dapibus erat maecenas. Fusce justo scelerisque dui. Ipsum lorem. Vitae netus lacinia eu hac penatibus semper habitant pede dapibus ligula fames porttitor. Etiam donec urna inceptos sapien cras at. Massa donec bibendum augue felis bibendum. Velit lacus aliquam lobortis dictum nulla cubilia ad felis scelerisque inceptos orci. Lacus magna leo fringilla nulla facilisis dapibus eros ante adipiscing hac adipiscing massa duis. Fames augue class laoreet sodales magnis. Magna dolor tellus turpis netus ridiculus vel cum. Dolor porta pede suscipit molestie mi auctor. Augue lorem nibh eleifend massa hymenaeos facilisis amet. Justo purus. Neque magna.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:37.750630 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:38.076399 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "eros..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "justo-vitae-luctus-dui-conubia-curae-diam-posuere-at-elit-pede-duis-urna.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla augue. Fames donec viverra convallis eros nisl nisi. Justo lorem varius conubia laoreet mollis. Justo felis orci condimentum posuere proin est convallis. Fusce massa quam massa sociis quis risus nonummy euismod. Class etiam fringilla facilisis. Augue vitae taciti porta et tortor fermentum gravida. Porta neque. Ipsum fusce senectus ut class. Justo lacus erat dis nisi parturient. Lorem vitae ornare sociosqu curabitur. Metus proin sit ante eros eu habitant interdum velit. Curae augue est curae cubilia torquent et suspendisse. Etiam lorem montes ac consequat a eni malesuada pulvinar nisl accumsan mus conubia donec. Donec dolor nonummy urna nascetur class. Fames magna nostra fusce leo sem. Purus ipsum ullamcorper per. Felis ipsum fames primis elit id arcu in tincidunt. Ipsum etiam per elit hymenaeos.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Justo vitae luctus dui conubia curae diam posuere at elit pede duis urna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./justo-vitae-luctus-dui-conubia-curae-diam-posuere-at-elit-pede-duis-urna."
+}

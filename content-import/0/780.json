@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:36.415910 GMT-4",
+    "_uid": "3028517244c5484e879b9c773d10e89b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "donec-fusce-augue-leo-lacus-class-taciti-natoque-pede-massa-dapibus-malesuada-quam.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:36.742197 GMT-4",
+    "title": "Donec fusce augue leo lacus class taciti natoque pede massa dapibus malesuada quam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Augue dolor vivamus ipsum eget etiam imperdiet consequat dolor fermentum lobortis ornare porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Proin justo iaculis platea proin aliquet vulputate arcu nullam ligula. Vitae justo ante quisque diam a nisi magna etiam eleifend cum sodales ad et. Justo lacus elit conubia cras eu pellentesque sapien. Fusce proin vitae platea ut primis posuere viverra arcu sociosqu pellentesque. Augue neque. Class magna. Augue lacus ligula molestie tristique augue quis cras dis et accumsan nunc tempor. Metus lacus. Etiam dolor purus diam blandit urna tellus vivamus et amet class viverra aptent vel vestibulum imperdiet velit ligula. Dolor etiam justo metus suscipit adipiscing litora risus curae gravida. Fames donec nullam molestie cubilia. Felis risus lacinia nunc eu lobortis diam ad litora. Vitae dolor a aliquam nostra porta blandit. Donec augue nunc lectus mi metus et mauris sed eget cursus cras mi eros dictum pretium nonummy fringilla. Dolor metus est malesuada nostra bibendum quis eni ipsum sed. Augue magna massa neque.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:36.421305 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:36.737083 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Simus igitur contenti his.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summus dolor plures dies manere non potest? Praeteritis, inquit, gaudeo. Nunc agendum est subtilius. Duo Reges: constructio interrete. </p>\n\n<p>Philosophi autem in suis lectulis plerumque moriuntur. Eadem nunc mea adversum te oratio est. <a href='http://loripsum.net/' target='_blank'>Sed tamen intellego quid velit.</a> Poterat autem inpune; <a href='http://loripsum.net/' target='_blank'>At, si voluptas esset bonum, desideraret.</a> Proclivi currit oratio. At enim sequor utilitatem. Cur post Tarentum ad Archytam? </p>\n\n<p>Primum quid tu dicis breve? Quonam, inquit, modo? Apparet statim, quae sint officia, quae actiones. Sed ea mala virtuti magnitudine obruebantur. <a href='http://loripsum.net/' target='_blank'>Utram tandem linguam nescio?</a> Nunc de hominis summo bono quaeritur; </p>\n\n<ol>\n\t<li>Respondent extrema primis, media utrisque, omnia omnibus.</li>\n\t<li>Numquam audivi in Epicuri schola Lycurgum, Solonem, Miltiadem, Themistoclem, Epaminondam nominari, qui in ore sunt ceterorum omnium philosophorum.</li>\n\t<li>Non est ista, inquam, Piso, magna dissensio.</li>\n\t<li>A quibus propter discendi cupiditatem videmus ultimas terras esse peragratas.</li>\n\t<li>Suo enim quisque studio maxime ducitur.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse;</dd>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>-, sed ut hoc iudicaremus, non esse in iis partem maximam positam beate aut secus vivendi.</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Hanc quoque iucunditatem, si vis, transfer in animum;</dd>\n\t<dt><dfn>Tenent mordicus.</dfn></dt>\n\t<dd>Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret?</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse.</dd>\n\t<dt><dfn>Restatis igitur vos;</dfn></dt>\n\t<dd>His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent.</dd>\n</dl>\n\n\n<ul>\n\t<li>Sin laboramus, quis est, qui alienae modum statuat industriae?</li>\n\t<li>Et non ex maxima parte de tota iudicabis?</li>\n\t<li>Nobis Heracleotes ille Dionysius flagitiose descivisse videtur a Stoicis propter oculorum dolorem.</li>\n\t<li>Ita enim vivunt quidam, ut eorum vita refellatur oratio.</li>\n\t<li>Sapiens autem semper beatus est et est aliquando in dolore;</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "donec-fusce-augue-leo-lacus-class-taciti-natoque-pede-massa-dapibus-malesuada-quam.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Fames etiam proin amet egestas nonummy turpis ve at pede ad habitasse fusce id congue. Morbi dolor semper ridiculus at consequat netus ad congue volutpat. Justo metus etiam arcu a ante in habitasse suspendisse. Justo morbi conubia pulvinar varius libero ultrices etiam ac fringilla a justo sodales. Purus fames etiam donec velit cum habitant. Velit metus cursus eu sociosqu nunc. Risus donec feugiat luctus dis placerat ridiculus metus id metus et nostra. Risus vitae. Class metus. Netus etiam class aenean. Purus donec tristique in cursus lobortis. Augue fusce condimentum nam. Risus morbi suscipit vestibulum convallis suspendisse per quam. Massa purus eni purus eget habitasse mi consequat netus natoque pede. Ipsum proin vehicula nulla id dis curabitur rhoncus consectetuer auctor. Justo lacus ante sodales nec at urna est fames leo hac ad nostra pretium eu pharetra.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec fusce augue leo lacus class taciti natoque pede massa dapibus malesuada quam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./donec-fusce-augue-leo-lacus-class-taciti-natoque-pede-massa-dapibus-malesuada-quam."
+}

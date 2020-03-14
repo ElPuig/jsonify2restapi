@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:15.453925 GMT-4",
+    "_uid": "24cdfb2575dc4ee39bea5128d54bf02d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "fusce-proin-suscipit-fames-a-semper-cras-suspendisse-pretium.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:15.784301 GMT-4",
+    "title": "Fusce proin suscipit fames a semper cras suspendisse pretium.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum velit hendrerit enim ante per in.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Netus magna a. Fames massa. Class lorem taciti odio quis at facilisis vestibulum leo fames. Magna curae tincidunt. Metus fames dis eni dis laoreet. Magna risus nam pede ve. Lacus proin lacus venenatis interdum. Velit etiam risus fames nostra eros. Velit dolor potenti amet. Nulla fames vulputate semper dolor velit placerat lacus. Augue donec tellus urna ut ante cubilia at primis habitant ullamcorper sed. Morbi augue viverra dapibus enim diam. Curae lorem taciti eros sociis. Donec augue orci integer a. Curae metus quam montes pretium aliquet. Neque justo egestas dis pulvinar porta a integer ve odio ve amet volutpat. Purus nulla donec mus urna porta scelerisque orci congue. Curae purus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:15.459361 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:15.778808 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et non ex maxima parte de tota iudicabis? Sed ea mala virtuti magnitudine obruebantur. Quae cum magnifice primo dici viderentur, considerata minus probabantur. Quare conare, quaeso. </p>\n\n<h2>Hoc ne statuam quidem dicturam pater aiebat, si loqui posset.</h2>\n\n<p>Quare attende, quaeso. Respondeat totidem verbis. </p>\n\n<p>Satis est ad hoc responsum. Duo Reges: constructio interrete. </p>\n\n<ul>\n\t<li>Et hunc idem dico, inquieta sed ad virtutes et ad vitia nihil interesse.</li>\n\t<li>Ac ne plura complectar-sunt enim innumerabilia-, bene laudata virtus voluptatis aditus intercludat necesse est.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest.</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Cuius quidem, quoniam Stoicus fuit, sententia condemnata mihi videtur esse inanitas ista verborum.</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Stulti autem malorum memoria torquentur, sapientes bona praeterita grata recordatione renovata delectant.</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Quid ergo?</dd>\n\t<dt><dfn>Sint ista Graecorum;</dfn></dt>\n\t<dd>De quibus cupio scire quid sentias.</dd>\n</dl>\n\n\n<ol>\n\t<li>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</li>\n\t<li>Collatio igitur ista te nihil iuvat.</li>\n\t<li>Quaesita enim virtus est, non quae relinqueret naturam, sed quae tueretur.</li>\n\t<li>Non semper, inquam;</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fusce-proin-suscipit-fames-a-semper-cras-suspendisse-pretium.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Neque etiam. Lacus nulla placerat eu ullamcorper duis elit bibendum. Nulla metus a ornare quam justo hymenaeos ullamcorper. Metus massa consequat potenti sed phasellus egestas lacus amet nec consectetuer. Justo magna integer donec pede vel integer elit malesuada pulvinar luctus adipiscing. Neque donec lorem odio duis aliquam vivamus. Nulla justo sed orci per vel est mi magna in. Proin felis. Justo etiam gravida pretium tellus hac cras eni velit. Porta nulla nec porta hymenaeos vestibulum nisi augue praesent adipiscing tortor in ac mi. Porta fusce lorem volutpat dignissim sollicitudin. Etiam massa nec quam viverra id enim risus facilisis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce proin suscipit fames a semper cras suspendisse pretium.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./fusce-proin-suscipit-fames-a-semper-cras-suspendisse-pretium."
+}

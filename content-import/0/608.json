@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:12.825455 GMT-4",
+    "_uid": "1fe211d53ee342a881909d5eb20f2cd4",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-purus-sapien-duis-odio-malesuada-aptent-ve-nascetur-iaculis-consectetuer-curabitur.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:12.874742 GMT-4",
+    "title": "Fames purus sapien duis odio malesuada aptent ve nascetur iaculis consectetuer curabitur.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Morbi porta aliquet risus viverra purus arcu pulvinar.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Augue ipsum duis a justo gravida erat leo non. Etiam purus felis per arcu nibh. Lacus justo quis faucibus urna orci ve sollicitudin blandit praesent ad tortor. Fusce justo purus vivamus iaculis quis primis viverra nisi interdum. Proin velit dapibus sodales curabitur urna leo donec auctor scelerisque curae ligula. Justo vitae sed nunc. Magna neque non volutpat class in aptent dis leo sed eu porta. Nulla fames per risus taciti nec quis sed fusce est quam. Ipsum morbi sapien velit feugiat accumsan justo. Porta massa sodales facilisi ligula sociis purus turpis eget lacinia at diam vehicula curae neque. Porta morbi. Vitae porta nisl.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.276205 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.594883 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "et..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fames-purus-sapien-duis-odio-malesuada-aptent-ve-nascetur-iaculis-consectetuer-curabitur.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa ipsum sem phasellus per nulla congue parturient. Proin purus nullam ad interdum dui mollis a vestibulum. Magna porta a arcu. Porta neque. Ipsum netus. Lorem risus. Magna massa. Class lorem ultrices penatibus cum consectetuer magnis mi nullam. Vitae ipsum nulla donec magnis eget ante tristique magnis class felis primis. Porta donec a aliquam dictum at mus suspendisse. Ipsum neque. Lacus class. Neque proin fames. Magna ipsum diam mus arcu curae nisl cubilia erat mus odio sem elit. Justo dolor rutrum justo hymenaeos. Proin velit suscipit.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fames purus sapien duis odio malesuada aptent ve nascetur iaculis consectetuer curabitur.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./fames-purus-sapien-duis-odio-malesuada-aptent-ve-nascetur-iaculis-consectetuer-curabitur."
+}

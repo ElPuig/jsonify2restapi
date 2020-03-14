@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:30.069517 GMT-4",
+    "_uid": "aa7fa07581bb45e0aa3168383c44c38f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-neque-litora-sem-natoque-purus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:30.122608 GMT-4",
+    "title": "Dolor neque litora sem natoque purus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Vitae risus venenatis dolor id cras pretium semper justo posuere duis eu consectetuer.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Morbi metus duis. Ipsum magna quis nonummy mi ipsum et arcu morbi porttitor natoque dictum proin dolor montes class eleifend. Risus purus scelerisque ut tellus hac magnis sit nec est sollicitudin. Magna purus nam dui sed eu class sapien aenean eni ante facilisi pellentesque mattis porta ullamcorper eros venenatis nec. Risus felis. Morbi etiam est purus ornare facilisis vitae nec. Purus velit. Metus lorem sem magna class sociosqu ipsum elementum eleifend ve varius habitasse imperdiet adipiscing odio mattis. Velit morbi ullamcorper lobortis pretium id morbi consectetuer tristique tempus at tempus ve ac cras. Morbi lacus condimentum ut. Neque netus. Lacus lorem mattis metus enim nisi nam magna facilisis elementum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "fermentum..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "dolor-neque-litora-sem-natoque-purus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Class purus dis. Nulla massa condimentum pede. Lacus velit lacus dictum parturient vehicula ante eni. Ipsum neque sed dolor. Felis justo feugiat varius sed eleifend malesuada. Velit curae. Ipsum velit. Etiam vitae sociis pellentesque conubia netus leo. Ipsum purus. Purus ipsum.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Dolor neque litora sem natoque purus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./dolor-neque-litora-sem-natoque-purus."
+}

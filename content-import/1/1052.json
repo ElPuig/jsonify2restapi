@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quis Aristidem non mortuum diligit?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Quid de Platone aut de Democrito loquar?</a> Conferam tecum, quam cuique verso rem subicias; Duo Reges: constructio interrete. Istam voluptatem, inquit, Epicurus ignorat? Egone quaeris, inquit, quid sentiam? Facillimum id quidem est, inquam. Haec para/doca illi, nos admirabilia dicamus. Disserendi artem nullam habuit. </p>\n\n<ol>\n\t<li>An eum discere ea mavis, quae cum plane perdidiceriti nihil sciat?</li>\n\t<li>Huius, Lyco, oratione locuples, rebus ipsis ielunior.</li>\n\t<li>Ex quo, id quod omnes expetunt, beate vivendi ratio inveniri et comparari potest.</li>\n</ol>\n\n\n<p>Deinde dolorem quem maximum? Quod quidem iam fit etiam in Academia. Nulla erit controversia. Ratio quidem vestra sic cogit. Qui est in parvis malis. Aufert enim sensus actionemque tollit omnem. </p>\n\n<ul>\n\t<li>Idcirco enim non desideraret, quia, quod dolore caret, id in voluptate est.</li>\n\t<li>Hoc non est positum in nostra actione.</li>\n\t<li>Qua tu etiam inprudens utebare non numquam.</li>\n\t<li>Venit ad extremum;</li>\n\t<li>Paulum, cum regem Persem captum adduceret, eodem flumine invectio?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>Cum autem venissemus in Academiae non sine causa nobilitata spatia, solitudo erat ea, quam volueramus.</dd>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Si est nihil nisi corpus, summa erunt illa: valitudo, vacuitas doloris, pulchritudo, cetera.</dd>\n\t<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>\n\t<dd>Teneo, inquit, finem illi videri nihil dolere.</dd>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Ait enim se, si uratur, Quam hoc suave! dicturum.</dd>\n\t<dt><dfn>De illis, cum volemus.</dfn></dt>\n\t<dd>Theophrasti igitur, inquit, tibi liber ille placet de beata vita?</dd>\n</dl>\n\n\n<p>Minime vero istorum quidem, inquit. Iam contemni non poteris. An hoc usque quaque, aliter in vita? Confecta res esset. Maximus dolor, inquit, brevis est. <a href='http://loripsum.net/' target='_blank'>Prioris generis est docilitas, memoria;</a> Primum quid tu dicis breve? </p>\n\n",
+    "creation_date": "2018/10/26 18:01:48.915569 GMT-4",
+    "imageCaption": "Metus dolor.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "morbi-netus-mollis-magna-dignissim-parturient-amet-luctus-gravida-pede.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:49.251499 GMT-4",
+    "title": "Morbi netus mollis magna dignissim parturient amet luctus gravida pede.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae ipsum aptent augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Fames neque mattis sociis. Velit donec ullamcorper sed pede adipiscing nibh. Dolor donec. Neque dolor quam nisl. Curae risus volutpat dui etiam cursus. Augue proin. Risus netus phasellus orci. Etiam velit. Dolor purus volutpat nunc nostra ve in quis proin inceptos class. Velit dolor habitant. Lacus dolor lacus gravida sodales tempor pede lectus ac. Porta fames quis.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:48.919966 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:49.247702 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "morbi-netus-mollis-magna-dignissim-parturient-amet-luctus-gravida-pede.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Justo vitae sociis nibh suspendisse leo ornare diam ullamcorper in dictum sodales aliquet. Justo massa conubia urna adipiscing luctus habitant. Felis velit a magnis urna in velit sapien pellentesque tincidunt tellus facilisis placerat velit. Risus felis enim nulla hendrerit nunc suspendisse sed amet. Etiam augue class proin massa vitae. Dolor metus quam habitant. Morbi justo quis in dolor consectetuer. Porta lorem habitant in semper habitasse molestie. Velit curae libero eget conubia auctor dis sociis nullam porttitor mi.",
+    "_content_type_description": "text/plain",
+    "_uid": "b5671ab81efc4312b8a8c38c936908da",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Morbi netus mollis magna dignissim parturient amet luctus gravida pede.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./morbi-netus-mollis-magna-dignissim-parturient-amet-luctus-gravida-pede."
+}

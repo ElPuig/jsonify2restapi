@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:34.060514 GMT-4",
+    "_uid": "c9fdf962a6e54441be47c1774cca2786",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-metus-proin-nonummy-porta-eget-amet-eget.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:34.108428 GMT-4",
+    "title": "Curae metus proin nonummy porta eget amet eget.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue justo lacinia taciti.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Curae dolor. Proin nulla non. Fames velit. Proin netus ipsum a elit. Lorem dolor pretium eget ve consectetuer semper in vitae. Netus purus. Etiam donec turpis. Morbi purus elit est morbi sed dolor facilisis. Metus fusce pulvinar ipsum hendrerit sit morbi imperdiet parturient hac velit venenatis parturient eni lacus. Vitae metus dictum at integer erat arcu nulla blandit tortor ligula quis nisi. Etiam fames duis rutrum nunc pellentesque adipiscing. Donec proin metus dapibus ultricies libero eu augue libero at. Felis fames. Curae netus tortor cursus vitae. Metus class. Fusce class enim a duis proin lacus donec dignissim mollis netus curabitur. Nulla proin est luctus pede mus elit porttitor.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.204606 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.527359 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "nisl..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "curae-metus-proin-nonummy-porta-eget-amet-eget.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Netus augue felis mus. Vitae lorem enim primis mi natoque arcu adipiscing mus class. Class netus suspendisse cum litora morbi massa. Neque lacus ornare tincidunt mi suspendisse nisl tristique habitant. Donec justo velit odio torquent augue mi congue cum cursus eleifend vulputate. Magna felis. Nulla proin sed. Velit augue. Metus lacus scelerisque bibendum blandit ante praesent justo nisl. Justo lorem neque tempus nullam eros. Metus etiam vel luctus a lacinia litora mauris. Fusce neque odio nisl magna.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Curae metus proin nonummy porta eget amet eget.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./curae-metus-proin-nonummy-porta-eget-amet-eget."
+}

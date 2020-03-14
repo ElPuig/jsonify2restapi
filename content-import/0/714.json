@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:0.992453 GMT-4",
+    "_uid": "82a560d0ee35491ba6843ca086f20be5",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-fames.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:1.037543 GMT-4",
+    "title": "Dolor fames.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Massa donec potenti fermentum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Massa velit viverra eu habitasse a ultricies dolor. Massa lacus a odio curae conubia ut. Massa class purus eni eros parturient est vestibulum in. Purus curae sodales litora quis purus ve turpis. Justo fusce nullam sociis fusce senectus lorem nisl vel. Neque lorem. Augue massa sociis tristique congue class ad lectus interdum duis vivamus. Neque felis commodo turpis duis eu facilisis. Lorem curae sociis. Neque netus ullamcorper nec enim elit purus taciti. Lorem justo libero molestie ante ornare volutpat blandit quis pellentesque. Lacus magna molestie tincidunt et venenatis fermentum neque inceptos parturient cursus hac lacinia. Porta neque augue condimentum eu aenean faucibus mus erat. Purus dolor fermentum. Vitae class ultrices at class ut felis ac.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:0.995696 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:1.033872 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "dolor-fames.",
+    "remoteUrl": "Netus%20fames%20integer%20fermentum%20volutpat%20ad%20luctus%20ultricies%20mus%20facilisi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla proin metus malesuada vestibulum iaculis eros arcu dis arcu. Lorem nulla fames class urna morbi. Fusce justo. Netus magna. Velit class. Neque fames fringilla porttitor donec porta leo. Vitae purus taciti aptent sociosqu ullamcorper ultrices duis in volutpat rutrum. Risus fusce donec ipsum nunc habitasse torquent amet aenean porta per libero iaculis eu sit urna donec magnis montes. Netus curae. Felis lacus. Morbi porta.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor fames.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 54,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./dolor-fames."
+}

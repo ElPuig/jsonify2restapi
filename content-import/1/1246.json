@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Nondum autem explanatum satis, erat, quid maxime natura vellet.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum Triarius: Posthac quidem, inquit, audacius. Sed in rebus apertissimis nimium longi sumus. Est, ut dicis, inquit; <a href='http://loripsum.net/' target='_blank'>Eaedem res maneant alio modo.</a> Duo Reges: constructio interrete. Negare non possum. </p>\n\n<p>At hoc in eo M. Mihi enim erit isdem istis fortasse iam utendum. Hic ambiguo ludimur. Non est igitur summum malum dolor. </p>\n\n<ol>\n\t<li>Quis enim redargueret?</li>\n\t<li>Non igitur de improbo, sed de callido improbo quaerimus, qualis Q.</li>\n\t<li>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</li>\n\t<li>Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere.</li>\n</ol>\n\n\n<ul>\n\t<li>Sed quia studebat laudi et dignitati, multum in virtute processerat.</li>\n\t<li>Quarum cum una sit, qua mores conformari putantur, differo eam partem, quae quasi stirps ets huius quaestionis.</li>\n\t<li>Satis est tibi in te, satis in legibus, satis in mediocribus amicitiis praesidii.</li>\n\t<li>Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis.</li>\n\t<li>Minime id quidem, inquam, alienum, multumque ad ea, quae quaerimus, explicatio tua ista profecerit.</li>\n</ul>\n\n\n<p>Restatis igitur vos; Sed quid sentiat, non videtis. Quae autem natura suae primae institutionis oblita est? Sed haec in pueris; Deinde dolorem quem maximum? Quo studio Aristophanem putamus aetatem in litteris duxisse? Quorum altera prosunt, nocent altera. </p>\n\n<dl>\n\t<dt><dfn>In schola desinis.</dfn></dt>\n\t<dd>Qui autem de summo bono dissentit de tota philosophiae ratione dissentit.</dd>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>Hi autem ponunt illi quidem prima naturae, sed ea seiungunt a finibus et a summa bonorum;</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Comprehensum, quod cognitum non habet?</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 18:03:26.097324 GMT-4",
+    "imageCaption": "Ipsum class.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-massa-lacinia-purus-risus-ultrices-fusce-quam-sem-odio-elit.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:26.598909 GMT-4",
+    "title": "Fames massa lacinia purus risus ultrices fusce quam sem odio elit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam fusce justo nisl metus curae nec felis nunc viverra lorem.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Felis morbi molestie justo ac curabitur metus erat nibh. Risus nulla dolor inceptos. Lorem nulla libero elementum conubia auctor nulla sed elit molestie consequat amet dis. Neque lorem sapien praesent etiam placerat mi condimentum nunc venenatis hac dictumst a. Magna netus. Class etiam fames dis diam. Fames proin dictumst mus diam urna eni tortor elit ve libero per. Proin velit laoreet mus adipiscing ultricies proin. Augue ipsum euismod viverra sapien mi ad semper praesent quam erat penatibus. Netus dolor ullamcorper dictumst tincidunt pulvinar. Lacus fusce condimentum quis varius. Netus magna vitae porta aptent semper sed bibendum magna primis. Porta justo. Ipsum netus justo diam duis magnis sociosqu ve condimentum quis. Risus curae suspendisse torquent tristique dui penatibus augue. Metus morbi. Neque ipsum sit dolor.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:26.104331 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:26.595245 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "fames-massa-lacinia-purus-risus-ultrices-fusce-quam-sem-odio-elit.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor fames. Massa proin nascetur elit. Nulla fusce cras pretium egestas. Netus metus a viverra aenean eros pretium a montes fringilla sed sollicitudin felis. Etiam proin vehicula nisl ve quam neque. Lorem augue dui morbi habitasse facilisi. Nulla lacus. Dolor curae urna fames cubilia per. Neque velit. Porta dolor aenean tellus dis cras accumsan mollis semper per erat a.",
+    "_content_type_description": "text/plain",
+    "_uid": "1345da94c2ae4d2daf11d6e3f3ce6fe0",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames massa lacinia purus risus ultrices fusce quam sem odio elit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 60,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./fames-massa-lacinia-purus-risus-ultrices-fusce-quam-sem-odio-elit."
+}

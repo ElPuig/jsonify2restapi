@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:42.278264 GMT-4",
+    "_uid": "90588844c5a549beaf2fa23e2f526761",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "fames-neque-nostra-habitasse.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:42.619161 GMT-4",
+    "title": "Fames neque nostra habitasse.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum lacus proin vitae ornare facilisi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Fusce fames mauris per ante ultrices curabitur sed urna consequat. Fusce ipsum dictum augue scelerisque eros. Felis massa lobortis. Fusce proin condimentum ut luctus nam libero iaculis cum. Metus dolor. Nulla felis mus cras gravida blandit erat id neque scelerisque ad tellus a pulvinar dis. Augue proin. Felis fusce. Fusce lorem turpis bibendum ridiculus massa. Fames donec etiam a. Lacus class aliquam quis lacinia nulla at proin et.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.286624 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.614922 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Beatus autem esse in maximarum rerum timore nemo potest.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita credo. Quis istud possit, inquit, negare? Quid de Platone aut de Democrito loquar? Sin aliud quid voles, postea. Duo Reges: constructio interrete. Aliter enim nosmet ipsos nosse non possumus. Sin aliud quid voles, postea. Sequitur disserendi ratio cognitioque naturae; </p>\n\n<ul>\n\t<li>Erit enim instructus ad mortem contemnendam, ad exilium, ad ipsum etiam dolorem.</li>\n\t<li>Sed ad rem redeamus;</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Que Manilium, ab iisque M.</a> Iam in altera philosophiae parte. Quid ergo hoc loco intellegit honestum? Graccho, eius fere, aequal\u00ed? Dici enim nihil potest verius. <a href='http://loripsum.net/' target='_blank'>Sed quod proximum fuit non vidit.</a> </p>\n\n<dl>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Quod autem principium officii quaerunt, melius quam Pyrrho;</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Itaque in rebus minime obscuris non multus est apud eos disserendi labor.</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Contemnit enim disserendi elegantiam, confuse loquitur.</dd>\n\t<dt><dfn>Tenent mordicus.</dfn></dt>\n\t<dd>Tum Triarius: Posthac quidem, inquit, audacius.</dd>\n</dl>\n\n\n<ol>\n\t<li>Non autem hoc: igitur ne illud quidem.</li>\n\t<li>Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile.</li>\n\t<li>Dolere malum est: in crucem qui agitur, beatus esse non potest.</li>\n\t<li>Cum praesertim illa perdiscere ludus esset.</li>\n</ol>\n\n\n<p>Memini me adesse P. Primum quid tu dicis breve? Memini me adesse P. Nunc vides, quid faciat. Restatis igitur vos; Quis istud possit, inquit, negare? </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fames-neque-nostra-habitasse.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Ipsum morbi nisl nullam convallis parturient non adipiscing. Ipsum magna netus tortor maecenas montes rhoncus viverra. Felis porta aliquam aptent. Metus risus. Netus magna dui erat nostra ac. Augue porta nibh erat proin accumsan et justo suspendisse. Ipsum morbi. Ipsum massa laoreet nostra eros netus nibh nonummy metus eu magnis lobortis pretium. Purus velit sociosqu nunc enim per a tempus quam. Lorem vitae. Proin risus luctus tortor etiam lacus. Etiam risus. Porta fames rutrum nascetur fames pellentesque tristique massa mi. Risus magna diam dolor quisque aptent. Vitae augue. Lacus velit euismod enim eget odio nulla magna hac nisl est a tortor elementum quisque eni mauris. Velit risus hymenaeos ipsum praesent porta mi taciti.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames neque nostra habitasse.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse."
+}

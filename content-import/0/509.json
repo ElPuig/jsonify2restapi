@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/07 15:08:46.727720 GMT-4",
+    "endDate": "2018/11/09 19:43:59.099869 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Nobis aliter videtur, recte secusne, postea;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sic consequentibus vestris sublatis prima tolluntur. Erat enim res aperta. Quid ad utilitatem tantae pecuniae? Stoici scilicet. Duo Reges: constructio interrete. Tubulo putas dicere? </p>\n\n<dl>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Fortemne possumus dicere eundem illum Torquatum?</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Sed nunc, quod agimus;</dd>\n</dl>\n\n\n<ol>\n\t<li>Quid ergo attinet dicere: Nihil haberem, quod reprehenderem, si finitas cupiditates haberent?</li>\n\t<li>Sed tamen omne, quod de re bona dilucide dicitur, mihi praeclare dici videtur.</li>\n\t<li>Murenam te accusante defenderem.</li>\n\t<li>Quodsi vultum tibi, si incessum fingeres, quo gravior viderere, non esses tui similis;</li>\n\t<li>Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis.</li>\n\t<li>Summus dolor plures dies manere non potest?</li>\n</ol>\n\n\n<p>At enim sequor utilitatem. Nobis aliter videtur, recte secusne, postea; Tubulo putas dicere? Nihil illinc huc pervenit. Tria genera bonorum; Primum divisit ineleganter; </p>\n\n<h2>Iam in altera philosophiae parte.</h2>\n\n<p>Tecum optime, deinde etiam cum mediocri amico. Immo videri fortasse. Huius, Lyco, oratione locuples, rebus ipsis ielunior. Sed plane dicit quod intellegit. Sedulo, inquam, faciam. Scio enim esse quosdam, qui quavis lingua philosophari possint; Ille enim occurrentia nescio quae comminiscebatur; </p>\n\n<ul>\n\t<li>Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit;</li>\n\t<li>Quoniam, si dis placet, ab Epicuro loqui discimus.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:57:26.708354 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "4539740e28574c309fc4d2ef52e8b7e1",
+    "expirationDate": "None",
+    "contactName": "Felis augue maecenas etiam tristique.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Porta proin.",
+    "id": "ipsum-fames-posuere-porttitor-ut-id-ligula-fusce.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Ipsum fames posuere porttitor ut id ligula fusce.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor lorem primis porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Donec fames sociis risus imperdiet. Augue lorem scelerisque dui litora eu magnis tincidunt molestie risus. Neque fames. Risus etiam cras dictum ut elit etiam cum. Proin morbi. Proin class sed justo vulputate congue. Lorem fusce dis fames porta cubilia praesent. Fusce fames. Ipsum lacus quis convallis suscipit magna. Porta felis. Metus velit donec rutrum.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:26.712261 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:27.042544 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "ipsum-fames-posuere-porttitor-ut-id-ligula-fusce.",
+    "modification_date": "2018/10/26 17:57:27.046481 GMT-4",
+    "language": "en",
+    "rights": "Donec risus nulla augue a auctor quis. Donec neque. Justo morbi etiam luctus hac sit et. Fames magna. Lorem fames a conubia ac in proin eros. Risus netus. Metus dolor nascetur parturient convallis fusce. Purus dolor a tempus eros ad sem. Lorem fusce arcu aptent vivamus quisque mauris nam magnis dolor hymenaeos ullamcorper fames mollis sapien nonummy sit. Proin ipsum velit justo mattis. Lorem netus hendrerit senectus congue nisi hymenaeos consectetuer. Nulla donec mattis consectetuer potenti accumsan cursus tellus urna pellentesque sociosqu. Justo ipsum maecenas enim eni rutrum lectus senectus scelerisque pulvinar pede semper.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Ipsum fames posuere porttitor ut id ligula fusce.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 11,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./ipsum-fames-posuere-porttitor-ut-id-ligula-fusce."
+}

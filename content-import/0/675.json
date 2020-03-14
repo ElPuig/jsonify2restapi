@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/05 12:34:19.928511 GMT-4",
+    "endDate": "2018/11/06 21:39:17.181622 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Sed quanta sit alias, nunc tantum possitne esse tanta.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc loco tenere se Triarius non potuit. Ita graviter et severe voluptatem secrevit a bono. Videamus animi partes, quarum est conspectus illustrior; Quorum altera prosunt, nocent altera. Pugnant Stoici cum Peripateticis. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Pugnant Stoici cum Peripateticis. At iste non dolendi status non vocatur voluptas. </p>\n\n<h2>Id mihi magnum videtur.</h2>\n\n<p>Idem iste, inquam, de voluptate quid sentit? Si enim ad populum me vocas, eum. Quae duo sunt, unum facit. Nos vero, inquit ille; Tubulo putas dicere? Quis negat? </p>\n\n<dl>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Quis enim potest ea, quae probabilia videantur ei, non probare?</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Quae sunt igitur communia vobis cum antiquis, iis sic utamur quasi concessis;</dd>\n\t<dt><dfn>Age sane, inquam.</dfn></dt>\n\t<dd>Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.</dd>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>Istam voluptatem perpetuam quis potest praestare sapienti?</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Miserum hominem! Si dolor summum malum est, dici aliter non potest.</dd>\n</dl>\n\n\n<ul>\n\t<li>Quis est enim, in quo sit cupiditas, quin recte cupidus dici possit?</li>\n\t<li>At habetur! Et ego id scilicet nesciebam! Sed ut sit, etiamne post mortem coletur?</li>\n</ul>\n\n\n<ol>\n\t<li>Age sane, inquam.</li>\n\t<li>Vitae autem degendae ratio maxime quidem illis placuit quieta.</li>\n\t<li>Graecum enim hunc versum nostis omnes-: Suavis laborum est praeteritorum memoria.</li>\n</ol>\n\n\n<p>Equidem, sed audistine modo de Carneade? Aeque enim contingit omnibus fidibus, ut incontentae sint. <a href='http://loripsum.net/' target='_blank'>Id mihi magnum videtur.</a> Quantum Aristoxeni ingenium consumptum videmus in musicis? </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:58:47.566278 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "f8d8592f1c5c4af38f0d8695982f4d99",
+    "expirationDate": "None",
+    "contactName": "Risus fames facilisi erat nisl metus nonummy ante.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Dolor fusce auctor.",
+    "id": "vitae-nulla-dolor-massa.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Vitae nulla dolor massa.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem magna cras eleifend dui ante convallis eleifend congue aliquet libero orci blandit fringilla nullam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Lorem fames lorem eni duis sociis. Fames lorem. Netus curae suscipit eni quisque ligula. Metus nulla pede mi purus dolor felis hac lacus. Purus porta hac vehicula a habitant nisi cum metus. Donec metus. Vitae felis per odio pharetra. Augue neque per proin erat ante tincidunt mi curabitur. Neque donec. Nulla magna. Ipsum justo praesent ut taciti. Donec fames. Fusce velit litora amet. Metus fusce sapien molestie. Proin porta donec sem orci cum augue magna urna euismod eros faucibus consectetuer semper. Metus nulla feugiat primis cras ad. Magna curae neque vehicula vestibulum euismod dui ve posuere. Etiam magna diam per morbi duis augue id. Risus curae pede sem ridiculus nostra sem at congue iaculis sed.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:47.570723 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:47.901817 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "vitae-nulla-dolor-massa.",
+    "modification_date": "2018/10/26 17:58:47.905815 GMT-4",
+    "language": "en",
+    "rights": "Netus morbi hac amet ante nam at. Magna dolor mus eget at pellentesque libero ligula per. Vitae magna quisque aliquam phasellus suscipit et mauris cubilia. Lorem etiam. Felis risus. Netus porta a pede fusce mi. Augue donec dolor justo. Nulla fusce pretium molestie enim mauris semper nascetur. Massa etiam.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae nulla dolor massa.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 15,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./vitae-nulla-dolor-massa."
+}

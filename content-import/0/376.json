@@ -1,0 +1,77 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:19.227114 GMT-4",
+    "_uid": "055f0aab7ddb447c927cb715ae5203ee",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-justo-amet-eu-enim-mus-nisl-a-neque-at.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:19.278160 GMT-4",
+    "title": "Magna justo amet eu enim mus nisl a neque at.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Fusce felis semper adipiscing ipsum conubia metus vitae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Donec magna justo habitasse sem volutpat phasellus a vitae ve habitant tortor nisl blandit ve hendrerit id. Magna nulla non amet. Lacus nulla. Risus porta netus. Morbi massa erat. Neque felis sociosqu. Curae magna urna nonummy ad faucibus. Felis velit nec habitant a nascetur. Donec dolor magnis lorem. Justo lorem placerat ut fusce fames orci. Nulla donec lorem. Class lacus. Augue fames. Curae metus sapien ultrices vestibulum ligula inceptos vulputate lorem fringilla. Felis donec litora magnis. Curae netus. Netus lacus tempus amet iaculis. Neque metus vivamus ultricies bibendum sapien cubilia aliquet. Curae neque pretium sociis ac ornare justo rhoncus cras. Purus class tempus enim ac dignissim vestibulum duis nullam ut. Lorem purus. Velit morbi rutrum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "imperdiet..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "magna-justo-amet-eu-enim-mus-nisl-a-neque-at.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Curae netus nec donec quam interdum vestibulum lacinia dis quisque mi. Neque class. Ipsum curae. Netus augue arcu. Justo vitae. Massa lacus a. Dolor magna per dolor. Vitae proin platea ligula ve ipsum ante molestie. Morbi donec. Velit nulla nascetur fusce hymenaeos. Dolor morbi elit platea ve eleifend sodales quisque mauris. Proin vitae hac erat metus imperdiet fusce. Lacus massa. Magna lorem vitae aenean nunc mauris turpis lobortis nulla ac ut dis vulputate turpis pharetra. Magna porta ullamcorper et mollis euismod hendrerit arcu. Justo netus a duis. Porta lorem pede nam risus vestibulum.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Magna justo amet eu enim mus nisl a neque at.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/magna-justo-amet-eu-enim-mus-nisl-a-neque-at."
+}

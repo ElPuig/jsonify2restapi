@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:13.109204 GMT-4",
+    "_uid": "9a91b10fca814fd1be513bd5a424718c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "ipsum-velit-massa-nonummy-orci-nunc-justo-convallis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:13.158165 GMT-4",
+    "title": "Ipsum velit massa nonummy orci nunc justo convallis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Proin donec curae est vestibulum parturient id orci nonummy.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Dolor lorem litora odio ac phasellus. Purus felis faucibus ve tempor ridiculus rhoncus eget ridiculus nunc enim elit. Nulla risus placerat dignissim sem massa. Metus dolor sociis. Lacus class pede sed nunc congue sociosqu imperdiet justo ve. Augue etiam facilisi ultricies urna aliquam. Porta velit. Dolor curae a eget. Magna metus est vitae venenatis sodales pellentesque tortor luctus. Augue curae eros metus luctus. Metus dolor aenean aptent imperdiet adipiscing pretium. Curae risus nisl non class magnis. Lacus fames magnis pellentesque ridiculus nullam a egestas montes ad est. Velit curae nostra dolor donec nunc cum porta nullam curae gravida mi at lectus. Porta curae. Lorem dolor suspendisse placerat quis mollis sapien per cum in pellentesque. Porta felis porta facilisi.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.377699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.696020 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "sed..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "ipsum-velit-massa-nonummy-orci-nunc-justo-convallis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Velit ipsum dictum eget quam parturient nam lacus dis lorem platea turpis nec elit sociosqu. Class fames curae elementum sociosqu at eget. Magna metus netus sapien pellentesque commodo. Metus fusce. Morbi class eleifend mi ullamcorper. Morbi metus vivamus blandit aenean. Lorem lacus congue felis hymenaeos parturient sed massa ridiculus purus ac. Risus etiam nascetur ipsum in. Fusce netus nulla class nulla non etiam sem vestibulum sapien arcu eu. Augue porta cum tempor. Metus lorem nulla quam aliquet ut sociis penatibus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Ipsum velit massa nonummy orci nunc justo convallis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./ipsum-velit-massa-nonummy-orci-nunc-justo-convallis."
+}

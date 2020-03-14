@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:22.781242 GMT-4",
+    "_uid": "7c537e55bd794a27aa2f3e1fc97c6c4c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-neque.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:22.824768 GMT-4",
+    "title": "Curae neque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Justo ipsum sapien massa sodales quisque nibh nisi ipsum enim.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Magna ipsum. Massa ipsum viverra ante morbi. Lacus justo. Class neque faucibus consequat pede nisl. Fusce nulla. Etiam nulla. Donec risus. Lacus neque bibendum ipsum. Fames morbi ornare maecenas cras mus lacus. Metus donec dolor diam rutrum quisque odio venenatis tellus venenatis. Justo curae fusce a enim ad elit quisque. Metus nulla tempus ante ut felis. Lacus purus sit arcu sed consectetuer in fames semper ad lobortis. Magna dolor tellus urna quis. Ipsum velit. Vitae dolor orci lobortis facilisi turpis.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:22.784541 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:22.820192 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-neque.",
+    "remoteUrl": "Risus%20neque%20amet%20at%20sollicitudin%20nostra%20curae%20potenti%20laoreet.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Purus proin aptent curae mi cras class porta faucibus dignissim. Netus justo ullamcorper. Class risus nascetur netus ante consequat ut risus in tincidunt curae. Purus felis mattis elit amet ipsum aliquet. Fusce fames tempus. Curae purus. Donec risus a. Dolor vitae enim curae nulla odio porta. Etiam felis dui. Morbi risus facilisis nisl dis vel eu etiam ad. Felis purus tempus sollicitudin sodales mus. Morbi metus sit nisi mus eleifend vivamus malesuada interdum nunc habitant consequat. Proin ipsum per non sodales non. Fusce lacus litora fringilla integer velit mi lorem cras. Purus nulla. Morbi felis odio posuere ad neque fusce justo quis diam nec. Vitae risus euismod porta quis maecenas adipiscing quisque ante.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae neque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 53,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./curae-neque."
+}

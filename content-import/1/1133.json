@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Omnia peccata paria dicitis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui reperies, inquit, in hoc quidem pertinacem; Vide, quantum, inquam, fallare, Torquate. Maximus dolor, inquit, brevis est. Duo Reges: constructio interrete. </p>\n\n<p>Simus igitur contenti his. Vestri haec verecundius, illi fortasse constantius. Egone quaeris, inquit, quid sentiam? </p>\n\n<ol>\n\t<li>Terram, mihi crede, ea lanx et maria deprimet.</li>\n\t<li>Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere.</li>\n\t<li>Itaque homo in primis ingenuus et gravis, dignus illa familiaritate Scipionis et Laelii, Panaetius, cum ad Q.</li>\n\t<li>Velut ego nunc moveor.</li>\n\t<li>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</li>\n\t<li>Qua tu etiam inprudens utebare non numquam.</li>\n</ol>\n\n\n<p>Bonum integritas corporis: misera debilitas. Sed tamen intellego quid velit. Quorum altera prosunt, nocent altera. Nemo nostrum istius generis asotos iucunde putat vivere. Quae cum essent dicta, discessimus. </p>\n\n<ul>\n\t<li>Res enim fortasse verae, certe graves, non ita tractantur, ut debent, sed aliquanto minutius.</li>\n\t<li>Hanc in motu voluptatem -sic enim has suaves et quasi dulces voluptates appellat-interdum ita extenuat, ut M.</li>\n\t<li>Te autem hortamur omnes, currentem quidem, ut spero, ut eos, quos novisse vis, imitari etiam velis.</li>\n\t<li>Propter nos enim illam, non propter eam nosmet ipsos diligimus.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Consequens enim est et post oritur, ut dixi.</dd>\n\t<dt><dfn>Nihil enim hoc differt.</dfn></dt>\n\t<dd>Gloriosa ostentatio in constituendo summo bono.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 18:02:31.010698 GMT-4",
+    "imageCaption": "Neque etiam nec erat euismod et at primis.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "porta-fusce-ullamcorper-accumsan-feugiat-euismod-eros-velit-aliquam-vitae-vestibulum.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:31.336096 GMT-4",
+    "title": "Porta fusce ullamcorper accumsan feugiat euismod eros velit aliquam vitae vestibulum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae justo.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Fames morbi sociis quis primis eu libero fusce. Etiam purus eni amet ad orci volutpat dolor donec taciti fusce volutpat dignissim a. Nulla lorem augue. Morbi fames tempus nullam dictumst scelerisque vel nunc odio placerat. Risus nulla per amet montes malesuada bibendum auctor nibh. Magna proin massa egestas class eni nisi. Lorem class. Fames lacus rutrum ornare neque. Massa donec. Vitae metus mollis mattis molestie egestas senectus ad. Felis justo scelerisque amet montes tristique eu consequat. Porta etiam leo. Neque curae class orci est. Neque etiam. Augue lacus egestas ad maecenas integer cubilia ornare nam parturient vestibulum id habitant est iaculis. Class augue.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:31.015411 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:31.332131 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "porta-fusce-ullamcorper-accumsan-feugiat-euismod-eros-velit-aliquam-vitae-vestibulum.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta etiam feugiat nullam sed pharetra a lobortis elit auctor. Fames vitae est. Dolor morbi egestas pulvinar nulla pharetra. Velit vitae sociis luctus enim ad hymenaeos. Curae porta. Etiam lacus urna neque massa arcu tempor tortor sem nibh. Lorem purus platea. Vitae porta. Netus fusce. Dolor morbi platea ut justo mi magna suscipit ve. Ipsum vitae habitasse dignissim parturient amet felis iaculis tempor.",
+    "_content_type_description": "text/plain",
+    "_uid": "40fb6673003443fcae405c723c8db678",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Porta fusce ullamcorper accumsan feugiat euismod eros velit aliquam vitae vestibulum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./porta-fusce-ullamcorper-accumsan-feugiat-euismod-eros-velit-aliquam-vitae-vestibulum."
+}

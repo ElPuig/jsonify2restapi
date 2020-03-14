@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:40.961789 GMT-4",
+    "_uid": "1de6914bff864335b7faf004ec75c38f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-class-elit-placerat-vitae.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:41.004454 GMT-4",
+    "title": "Dolor class elit placerat vitae.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class dolor.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Class lorem nostra lorem massa bibendum fringilla pellentesque adipiscing. Etiam neque risus amet cubilia ve duis et metus vitae lorem scelerisque. Velit nulla turpis in varius vehicula suspendisse praesent fames. Curae risus magnis in bibendum facilisi in turpis dignissim dolor. Neque justo erat porta diam curabitur nisi non nibh. Risus lorem velit. Nulla metus. Neque augue nunc a quam fusce justo. Fusce metus suspendisse diam duis sed aliquam ve. Netus nulla netus. Augue velit neque magna sagittis vitae malesuada dapibus semper lacus sit phasellus ultrices nullam. Nulla velit morbi primis litora imperdiet lacus in. Fusce purus aliquam. Morbi porta. Risus donec vel ante interdum rhoncus metus neque curabitur nibh urna euismod venenatis nibh. Augue etiam enim nibh ornare potenti ve tincidunt a convallis.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:40.965117 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:41.000939 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "dolor-class-elit-placerat-vitae.",
+    "remoteUrl": "Augue%20massa%20gravida%20sit%20eget%20a%20amet%20risus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Curae purus vitae eros conubia et bibendum arcu cursus adipiscing pellentesque pretium dolor vel. Velit vitae senectus ridiculus at facilisis fames cum nunc. Fusce purus duis a eros dolor augue. Vitae neque fusce nibh varius integer gravida sapien hymenaeos nec nibh. Lacus morbi. Magna massa rutrum. Metus neque morbi odio mauris. Netus class. Fames morbi nascetur porta consequat class consequat interdum ligula aenean faucibus. Justo vitae a vivamus in tincidunt adipiscing nunc neque in eni malesuada. Curae magna taciti cubilia dis mattis a adipiscing eni vestibulum adipiscing eu. Porta fusce est pharetra porta ipsum non nisi hac. Fames class arcu rhoncus ut. Proin vitae a urna lorem fringilla. Class lacus dictum purus iaculis nulla blandit litora. Felis metus eleifend ac condimentum quis. Lorem felis lacinia accumsan curae taciti primis cum ac justo.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor class elit placerat vitae.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 56,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./dolor-class-elit-placerat-vitae."
+}

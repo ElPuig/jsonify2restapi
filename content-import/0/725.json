@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Itaque rursus eadem ratione, qua sum paulo ante usus, haerebitis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Quippe: habes enim a rhetoribus;</a> Dicimus aliquem hilare vivere; Si quicquam extra virtutem habeatur in bonis. Potius inflammat, ut coercendi magis quam dedocendi esse videantur. Nam Pyrrho, Aristo, Erillus iam diu abiecti. </p>\n\n<dl>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers?</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Paria sunt igitur.</dd>\n\t<dt><dfn>Tenent mordicus.</dfn></dt>\n\t<dd>Quae cum magnifice primo dici viderentur, considerata minus probabantur.</dd>\n\t<dt><dfn>Optime, inquam.</dfn></dt>\n\t<dd>Atque etiam val\u00edtudinem, vires, vacuitatem doloris non propter utilitatem solum, sed etiam ipsas propter se expetemus.</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit;</dd>\n</dl>\n\n\n<ul>\n\t<li>Si stante, hoc natura videlicet vult, salvam esse se, quod concedimus;</li>\n\t<li>Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam;</li>\n</ul>\n\n\n<h2>Quamquam id quidem, infinitum est in hac urbe;</h2>\n\n<p>Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Primum quid tu dicis breve?</a> Optime, inquam. Scrupulum, inquam, abeunti; Iam contemni non poteris. Quae duo sunt, unum facit. </p>\n\n<ol>\n\t<li>Stoici restant, ei quidem non unam aliquam aut alteram rem a nobis, sed totam ad se nostram philosophiam transtulerunt;</li>\n\t<li>Et ais, si una littera commota sit, fore tota ut labet disciplina.</li>\n\t<li>Semper enim ita adsumit aliquid, ut ea, quae prima dederit, non deserat.</li>\n\t<li>Ita relinquet duas, de quibus etiam atque etiam consideret.</li>\n\t<li>Maximas vero virtutes iacere omnis necesse est voluptate dominante.</li>\n\t<li>Maximas vero virtutes iacere omnis necesse est voluptate dominante.</li>\n</ol>\n\n\n<p>Sed haec omittamus; Quid de Pythagora? </p>\n\n",
+    "creation_date": "2018/10/26 17:59:4.634742 GMT-4",
+    "imageCaption": "Risus class.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "nulla-porta-aptent-elit-nibh-molestie-lacus-bibendum-hendrerit-nisl-elementum-ultricies-parturient-eros.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:4.960279 GMT-4",
+    "title": "Nulla porta aptent elit nibh molestie lacus bibendum hendrerit nisl elementum ultricies parturient eros.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum neque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Lorem magna. Lacus metus facilisi at cras nulla massa sociis pulvinar porta hac. Morbi fames. Fames ipsum sit suscipit feugiat consectetuer cubilia interdum fames in tellus faucibus torquent. Velit lorem morbi sagittis parturient semper cum sit pellentesque morbi eu. Proin neque nec imperdiet dictum sapien eni eget ut sollicitudin sociis lorem erat suspendisse. Fusce porta nonummy ornare quis proin in hymenaeos a facilisis. Dolor lacus felis curae. Fames metus nulla.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:4.638584 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:4.956474 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "nulla-porta-aptent-elit-nibh-molestie-lacus-bibendum-hendrerit-nisl-elementum-ultricies-parturient-eros.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Proin class nullam arcu ullamcorper per litora class commodo venenatis sapien senectus. Lorem massa quis a arcu neque sociis mi nam suspendisse conubia morbi urna fermentum etiam phasellus est vel laoreet. Donec risus sodales turpis ad nunc lorem integer pharetra litora. Lacus fusce. Class velit. Donec ipsum mauris in. Metus justo hac arcu amet. Massa curae lacus nullam ullamcorper morbi porttitor velit nec etiam. Proin lorem curae rhoncus molestie. Curae fusce nisl scelerisque at mauris in est eget non diam. Felis magna suscipit mi ante hymenaeos dis orci. Fusce donec eni non sollicitudin.",
+    "_content_type_description": "text/plain",
+    "_uid": "54bdd6cfed2b4c87b4ad0d0a93d6b002",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Nulla porta aptent elit nibh molestie lacus bibendum hendrerit nisl elementum ultricies parturient eros.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 65,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./nulla-porta-aptent-elit-nibh-molestie-lacus-bibendum-hendrerit-nisl-elementum-ultricies-parturient-eros."
+}

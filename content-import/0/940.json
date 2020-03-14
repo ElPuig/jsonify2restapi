@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:57.451451 GMT-4",
+    "_uid": "81048b06844a4ae49a08d6c52db1be38",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "risus-velit-diam-montes-congue-ante-cursus-lorem-adipiscing-commodo-sem-ac-netus-sollicitudin.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:57.782194 GMT-4",
+    "title": "Risus velit diam montes congue ante cursus lorem adipiscing commodo sem ac netus sollicitudin.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae velit class duis nascetur posuere natoque ante.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Magna lacus velit augue sapien etiam. Curae proin interdum sem libero non duis. Lorem justo mattis et eni rutrum magnis risus conubia ridiculus sagittis ac aptent leo. Donec etiam aliquet cum primis pretium egestas. Velit proin aliquet magnis curae penatibus cras vel vitae nullam. Ipsum felis. Nulla augue dis eget pellentesque ad augue per porta adipiscing aliquam. Netus magna. Magna neque nisl senectus interdum nulla nam hendrerit inceptos. Fames netus nascetur nec justo dui arcu convallis volutpat. Lacus etiam justo sed diam hac lorem posuere sociis per. Netus donec egestas luctus ut congue pellentesque. Porta lorem condimentum. Augue magna ornare viverra rhoncus urna amet mus a taciti. Etiam class.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:57.457399 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:57.777209 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Summus dolor plures dies manere non potest?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ego vero isti, inquam, permitto. Philosophi autem in suis lectulis plerumque moriuntur. Sedulo, inquam, faciam. Quare conare, quaeso. <a href='http://loripsum.net/' target='_blank'>Etenim semper illud extra est, quod arte comprehenditur.</a> Tum mihi Piso: Quid ergo? Duo Reges: constructio interrete. Refert tamen, quo modo. </p>\n\n<dl>\n\t<dt><dfn>Quid Zeno?</dfn></dt>\n\t<dd>Dat enim intervalla et relaxat.</dd>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Dic in quovis conventu te omnia facere, ne doleas.</dd>\n\t<dt><dfn>Optime, inquam.</dfn></dt>\n\t<dd>Hoc etsi multimodis reprehendi potest, tamen accipio, quod dant.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Dempta enim aeternitate nihilo beatior Iuppiter quam Epicurus;</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia.</dd>\n</dl>\n\n\n<p>Tamen a proposito, inquam, aberramus. Quid enim est a Chrysippo praetermissum in Stoicis? Quodsi ipsam honestatem undique pertectam atque absolutam. At hoc in eo M. </p>\n\n<ol>\n\t<li>Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</li>\n\t<li>At vero si ad vitem sensus accesserit, ut appetitum quendam habeat et per se ipsa moveatur, quid facturam putas?</li>\n\t<li>Nunc dicam de voluptate, nihil scilicet novi, ea tamen, quae te ipsum probaturum esse confidam.</li>\n\t<li>Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere.</li>\n</ol>\n\n\n<h2>Hanc ergo intuens debet institutum illud quasi signum absolvere.</h2>\n\n<p>Res enim concurrent contrariae. <a href='http://loripsum.net/' target='_blank'>Unum est sine dolore esse, alterum cum voluptate.</a> Non igitur bene. Tibi hoc incredibile, quod beatissimum. Teneo, inquit, finem illi videri nihil dolere. Cur id non ita fit? Ego vero isti, inquam, permitto. </p>\n\n<ul>\n\t<li>De ingenio eius in his disputationibus, non de moribus quaeritur.</li>\n\t<li>Haec igitur Epicuri non probo, inquam.</li>\n\t<li>Nec vero intermittunt aut admirationem earum rerum, quae sunt ab antiquis repertae, aut investigationem novarum.</li>\n\t<li>Hoc mihi cum tuo fratre convenit.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "risus-velit-diam-montes-congue-ante-cursus-lorem-adipiscing-commodo-sem-ac-netus-sollicitudin.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Metus massa nunc feugiat. Magna netus integer aliquam arcu pede curae. Velit netus nisl a odio parturient tellus. Fusce velit a ligula. Augue purus. Purus metus gravida etiam adipiscing pulvinar metus lacus nibh dui et arcu eleifend vestibulum vivamus cras. Augue fames semper. Fusce dolor. Metus class malesuada urna feugiat netus erat tempus parturient. Metus fames. Risus porta a nisi neque gravida ligula etiam adipiscing. Massa dolor senectus elementum. Purus vitae eros eu sollicitudin gravida dui sapien nostra ac arcu quisque. Morbi nulla class metus lacinia orci quis nisi leo vel. Fusce metus primis tempus justo proin.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Risus velit diam montes congue ante cursus lorem adipiscing commodo sem ac netus sollicitudin.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./risus-velit-diam-montes-congue-ante-cursus-lorem-adipiscing-commodo-sem-ac-netus-sollicitudin."
+}

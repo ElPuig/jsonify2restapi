@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quia dolori non voluptas contraria est, sed doloris privatio.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita prorsus, inquam; Tum Torquatus: Prorsus, inquit, assentior; Sedulo, inquam, faciam. Oratio me istius philosophi non offendit; Duo Reges: constructio interrete. </p>\n\n<p>Itaque his sapiens semper vacabit. Memini me adesse P. Ea possunt paria non esse. Sed haec nihil sane ad rem; Cur igitur, inquam, res tam dissimiles eodem nomine appellas? Cur id non ita fit? Certe, nisi voluptatem tanti aestimaretis. Esse enim, nisi eris, non potes. </p>\n\n<dl>\n\t<dt><dfn>Beatum, inquit.</dfn></dt>\n\t<dd>Ut proverbia non nulla veriora sint quam vestra dogmata.</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest.</dd>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Quorum altera prosunt, nocent altera.</dd>\n\t<dt><dfn>Hic ambiguo ludimur.</dfn></dt>\n\t<dd>Claudii libidini, qui tum erat summo ne imperio, dederetur.</dd>\n</dl>\n\n\n<ol>\n\t<li>De quibus cupio scire quid sentias.</li>\n\t<li>Sequitur disserendi ratio cognitioque naturae;</li>\n</ol>\n\n\n<ul>\n\t<li>Sapientem locupletat ipsa natura, cuius divitias Epicurus parabiles esse docuit.</li>\n\t<li>Quam illa ardentis amores excitaret sui! Cur tandem?</li>\n\t<li>Tum Lucius: Mihi vero ista valde probata sunt, quod item fratri puto.</li>\n</ul>\n\n\n<h2>Quo invento omnis ab eo quasi capite de summo bono et malo disputatio ducitur.</h2>\n\n<p>Quid sequatur, quid repugnet, vident. At hoc in eo M. Erat enim res aperta. Memini vero, inquam; </p>\n\n",
+    "creation_date": "2018/10/26 18:04:38.216042 GMT-4",
+    "imageCaption": "Lorem nulla turpis fames dapibus aenean urna purus curabitur nonummy mollis.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-curae-eni-accumsan-elementum-a-dis-malesuada-neque-orci-pulvinar-fermentum-elit-suspendisse-id-sapien-sollicitudin.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:38.557180 GMT-4",
+    "title": "Class curae eni accumsan elementum a dis malesuada neque orci pulvinar fermentum elit suspendisse id sapien sollicitudin.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus risus tortor condimentum morbi tristique semper ultrices ad morbi litora luctus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Neque risus nostra auctor habitasse. Lacus curae montes felis magna dis. Risus donec per urna sem eros id. Porta fusce dictum risus lacinia ultrices. Magna risus. Curae ipsum dapibus quis mus sollicitudin taciti in aptent id laoreet. Fusce ipsum massa a. Lacus porta.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:38.220777 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:38.553002 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "class-curae-eni-accumsan-elementum-a-dis-malesuada-neque-orci-pulvinar-fermentum-elit-suspendisse-id-sapien-sollicitudin.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa risus potenti id litora massa vestibulum pharetra commodo. Porta neque ligula lorem pretium lacinia nisi commodo lectus. Curae donec potenti semper. Lorem magna. Class velit auctor duis rhoncus litora massa iaculis primis. Magna risus eni ante etiam natoque odio fusce. Netus class semper eleifend habitasse rutrum pulvinar adipiscing. Nulla magna a cras donec rutrum ac lacus at lorem. Risus proin vel adipiscing parturient et sagittis nam libero.",
+    "_content_type_description": "text/plain",
+    "_uid": "45b6e3abf33a462c98a6c32cdaecc94c",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class curae eni accumsan elementum a dis malesuada neque orci pulvinar fermentum elit suspendisse id sapien sollicitudin.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 69,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./class-curae-eni-accumsan-elementum-a-dis-malesuada-neque-orci-pulvinar-fermentum-elit-suspendisse-id-sapien-sollicitudin."
+}

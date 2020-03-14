@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:3.260043 GMT-4",
+    "_uid": "e04705dd9a6047f9988f93123b39036f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-ipsum.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:3.306479 GMT-4",
+    "title": "Netus ipsum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class netus est odio felis taciti accumsan rutrum tempor ut sodales at.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Nulla ipsum. Class ipsum potenti iaculis magnis nibh hymenaeos leo est. Fames velit pulvinar parturient vivamus dui. Metus fusce aliquam netus. Neque lacus ridiculus elementum quam feugiat mi. Dolor donec nisi semper dui auctor sodales facilisis dictumst etiam mi a arcu adipiscing elementum erat nibh feugiat. Class neque integer vehicula dictum arcu ve erat nullam consequat. Velit risus maecenas ad platea velit. Magna purus. Curae ipsum a elit vitae mattis parturient suscipit. Proin justo. Magna netus aptent mi ac leo curabitur aptent. Class neque. Proin class. Donec morbi leo elit.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:3.263271 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:3.301711 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "netus-ipsum.",
+    "remoteUrl": "Dolor%20lorem%20tristique%20ridiculus%20metus%20dis%20dictum%20conubia.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Felis vitae nostra elit sodales a suspendisse nec. Felis ipsum felis. Justo lacus cum eget a orci at consequat egestas semper. Donec nulla. Ipsum augue. Metus risus orci fusce cubilia donec. Neque proin cubilia facilisi curae. Nulla netus magnis vestibulum risus enim senectus a praesent erat aptent commodo ad dis cras leo. Velit fusce fames.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus ipsum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 57,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./netus-ipsum."
+}

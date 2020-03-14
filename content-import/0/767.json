@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:31.369125 GMT-4",
+    "_uid": "b7b259f7dcdc42ab9f0cdea63718d049",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-velit.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:31.418104 GMT-4",
+    "title": "Curae velit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Nulla velit sagittis ad eni nisi arcu cras justo class aptent porta sodales.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fames dolor urna nibh adipiscing hymenaeos. Augue porta. Felis etiam massa luctus neque vestibulum. Magna felis nec tempor a sagittis odio tortor in maecenas arcu. Class fusce. Netus nulla turpis neque. Class curae. Nulla lorem sodales cursus pede eget ligula dignissim laoreet turpis imperdiet. Donec felis. Purus class praesent adipiscing penatibus scelerisque non quam ve. Ipsum lacus integer nullam massa dapibus elementum. Fames magna. Fusce donec arcu tempor sed natoque eget facilisis hendrerit diam mus enim erat sit nibh varius et. Risus augue mauris luctus lorem hendrerit justo a libero pede scelerisque sed. Neque fames tempus justo. Massa magna hendrerit venenatis quis. Dolor risus. Magna morbi libero id rhoncus cras ad sollicitudin vivamus. Risus metus integer tempus ve dis ut fames magna mauris felis quisque duis. Massa neque nulla imperdiet sit non at tempor sed platea tellus eleifend aptent nunc eu.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "amet..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "curae-velit.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Felis lorem dui facilisis ornare a. Lorem ipsum dolor nulla commodo nunc. Nulla netus. Purus felis class malesuada cras nisi elit. Massa fames litora dignissim tortor nulla netus ullamcorper pharetra tincidunt id. Donec risus eni tempor sociis penatibus adipiscing nunc. Neque lacus integer etiam curae mauris ut. Justo proin mus elit. Augue velit dui non penatibus placerat nulla hac enim. Ipsum risus hac risus tristique nisl hac malesuada libero. Fusce vitae phasellus dictumst pede tempor hac ligula commodo. Proin augue sodales erat proin libero sed potenti arcu lectus praesent phasellus. Curae lacus egestas nonummy venenatis volutpat montes litora id placerat donec ad. Purus vitae. Nulla dolor. Magna purus lorem litora fringilla metus viverra integer. Vitae curae scelerisque volutpat quisque. Curae proin donec ornare ad suscipit dui metus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Curae velit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./curae-velit."
+}

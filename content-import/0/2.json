@@ -1,0 +1,121 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 13:41:39.784016 GMT-4",
+    "_uid": "f77999b8cdac40bd8e9c727ba553329e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "news",
+    "subject": [],
+    "modification_date": "2018/10/26 13:41:42.457536 GMT-4",
+    "title": "News",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_gopip": 59,
+    "location": "",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": 0,
+    "_type": "Folder",
+    "description": "",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:41:39.788424 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:41:42.467922 GMT-4"
+            }
+        ]
+    },
+    "_directly_provided": [],
+    "_classname": "ATFolder",
+    "banner": "",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "news",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "2018/10/26 13:41:42.457025 GMT-4",
+    "language": "en",
+    "rights": "",
+    "_owner": "admin",
+    "_defaultpage": "",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "News",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/news"
+}

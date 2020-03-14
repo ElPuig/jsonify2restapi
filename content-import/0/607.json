@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:12.625315 GMT-4",
+    "_uid": "2dfa176a2ba445cd9119016173659ea8",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "metus-lorem-leo-habitasse-sodales-sed-praesent.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:12.677495 GMT-4",
+    "title": "Metus lorem leo habitasse sodales sed praesent.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Risus etiam augue fames tortor blandit quis adipiscing habitasse massa arcu ad imperdiet.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Etiam lorem quis pede. Porta ipsum. Lacus netus non bibendum consequat sollicitudin vestibulum eget ligula mattis hymenaeos nascetur sapien. Metus porta libero ligula lacus purus mollis felis fusce a nibh. Lacus morbi eget in cum justo nam elit ante gravida mattis dolor nisi. Massa neque. Magna felis arcu nam metus class nam eros. Massa felis diam laoreet conubia diam eni erat hendrerit odio cras nibh quisque id hymenaeos. Risus lacus proin congue tempus justo neque natoque elit.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.276205 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.594883 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "pulvinar..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "metus-lorem-leo-habitasse-sodales-sed-praesent.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lorem massa justo accumsan massa. Class netus metus mauris metus pulvinar risus at tristique ridiculus. Proin dolor varius pellentesque tincidunt metus. Massa lacus. Ipsum fusce condimentum ante porttitor ligula. Curae nulla cum quis ve duis proin. Dolor justo nunc nisl blandit ad fames montes. Donec lacus scelerisque. Morbi etiam dictumst cum et a dictum imperdiet natoque. Magna justo potenti sapien id pede morbi ipsum cubilia auctor ad. Felis porta elementum rhoncus magna nibh euismod magnis est quam ultricies sagittis. Morbi nulla a aptent fringilla quisque. Lorem justo eros euismod in nec erat. Class proin est adipiscing vestibulum eu curabitur a ridiculus porta enim.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Metus lorem leo habitasse sodales sed praesent.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./metus-lorem-leo-habitasse-sodales-sed-praesent."
+}

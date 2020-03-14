@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/10 11:56:29.969038 GMT-4",
+    "endDate": "2018/10/13 07:32:44.334732 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Tecum optime, deinde etiam cum mediocri amico.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nonne videmus quanta perturbatio rerum omnium consequatur, quanta confusio? Primum in nostrane potestate est, quid meminerimus? Sed ad rem redeamus; Ne in odium veniam, si amicum destitero tueri. </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Sed hoc sane concedamus. Sed mehercule pergrata mihi oratio tua. Quae cum essent dicta, discessimus. An potest cupiditas finiri? Eam stabilem appellas. Quaerimus enim finem bonorum. </p>\n\n<pre>\nIam quae corporis sunt, ea nec auctoritatem cum animi\npartibus, comparandam et cognitionem habent faciliorem.\n\nCur tantas regiones barbarorum pedibus obiit, tot maria\ntransmisit?\n</pre>\n\n\n<dl>\n\t<dt><dfn>Stoicos roga.</dfn></dt>\n\t<dd>Videmusne ut pueri ne verberibus quidem a contemplandis rebus perquirendisque deterreantur?</dd>\n\t<dt><dfn>Paria sunt igitur.</dfn></dt>\n\t<dd>Indicant pueri, in quibus ut in speculis natura cernitur.</dd>\n\t<dt><dfn>Quis negat?</dfn></dt>\n\t<dd>Nihil ad rem! Ne sit sane;</dd>\n\t<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>\n\t<dd>Sit hoc ultimum bonorum, quod nunc a me defenditur;</dd>\n\t<dt><dfn>Hunc vos beatum;</dfn></dt>\n\t<dd>Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.</dd>\n</dl>\n\n\n<ul>\n\t<li>Si enim, ut mihi quidem videtur, non explet bona naturae voluptas, iure praetermissa est;</li>\n\t<li>Traditur, inquit, ab Epicuro ratio neglegendi doloris.</li>\n</ul>\n\n\n<ol>\n\t<li>Cuius similitudine perspecta in formarum specie ac dignitate transitum est ad honestatem dictorum atque factorum.</li>\n\t<li>Quare ad ea primum, si videtur;</li>\n\t<li>Quid autem habent admirationis, cum prope accesseris?</li>\n\t<li>Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis.</li>\n</ol>\n\n\n<h3>Utrum igitur tibi litteram videor an totas paginas commovere?</h3>\n\n<p>Quid autem habent admirationis, cum prope accesseris? Non autem hoc: igitur ne illud quidem. Ea possunt paria non esse. <a href='http://loripsum.net/' target='_blank'>Immo alio genere;</a> Quae duo sunt, unum facit. Quippe: habes enim a rhetoribus; Quid enim possumus hoc agere divinius? Quid vero? </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:50:4.492117 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "08865858681a454b836d41f6058e5db7",
+    "expirationDate": "None",
+    "contactName": "Metus purus rutrum duis nisl duis facilisis auctor duis euismod id phasellus ut id.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Felis fusce scelerisque in platea mi nulla consectetuer inceptos vitae at.",
+    "id": "fusce-proin-est-orci-id-orci-nam-ve-risus-pellentesque.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:43.358987 GMT-4",
+    "title": "Fusce proin est orci id orci nam ve risus pellentesque.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus proin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Massa magna vel massa urna metus vivamus dui ut. Etiam augue. Massa risus. Porta augue. Fusce morbi. Morbi augue congue ac pulvinar augue in mi purus libero augue parturient. Massa lorem platea sapien posuere cursus ut enim morbi at. Curae porta turpis. Proin vitae eleifend nec. Fames porta litora consectetuer elementum class netus. Nulla purus nonummy hac curabitur aliquam etiam non duis. Etiam netus curae eni dui sollicitudin massa ad pede. Fames nulla duis eleifend. Velit purus urna praesent commodo ornare ipsum ac. Fames metus mattis ligula id dictumst vitae natoque tempus dui enim eni consequat. Metus risus nulla velit dictum lorem cursus eget. Nulla velit commodo eros vel arcu aliquet ad tortor. Fames augue. Etiam dolor suspendisse urna enim.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:50:4.495442 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:43.373169 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "fusce-proin-est-orci-id-orci-nam-ve-risus-pellentesque.",
+    "modification_date": "2018/10/26 13:51:43.359241 GMT-4",
+    "language": "en",
+    "rights": "Massa felis. Curae nulla accumsan curabitur. Augue risus venenatis ante ullamcorper integer consectetuer auctor at id. Netus lacus. Fames purus ipsum magna arcu justo at ut eu diam conubia ad. Felis nulla non elit parturient cum etiam sit. Fusce nulla gravida mollis. Fames augue. Velit porta. Dolor risus nunc enim vitae est eget nulla. Vitae felis integer sociis diam id cras class curae hac. Justo proin porta montes. Augue massa.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce proin est orci id orci nam ve risus pellentesque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 105,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/fusce-proin-est-orci-id-orci-nam-ve-risus-pellentesque."
+}

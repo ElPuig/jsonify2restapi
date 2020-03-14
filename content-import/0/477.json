@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dat enim intervalla et relaxat. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Poterat autem inpune; Scrupulum, inquam, abeunti; Nulla erit controversia. Sed quot homines, tot sententiae; </p>\n\n<ol>\n\t<li>Quid autem habent admirationis, cum prope accesseris?</li>\n\t<li>Bona autem corporis huic sunt, quod posterius posui, similiora.</li>\n\t<li>Qua tu etiam inprudens utebare non numquam.</li>\n\t<li>Prodest, inquit, mihi eo esse animo.</li>\n\t<li>Verba tu fingas et ea dicas, quae non sentias?</li>\n</ol>\n\n\n<h3>Nonne videmus quanta perturbatio rerum omnium consequatur, quanta confusio?</h3>\n\n<p>Non semper, inquam; Quae hic rei publicae vulnera inponebat, eadem ille sanabat. Illa tamen simplicia, vestra versuta. Minime vero istorum quidem, inquit. Si quidem, inquit, tollerem, sed relinquo. </p>\n\n<ul>\n\t<li>Sin eam, quam Hieronymus, ne fecisset idem, ut voluptatem illam Aristippi in prima commendatione poneret.</li>\n\t<li>Sequitur disserendi ratio cognitioque naturae;</li>\n\t<li>Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum.</li>\n</ul>\n\n\n<h2>Non est ista, inquam, Piso, magna dissensio.</h2>\n\n<p>Istic sum, inquit. Tu vero, inquam, ducas licet, si sequetur; Primum quid tu dicis breve? Respondeat totidem verbis. Maximus dolor, inquit, brevis est. Non igitur bene. Haeret in salebra. Polycratem Samium felicem appellabant. </p>\n\n<dl>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Sin laboramus, quis est, qui alienae modum statuat industriae?</dd>\n\t<dt><dfn>Cur iustitia laudatur?</dfn></dt>\n\t<dd>Quis est enim, in quo sit cupiditas, quin recte cupidus dici possit?</dd>\n\t<dt><dfn>Pollicetur certe.</dfn></dt>\n\t<dd>Tecum optime, deinde etiam cum mediocri amico.</dd>\n\t<dt><dfn>Quid iudicant sensus?</dfn></dt>\n\t<dd>Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:57:3.762407 GMT-4",
+    "imageCaption": "Porta nulla fusce eni.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-risus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:4.112382 GMT-4",
+    "title": "Magna risus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Nulla magna eget ut ultrices volutpat neque imperdiet arcu sapien vulputate parturient.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Felis fusce. Morbi fusce imperdiet adipiscing ante tempus augue ante integer mauris quam at nisi. Fusce lacus libero volutpat pede. Lacus curae. Massa neque tempor montes non elit euismod nonummy nisl lacus mattis. Purus neque. Nulla lorem nonummy integer erat ac consectetuer pretium dignissim urna tempor. Neque donec quisque ve eu vitae ut curabitur. Porta dolor etiam cras quisque tempus eni dapibus nascetur.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:3.766746 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:4.108241 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "magna-risus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa donec dapibus quis hac massa. Lacus ipsum. Vitae fames class pede dapibus ac est tempus sapien sem pharetra. Etiam velit cursus erat ut consectetuer. Risus vitae sem vitae primis. Velit class montes dolor fusce scelerisque nisi arcu. Purus neque. Ipsum velit. Augue magna. Etiam donec. Curae purus quisque elit ut ipsum. Netus donec amet urna hendrerit sed elementum sociis eget. Risus etiam amet. Class curae. Justo curae hendrerit sed eros a. Nulla magna duis tincidunt nostra ultrices suspendisse volutpat penatibus. Etiam fames. Risus neque aliquet urna consectetuer ac curae.",
+    "_content_type_description": "text/plain",
+    "_uid": "86eed1502ca14a84974788f774229fc8",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna risus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 60,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./magna-risus."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Igitur neque stultorum quisquam beatus neque sapientium non beatus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae quo sunt excelsiores, eo dant clariora indicia naturae. At enim hic etiam dolore. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> </p>\n\n<ul>\n\t<li>At enim, qua in vita est aliquid mali, ea beata esse non potest.</li>\n\t<li>Et hunc idem dico, inquieta sed ad virtutes et ad vitia nihil interesse.</li>\n</ul>\n\n\n<p>Quae similitudo in genere etiam humano apparet. Quam nemo umquam voluptatem appellavit, appellat; Age, inquies, ista parva sunt. Qui autem esse poteris, nisi te amor ipse ceperit? <a href='http://loripsum.net/' target='_blank'>Quorum altera prosunt, nocent altera.</a> Beatus sibi videtur esse moriens. </p>\n\n<dl>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</dd>\n\t<dt><dfn>Etiam beatissimum?</dfn></dt>\n\t<dd>Nam si quae sunt aliae, falsum est omnis animi voluptates esse e corporis societate.</dd>\n</dl>\n\n\n<p>Immo alio genere; Quare ad ea primum, si videtur; Urgent tamen et nihil remittunt. Praeclarae mortes sunt imperatoriae; Vestri haec verecundius, illi fortasse constantius. <a href='http://loripsum.net/' target='_blank'>Venit ad extremum;</a> </p>\n\n<ol>\n\t<li>Teneo, inquit, finem illi videri nihil dolere.</li>\n\t<li>Bonum negas esse divitias, praepos\u00ectum esse dicis?</li>\n\t<li>Sin autem est in ea, quod quidam volunt, nihil impedit hanc nostram comprehensionem summi boni.</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 18:01:8.425517 GMT-4",
+    "imageCaption": "Neque curae curabitur placerat tempor.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "donec-justo.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:8.757499 GMT-4",
+    "title": "Donec justo.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque dolor.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Augue nulla. Lacus porta sem vel est lacinia. Porta etiam fringilla suspendisse convallis. Metus dolor. Purus curae dictumst risus mus suscipit augue posuere nonummy primis ridiculus natoque. Donec porta nec quis odio. Metus nulla malesuada euismod nam mi etiam. Magna ipsum. Felis etiam rutrum ve sociis mi. Risus massa. Purus morbi rutrum egestas enim sollicitudin sagittis ipsum at nisl erat interdum sed nibh. Netus lacus quisque litora in risus id ligula etiam ipsum.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:8.429406 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:8.752168 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "donec-justo.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Netus vitae tempus eget id pellentesque euismod. Nulla massa. Massa porta nonummy lacinia quam porttitor pellentesque parturient nibh tempus viverra. Magna etiam sociosqu. Augue proin primis in mattis a potenti cursus non tempor viverra urna ac nunc. Etiam felis cum erat nibh. Dolor lorem luctus ultrices porttitor ac. Neque class. Fames fusce facilisis dis eros pulvinar viverra rutrum risus suspendisse vel dictum. Dolor augue tempor risus parturient placerat massa id. Ipsum lorem. Massa risus magnis metus parturient. Proin augue consequat libero vestibulum netus. Dolor netus sociosqu lacus sapien luctus. Fusce ipsum suscipit hendrerit mi hymenaeos curae vulputate mollis parturient. Neque etiam. Curae metus eget. Fames lacus. Porta morbi.",
+    "_content_type_description": "text/plain",
+    "_uid": "dcf4faaec82f4a6a885c14e5e8acd0f3",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec justo.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 69,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./donec-justo."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Numquam facies.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum mihi Piso: Quid ergo? At hoc in eo M. Duo Reges: constructio interrete. Memini vero, inquam; Facete M. Sin aliud quid voles, postea. ALIO MODO. Quam ob rem tandem, inquit, non satisfacit? </p>\n\n<dl>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Ut aliquid scire se gaudeant?</dd>\n\t<dt><dfn>Si longus, levis;</dfn></dt>\n\t<dd>Si autem id non concedatur, non continuo vita beata tollitur.</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Ita multo sanguine profuso in laetitia et in victoria est mortuus.</dd>\n</dl>\n\n\n<p>Eam stabilem appellas. <a href='http://loripsum.net/' target='_blank'>Negat esse eam, inquit, propter se expetendam.</a> Sit enim idem caecus, debilis. Itaque his sapiens semper vacabit. Itaque ab his ordiamur. Esse enim, nisi eris, non potes. Apud ceteros autem philosophos, qui quaesivit aliquid, tacet; Bonum incolumis acies: misera caecitas. </p>\n\n<p>Dici enim nihil potest verius. Sed ille, ut dixi, vitiose. <a href='http://loripsum.net/' target='_blank'>Tum Triarius: Posthac quidem, inquit, audacius.</a> Quam si explicavisset, non tam haesitaret. <a href='http://loripsum.net/' target='_blank'>Sed quid sentiat, non videtis.</a> </p>\n\n<ol>\n\t<li>Oculorum, inquit Plato, est in nobis sensus acerrimus, quibus sapientiam non cernimus.</li>\n\t<li>Quis enim confidit semper sibi illud stabile et firmum permansurum, quod fragile et caducum sit?</li>\n\t<li>Quod quidem iam fit etiam in Academia.</li>\n</ol>\n\n\n<ul>\n\t<li>Et hanc quidem primam exigam a te operam, ut audias me quae a te dicta sunt refellentem.</li>\n\t<li>Nam his libris eum malo quam reliquo ornatu villae delectari.</li>\n\t<li>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</li>\n\t<li>Sit enim idem caecus, debilis.</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 18:02:31.535264 GMT-4",
+    "imageCaption": "Neque lorem dictum convallis.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-class-commodo-et-nec-scelerisque-sodales-augue-arcu-a.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:31.857842 GMT-4",
+    "title": "Netus class commodo et nec scelerisque sodales augue arcu a.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum netus sociis platea hac at litora etiam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Netus vitae eros condimentum cum quam dictum tempus ultrices penatibus non vitae. Augue nulla suspendisse senectus etiam et convallis vitae ut netus per sed habitasse. Risus netus. Massa augue dolor nunc aliquet elit orci. Curae justo morbi sem platea aliquet id integer in hac. Augue netus facilisi penatibus mi cras eros urna pharetra blandit pellentesque ornare. Vitae lorem porta nam porta metus vivamus nibh facilisi pellentesque dictum semper. Ipsum felis nullam. Risus neque erat eros cras per nam mi. Vitae porta turpis metus praesent nec ipsum phasellus curabitur nisi commodo nibh sollicitudin. Neque augue lacinia sagittis proin.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:31.539099 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:31.854018 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "netus-class-commodo-et-nec-scelerisque-sodales-augue-arcu-a.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Class massa nulla conubia laoreet venenatis mauris taciti. Velit magna nullam mauris lacus at rutrum egestas pede in pellentesque. Proin metus semper lacus lorem quis aenean ut orci feugiat varius. Felis augue lacinia. Lacus metus pede sed iaculis tellus. Neque class nullam ornare. Donec class. Etiam class conubia cursus non primis sociosqu cras. Lorem nulla aptent. Augue donec nam purus. Magna etiam justo suscipit pede facilisis senectus id est duis habitant. Vitae morbi. Donec lacus sagittis hymenaeos vel. Vitae porta vel. Velit vitae cum. Vitae ipsum arcu dictumst netus in magnis lacus id donec at a rutrum fermentum adipiscing nisl. Nulla proin nec risus vitae mollis pellentesque venenatis fames in vel ullamcorper.",
+    "_content_type_description": "text/plain",
+    "_uid": "39dcbc86bb0c40139ca14780afd70d52",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus class commodo et nec scelerisque sodales augue arcu a.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 69,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./netus-class-commodo-et-nec-scelerisque-sodales-augue-arcu-a."
+}

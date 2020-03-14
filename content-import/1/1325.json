@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:20.886937 GMT-4",
+    "_uid": "724235f781e64715895d80562a6e5408",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "etiam-felis-neque-mus-netus-quam-massa-ultrices-sit-odio.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:20.939188 GMT-4",
+    "title": "Etiam felis neque mus netus quam massa ultrices sit odio.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Lacus proin congue mollis vel eu eleifend mus quam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Curae morbi risus ante metus. Magna nulla tellus praesent euismod laoreet dictum dui eni. Metus proin fusce sit neque dignissim placerat. Neque massa mollis montes ante porttitor ve. Lorem class dolor ligula augue scelerisque pulvinar. Purus nulla risus a odio. Fames proin tempus eget rutrum sed. Lacus felis dui magna ornare eu diam ut. Justo augue faucibus velit orci at. Netus justo velit litora dignissim cubilia ipsum arcu tellus cubilia. Nulla donec taciti risus adipiscing et venenatis purus eni vitae netus interdum cras dignissim lobortis ornare. Justo proin.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.205244 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.565584 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "felis..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "etiam-felis-neque-mus-netus-quam-massa-ultrices-sit-odio.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Morbi magna. Lorem magna. Justo metus enim. Netus neque. Risus massa. Purus morbi dui nisl blandit in interdum orci egestas dui adipiscing id. Risus lacus aliquam luctus ornare dolor adipiscing et. Class proin mauris. Justo magna. Augue neque ipsum augue arcu viverra mauris auctor maecenas. Morbi augue hymenaeos neque eu curae pulvinar. Augue class. Massa dolor per pretium.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Etiam felis neque mus netus quam massa ultrices sit odio.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 27,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./etiam-felis-neque-mus-netus-quam-massa-ultrices-sit-odio."
+}

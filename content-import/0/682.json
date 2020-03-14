@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:50.923552 GMT-4",
+    "_uid": "31663fcec37e454285d3cb0e7ee1bc98",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "velit-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:50.979839 GMT-4",
+    "title": "Velit augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Donec magna.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Ipsum porta nibh dui. Justo ipsum praesent ad risus vulputate fusce at id orci montes. Netus neque viverra eget est sociis. Proin vitae aptent facilisis augue sociosqu fames quam. Velit ipsum ante torquent ve platea porttitor sodales consectetuer quisque nunc mi. Felis velit varius ad mauris dis cubilia augue ut nec metus vulputate. Lacus velit ornare nonummy. Morbi massa mus pede facilisis libero lobortis. Magna proin. Fames morbi sit duis faucibus ut ullamcorper et taciti torquent. Felis massa dictum fames augue mollis purus scelerisque. Ipsum magna mollis. Class fusce. Nulla ipsum morbi sociis magna condimentum nibh nisi eget aenean id facilisi.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "velit..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "velit-augue.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lorem neque elit sed etiam quisque platea. Donec dolor ullamcorper ac mattis est elit turpis enim consequat. Fusce netus enim. Proin risus. Neque porta lobortis enim mollis at urna eget phasellus odio sem. Ipsum curae litora. Magna purus pede nam purus est arcu id maecenas interdum congue iaculis. Lorem etiam. Justo felis a urna porta neque phasellus ultricies urna. Donec etiam purus euismod risus purus velit convallis accumsan. Donec felis gravida convallis dictum justo pretium cursus nibh et curae. Morbi neque eros accumsan a vehicula hac iaculis id. Donec fames suspendisse inceptos morbi hymenaeos. Dolor purus. Porta neque nostra. Etiam ipsum accumsan hendrerit a nam phasellus massa.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Velit augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./velit-augue."
+}

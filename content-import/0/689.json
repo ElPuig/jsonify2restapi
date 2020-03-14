@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:52.376902 GMT-4",
+    "_uid": "df174f9f71034bcc817892d6cb09035c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "augue-netus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:52.427377 GMT-4",
+    "title": "Augue netus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Purus felis senectus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fames netus ligula id duis vivamus sodales enim eu. Lacus porta dignissim nec curae commodo aliquet nunc at bibendum sit. Dolor massa cubilia viverra imperdiet id litora ve. Fames nulla. Fusce morbi ultricies sed dignissim. Velit metus nullam in senectus sed. Vitae lorem tempus lacus pretium faucibus mi ornare purus scelerisque. Magna morbi class molestie cum magna dui diam pulvinar.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "odio..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "augue-netus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla massa non quam cras est justo adipiscing ullamcorper tortor ac. Donec proin urna dui velit pede. Dolor netus eni urna ut. Netus velit. Fames felis mus proin sit neque vel class natoque libero. Neque felis interdum convallis aenean cras suspendisse pretium scelerisque. Class magna donec taciti ullamcorper justo convallis elementum arcu vitae. Curae fames dolor mollis ante elit fringilla. Curae purus pede ultrices lorem ut ac ligula penatibus eu duis. Morbi justo mollis proin maecenas hymenaeos quis hac ad augue leo.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Augue netus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./augue-netus."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:55.137306 GMT-4",
+    "_uid": "2b34a3956808437f865fd9eda21a6d29",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "massa-etiam.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:55.473905 GMT-4",
+    "title": "Massa etiam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae etiam pretium in ut fames montes.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Nulla fames tempor ut suscipit faucibus lorem vehicula in velit metus condimentum. Nulla ipsum nam pede inceptos et. Massa proin morbi rutrum mus mi ligula lectus sodales posuere curabitur. Netus proin fringilla habitasse class ridiculus duis posuere neque. Neque justo dapibus tellus amet ornare hendrerit eleifend amet gravida. Donec purus quam rutrum litora egestas eu quis urna eros ve. Dolor morbi euismod ut. Lorem lacus felis augue enim turpis porttitor lobortis donec tempus faucibus. Justo augue. Neque etiam nec nibh pellentesque mi gravida ac et eget sed pede sagittis risus. Ipsum curae a pretium aenean ante ac metus. Justo ipsum praesent. Neque magna sociis turpis quisque commodo nisi risus massa metus auctor magnis malesuada eleifend purus. Porta etiam proin.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:55.142465 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:55.469366 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Beatus autem esse in maximarum rerum timore nemo potest.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summus dolor plures dies manere non potest? Non est ista, inquam, Piso, magna dissensio. Honesta oratio, Socratica, Platonis etiam. Haec dicuntur inconstantissime. Age sane, inquam. </p>\n\n<dl>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Quo modo autem philosophus loquitur?</dd>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Certe, nisi voluptatem tanti aestimaretis.</dd>\n\t<dt><dfn>Sed fortuna fortis;</dfn></dt>\n\t<dd>Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.</dd>\n\t<dt><dfn>Refert tamen, quo modo.</dfn></dt>\n\t<dd>Atque ego: Scis me, inquam, istud idem sentire, Piso, sed a te opportune facta mentio est.</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Mihi enim erit isdem istis fortasse iam utendum.</dd>\n</dl>\n\n\n<ol>\n\t<li>Satisne vobis videor pro meo iure in vestris auribus commentatus?</li>\n\t<li>Superiores tres erant, quae esse possent, quarum est una sola defensa, eaque vehementer.</li>\n\t<li>Materiam vero rerum et copiam apud hos exilem, apud illos uberrimam reperiemus.</li>\n</ol>\n\n\n<h3>Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</h3>\n\n<p>Non laboro, inquit, de nomine. Pauca mutat vel plura sane; Laboro autem non sine causa; Teneo, inquit, finem illi videri nihil dolere. Nobis aliter videtur, recte secusne, postea; Praeclare hoc quidem. <a href='http://loripsum.net/' target='_blank'>Beatus sibi videtur esse moriens.</a> </p>\n\n<h2>Haec igitur Epicuri non probo, inquam.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>A primo, ut opinor, animantium ortu petitur origo summi boni.</a> Duo Reges: constructio interrete. Ea possunt paria non esse. Sed ad bona praeterita redeamus. Audeo dicere, inquit. <a href='http://loripsum.net/' target='_blank'>Facete M.</a> Nullus est igitur cuiusquam dies natalis. <a href='http://loripsum.net/' target='_blank'>Quod cum dixissent, ille contra.</a> </p>\n\n<ul>\n\t<li>Progredientibus autem aetatibus sensim tardeve potius quasi nosmet ipsos cognoscimus.</li>\n\t<li>Non potes, nisi retexueris illa.</li>\n\t<li>Restinguet citius, si ardentem acceperit.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "massa-etiam.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Nulla risus semper vitae at a eget at. Nulla fusce. Metus purus. Etiam lorem placerat ut diam eu etiam. Massa nulla. Metus proin duis quisque duis pulvinar lectus mauris felis lacus sodales nisi. Augue class magnis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Massa etiam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./massa-etiam."
+}

@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/25 08:10:25.948350 GMT-4",
+    "endDate": "2018/10/27 04:31:38.835179 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quae hic rei publicae vulnera inponebat, eadem ille sanabat.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est igitur voluptas bonum. Hunc vos beatum; Duo Reges: constructio interrete. Unum est sine dolore esse, alterum cum voluptate. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Certe non potest.</a> Tubulo putas dicere? </p>\n\n<h2>Bona autem corporis huic sunt, quod posterius posui, similiora.</h2>\n\n<p>Age, inquies, ista parva sunt. Idem adhuc; </p>\n\n<ol>\n\t<li>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</li>\n\t<li>Ratio quidem vestra sic cogit.</li>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n</ol>\n\n\n<ul>\n\t<li>Licet hic rursus ea commemores, quae optimis verbis ab Epicuro de laude amicitiae dicta sunt.</li>\n\t<li>Quid interest, nisi quod ego res notas notis verbis appello, illi nomina nova quaerunt, quibus idem dicant?</li>\n\t<li>Quod autem magnum dolorem brevem, longinquum levem esse dicitis, id non intellego quale sit.</li>\n\t<li>Illis videtur, qui illud non dubitant bonum dicere -;</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Ita fit cum gravior, tum etiam splendidior oratio.</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Equidem etiam Epicurum, in physicis quidem, Democriteum puto.</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Ita relinquet duas, de quibus etiam atque etiam consideret.</dd>\n</dl>\n\n\n<pre>\nEt quis a Stoicis et quem ad modum diceretur, tamen ego\nquoque exponam, ut perspiciamus, si potuerimus, quidnam a\nZenone novi sit allatum.\n\nSummum en\u00edm bonum exposuit vacuitatem doloris;\n</pre>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:36.695114 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "36631cd0a23d45f28fa88027cd12707b",
+    "expirationDate": "None",
+    "contactName": "Curae class primis platea venenatis gravida tortor morbi scelerisque.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Vitae class enim nam lacus fringilla.",
+    "id": "class-neque-orci-euismod-ve.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:41.319961 GMT-4",
+    "title": "Class neque orci euismod ve.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem justo lacus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Curae lacus. Augue lorem mattis fames. Morbi fames ligula enim nibh pretium id ve quis faucibus. Morbi vitae. Velit ipsum suspendisse pharetra phasellus ve primis accumsan metus. Donec ipsum nam quis a urna et proin arcu nostra. Etiam augue nisl aliquet at consequat arcu venenatis. Nulla massa risus urna interdum. Felis justo morbi tellus consectetuer penatibus vitae. Dolor augue. Justo lacus quam porta accumsan parturient semper ut. Porta vitae a feugiat rutrum elementum id cursus. Porta netus suscipit et ornare leo quis integer per ve.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:36.701210 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:41.331980 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "class-neque-orci-euismod-ve.",
+    "modification_date": "2018/10/26 13:51:41.320228 GMT-4",
+    "language": "en",
+    "rights": "Morbi fusce metus inceptos. Felis class vel vulputate taciti eleifend velit. Justo etiam nullam fames porta ante sociosqu nibh. Netus velit nulla nisi nunc tristique eni curabitur habitant pharetra ligula risus. Vitae class ipsum urna est imperdiet tellus nisl. Dolor neque urna nonummy et amet ullamcorper dapibus scelerisque nisl pede. Morbi nulla neque sapien adipiscing lorem blandit eget. Massa fusce fames pede lacinia ridiculus ac. Risus metus. Lorem dolor sociosqu odio diam. Massa velit augue est elit. Morbi netus. Fames dolor odio hac turpis. Class magna mus tellus gravida ut. Neque curae platea lorem blandit viverra ornare per cubilia. Class metus eni duis in placerat nunc nullam eu.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class neque orci euismod ve.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/class-neque-orci-euismod-ve."
+}

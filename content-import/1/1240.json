@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:24.908232 GMT-4",
+    "_uid": "456f6df92d9e4530aaa01e44a899a258",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-lorem-varius-porta-quisque.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:24.966743 GMT-4",
+    "title": "Fames lorem varius porta quisque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Magna vitae purus magnis morbi adipiscing. Augue dolor. Donec justo nostra sollicitudin blandit urna ut. Donec netus amet a netus ve. Ipsum class sit sodales eleifend nonummy. Neque ipsum semper lorem. Nulla risus. Fusce neque. Metus lacus vehicula sit id eros enim quam adipiscing sem parturient. Augue lacus auctor tincidunt bibendum. Lacus metus laoreet nec lobortis purus orci ornare mollis eni commodo libero. Risus augue est dolor vulputate proin fermentum quam urna vestibulum odio phasellus per. Netus dolor nulla neque.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:24.912973 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:24.962721 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fames-lorem-varius-porta-quisque.",
+    "remoteUrl": "Purus%20augue%20turpis%20nullam%20nonummy%20enim%20nibh%20quam%20purus%20integer.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fusce netus mauris pulvinar metus in curae arcu leo etiam curae. Fusce neque tempor praesent metus ac facilisis condimentum purus semper. Morbi augue nibh natoque commodo diam mauris parturient volutpat quam. Magna dolor. Fusce lorem ultrices velit ut ve est. Vitae fames magnis magna iaculis class eni quis lobortis integer pede nec mi venenatis. Purus nulla leo odio torquent. Proin augue cum nisi laoreet porttitor pulvinar ad platea posuere iaculis sapien. Class curae fames vel erat fusce in purus massa. Nulla neque nibh dapibus magna metus primis. Massa porta ligula metus erat velit dolor quis posuere nibh odio conubia a. Netus ipsum libero odio habitasse fermentum. Ipsum fusce lobortis parturient. Donec justo tempus cursus mus rutrum ridiculus parturient orci elementum ut. Porta purus. Proin etiam vehicula pede sociis rutrum. Curae fames.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames lorem varius porta quisque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 54,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./fames-lorem-varius-porta-quisque."
+}

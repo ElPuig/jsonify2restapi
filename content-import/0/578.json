@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:57.271011 GMT-4",
+    "_uid": "77294e2f8e5842a0a59d19400016aae6",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "purus-class-nisl-arcu-convallis-porta-mi-fusce-id.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:57.601219 GMT-4",
+    "title": "Purus class nisl arcu convallis porta mi fusce id.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum neque libero auctor imperdiet senectus taciti.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Netus donec eni lectus a. Augue velit sociosqu dignissim ante potenti dapibus integer tellus enim. Curae nulla nibh tempor lacinia nam pharetra hendrerit nunc integer sapien. Risus magna fusce pulvinar non eget sociosqu. Class nulla aliquet blandit fermentum placerat velit curae massa ornare. Neque etiam. Vitae metus. Porta class suspendisse cras libero. Purus vitae vel metus dignissim urna sodales quam consequat. Fusce neque. Proin vitae penatibus senectus eu netus. Vitae porta faucibus et scelerisque elit taciti. Justo morbi mattis eni orci dis massa mus vitae urna a elit risus cras. Porta felis a tempus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.276205 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.594883 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>In eo enim positum est id, quod dicimus esse expetendum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Graece donan, Latine voluptatem vocant. Quod cum dixissent, ille contra. Bonum valitudo: miser morbus. Duo Reges: constructio interrete. Si quicquam extra virtutem habeatur in bonis. Primum Theophrasti, Strato, physicum se voluit; Quid de Pythagora? </p>\n\n<p>Qui ita affectus, beatum esse numquam probabis; Hoc non est positum in nostra actione. Iam contemni non poteris. Quid ad utilitatem tantae pecuniae? Ratio enim nostra consentit, pugnat oratio. Quid autem habent admirationis, cum prope accesseris? </p>\n\n<ul>\n\t<li>Iam contemni non poteris.</li>\n\t<li>Tria genera cupiditatum, naturales et necessariae, naturales et non necessariae, nec naturales nec necessariae.</li>\n\t<li>Hoc loco tenere se Triarius non potuit.</li>\n\t<li>Et harum quidem rerum facilis est et expedita distinctio.</li>\n\t<li>Primum cur ista res digna odio est, nisi quod est turpis?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem.</dd>\n\t<dt><dfn>Quare conare, quaeso.</dfn></dt>\n\t<dd>Possumusne ergo in vita summum bonum dicere, cum id ne in cena quidem posse videamur?</dd>\n\t<dt><dfn>Scrupulum, inquam, abeunti;</dfn></dt>\n\t<dd>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</dd>\n\t<dt><dfn>Recte dicis;</dfn></dt>\n\t<dd>Heri, inquam, ludis commissis ex urbe profectus veni ad vesperum.</dd>\n</dl>\n\n\n<ol>\n\t<li>Atqui perspicuum est hominem e corpore animoque constare, cum primae sint animi partes, secundae corporis.</li>\n\t<li>Vives, inquit Aristo, magnifice atque praeclare, quod erit cumque visum ages, numquam angere, numquam cupies, numquam timebis.</li>\n\t<li>Ad eas enim res ab Epicuro praecepta dantur.</li>\n</ol>\n\n\n<h2>Ne amores quidem sanctos a sapiente alienos esse arbitrantur.</h2>\n\n<p>Ut aliquid scire se gaudeant? Erat enim Polemonis. Non laboro, inquit, de nomine. Huius ego nunc auctoritatem sequens idem faciam. <a href='http://loripsum.net/' target='_blank'>Iam enim adesse poterit.</a> Quare ad ea primum, si videtur; Dicimus aliquem hilare vivere; <a href='http://loripsum.net/' target='_blank'>Contemnit enim disserendi elegantiam, confuse loquitur.</a> </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "purus-class-nisl-arcu-convallis-porta-mi-fusce-id.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Fames donec pharetra vestibulum posuere pede ad enim luctus pharetra. Metus risus a eros lacus hendrerit nam laoreet in eros ac hendrerit amet. Proin massa mollis eget at volutpat massa dictumst dolor fames hymenaeos maecenas tortor. Nulla ipsum. Proin morbi arcu nisi aliquam lacus cum nibh consectetuer praesent dolor elit. Lacus nulla erat. Morbi etiam ultricies dis amet enim. Etiam nulla a aliquet tellus nisl id nascetur. Magna vitae. Justo vitae suspendisse sociosqu lorem ut. Class lorem diam quisque quis nascetur nam felis. Lorem magna a nostra duis aliquam at id at ac ridiculus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Purus class nisl arcu convallis porta mi fusce id.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id."
+}

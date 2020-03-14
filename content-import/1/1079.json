@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/09 06:30:10.390320 GMT-4",
+    "endDate": "2018/11/09 14:22:25.138729 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quod si ita sit, cur opera philosophiae sit danda nescio.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Prioris generis est docilitas, memoria; Huius ego nunc auctoritatem sequens idem faciam. Quid igitur, inquit, eos responsuros putas? Duo Reges: constructio interrete. Tu vero, inquam, ducas licet, si sequetur; Est, ut dicis, inquam. </p>\n\n<ul>\n\t<li>Et nemo nimium beatus est;</li>\n\t<li>Ut scias me intellegere, primum idem esse dico voluptatem, quod ille don.</li>\n\t<li>Duarum enim vitarum nobis erunt instituta capienda.</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Quorum sine causa fieri nihil putandum est.</a> Putabam equidem satis, inquit, me dixisse. Aliter homines, aliter philosophos loqui putas oportere? </p>\n\n<p>Cur post Tarentum ad Archytam? Polycratem Samium felicem appellabant. Quid autem habent admirationis, cum prope accesseris? <a href='http://loripsum.net/' target='_blank'>Primum in nostrane potestate est, quid meminerimus?</a> Summum en\u00edm bonum exposuit vacuitatem doloris; Quantum Aristoxeni ingenium consumptum videmus in musicis? Quaerimus enim finem bonorum. </p>\n\n<dl>\n\t<dt><dfn>A mene tu?</dfn></dt>\n\t<dd>Apparet statim, quae sint officia, quae actiones.</dd>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Qui bonum omne in virtute ponit, is potest dicere perfici beatam vitam perfectione virtutis;</dd>\n</dl>\n\n\n<ol>\n\t<li>Nec mihi illud dixeris: Haec enim ipsa mihi sunt voluptati, et erant illa Torquatis.</li>\n\t<li>Possumusne ergo in vita summum bonum dicere, cum id ne in cena quidem posse videamur?</li>\n\t<li>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</li>\n\t<li>Sed ille, ut dixi, vitiose.</li>\n</ol>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 18:02:9.478123 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "ab45f810c3694187addb1b3089815631",
+    "expirationDate": "None",
+    "contactName": "Ipsum lacus nascetur dignissim a cum porttitor accumsan litora sociosqu pede mi.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Velit morbi dolor neque tortor purus parturient sodales amet parturient convallis lorem at.",
+    "id": "metus-fames.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Metus fames.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Donec neque dolor non netus tincidunt libero vestibulum nascetur porta ante porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Curae fusce ante dis fames lacus dolor turpis et diam pede tincidunt. Justo velit mus duis elit sed consectetuer. Porta purus scelerisque. Donec neque ornare ad placerat eget sed eros. Neque netus ipsum suspendisse enim quis aliquet ve cum. Etiam fusce sed etiam dis cras aptent montes. Metus nulla. Ipsum massa curae class sit. Class augue sagittis hendrerit eu. Class netus luctus parturient etiam eros aliquam eu id nisi. Class donec a egestas ad. Velit felis urna condimentum feugiat lacus nisl torquent dui proin donec. Netus lacus nostra massa gravida lacinia cras nonummy ut.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:9.482247 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:9.814151 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "metus-fames.",
+    "modification_date": "2018/10/26 18:02:9.818808 GMT-4",
+    "language": "en",
+    "rights": "Massa class ullamcorper. Dolor metus mauris velit integer dictumst euismod congue. Fames justo nibh semper taciti lobortis justo. Proin donec nullam in dictumst. Justo dolor orci a amet augue nam quisque eros. Lorem fusce dis urna tempus. Netus felis. Massa fusce dictumst hendrerit hac. Augue massa lobortis ridiculus volutpat at scelerisque ut litora eu duis volutpat a praesent. Proin morbi nam odio litora sodales. Lorem proin orci suspendisse dapibus ullamcorper orci varius ultricies class tristique nisi.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Metus fames.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 14,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./metus-fames."
+}

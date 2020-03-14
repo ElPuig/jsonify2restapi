@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/01 06:07:19.283079 GMT-4",
+    "endDate": "2018/11/02 11:01:57.462318 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Ex rebus enim timiditas, non ex vocabulis nascitur.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur iustitia laudatur? Honesta oratio, Socratica, Platonis etiam. Istic sum, inquit. Sed residamus, inquit, si placet. Duo Reges: constructio interrete. Quae similitudo in genere etiam humano apparet. Quid enim? </p>\n\n<ul>\n\t<li>Quid iudicant sensus?</li>\n\t<li>Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret?</li>\n\t<li>Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego;</li>\n</ul>\n\n\n<h2>An eiusdem modi?</h2>\n\n<p>Et quod est munus, quod opus sapientiae? Quid igitur, inquit, eos responsuros putas? Sed ego in hoc resisto; Qui est in parvis malis. Istic sum, inquit. Sin aliud quid voles, postea. Ut optime, secundum naturam affectum esse possit. Consequens enim est et post oritur, ut dixi. </p>\n\n<p>Mihi, inquam, qui te id ipsum rogavi? <a href='http://loripsum.net/' target='_blank'>Tu vero, inquam, ducas licet, si sequetur;</a> Quae est igitur causa istarum angustiarum? Consequens enim est et post oritur, ut dixi. Atqui reperies, inquit, in hoc quidem pertinacem; Quid de Platone aut de Democrito loquar? </p>\n\n<ol>\n\t<li>Quod idem cum vestri faciant, non satis magnam tribuunt inventoribus gratiam.</li>\n\t<li>Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio.</li>\n\t<li>Placet igitur tibi, Cato, cum res sumpseris non concessas, ex illis efficere, quod velis?</li>\n\t<li>Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit?</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Tria genera bonorum;</dfn></dt>\n\t<dd>Quid dubitas igitur mutare principia naturae?</dd>\n\t<dt><dfn>Quare attende, quaeso.</dfn></dt>\n\t<dd>Istic sum, inquit.</dd>\n</dl>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:56:50.762476 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "7728407ff118422db8211f15eb017d85",
+    "expirationDate": "None",
+    "contactName": "Neque ipsum aptent tortor leo adipiscing in pharetra nascetur risus.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Fusce massa.",
+    "id": "class-lacus.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Class lacus.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Purus augue eros gravida amet ut.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Felis ipsum fames suspendisse torquent iaculis. Nulla augue purus dolor a sociis. Vitae lorem. Fusce metus. Fusce risus etiam condimentum per. Morbi felis sociosqu parturient porttitor fames lorem. Fames lacus interdum. Porta risus aliquam cum pulvinar sodales viverra convallis litora morbi vestibulum mi torquent. Neque class ullamcorper ac turpis sem rhoncus fusce netus amet nisi ridiculus accumsan. Magna netus non molestie sodales consectetuer. Metus morbi sed quis hendrerit lectus curabitur cubilia per nascetur facilisis eu litora. Risus dolor nec bibendum rhoncus posuere magnis ut nascetur cras sodales. Nulla etiam maecenas etiam sapien amet hendrerit sociosqu libero risus quis. Curae vitae cubilia. Morbi class velit auctor vel sociis mi ante id amet. Lorem proin. Vitae justo montes etiam urna cras enim lacus at sollicitudin. Massa class. Nulla risus nonummy. Lorem dolor tempus venenatis nullam.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:50.767871 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:51.097223 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "class-lacus.",
+    "modification_date": "2018/10/26 17:56:51.101235 GMT-4",
+    "language": "en",
+    "rights": "Purus porta dapibus elit sollicitudin torquent magna sem. Lorem fusce velit hac odio quam mi nisi felis feugiat habitasse. Neque proin leo quis elit blandit lectus. Massa curae etiam nullam cum magnis ut. Donec ipsum tincidunt sapien ante vitae amet. Metus lacus ullamcorper. Proin risus leo enim tincidunt taciti nulla non cras per consectetuer. Metus velit nulla curabitur nec ultricies nibh nullam. Class purus. Porta proin.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class lacus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 17,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./class-lacus."
+}

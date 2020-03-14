@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:53.776081 GMT-4",
+    "_uid": "8f70599ef5ee46f085f08c86de2cd39e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-velit-quisque-porta-donec-neque-orci-sed-cras-pretium-ac.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:53.824724 GMT-4",
+    "title": "Lacus velit quisque porta donec neque orci sed cras pretium ac.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Netus curae egestas cum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Massa proin. Purus fames lectus lorem sit purus sit neque adipiscing placerat nulla id eros augue lectus sit euismod. Risus vitae nostra. Metus curae eni taciti id nullam ultrices platea. Purus morbi nascetur dis cursus nonummy et. Purus massa nullam primis faucibus habitasse ad ligula penatibus metus mus neque nunc. Lorem etiam. Lacus porta sed nisi hac. Neque justo lobortis leo eget cum arcu quam cursus in. Etiam lorem vel elit eni pede parturient sit lacus curabitur purus. Lacus donec nec enim arcu. Vitae velit turpis dictum ridiculus ad tincidunt justo elementum. Nulla porta. Magna lacus dui velit netus odio.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:37.750630 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:38.076399 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "mollis..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lacus-velit-quisque-porta-donec-neque-orci-sed-cras-pretium-ac.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Augue donec odio phasellus. Purus augue enim mattis inceptos vehicula mattis. Magna etiam urna dictum id quis justo id. Neque ipsum odio pharetra pellentesque nullam eu. Dolor risus turpis iaculis orci metus dapibus. Fames ipsum vehicula venenatis sollicitudin vestibulum quis. Justo metus quis praesent sollicitudin nostra tempus. Lacus ipsum hac magna. Porta neque dui duis ante elit. Justo felis aenean egestas iaculis pharetra aenean auctor cum cubilia. Curae lorem. Justo proin commodo. Etiam magna. Velit netus dictum sollicitudin blandit porttitor pede ullamcorper integer donec felis a cras dolor turpis sem pede. Lorem lacus massa ligula nulla sagittis fermentum a malesuada augue iaculis leo conubia diam at.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lacus velit quisque porta donec neque orci sed cras pretium ac.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./lacus-velit-quisque-porta-donec-neque-orci-sed-cras-pretium-ac."
+}

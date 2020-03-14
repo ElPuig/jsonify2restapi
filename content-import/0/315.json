@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/09 23:28:59.514948 GMT-4",
+    "endDate": "2018/10/11 16:17:37.579839 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum Triarius: Posthac quidem, inquit, audacius. Invidiosum nomen est, infame, suspectum. Quo modo autem optimum, si bonum praeterea nullum est? Duo Reges: constructio interrete. Falli igitur possumus. Aliter enim nosmet ipsos nosse non possumus. Sed ille, ut dixi, vitiose. </p>\n\n<dl>\n\t<dt><dfn>Optime, inquam.</dfn></dt>\n\t<dd>Ita est quoddam commune officium sapientis et insipientis, ex quo efficitur versari in iis, quae media dicamus.</dd>\n\t<dt><dfn>Quis negat?</dfn></dt>\n\t<dd>Sed venio ad inconstantiae crimen, ne saepius dicas me aberrare;</dd>\n\t<dt><dfn>Quid adiuvas?</dfn></dt>\n\t<dd>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</dd>\n\t<dt><dfn>Immo videri fortasse.</dfn></dt>\n\t<dd>Hoc ne statuam quidem dicturam pater aiebat, si loqui posset.</dd>\n</dl>\n\n\n<pre>\nHaec ego non possum dicere non esse hominis quamvis et belli\net humani, sapientis vero nullo modo, physici praesertim,\nquem se ille esse vult, putare ullum esse cuiusquam diem\nnatalem.\n\nAt negat Epicurus-hoc enim vestrum lumen estquemquam, qui\nhoneste non vivat, iucunde posse vivere.\n</pre>\n\n\n<h2>Transfer idem ad modestiam vel temperantiam, quae est moderatio cupiditatum rationi oboediens.</h2>\n\n<p>Equidem e Cn. Itaque his sapiens semper vacabit. <a href='http://loripsum.net/' target='_blank'>Collige omnia, quae soletis: Praesidium amicorum.</a> Honesta oratio, Socratica, Platonis etiam. Nihilo magis. <code>Illa tamen simplicia, vestra versuta.</code> </p>\n\n<ol>\n\t<li>Consequatur summas voluptates non modo parvo, sed per me nihilo, si potest;</li>\n\t<li>Itaque his sapiens semper vacabit.</li>\n\t<li>Nonne igitur tibi videntur, inquit, mala?</li>\n\t<li>Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus;</li>\n</ol>\n\n\n<p>Murenam te accusante defenderem. Illi enim inter se dissentiunt. Sed videbimus. Quonam, inquit, modo? </p>\n\n<ul>\n\t<li>Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.</li>\n\t<li>Terram, mihi crede, ea lanx et maria deprimet.</li>\n\t<li>Scio enim esse quosdam, qui quavis lingua philosophari possint;</li>\n\t<li>Hosne igitur laudas et hanc eorum, inquam, sententiam sequi nos censes oportere?</li>\n\t<li>Sed est forma eius disciplinae, sicut fere ceterarum, triplex: una pars est naturae, disserendi altera, vivendi tertia.</li>\n\t<li>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:50:6.624053 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "1741abcc01b64170b0c328e4364a9e8d",
+    "expirationDate": "None",
+    "contactName": "Netus ipsum mattis nisl class.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Velit dolor egestas ad facilisi maecenas neque orci morbi aliquam nascetur.",
+    "id": "donec-lorem-tempor-odio-malesuada-per-venenatis-nulla-in-fringilla.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:43.513444 GMT-4",
+    "title": "Donec lorem tempor odio malesuada per venenatis nulla in fringilla.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus fusce.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Class etiam ante. Etiam class egestas cubilia nisl. Massa augue. Vitae porta varius ve arcu. Magna lorem ultrices vestibulum blandit odio est. Fames morbi fringilla sociis ante ornare. Ipsum augue nisi sociis per ut semper ipsum. Justo etiam. Proin donec convallis. Porta proin. Morbi augue cursus justo per tortor ultrices parturient mattis eni. Donec proin ultrices ut. Morbi proin curae ultrices proin et ornare molestie ante sit purus urna erat eget lorem facilisis dis eget sollicitudin. Augue class mus enim ut hymenaeos parturient amet phasellus maecenas ve ligula ac praesent quam tellus quam diam elementum sollicitudin. Augue dolor ipsum senectus parturient.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:50:6.629746 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:43.528008 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "donec-lorem-tempor-odio-malesuada-per-venenatis-nulla-in-fringilla.",
+    "modification_date": "2018/10/26 13:51:43.513797 GMT-4",
+    "language": "en",
+    "rights": "Lorem proin praesent et non ante enim. Metus augue. Felis risus leo arcu orci torquent praesent. Felis porta a. Risus netus elit eget vivamus mi eros neque. Etiam nulla. Ipsum purus sed etiam habitasse arcu. Proin netus. Morbi massa fusce elit etiam sociis pulvinar. Magna morbi mattis ad habitant quis primis cras litora ridiculus egestas magna. Netus etiam integer augue hac montes dapibus nonummy orci nisl nulla aptent mattis. Metus risus diam iaculis. Justo felis a varius enim eget. Lorem risus est eros enim parturient. Velit justo auctor. Lacus fames duis.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec lorem tempor odio malesuada per venenatis nulla in fringilla.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 111,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/donec-lorem-tempor-odio-malesuada-per-venenatis-nulla-in-fringilla."
+}

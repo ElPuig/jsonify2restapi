@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Duo Reges: constructio interrete.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Satis est ad hoc responsum. Ego vero isti, inquam, permitto. Bestiarum vero nullum iudicium puto. <a href='http://loripsum.net/' target='_blank'>Respondeat totidem verbis.</a> Is es profecto tu. </p>\n\n<ol>\n\t<li>Dicam, inquam, et quidem discendi causa magis, quam quo te aut Epicurum reprehensum velim.</li>\n\t<li>Isto modo ne improbos quidem, si essent boni viri.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Quis non odit sordidos, vanos, leves, futtiles?</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum.</dd>\n\t<dt><dfn>Sint ista Graecorum;</dfn></dt>\n\t<dd>Quid dubitas igitur mutare principia naturae?</dd>\n\t<dt><dfn>Immo videri fortasse.</dfn></dt>\n\t<dd>His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent.</dd>\n</dl>\n\n\n<ul>\n\t<li>Quasi ego id curem, quid ille aiat aut neget.</li>\n\t<li>Hoc dictum in una re latissime patet, ut in omnibus factis re, non teste moveamur.</li>\n\t<li>Quis enim potest ea, quae probabilia videantur ei, non probare?</li>\n\t<li>Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem;</li>\n</ul>\n\n\n<p>Ratio enim nostra consentit, pugnat oratio. <a href='http://loripsum.net/' target='_blank'>Cave putes quicquam esse verius.</a> <a href='http://loripsum.net/' target='_blank'>Quid me istud rogas?</a> Quae sequuntur igitur? Quid, quod res alia tota est? Omnia peccata paria dicitis. </p>\n\n<p>Qua tu etiam inprudens utebare non numquam. Iam id ipsum absurdum, maximum malum neglegi. Negare non possum. Quam ob rem tandem, inquit, non satisfacit? Quid, quod res alia tota est? Quod cum dixissent, ille contra. Idemne, quod iucunde? Sed haec quidem liberius ab eo dicuntur et saepius. </p>\n\n",
+    "creation_date": "2018/10/26 18:03:10.769169 GMT-4",
+    "imageCaption": "Fames augue potenti quis curae quis montes iaculis.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "purus-neque-non-etiam-tempor-semper-et-dictum-purus-quam-tortor-malesuada-dolor.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:11.094738 GMT-4",
+    "title": "Purus neque non etiam tempor semper et dictum purus quam tortor malesuada dolor.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce risus venenatis congue eros potenti mi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Nulla felis dolor morbi nulla placerat cum nonummy augue in venenatis in. Ipsum felis. Magna risus eget imperdiet porttitor erat class eu sed morbi dignissim condimentum. Neque morbi. Metus lacus faucibus sem potenti ve nostra consequat eu. Justo magna. Morbi fusce leo posuere pede auctor ultricies viverra. Dolor nulla potenti nunc. Purus magna. Neque curae. Lorem metus. Lorem porta. Justo class ultrices nunc.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:10.772887 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:11.090410 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "purus-neque-non-etiam-tempor-semper-et-dictum-purus-quam-tortor-malesuada-dolor.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor porta amet proin ullamcorper inceptos amet non dui ve. Fames donec orci id nunc diam velit. Velit vitae viverra sociosqu metus. Fusce lacus cursus ad bibendum eget aptent pharetra. Dolor curae eni sociosqu a pharetra enim ve. Augue velit. Class lacus dictum lacus dapibus in. Felis velit nonummy vivamus ultrices tellus litora ac. Donec augue. Porta fames eros dis quis ultricies. Donec class interdum nec felis fermentum lorem non ultricies. Lacus purus urna orci elementum suscipit nibh dis eu.",
+    "_content_type_description": "text/plain",
+    "_uid": "e4188cf580c64ba68cb05ecaef22d7c2",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Purus neque non etiam tempor semper et dictum purus quam tortor malesuada dolor.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./purus-neque-non-etiam-tempor-semper-et-dictum-purus-quam-tortor-malesuada-dolor."
+}

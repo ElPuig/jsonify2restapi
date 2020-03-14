@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/01 20:21:51.487632 GMT-4",
+    "endDate": "2018/11/03 15:13:3.779992 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Si verbum sequimur, primum longius verbum praepositum quam bonum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Istam voluptatem, inquit, Epicurus ignorat? Utrum igitur tibi litteram videor an totas paginas commovere? Summum en\u00edm bonum exposuit vacuitatem doloris; Duo Reges: constructio interrete. Numquam facies. Omnes enim iucundum motum, quo sensus hilaretur. </p>\n\n<p>Traditur, inquit, ab Epicuro ratio neglegendi doloris. Quantum Aristoxeni ingenium consumptum videmus in musicis? </p>\n\n<dl>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Te enim iudicem aequum puto, modo quae dicat ille bene noris.</dd>\n\t<dt><dfn>A mene tu?</dfn></dt>\n\t<dd>Sed utrum hortandus es nobis, Luci, inquit, an etiam tua sponte propensus es?</dd>\n\t<dt><dfn>Tenent mordicus.</dfn></dt>\n\t<dd>Itaque sensibus rationem adiunxit et ratione effecta sensus non reliquit.</dd>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Hic nihil fuit, quod quaereremus.</dd>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest.</dd>\n\t<dt><dfn>Perge porro;</dfn></dt>\n\t<dd>Maximus dolor, inquit, brevis est.</dd>\n</dl>\n\n\n<ul>\n\t<li>Dempta enim aeternitate nihilo beatior Iuppiter quam Epicurus;</li>\n\t<li>Nam si amitti vita beata potest, beata esse non potest.</li>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n\t<li>Immo videri fortasse.</li>\n</ul>\n\n\n<ol>\n\t<li>Quid autem habent admirationis, cum prope accesseris?</li>\n\t<li>Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.</li>\n\t<li>Quid est enim aliud esse versutum?</li>\n</ol>\n\n\n<p>An hoc usque quaque, aliter in vita? Si id dicis, vicimus. Istic sum, inquit. Tum mihi Piso: Quid ergo? </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:56:31.806073 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "8e7738d2d4714206ac6de29409f99253",
+    "expirationDate": "None",
+    "contactName": "Magna fames fusce placerat curae tristique.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Ipsum neque arcu odio nisi odio facilisi consequat vehicula purus.",
+    "id": "ipsum-proin.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Ipsum proin.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum risus consequat viverra mauris cum nibh vestibulum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Netus donec. Etiam risus.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:31.809736 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:32.275865 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "ipsum-proin.",
+    "modification_date": "2018/10/26 17:56:32.279876 GMT-4",
+    "language": "en",
+    "rights": "Vitae dolor pulvinar dolor eget consequat quam. Porta lacus nunc morbi. Velit etiam. Morbi curae cubilia quisque amet parturient hymenaeos neque massa rhoncus lobortis sociis litora senectus. Ipsum dolor commodo enim praesent cubilia curae. Morbi netus dictumst. Justo metus ullamcorper orci curabitur primis torquent hymenaeos a consequat. Risus proin volutpat vestibulum magnis nisi et ridiculus condimentum hymenaeos arcu dui amet duis torquent commodo aliquam. Justo velit. Metus proin tempor vehicula malesuada. Curae augue feugiat amet dui consectetuer ve iaculis enim netus. Netus class eget hac odio pretium nisl a nibh vestibulum. Class porta. Morbi vitae.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Ipsum proin.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 13,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./ipsum-proin."
+}

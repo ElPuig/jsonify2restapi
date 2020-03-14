@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:05:10.530913 GMT-4",
+    "_uid": "541a64f285494877b585986fe67b784e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "augue-nulla-iaculis-eget-odio-curabitur-sociis-mus-parturient-ve-litora-dictumst-facilisis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:05:10.887509 GMT-4",
+    "title": "Augue nulla iaculis eget odio curabitur sociis mus parturient ve litora dictumst facilisis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus augue mattis id morbi sed iaculis congue ornare euismod.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Justo curae congue nisl imperdiet bibendum ut ullamcorper ac. Fusce felis curae donec nascetur ut lorem. Magna netus. Neque augue mattis sit amet sociosqu suspendisse volutpat convallis turpis. Porta velit orci felis mi rutrum tristique eleifend taciti quam in sollicitudin. Dolor augue dignissim cras scelerisque nonummy consectetuer magnis ac rhoncus quam. Metus morbi felis eni urna diam. Netus dolor diam suspendisse lacinia sollicitudin aliquet augue donec enim sapien tempus lobortis. Magna proin ultrices velit sollicitudin accumsan class praesent. Netus metus auctor ve suscipit eros elit eni. Lorem proin. Etiam curae platea habitant egestas sollicitudin consequat neque torquent nam urna purus. Ipsum fusce tempus maecenas facilisi. Ipsum purus auctor ut orci at malesuada diam hac. Velit felis dolor libero vestibulum bibendum elit. Donec vitae ornare morbi duis accumsan duis cum fusce sociis. Massa proin sed curabitur massa morbi a sodales turpis sem. Fames velit magna semper et ut.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:10.541720 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:10.882297 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Est enim effectrix multarum et magnarum voluptatum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Quid de Pythagora? Mihi enim satis est, ipsis non satis. Duo Reges: constructio interrete. </p>\n\n<ul>\n\t<li>Recte dicis;</li>\n\t<li>At certe gravius.</li>\n\t<li>Si enim, ut mihi quidem videtur, non explet bona naturae voluptas, iure praetermissa est;</li>\n</ul>\n\n\n<ol>\n\t<li>Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis.</li>\n\t<li>At cum de plurimis eadem dicit, tum certe de maximis.</li>\n\t<li>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</li>\n\t<li>Idque testamento cavebit is, qui nobis quasi oraculum ediderit nihil post mortem ad nos pertinere?</li>\n</ol>\n\n\n<p>Respondeat totidem verbis. Quis Aristidem non mortuum diligit? </p>\n\n<p>Quae quidem vel cum periculo est quaerenda vobis; Videsne quam sit magna dissensio? Dat enim intervalla et relaxat. Laboro autem non sine causa; Quae sequuntur igitur? Utilitatis causa amicitia est quaesita. Aliter enim explicari, quod quaeritur, non potest. </p>\n\n<dl>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Quia dolori non voluptas contraria est, sed doloris privatio.</dd>\n\t<dt><dfn>Beatum, inquit.</dfn></dt>\n\t<dd>Est autem etiam actio quaedam corporis, quae motus et status naturae congruentis tenet;</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "augue-nulla-iaculis-eget-odio-curabitur-sociis-mus-parturient-ve-litora-dictumst-facilisis.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Etiam proin tellus praesent litora nostra erat in suscipit platea quisque elit. Porta purus aptent massa pretium platea urna. Lorem donec fames porttitor. Class risus nulla mauris enim etiam. Velit vitae per velit enim ligula euismod aliquam nostra nisl. Fusce etiam volutpat dignissim mi ante tellus blandit integer. Proin morbi duis mi tristique. Dolor justo dui justo sodales montes. Ipsum dolor sociosqu purus ve. Curae morbi iaculis dolor risus suspendisse facilisi porttitor. Neque metus facilisi class tincidunt dis lorem. Lorem fusce platea ac faucibus conubia morbi nibh euismod fringilla et donec. Massa netus urna facilisis molestie ligula platea lorem.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue nulla iaculis eget odio curabitur sociis mus parturient ve litora dictumst facilisis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel./augue-nulla-iaculis-eget-odio-curabitur-sociis-mus-parturient-ve-litora-dictumst-facilisis."
+}

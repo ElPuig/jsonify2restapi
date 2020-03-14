@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:15.898791 GMT-4",
+    "_uid": "ea49367afe0b4935978068469d7e0f82",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "lacus-justo-donec-cum-nisl-vestibulum-fermentum-porta-diam.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:16.228211 GMT-4",
+    "title": "Lacus justo donec cum nisl vestibulum fermentum porta diam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae porta commodo nisl quam cum id.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Fusce augue venenatis massa aptent ultricies. Netus morbi vel turpis. Ipsum augue dui urna senectus non iaculis at pede inceptos. Vitae neque rhoncus ut accumsan. Porta netus ornare consectetuer blandit lacus dis nisi. Magna curae urna vitae nostra sollicitudin malesuada. Curae justo orci. Felis dolor molestie est felis. Metus lorem. Nulla proin. Dolor purus lacinia dictumst et velit. Morbi class rutrum suspendisse ipsum dictum adipiscing. Augue proin rhoncus et pretium enim proin dapibus ornare mi mollis. Augue felis auctor ante nonummy fusce ad suscipit. Risus purus diam quis nibh. Etiam augue luctus pede dapibus in quam augue condimentum ad lectus. Class metus libero amet odio magna pede cubilia ve.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:15.904225 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:16.222965 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quis enim potest ea, quae probabilia videantur ei, non probare?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non semper, inquam; Hoc est non dividere, sed frangere. Invidiosum nomen est, infame, suspectum. Quid me istud rogas? <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Quae diligentissime contra Aristonem dicuntur a Chryippo. Hunc vos beatum; Nos vero, inquit ille; Omnes enim iucundum motum, quo sensus hilaretur. </p>\n\n<dl>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Animum autem reliquis rebus ita perfecit, ut corpus;</dd>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>Quamquam te quidem video minime esse deterritum.</dd>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis.</dd>\n\t<dt><dfn>Quis enim redargueret?</dfn></dt>\n\t<dd>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</dd>\n\t<dt><dfn>Equidem e Cn.</dfn></dt>\n\t<dd>Sin laboramus, quis est, qui alienae modum statuat industriae?</dd>\n\t<dt><dfn>Stoici scilicet.</dfn></dt>\n\t<dd>Facile pateremur, qui etiam nunc agendi aliquid discendique causa prope contra naturam v\u00edgillas suscipere soleamus.</dd>\n</dl>\n\n\n<ul>\n\t<li>Profectus in exilium Tubulus statim nec respondere ausus;</li>\n\t<li>Vide igitur ne non debeas verbis nostris uti, sententiis tuis.</li>\n\t<li>Ergo illi intellegunt quid Epicurus dicat, ego non intellego?</li>\n\t<li>Utram tandem linguam nescio?</li>\n\t<li>Atque ut ceteri dicere existimantur melius quam facere, sic hi mihi videntur facere melius quam dicere.</li>\n</ul>\n\n\n<p>Quis est tam dissimile homini. Aliter homines, aliter philosophos loqui putas oportere? Quae duo sunt, unum facit. Scisse enim te quis coarguere possit? Quis Aristidem non mortuum diligit? Videsne quam sit magna dissensio? </p>\n\n<h2>Sed virtutem ipsam inchoavit, nihil amplius.</h2>\n\n<p>Nemo igitur esse beatus potest. Facillimum id quidem est, inquam. <a href='http://loripsum.net/' target='_blank'>Primum quid tu dicis breve?</a> Sed ad illum redeo. </p>\n\n<ol>\n\t<li>Non igitur de improbo, sed de callido improbo quaerimus, qualis Q.</li>\n\t<li>Se dicere inter honestum et turpe nimium quantum, nescio quid inmensum, inter ceteras res nihil omnino interesse.</li>\n\t<li>Cur haec eadem Democritus?</li>\n\t<li>An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia?</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lacus-justo-donec-cum-nisl-vestibulum-fermentum-porta-diam.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Felis curae mus. Lacus curae. Risus neque. Felis lacus primis. Fames felis a aliquam in eu. Felis lorem primis vulputate taciti mollis viverra quisque. Fusce curae morbi ullamcorper inceptos aliquam. Etiam lorem. Curae donec dis pede. Fames curae sem augue. Justo augue amet tempus at per nisi iaculis. Lorem metus per donec augue vivamus sem id dapibus. Dolor massa gravida lectus. Massa justo porta ligula nostra penatibus ad elementum lorem. Neque ipsum nec metus cum. Fames proin mattis luctus amet nonummy dolor mus nunc sollicitudin vestibulum quam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lacus justo donec cum nisl vestibulum fermentum porta diam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./lacus-justo-donec-cum-nisl-vestibulum-fermentum-porta-diam."
+}

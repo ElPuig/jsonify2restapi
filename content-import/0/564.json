@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Cur iustitia laudatur?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At hoc in eo M. Sed ille, ut dixi, vitiose. Bonum integritas corporis: misera debilitas. Scrupulum, inquam, abeunti; Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Quam ob rem tandem, inquit, non satisfacit?</a> Immo alio genere; </p>\n\n<h2>Sed tu istuc dixti bene Latine, parum plane.</h2>\n\n<p>Refert tamen, quo modo. <a href='http://loripsum.net/' target='_blank'>Duo enim genera quae erant, fecit tria.</a> </p>\n\n<p>Quae hic rei publicae vulnera inponebat, eadem ille sanabat. Item de contrariis, a quibus ad genera formasque generum venerunt. Quae autem natura suae primae institutionis oblita est? Videmus igitur ut conquiescere ne infantes quidem possint. </p>\n\n<ol>\n\t<li>Aufert enim sensus actionemque tollit omnem.</li>\n\t<li>Septem autem illi non suo, sed populorum suffragio omnium nominati sunt.</li>\n</ol>\n\n\n<ul>\n\t<li>Quis hoc dicit?</li>\n\t<li>Quod equidem non reprehendo;</li>\n\t<li>Rationis enim perfectio est virtus;</li>\n\t<li>Ut optime, secundum naturam affectum esse possit.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>At certe gravius.</dfn></dt>\n\t<dd>Nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat;</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos.</dd>\n\t<dt><dfn>Equidem e Cn.</dfn></dt>\n\t<dd>Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.</dd>\n\t<dt><dfn>Id enim natura desiderat.</dfn></dt>\n\t<dd>In quo etsi est magnus, tamen nova pleraque et perpauca de moribus.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:57:46.717044 GMT-4",
+    "imageCaption": "Dolor neque.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-ipsum-magnis-risus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:47.051184 GMT-4",
+    "title": "Netus ipsum magnis risus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus nulla neque tristique pede per pede cum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Risus lacus taciti dapibus nunc dolor cursus ac lobortis duis elit dictumst proin. Risus fusce aptent morbi nec. Metus felis tempus urna ac per. Netus nulla suspendisse maecenas ultricies placerat dictum parturient consectetuer commodo etiam. Class etiam suspendisse nisi urna aliquet et tempus mollis fusce in netus fermentum urna est arcu placerat. Purus massa a aliquet. Felis netus montes. Proin metus hac maecenas. Lorem justo leo. Curae dolor litora condimentum risus phasellus nonummy sit egestas ornare. Morbi dolor nec. Vitae class urna a enim proin at per malesuada. Etiam lacus sem tellus laoreet lacinia fermentum dui sodales lacus. Ipsum magna sodales lacus parturient ullamcorper mauris. Vitae justo. Nulla etiam nam imperdiet integer massa. Risus lacus etiam. Fusce etiam egestas nam id consectetuer nullam mauris per dis nec sem consectetuer. Purus donec cum ipsum penatibus lacinia.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:46.721146 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:47.047167 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "netus-ipsum-magnis-risus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Metus risus maecenas. Magna donec viverra feugiat. Magna fames enim convallis inceptos accumsan dictum. Lorem donec pretium vel laoreet. Neque velit nisi a quis. Felis lacus. Massa donec natoque quis sed eros quam proin nulla nonummy cras magna pretium nunc vehicula a. Vitae velit massa iaculis inceptos mauris. Proin fusce congue semper nulla at libero consequat at convallis. Justo metus quis orci. Massa fusce morbi.",
+    "_content_type_description": "text/plain",
+    "_uid": "ab7175e2c75a40d68ccc002f586b1448",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus ipsum magnis risus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 66,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./netus-ipsum-magnis-risus."
+}

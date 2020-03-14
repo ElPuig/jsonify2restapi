@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:11.968450 GMT-4",
+    "_uid": "fb10825a574d4fdaadbe3c8011777b73",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "nulla-vitae-sociis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:12.017703 GMT-4",
+    "title": "Nulla vitae sociis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Metus ipsum tempus posuere odio blandit id est.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Etiam vitae eget per conubia porta quam justo gravida magnis lorem. Risus velit ultrices. Proin donec sodales phasellus pede. Etiam felis. Proin donec pede suscipit metus. Fames etiam a posuere. Neque porta diam platea sagittis elementum orci euismod a. Porta dolor morbi mollis ut platea. Risus class natoque id eu. Dolor netus auctor fermentum senectus luctus velit. Netus donec quis sagittis eni neque mollis sollicitudin iaculis facilisi. Felis class augue velit cras mus purus nonummy consequat nullam.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.494394 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.810314 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "augue..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "nulla-vitae-sociis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fusce felis vel quam mi class non fusce vel nibh arcu aliquam. Curae vitae. Magna justo. Donec curae ullamcorper ac luctus sit cursus ultricies. Vitae netus. Curae etiam dignissim lacinia nulla eni cubilia ad. Lacus vitae. Justo morbi. Massa porta tempor magna lorem augue commodo tempor non vivamus ante eleifend penatibus taciti. Etiam dolor justo erat a odio ad tortor. Neque donec platea. Proin lacus lectus torquent phasellus per pharetra aliquam viverra ante. Velit class est justo aenean ornare diam quam ultricies sollicitudin. Lorem justo. Magna class leo arcu nunc tortor id sapien.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Nulla vitae sociis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 25,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./nulla-vitae-sociis."
+}

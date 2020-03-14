@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:14.370326 GMT-4",
+    "_uid": "d2fd1bb33ad9488c956121d67bb92d10",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-lacus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:14.423384 GMT-4",
+    "title": "Netus lacus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Dolor risus nec est convallis morbi et varius interdum mi condimentum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Etiam justo sit ridiculus faucibus sociis urna cubilia netus urna magna in. Magna risus gravida massa arcu curae nunc eget adipiscing. Donec curae nostra enim curae bibendum dolor per. Augue etiam tempor dignissim class nunc nam donec cubilia eros adipiscing ut. Class augue ornare fames felis fames magna elit class. Felis class feugiat arcu. Nulla felis sem. Dolor proin turpis magna hymenaeos. Proin augue massa a. Netus massa. Velit curae habitant metus et porta condimentum. Augue metus est vestibulum adipiscing ve torquent eget aliquet. Augue donec. Augue netus. Magna dolor eget magna curabitur volutpat eget dis nisl felis rhoncus arcu dictumst pharetra turpis curae posuere. Purus magna etiam sapien fermentum ornare facilisi sodales sollicitudin montes at aptent viverra tincidunt eros.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.377699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.696020 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "quam..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "netus-lacus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae morbi odio sapien tincidunt neque. Massa metus sapien morbi diam laoreet. Curae lorem magna suspendisse urna duis elementum arcu lacinia. Nulla metus tempus at bibendum dui quisque id. Metus donec hymenaeos quis nam lorem neque fermentum est aliquam ut eros. Fusce nulla magna viverra curabitur eget quam proin diam. Felis ipsum. Vitae nulla lacus a integer ut eros ad odio arcu dis fringilla cras nibh. Porta lorem vehicula. Fames justo mollis tellus massa. Etiam neque dapibus ante habitant ad ullamcorper amet habitasse elit sit. Risus morbi sed orci magnis aenean arcu curae. Magna dolor penatibus nullam aptent malesuada varius fusce metus aptent sollicitudin facilisis. Fusce neque mus nisi sed tellus a cubilia. Lorem porta a mauris venenatis. Felis magna neque ipsum lectus ligula massa. Proin purus nostra non natoque nibh ve duis faucibus vestibulum libero.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Netus lacus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 27,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./netus-lacus."
+}

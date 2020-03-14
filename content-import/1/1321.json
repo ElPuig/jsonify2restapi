@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:19.922881 GMT-4",
+    "_uid": "0c0b0fa566114be3a40aca0167fc260b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-vitae-elit-proin-orci-metus-dolor-aptent-porta-ve.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:19.982573 GMT-4",
+    "title": "Lacus vitae elit proin orci metus dolor aptent porta ve.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Justo lorem cum iaculis ve erat interdum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Metus nulla proin primis montes eleifend venenatis facilisi sagittis nonummy. Donec vitae ullamcorper ad aenean faucibus fringilla ultrices id netus cursus malesuada sodales augue purus sagittis. Velit justo mollis justo dapibus at nascetur euismod fringilla placerat lectus. Class curae cursus. Lacus netus auctor rutrum habitasse hymenaeos magna a erat. Vitae netus nisl mus fusce.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.205244 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.565584 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "urna..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lacus-vitae-elit-proin-orci-metus-dolor-aptent-porta-ve.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Velit purus hac. Velit purus quam suspendisse sed. Neque proin erat lectus. Class neque pede elit purus ac tincidunt. Felis fusce massa nam dapibus class eu nisl suspendisse posuere pellentesque ridiculus tortor facilisi augue. Porta felis rhoncus in mattis ut diam amet quam velit dictum eu. Fusce purus condimentum. Netus ipsum inceptos tristique ipsum arcu vitae dui ante sollicitudin. Ipsum morbi porttitor velit eni orci dictum ad volutpat. Etiam massa taciti cursus bibendum erat ultrices neque. Fusce neque.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lacus vitae elit proin orci metus dolor aptent porta ve.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./lacus-vitae-elit-proin-orci-metus-dolor-aptent-porta-ve."
+}

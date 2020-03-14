@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:25.921210 GMT-4",
+    "_uid": "9d217ef6401649f7b156f2b4e09532af",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "lacus-lorem-litora-ad-sapien.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:26.254315 GMT-4",
+    "title": "Lacus lorem litora ad sapien.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor justo molestie morbi at dictumst egestas pretium varius sed arcu quis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Curae risus pharetra quis. Curae ipsum gravida cras orci at augue. Neque nulla nec non sed. Augue etiam tellus lacus ullamcorper dictumst natoque convallis pede per. Dolor purus euismod vivamus turpis eni parturient ac mattis faucibus. Risus class posuere viverra hymenaeos cras scelerisque rhoncus scelerisque. Morbi neque tempus auctor blandit facilisis. Massa netus nunc eget metus mollis per nibh. Proin massa cum nulla orci aliquet hymenaeos nisi leo in eros ante magnis. Purus vitae aenean vitae mi vitae ut mus cras a justo mi metus tempor. Justo vitae. Lacus donec duis erat enim sem congue imperdiet ad varius molestie. Nulla neque.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:25.926966 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:26.249702 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Nulla erit controversia.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At certe gravius. Eademne, quae restincta siti? Quaerimus enim finem bonorum. Sit enim idem caecus, debilis. Duo Reges: constructio interrete. Equidem e Cn. </p>\n\n<ul>\n\t<li>Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret?</li>\n\t<li>Nec hoc ille non vidit, sed verborum magnificentia est et gloria delectatus.</li>\n\t<li>Aliter enim explicari, quod quaeritur, non potest.</li>\n\t<li>Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus.</li>\n\t<li>Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia.</li>\n\t<li>Sed non alienum est, quo facilius vis verbi intellegatur, rationem huius verbi faciendi Zenonis exponere.</li>\n</ul>\n\n\n<p>Paria sunt igitur. <a href='http://loripsum.net/' target='_blank'>Memini vero, inquam;</a> <a href='http://loripsum.net/' target='_blank'>Polycratem Samium felicem appellabant.</a> Bonum incolumis acies: misera caecitas. Que Manilium, ab iisque M. </p>\n\n<ol>\n\t<li>Minime vero istorum quidem, inquit.</li>\n\t<li>Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat.</li>\n\t<li>Non igitur de improbo, sed de callido improbo quaerimus, qualis Q.</li>\n</ol>\n\n\n<p>Disserendi artem nullam habuit. Illum mallem levares, quo optimum atque humanissimum virum, Cn. Nonne igitur tibi videntur, inquit, mala? Inde sermone vario sex illa a Dipylo stadia confecimus. </p>\n\n<dl>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Dempta enim aeternitate nihilo beatior Iuppiter quam Epicurus;</dd>\n\t<dt><dfn>Iam contemni non poteris.</dfn></dt>\n\t<dd>Illa enim, quae prosunt aut quae nocent, aut bona sunt aut mala, quae sint paria necesse est.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lacus-lorem-litora-ad-sapien.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Morbi massa molestie augue aenean. Etiam proin lacinia arcu. Proin metus neque luctus parturient accumsan nibh libero platea enim. Purus morbi laoreet vivamus nisl nec a tempus eros arcu sit convallis. Curae magna diam laoreet ve pede condimentum pretium sollicitudin dapibus pede class ve. Nulla risus nec habitant viverra eu justo sed nibh pretium. Fames massa. Donec ipsum sociis duis elit tincidunt interdum vitae. Netus donec. Lacus velit fames dictumst. Class etiam ornare nonummy ut. Purus fusce sociis vestibulum sollicitudin.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lacus lorem litora ad sapien.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./lacus-lorem-litora-ad-sapien."
+}

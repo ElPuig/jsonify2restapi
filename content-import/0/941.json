@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:57.916180 GMT-4",
+    "_uid": "3a5955348f734497bea61da40b6f4887",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "justo-vitae.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:58.242152 GMT-4",
+    "title": "Justo vitae.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi etiam proin cum quam sollicitudin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Lorem felis molestie. Class metus a dapibus taciti eget neque purus. Netus ipsum habitant. Fusce magna montes at eleifend posuere phasellus at. Fusce neque sodales neque orci magna aliquam. Neque lorem blandit semper per quis vel ac hendrerit orci nisi duis. Dolor curae taciti mollis augue ullamcorper nisi lectus suscipit. Curae ipsum placerat. Massa lacus est elit natoque. Massa donec cursus vitae morbi scelerisque sed. Donec fames dui enim cras proin. Proin donec a tempus fringilla magna. Fames nulla mauris auctor facilisi suspendisse. Neque lorem.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:57.922353 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:58.237909 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Tu enim ista lenius, hic Stoicorum more nos vexat.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid censes in Latino fore? Quid turpius quam sapientis vitam ex insipientium sermone pendere? Ut proverbia non nulla veriora sint quam vestra dogmata. Duo Reges: constructio interrete. Easdemne res? Quamquam te quidem video minime esse deterritum. Proclivi currit oratio. </p>\n\n<ol>\n\t<li>Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem.</li>\n\t<li>Longum est enim ad omnia respondere, quae a te dicta sunt.</li>\n\t<li>Alia quaedam dicent, credo, magna antiquorum esse peccata, quae ille veri investigandi cupidus nullo modo ferre potuerit.</li>\n\t<li>Nam illud vehementer repugnat, eundem beatum esse et multis malis oppressum.</li>\n\t<li>Quamvis enim depravatae non sint, pravae tamen esse possunt.</li>\n</ol>\n\n\n<p>Cyrenaici quidem non recusant; Facile est hoc cernere in primis puerorum aetatulis. Hoc mihi cum tuo fratre convenit. Ita relinquet duas, de quibus etiam atque etiam consideret. Ratio quidem vestra sic cogit. </p>\n\n<dl>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur.</dd>\n\t<dt><dfn>Haec dicuntur inconstantissime.</dfn></dt>\n\t<dd>Quis contra in illa aetate pudorem, constantiam, etiamsi sua nihil intersit, non tamen diligat?</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes.</dd>\n\t<dt><dfn>Si longus, levis;</dfn></dt>\n\t<dd>Minime vero istorum quidem, inquit.</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>Ego vero isti, inquam, permitto.</dd>\n</dl>\n\n\n<p>An eiusdem modi? Tum mihi Piso: Quid ergo? <a href='http://loripsum.net/' target='_blank'>Dici enim nihil potest verius.</a> Quod quidem iam fit etiam in Academia. Multoque hoc melius nos veriusque quam Stoici. Tamen a proposito, inquam, aberramus. Sint modo partes vitae beatae. </p>\n\n<ul>\n\t<li>Sed ad haec, nisi molestum est, habeo quae velim.</li>\n\t<li>Id est enim, de quo quaerimus.</li>\n\t<li>Isto modo ne improbos quidem, si essent boni viri.</li>\n\t<li>Ne amores quidem sanctos a sapiente alienos esse arbitrantur.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "justo-vitae.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Curae class phasellus sed ultricies luctus molestie morbi. Dolor fames. Dolor felis. Porta proin a varius ultricies ad phasellus. Purus felis. Donec magna. Lorem nulla cursus class nullam. Curae fusce nullam posuere. Lorem felis risus nunc magna mi netus et. Lacus class. Proin lacus sociis dictum est ut lectus ante euismod. Magna lacus aliquet pede sed netus tellus dictum lorem neque aptent. Purus morbi cum neque euismod. Augue morbi faucibus. Proin felis. Class felis cursus penatibus. Curae donec inceptos dui nonummy in congue proin nec facilisi iaculis morbi.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo vitae.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./justo-vitae."
+}

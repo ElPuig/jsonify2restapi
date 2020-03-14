@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:43.184522 GMT-4",
+    "_uid": "9233aa2034594421aa8f04a4c17aac7a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-velit.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:43.226791 GMT-4",
+    "title": "Fusce velit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae dolor.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Lacus metus massa. Dolor purus tincidunt nulla nam duis parturient auctor orci ve sollicitudin rutrum sociis lobortis vulputate. Lacus nulla auctor augue ad odio potenti ad amet lectus. Ipsum proin sem mollis. Netus augue. Augue neque proin semper vitae mi nostra aliquam. Velit massa mus porta fames primis leo ve. Lacus lorem. Netus nulla dictumst neque a varius orci. Vitae felis litora vitae. Nulla fames varius.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:43.188597 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:43.223171 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fusce-velit.",
+    "remoteUrl": "Purus%20magna%20venenatis%20dis%20sem%20natoque%20in%20eu%20metus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Neque vitae nonummy quis aliquet. Fusce neque. Fusce augue luctus massa augue metus class vehicula. Felis fusce iaculis eleifend fusce ante. Vitae velit dolor ligula justo. Neque dolor nulla luctus. Donec ipsum leo congue dignissim pharetra at. Class dolor euismod orci amet auctor id consequat adipiscing nunc venenatis tincidunt erat. Dolor fames iaculis feugiat fringilla hac cubilia eu non phasellus lorem. Risus velit. Lorem metus posuere. Magna risus neque eros euismod ad aptent eros elit mus in. Fames felis nibh suscipit conubia rhoncus. Donec risus cursus porttitor nascetur lobortis proin iaculis molestie conubia ultrices.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce velit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 55,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./fusce-velit."
+}

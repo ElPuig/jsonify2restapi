@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:11.189686 GMT-4",
+    "_uid": "19c0d813401c4cb5bb4464215cf1729e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-augue-lacus-nibh-convallis-rutrum-fusce-nulla-mauris-class-ve-a-dictum-duis-conubia.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:11.240152 GMT-4",
+    "title": "Lacus augue lacus nibh convallis rutrum fusce nulla mauris class ve a dictum duis conubia.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Curae magna.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Vitae netus tortor euismod potenti mauris et tortor et vel vulputate diam integer. Dolor lacus rutrum aenean facilisis proin risus faucibus ve elit. Proin neque tellus lobortis venenatis id fringilla ullamcorper augue ornare cursus. Metus neque semper etiam ullamcorper vehicula. Justo ipsum. Curae lacus laoreet elit amet erat interdum. Risus fames condimentum sit nostra pulvinar adipiscing lectus maecenas. Fames netus faucibus ut suspendisse et tortor eu rhoncus nisi. Magna massa nisl facilisi parturient tincidunt scelerisque felis luctus. Etiam lacus a enim id cum. Neque risus suspendisse accumsan amet erat mi. Felis massa lacinia diam elit amet pretium malesuada duis orci. Donec porta ante ultricies platea a.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.276205 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.594883 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "per..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lacus-augue-lacus-nibh-convallis-rutrum-fusce-nulla-mauris-class-ve-a-dictum-duis-conubia.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Netus lacus orci porttitor in nunc. Velit netus. Neque fusce lobortis magna pellentesque facilisis ipsum fermentum aliquam pellentesque. Massa nulla mus duis ornare turpis volutpat adipiscing posuere dui eu a nibh vitae convallis class vitae nostra. Augue metus. Fames netus ligula dolor vel litora viverra at erat ut proin velit. Fusce curae condimentum id semper sit iaculis pulvinar at. Purus felis sapien auctor quam ut bibendum augue. Donec proin metus purus laoreet nam nunc sem justo potenti in class. Etiam purus sit enim id pellentesque nonummy. Ipsum curae ullamcorper at montes nascetur condimentum sagittis phasellus vel ante pede. Purus dolor mus imperdiet nec laoreet lorem pede metus. Morbi ipsum. Metus curae. Netus risus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lacus augue lacus nibh convallis rutrum fusce nulla mauris class ve a dictum duis conubia.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./lacus-augue-lacus-nibh-convallis-rutrum-fusce-nulla-mauris-class-ve-a-dictum-duis-conubia."
+}

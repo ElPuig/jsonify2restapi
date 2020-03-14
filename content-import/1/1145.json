@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:40.768308 GMT-4",
+    "_uid": "c7890c15bfc04857b434dc221c82d135",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:41.094442 GMT-4",
+    "title": "Porta fames non parturient dignissim quam duis cubilia vulputate.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae porta a tellus facilisis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Augue fames. Massa porta cras varius iaculis non praesent hendrerit per. Magna lacus. Donec class aliquam risus arcu nisl ve dolor sed nisl congue lacus. Class porta cursus ve semper urna risus tellus ac mollis egestas. Justo vitae. Lorem metus faucibus justo vel sociosqu consequat fusce id hymenaeos vestibulum integer ante ad. Vitae velit ante ultrices consectetuer mollis nostra pharetra vestibulum. Lacus fusce scelerisque urna platea nascetur commodo amet. Netus magna ligula nulla accumsan. Lacus justo tempor torquent lorem accumsan felis sed nunc.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:40.773453 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:41.088324 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quid est, quod ab ea absolvi et perfici debeat?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc tu nunc in illo probas. Suo genere perveniant ad extremum; Idemne, quod iucunde? Duo Reges: constructio interrete. </p>\n\n<dl>\n\t<dt><dfn>Quid adiuvas?</dfn></dt>\n\t<dd>Quae in controversiam veniunt, de iis, si placet, disseramus.</dd>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant.</dd>\n\t<dt><dfn>Immo alio genere;</dfn></dt>\n\t<dd>Re mihi non aeque satisfacit, et quidem locis pluribus.</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Peccata paria.</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Quae hic rei publicae vulnera inponebat, eadem ille sanabat.</dd>\n</dl>\n\n\n<ol>\n\t<li>Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus;</li>\n\t<li>Bonum negas esse divitias, praepos\u00ectum esse dicis?</li>\n\t<li>Claudii libidini, qui tum erat summo ne imperio, dederetur.</li>\n\t<li>Tanta vis admonitionis inest in locis;</li>\n\t<li>Quis non odit sordidos, vanos, leves, futtiles?</li>\n\t<li>Quid de Pythagora?</li>\n</ol>\n\n\n<h2>Scio enim esse quosdam, qui quavis lingua philosophari possint;</h2>\n\n<p>Nescio quo modo praetervolavit oratio. Idemne potest esse dies saepius, qui semel fuit? Videamus animi partes, quarum est conspectus illustrior; <a href='http://loripsum.net/' target='_blank'>Rationis enim perfectio est virtus;</a> <a href='http://loripsum.net/' target='_blank'>Audeo dicere, inquit.</a> Quae est igitur causa istarum angustiarum? </p>\n\n<ul>\n\t<li>Quid paulo ante, inquit, dixerim nonne meministi, cum omnis dolor detractus esset, variari, non augeri voluptatem?</li>\n\t<li>Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur.</li>\n\t<li>Qui autem esse poteris, nisi te amor ipse ceperit?</li>\n\t<li>Laboro autem non sine causa;</li>\n</ul>\n\n\n<p>Prioris generis est docilitas, memoria; <a href='http://loripsum.net/' target='_blank'>Immo alio genere;</a> Hos contra singulos dici est melius. Sed ad bona praeterita redeamus. Multoque hoc melius nos veriusque quam Stoici. Beatus sibi videtur esse moriens. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Massa neque eros integer mi ad dis fringilla quam vitae laoreet vitae duis posuere nisl. Porta magna lectus tortor imperdiet massa. Purus justo laoreet est adipiscing purus amet viverra pretium pharetra id. Massa proin conubia facilisis at consequat a curabitur nulla. Neque dolor. Augue massa. Lorem augue erat vulputate vehicula nostra cras suspendisse cubilia mus adipiscing vitae nisl taciti. Risus class. Felis augue. Class proin. Magna class tempor hendrerit praesent nibh est. Metus augue conubia id cursus ridiculus. Dolor magna nonummy eu dictumst gravida vulputate nisl. Justo risus a. Risus justo class ridiculus. Augue neque dolor. Magna augue.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Porta fames non parturient dignissim quam duis cubilia vulputate.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate."
+}

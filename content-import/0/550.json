@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:42.278178 GMT-4",
+    "_uid": "8b844de7feb644f8ae2fb7ed2d82c43d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-proin-sem.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:42.320067 GMT-4",
+    "title": "Fames proin sem.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Purus class duis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Nulla donec molestie. Fusce vitae ornare mauris imperdiet ultrices ad. Fusce risus. Velit fusce montes suscipit lobortis metus ad mauris. Fames justo a nostra odio morbi congue massa vestibulum nascetur eget tempor hendrerit interdum. Curae justo nisi ac consectetuer viverra elementum magnis metus sodales rhoncus. Curae nulla fusce sem erat faucibus urna rutrum. Nulla lorem. Morbi magna quis orci inceptos porta in pellentesque euismod morbi curae. Purus proin semper elit dictum eu facilisi nullam urna ut. Magna netus facilisi id litora. Dolor class dis massa aliquet elit mi consectetuer pretium vel eget. Porta lacus sociosqu etiam fames lacus duis placerat eni elit. Etiam fames ornare auctor. Nulla augue magna auctor parturient class.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:42.281983 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:42.316463 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fames-proin-sem.",
+    "remoteUrl": "Morbi%20netus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Augue velit. Morbi curae nunc cum hac in consectetuer. Neque vitae curae libero sapien integer natoque habitant in tortor ridiculus ultrices mauris facilisi ullamcorper est ad. Vitae porta. Netus risus. Dolor donec per. Velit netus duis diam urna magna pretium cum adipiscing. Metus curae maecenas quis nostra parturient suscipit nisl nibh ipsum mus. Curae ipsum hac nostra dictum nulla adipiscing suspendisse primis in fames vehicula class. Curae fames elementum feugiat. Fusce velit ligula nisi ornare sociosqu. Etiam augue neque tempus rutrum. Vitae lacus. Augue donec aptent. Massa lorem nam diam donec. Class felis vitae sapien quisque pede adipiscing tempus amet potenti proin enim maecenas accumsan.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames proin sem.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 52,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./fames-proin-sem."
+}

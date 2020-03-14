@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:30.926436 GMT-4",
+    "_uid": "a936774be1934c9fbbbf3927ed29240d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-vitae-orci-quisque.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:30.973483 GMT-4",
+    "title": "Lorem vitae orci quisque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae ipsum blandit bibendum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Risus lacus metus volutpat ultricies. Donec velit. Vitae magna dis cubilia aptent nec vestibulum magnis class. Metus magna. Dolor nulla quisque varius ante pellentesque pulvinar purus phasellus eu amet morbi suscipit at suspendisse ad magnis cras. Fusce justo amet egestas nulla odio posuere nulla in dolor ullamcorper nunc hendrerit. Magna purus morbi dapibus. Justo purus non risus mollis vestibulum consectetuer natoque sed luctus. Risus fusce curae duis vehicula non commodo ultrices congue ante viverra netus. Justo massa mattis erat dignissim duis curabitur purus et curae. Vitae porta nulla laoreet aenean per.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:30.931708 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:30.969903 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lorem-vitae-orci-quisque.",
+    "remoteUrl": "Ipsum%20purus%20conubia%20felis%20commodo%20eu%20eni.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum neque euismod aenean ut habitant blandit. Neque dolor. Fusce porta eni rutrum aliquam tincidunt faucibus id sit penatibus mollis fringilla ridiculus orci. Velit ipsum praesent ad dui porttitor aenean congue. Metus dolor. Massa curae. Fusce neque nibh malesuada at. Dolor purus fames aliquam hac convallis ornare justo. Justo augue neque. Curae magna nam massa.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem vitae orci quisque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 57,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./lorem-vitae-orci-quisque."
+}

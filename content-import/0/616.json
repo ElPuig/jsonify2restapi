@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:16.824906 GMT-4",
+    "_uid": "39737d3afbe14dbfaa7083d7d1bfc643",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "class-netus-nunc-malesuada-mattis-parturient-suscipit-metus-hymenaeos.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:17.166191 GMT-4",
+    "title": "Class netus nunc malesuada mattis parturient suscipit metus hymenaeos.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fames vitae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Ipsum proin blandit gravida sociis in libero eleifend. Velit dolor auctor ac elit eleifend taciti elit ad. Donec proin diam. Porta fames leo. Massa curae ipsum lacinia sociis est hac dis sem iaculis varius donec scelerisque. Justo ipsum mauris ipsum amet dapibus. Ipsum etiam luctus. Nulla justo mus nullam ve nostra sagittis risus purus ultricies adipiscing non netus. Justo dolor. Etiam magna morbi a semper ipsum ullamcorper. Donec lacus lectus justo bibendum justo class. Donec velit aenean nisl auctor. Justo fusce lacus nisl condimentum potenti condimentum quis nunc urna. Justo proin fermentum suscipit ut. Augue justo mauris massa venenatis porttitor parturient vel porta cum justo. Vitae morbi aptent justo. Proin porta vitae quam eu quis magna ac penatibus a.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:16.832433 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:17.160895 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quamvis enim depravatae non sint, pravae tamen esse possunt.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid de Pythagora? Erat enim Polemonis. Falli igitur possumus. Cur iustitia laudatur? Et quidem, inquit, vehementer errat; </p>\n\n<ul>\n\t<li>Ut id aliis narrare gestiant?</li>\n\t<li>Vitae autem degendae ratio maxime quidem illis placuit quieta.</li>\n\t<li>Ita fit ut, quanta differentia est in principiis naturalibus, tanta sit in finibus bonorum malorumque dissimilitudo.</li>\n\t<li>Sin ea non neglegemus neque tamen ad finem summi boni referemus, non multum ab Erilli levitate aberrabimus.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Moriatur, inquit.</dfn></dt>\n\t<dd>Haec quo modo conveniant, non sane intellego.</dd>\n\t<dt><dfn>Moriatur, inquit.</dfn></dt>\n\t<dd>Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus;</dd>\n\t<dt><dfn>Tria genera bonorum;</dfn></dt>\n\t<dd>Innumerabilia dici possunt in hanc sententiam, sed non necesse est.</dd>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Minime id quidem, inquam, alienum, multumque ad ea, quae quaerimus, explicatio tua ista profecerit.</dd>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>Habes undique expletam et perfectam, Torquate, formam honestatis, quae tota quattuor his virtutibus, quae a te quoque commemoratae sunt, continetur.</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>Quae cum ita sint, effectum est nihil esse malum, quod turpe non sit.</dd>\n</dl>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Et ille ridens: Video, inquit, quid agas; Tum Triarius: Posthac quidem, inquit, audacius. Que Manilium, ab iisque M. Mihi enim satis est, ipsis non satis. </p>\n\n<ol>\n\t<li>Vulgo enim dicitur: Iucundi acti labores, nec male Euripidesconcludam, si potero, Latine;</li>\n\t<li>An vero, inquit, quisquam potest probare, quod perceptfum, quod.</li>\n\t<li>Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere.</li>\n\t<li>Ut optime, secundum naturam affectum esse possit.</li>\n</ol>\n\n\n<p>Qui est in parvis malis. <a href='http://loripsum.net/' target='_blank'>Haec igitur Epicuri non probo, inquam.</a> </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-netus-nunc-malesuada-mattis-parturient-suscipit-metus-hymenaeos.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Purus metus laoreet tempor per nisl eget. Nulla etiam. Class massa per. Curae justo accumsan fusce id nullam orci diam justo ad. Fames class aenean maecenas molestie risus commodo nec. Fames dolor ullamcorper lobortis eros varius primis quis amet eni justo. Morbi purus a laoreet aptent eget ac dolor at sollicitudin vivamus. Morbi fames nulla. Lacus magna netus praesent pede fermentum lobortis. Fames morbi dui leo sollicitudin ad neque. Massa augue. Morbi dolor nisl tempor potenti.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class netus nunc malesuada mattis parturient suscipit metus hymenaeos.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./class-netus-nunc-malesuada-mattis-parturient-suscipit-metus-hymenaeos."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:59.336656 GMT-4",
+    "_uid": "2d363e3d5041441c9a2a4c4e9d0acefc",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "etiam-purus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:59.388447 GMT-4",
+    "title": "Etiam purus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Massa netus suspendisse sed.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Porta fames primis dictum cum orci interdum parturient. Donec nulla eleifend parturient potenti dui. Lacus purus penatibus. Purus donec vel. Justo nulla semper tincidunt montes metus. Fames felis tortor vestibulum dolor nisl tellus. Curae fames senectus risus eget cum purus mus sapien et gravida urna nisl. Felis donec orci nam a tortor metus malesuada. Etiam augue semper quis ullamcorper conubia vel adipiscing ad penatibus at. Velit class blandit. Risus magna class. Class metus nisl magna congue mauris duis rhoncus nec semper a bibendum sit nisl adipiscing ultricies duis. Metus neque. Porta netus urna primis.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.286624 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.614922 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "suspendisse..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "etiam-purus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Velit class. Donec ipsum augue suscipit est vivamus. Felis ipsum euismod id. Morbi augue nibh ligula. Nulla massa sodales non ultrices a. Purus vitae ornare proin. Vitae felis est cras. Lorem fusce platea ipsum suspendisse accumsan ultricies. Porta morbi. Proin massa hac nonummy erat. Metus magna. Porta massa velit inceptos in est duis. Lacus nulla fusce egestas habitasse torquent sapien. Donec nulla proin amet sapien duis pede amet fames fusce nulla fusce leo. Proin dolor porta nisl. Curae etiam tortor ad curae et. Porta vitae ullamcorper placerat velit eu consectetuer natoque dui ut litora quisque iaculis. Porta vitae turpis massa pulvinar ve sit duis diam. Netus felis cras metus lectus ultricies vulputate. Class risus. Class metus nibh senectus lorem erat porttitor ornare montes purus leo sociosqu.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Etiam purus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./etiam-purus."
+}

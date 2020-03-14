@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Ut scias me intellegere, primum idem esse dico voluptatem, quod ille don.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestri haec verecundius, illi fortasse constantius. Cur iustitia laudatur? Quare conare, quaeso. Cur, nisi quod turpis oratio est? </p>\n\n<p>Sed quot homines, tot sententiae; Duo Reges: constructio interrete. Neque solum ea communia, verum etiam paria esse dixerunt. Est enim effectrix multarum et magnarum voluptatum. Illud non continuo, ut aeque incontentae. Hoc est non dividere, sed frangere. </p>\n\n<p>Cave putes quicquam esse verius. Graccho, eius fere, aequal\u00ed? Hoc tu nunc in illo probas. Erat enim Polemonis. </p>\n\n<ol>\n\t<li>Eaedem res maneant alio modo.</li>\n\t<li>Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem.</li>\n\t<li>Conferam avum tuum Drusum cum C.</li>\n\t<li>Similiter sensus, cum accessit ad naturam, tuetur illam quidem, sed etiam se tuetur;</li>\n\t<li>Facit igitur Lucius noster prudenter, qui audire de summo bono potissimum velit;</li>\n</ol>\n\n\n<ul>\n\t<li>Sed ea mala virtuti magnitudine obruebantur.</li>\n\t<li>Experiamur igitur, inquit, etsi habet haec Stoicorum ratio difficilius quiddam et obscurius.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Itaque sensibus rationem adiunxit et ratione effecta sensus non reliquit.</dd>\n\t<dt><dfn>Cur iustitia laudatur?</dfn></dt>\n\t<dd>Sed quae tandem ista ratio est?</dd>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.</dd>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Magni enim aestimabat pecuniam non modo non contra leges, sed etiam legibus partam.</dd>\n\t<dt><dfn>Memini me adesse P.</dfn></dt>\n\t<dd>Aliis esse maiora, illud dubium, ad id, quod summum bonum dicitis, ecquaenam possit fieri accessio.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:58:23.232670 GMT-4",
+    "imageCaption": "Etiam dolor eros dignissim eu in ultricies metus in.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-netus-tempus-est-orci-ad-curabitur-a-risus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:23.562335 GMT-4",
+    "title": "Dolor netus tempus est orci ad curabitur a risus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Etiam proin amet commodo sodales elit. Etiam porta egestas tempus ante montes adipiscing ipsum cubilia cum. Vitae donec mattis eros. Fames netus. Proin morbi viverra molestie ante. Felis justo. Felis metus. Lacus lorem.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:23.236156 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:23.557529 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "dolor-netus-tempus-est-orci-ad-curabitur-a-risus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lorem metus. Curae ipsum purus. Etiam felis nisi vitae proin sociis scelerisque fames. Ipsum morbi nunc hymenaeos at luctus. Vitae morbi primis. Vitae lorem conubia libero proin netus hac curae. Proin magna quisque sociosqu augue gravida auctor nulla. Etiam lacus ultrices vel tempus donec conubia lorem. Proin curae lacinia eget erat vivamus rhoncus sociis amet suspendisse per turpis. Netus donec duis id velit. Justo metus sit amet per. Netus justo faucibus parturient luctus senectus pede aptent. Purus fames metus pulvinar non nibh elit aliquam. Justo neque turpis justo commodo ligula vitae et velit nisl erat. Justo netus eget cras vel eni ut neque aptent sollicitudin lacinia hac in semper. Class magna aenean pellentesque hendrerit purus in erat nibh.",
+    "_content_type_description": "text/plain",
+    "_uid": "1d4a97b8309f44669da5cdb10c734ae1",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor netus tempus est orci ad curabitur a risus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 61,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./dolor-netus-tempus-est-orci-ad-curabitur-a-risus."
+}

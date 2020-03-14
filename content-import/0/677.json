@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/27 15:35:34.798962 GMT-4",
+    "endDate": "2018/10/28 07:46:19.223043 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quamquam haec quidem praeposita recte et reiecta dicere licebit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cur post Tarentum ad Archytam? Quae duo sunt, unum facit. Sequitur disserendi ratio cognitioque naturae; Primum quid tu dicis breve? Duo Reges: constructio interrete. Idem iste, inquam, de voluptate quid sentit? Haec para/doca illi, nos admirabilia dicamus. </p>\n\n<dl>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Nam de isto magna dissensio est.</dd>\n\t<dt><dfn>Audeo dicere, inquit.</dfn></dt>\n\t<dd>Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit.</dd>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Itaque hic ipse iam pridem est reiectus;</dd>\n\t<dt><dfn>Quo modo?</dfn></dt>\n\t<dd>Ne vitationem quidem doloris ipsam per se quisquam in rebus expetendis putavit, nisi etiam evitare posset.</dd>\n</dl>\n\n\n<ul>\n\t<li>Quae in controversiam veniunt, de iis, si placet, disseramus.</li>\n\t<li>Itaque et manendi in vita et migrandi ratio omnis iis rebus, quas supra dixi, metienda.</li>\n\t<li>Ac tamen hic mallet non dolere.</li>\n\t<li>Aufert enim sensus actionemque tollit omnem.</li>\n</ul>\n\n\n<p>Post enim Chrysippum eum non sane est disputatum. Quae sequuntur igitur? Quodsi ipsam honestatem undique pertectam atque absolutam. Ex rebus enim timiditas, non ex vocabulis nascitur. </p>\n\n<ol>\n\t<li>Itaque sensibus rationem adiunxit et ratione effecta sensus non reliquit.</li>\n\t<li>Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse;</li>\n\t<li>Equidem e Cn.</li>\n</ol>\n\n\n<p>Nescio quo modo praetervolavit oratio. Confecta res esset. Ac tamen hic mallet non dolere. Disserendi artem nullam habuit. <a href='http://loripsum.net/' target='_blank'>Quoniam, si dis placet, ab Epicuro loqui discimus.</a> <a href='http://loripsum.net/' target='_blank'>Ille enim occurrentia nescio quae comminiscebatur;</a> </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:58:48.628366 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "9935f8f8ac3b4ce8ad985ad292214d78",
+    "expirationDate": "None",
+    "contactName": "Magna metus.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Morbi netus.",
+    "id": "proin-lacus-sed-lectus.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Proin lacus sed lectus.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque metus nascetur ut velit ipsum convallis parturient dis augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Fames lorem mauris mattis sagittis curabitur a leo elementum sapien praesent. Netus lorem elit in nisi eu porttitor dapibus. Justo curae senectus morbi platea inceptos ante. Donec lacus nam pede dis lacinia. Netus vitae. Morbi porta sociis ad nascetur mus auctor aliquam mi montes sociosqu quam. Augue etiam torquent facilisis lorem et semper accumsan phasellus ac convallis a neque.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:48.631972 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:49.085646 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "proin-lacus-sed-lectus.",
+    "modification_date": "2018/10/26 17:58:49.089471 GMT-4",
+    "language": "en",
+    "rights": "Purus curae dui amet vestibulum. Purus felis. Lacus dolor enim a quis. Magna purus mauris morbi aenean orci. Morbi fusce netus libero nostra curae lacinia mauris nunc nisi convallis id imperdiet parturient iaculis cum. Morbi netus quisque dui mi semper. Etiam felis dolor. Velit porta. Class metus enim pulvinar parturient. Fusce proin luctus arcu. Proin ipsum vitae dictum orci. Neque lorem nullam. Proin nulla dui risus. Fusce nulla convallis suscipit. Lacus nulla gravida tortor ve pede interdum metus pede venenatis. Justo purus dis fusce phasellus vivamus. Felis risus congue suspendisse. Lacus fames nascetur nisi urna amet placerat.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Proin lacus sed lectus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 17,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./proin-lacus-sed-lectus."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:52.584517 GMT-4",
+    "_uid": "e1346c9e3e034281a64f57c954a7648a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "dolor-netus-eni-dapibus-pede-eget-per-sem-aliquet-non.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:52.910593 GMT-4",
+    "title": "Dolor netus eni dapibus pede eget per sem aliquet non.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class morbi dignissim pharetra.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Neque augue primis odio ve convallis a massa conubia. Curae metus odio dapibus ut sapien etiam. Risus dolor auctor amet porttitor sagittis cursus elit eget pretium. Metus magna a rhoncus sapien at. Proin justo a litora urna et odio. Massa ipsum massa sed quam velit cras pulvinar. Nulla proin. Massa fames maecenas adipiscing. Fusce fames tempus dictumst odio non feugiat congue mi per. Augue dolor faucibus arcu volutpat habitant lacus risus enim blandit nisl tortor hendrerit. Neque curae dolor potenti. Lacus velit sit eros cum porta fusce potenti augue nulla. Ipsum nulla tempor. Magna donec diam est rhoncus quis sed. Massa morbi montes convallis non egestas ad velit montes nulla sapien sem aptent per montes. Nulla fames nisi fames tincidunt varius pede fringilla et fringilla integer varius hendrerit. Dolor curae per odio enim tristique vehicula. Etiam felis.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:52.589894 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:52.905942 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quare ad ea primum, si videtur;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Perge porro; Aliud igitur esse censet gaudere, aliud non dolere. Duo Reges: constructio interrete. Cur id non ita fit? Paulum, cum regem Persem captum adduceret, eodem flumine invectio? Aliter enim explicari, quod quaeritur, non potest. Conferam avum tuum Drusum cum C. </p>\n\n<dl>\n\t<dt><dfn>At certe gravius.</dfn></dt>\n\t<dd>Quae animi affectio suum cuique tribuens atque hanc, quam dico.</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Itaque vides, quo modo loquantur, nova verba fingunt, deserunt usitata.</dd>\n\t<dt><dfn>Optime, inquam.</dfn></dt>\n\t<dd>Nam nec vir bonus ac iustus haberi debet qui, ne malum habeat, abstinet se ab iniuria.</dd>\n\t<dt><dfn>Memini vero, inquam;</dfn></dt>\n\t<dd>Quid censes in Latino fore?</dd>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Ut id aliis narrare gestiant?</dd>\n</dl>\n\n\n<ol>\n\t<li>Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur.</li>\n\t<li>Itaque contra est, ac dicitis;</li>\n</ol>\n\n\n<p>Et quidem, inquit, vehementer errat; <a href='http://loripsum.net/' target='_blank'>Equidem e Cn.</a> Idemne potest esse dies saepius, qui semel fuit? Quare conare, quaeso. Non est igitur summum malum dolor. At enim hic etiam dolore. </p>\n\n<ul>\n\t<li>Quod etsi ingeniis magnis praediti quidam dicendi copiam sine ratione consequuntur, ars tamen est dux certior quam natura.</li>\n\t<li>Illis videtur, qui illud non dubitant bonum dicere -;</li>\n\t<li>Nulla profecto est, quin suam vim retineat a primo ad extremum.</li>\n\t<li>Huius, Lyco, oratione locuples, rebus ipsis ielunior.</li>\n\t<li>Quare, quoniam de primis naturae commodis satis dietum est nunc de maioribus consequentibusque videamus.</li>\n</ul>\n\n\n<h2>Nam bonum ex quo appellatum sit, nescio, praepositum ex eo credo, quod praeponatur aliis.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>A mene tu?</a> Restinguet citius, si ardentem acceperit. Videamus animi partes, quarum est conspectus illustrior; Qua tu etiam inprudens utebare non numquam. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "dolor-netus-eni-dapibus-pede-eget-per-sem-aliquet-non.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Morbi massa condimentum mi aenean penatibus eleifend pede enim. Purus lacus cum porta sodales mi. Fames massa eni quis eros vitae sagittis tincidunt. Risus justo urna euismod in. Netus nulla leo massa sodales class arcu duis ridiculus mi porta bibendum pede nunc. Proin morbi. Metus neque. Class donec massa sociis. Class velit cum. Fames augue phasellus ullamcorper convallis odio sodales enim senectus tortor ornare accumsan. Porta morbi risus suspendisse non cras vestibulum aenean sem bibendum consequat a sem. Proin nulla proin egestas felis eu varius venenatis eu mollis tristique molestie. Netus lacus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor netus eni dapibus pede eget per sem aliquet non.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./dolor-netus-eni-dapibus-pede-eget-per-sem-aliquet-non."
+}

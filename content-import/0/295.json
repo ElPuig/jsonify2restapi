@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/23 15:59:53.979438 GMT-4",
+    "endDate": "2018/10/24 03:20:40.676116 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Respondent extrema primis, media utrisque, omnia omnibus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Certe, nisi voluptatem tanti aestimaretis. Non est igitur summum malum dolor. Duo Reges: constructio interrete. Si quae forte-possumus. Ergo hoc quidem apparet, nos ad agendum esse natos. </p>\n\n<h2>Ac tamen hic mallet non dolere.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>Omnes enim iucundum motum, quo sensus hilaretur.</a> Aliud igitur esse censet gaudere, aliud non dolere. </p>\n\n<p>Iam enim adesse poterit. At hoc in eo M. Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba. </p>\n\n<ol>\n\t<li>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</li>\n\t<li>Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret?</li>\n\t<li>Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;</li>\n\t<li>Nihil opus est exemplis hoc facere longius.</li>\n</ol>\n\n\n<pre>\nEst autem eius generis actio quoque quaedam, et quidem\ntalis, ut ratio postulet agere aliquid et facere eorum.\n\nPugnant Stoici cum Peripateticis.\n</pre>\n\n\n<ul>\n\t<li>Ad quorum et cognitionem et usum iam corroborati natura ipsa praeeunte deducimur.</li>\n\t<li>Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret?</li>\n\t<li>Omnia contraria, quos etiam insanos esse vultis.</li>\n\t<li>Rem unam praeclarissimam omnium maximeque laudandam, penitus viderent, quonam gaudio complerentur, cum tantopere eius adumbrata opinione laetentur?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Cur iustitia laudatur?</dfn></dt>\n\t<dd>Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest.</dd>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Sit enim idem caecus, debilis.</dd>\n</dl>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:59.536077 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "23cad64c85f849b1bd63df8806141079",
+    "expirationDate": "None",
+    "contactName": "Augue vitae.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Massa morbi sapien vitae et est cras neque condimentum pharetra tincidunt consectetuer.",
+    "id": "dolor-curae-2.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.993389 GMT-4",
+    "title": "Dolor curae.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Justo dolor dis enim etiam nisi ut odio.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Dolor magna. Magna nulla per rutrum a senectus diam interdum lacus. Metus justo sociis risus feugiat eleifend. Etiam nulla conubia luctus. Massa donec ultrices class diam tristique mus euismod ac porttitor. Donec magna facilisi imperdiet placerat. Morbi risus ipsum. Lorem felis dictum parturient vitae orci per facilisi. Risus class ipsum nunc sapien auctor non nunc vestibulum platea lorem. Augue velit primis dignissim hymenaeos nisi condimentum sit. Proin curae. Felis lacus magnis ad interdum nam. Class lacus. Lacus nulla. Proin augue bibendum magna at libero lobortis metus urna orci purus congue ac nam ut. Justo lorem a. Morbi fames nisi natoque nisi pede aenean mus congue elementum aliquet nibh velit.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:59.539699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:43.006673 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "dolor-curae-2.",
+    "modification_date": "2018/10/26 13:51:42.993661 GMT-4",
+    "language": "en",
+    "rights": "Etiam fames. Dolor class sit class urna morbi mollis dolor aenean mi erat ve sollicitudin dictum primis purus fames. Velit vitae ullamcorper mi primis sagittis. Lorem metus. Velit risus maecenas augue sit quis amet class dis. Proin augue proin dictum lorem accumsan curae augue nisl a. Felis fusce nam arcu ut mus penatibus montes rutrum. Class metus. Netus fames interdum ac pede libero mollis cum erat dictumst.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor curae.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 91,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/dolor-curae-2."
+}

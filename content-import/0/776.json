@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:34.531980 GMT-4",
+    "_uid": "684677daf4434a1883e44e489dfbe015",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "porta-etiam-tellus-ligula-torquent-ullamcorper-bibendum-vulputate-eu-auctor-bibendum-eleifend-congue.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:34.858837 GMT-4",
+    "title": "Porta etiam tellus ligula torquent ullamcorper bibendum vulputate eu auctor bibendum eleifend congue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam nulla lacus blandit nunc.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Curae justo. Netus lorem sem adipiscing parturient ut ridiculus iaculis morbi cum enim. Purus magna. Ipsum class. Morbi class scelerisque mi sociis ad urna pede sed cum. Lorem ipsum. Massa morbi metus congue lacus ullamcorper eu tortor. Class vitae inceptos enim et non. Risus lacus. Purus nulla quis habitant. Morbi netus augue aptent venenatis. Ipsum etiam cras egestas et montes a lacinia mauris. Velit netus a libero velit diam mus. Dolor lacus eros maecenas ridiculus turpis dolor ve pellentesque nonummy elit curae id cras proin ac turpis. Proin class faucibus nam at sollicitudin rhoncus phasellus enim. Augue vitae purus sapien at est. Lacus purus bibendum in lacus. Massa netus. Lacus risus montes ac pulvinar hac rutrum massa. Risus porta varius nisl nisi posuere.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:34.537139 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:34.853673 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Negat enim summo bono afferre incrementum diem.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Frater et T. Eadem nunc mea adversum te oratio est. Tum mihi Piso: Quid ergo? Duo Reges: constructio interrete. Istam voluptatem perpetuam quis potest praestare sapienti? </p>\n\n<ol>\n\t<li>Ergo infelix una molestia, fellx rursus, cum is ipse anulus in praecordiis piscis inventus est?</li>\n\t<li>Verum esto: verbum ipsum voluptatis non habet dignitatem, nec nos fortasse intellegimus.</li>\n\t<li>Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere.</li>\n\t<li>Quae tamen a te agetur non melior, quam illae sunt, quas interdum optines.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Respondeat totidem verbis.</dd>\n\t<dt><dfn>Quo modo?</dfn></dt>\n\t<dd>Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi.</dd>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>Quae duo sunt, unum facit.</dd>\n\t<dt><dfn>Immo videri fortasse.</dfn></dt>\n\t<dd>Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Neque solum ea communia, verum etiam paria esse dixerunt.</dd>\n</dl>\n\n\n<ul>\n\t<li>Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere.</li>\n\t<li>Tantum dico, magis fuisse vestrum agere Epicuri diem natalem, quam illius testamento cavere ut ageretur.</li>\n</ul>\n\n\n<p>Sin aliud quid voles, postea. Esse enim quam vellet iniquus iustus poterat inpune. Nunc haec primum fortasse audientis servire debemus. <a href='http://loripsum.net/' target='_blank'>Sed quod proximum fuit non vidit.</a> </p>\n\n<p>Videamus igitur sententias eorum, tum ad verba redeamus. Occultum facinus esse potuerit, gaudebit; Omnia contraria, quos etiam insanos esse vultis. <a href='http://loripsum.net/' target='_blank'>Non est igitur summum malum dolor.</a> Non dolere, inquam, istud quam vim habeat postea videro; <a href='http://loripsum.net/' target='_blank'>Sed ad illum redeo.</a> Memini vero, inquam; </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "porta-etiam-tellus-ligula-torquent-ullamcorper-bibendum-vulputate-eu-auctor-bibendum-eleifend-congue.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Neque etiam nibh sed sapien. Vitae purus. Fusce purus dolor curae quam. Dolor curae est elit amet convallis tellus nisl tortor tincidunt in condimentum. Velit lacus mauris vestibulum purus quisque neque commodo dignissim. Felis ipsum per quam. Class augue ridiculus leo lobortis a volutpat ante mus a. Netus lacus torquent sem quis parturient est vitae elementum dolor magna. Ipsum morbi class congue. Nulla dolor placerat ve purus volutpat porta varius id nascetur senectus ac. Fames magna fames. Ipsum massa dis neque nec quis dapibus risus arcu aptent et diam massa ornare. Augue velit pretium habitant integer vivamus faucibus augue. Netus curae suspendisse.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Porta etiam tellus ligula torquent ullamcorper bibendum vulputate eu auctor bibendum eleifend congue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./porta-etiam-tellus-ligula-torquent-ullamcorper-bibendum-vulputate-eu-auctor-bibendum-eleifend-congue."
+}

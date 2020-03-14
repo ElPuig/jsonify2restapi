@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/24 17:43:50.452038 GMT-4",
+    "endDate": "2018/10/26 21:20:17.819671 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Aliena dixit in physicis nec ea ipsa, quae tibi probarentur;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Hoc loco tenere se Triarius non potuit. Murenam te accusante defenderem. Bonum valitudo: miser morbus. Si quicquam extra virtutem habeatur in bonis. </p>\n\n<h3>Nemo igitur esse beatus potest.</h3>\n\n<p>Haec quo modo conveniant, non sane intellego. Sed fortuna fortis; Nihil enim hoc differt. </p>\n\n<dl>\n\t<dt><dfn>Quid iudicant sensus?</dfn></dt>\n\t<dd>Quae cum dixisset paulumque institisset, Quid est?</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Cum autem in quo sapienter dicimus, id a primo rectissime dicitur.</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.</dd>\n</dl>\n\n\n<h2>Claudii libidini, qui tum erat summo ne imperio, dederetur.</h2>\n\n<p>Aufert enim sensus actionemque tollit omnem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Estne, quaeso, inquam, sitienti in bibendo voluptas? </p>\n\n<ul>\n\t<li>Tum ille: Tu autem cum ipse tantum librorum habeas, quos hic tandem requiris?</li>\n\t<li>Ergo et avarus erit, sed finite, et adulter, verum habebit modum, et luxuriosus eodem modo.</li>\n\t<li>Sed quae tandem ista ratio est?</li>\n</ul>\n\n\n<ol>\n\t<li>Nam et a te perfici istam disputationem volo, nec tua mihi oratio longa videri potest.</li>\n\t<li>Sed erat aequius Triarium aliquid de dissensione nostra iudicare.</li>\n\t<li>Cuius quidem, quoniam Stoicus fuit, sententia condemnata mihi videtur esse inanitas ista verborum.</li>\n</ol>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:56:18.447239 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "8700553d8f2045cc82acaead7ce92b6a",
+    "expirationDate": "None",
+    "contactName": "Lacus felis nec libero et aptent.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Justo metus.",
+    "id": "vitae-lacus-dis-parturient-ac-nullam.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Vitae lacus dis parturient ac nullam.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Magna massa risus lacus enim tempus mi est tortor id netus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Neque class erat. Fames velit erat proin commodo velit sed diam metus posuere. Fames dolor nam per ut dignissim egestas tempor nulla enim et. Magna etiam scelerisque odio enim conubia ut. Dolor massa. Felis massa congue donec massa a elit. Morbi neque vel augue parturient habitant cubilia varius risus venenatis habitasse parturient. Donec ipsum. Curae vitae praesent adipiscing posuere nec in felis ac. Magna vitae rhoncus odio arcu viverra sit. Neque dolor. Donec justo augue suscipit metus ante. Fames nulla vitae. Dolor fames congue dapibus amet. Vitae curae montes. Donec lorem. Curae metus viverra amet parturient taciti lorem. Justo curae scelerisque et cursus. Risus massa fermentum pharetra auctor molestie nec. Donec morbi. Fames massa. Vitae netus nascetur at netus eleifend. Justo nulla tellus quisque conubia fermentum.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:18.451908 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:18.774135 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "vitae-lacus-dis-parturient-ac-nullam.",
+    "modification_date": "2018/10/26 17:56:18.778007 GMT-4",
+    "language": "en",
+    "rights": "Fusce metus egestas eget amet. Class curae congue netus pede tristique sapien nascetur lectus sapien cum parturient lectus ve. Proin felis tellus consectetuer aliquam velit. Nulla purus sem odio. Netus donec orci elementum tortor pharetra accumsan aenean interdum. Fames vitae scelerisque lobortis. Velit purus conubia. Felis neque. Ipsum vitae. Lacus justo. Curae ipsum metus phasellus primis. Fusce ipsum nibh odio nostra.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae lacus dis parturient ac nullam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 19,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/vitae-lacus-dis-parturient-ac-nullam."
+}

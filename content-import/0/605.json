@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:12.215097 GMT-4",
+    "_uid": "ed4ce74429694ebea61a37414f54d5ad",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-fusce-maecenas.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:12.264212 GMT-4",
+    "title": "Fames fusce maecenas.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Velit proin justo sit elit et.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Risus lacus duis faucibus ve ullamcorper diam. Ipsum netus. Nulla fames fusce nec quisque ad mi hymenaeos etiam. Donec massa pretium ante praesent non euismod eleifend sodales mauris. Felis justo aliquet cum ut mollis. Augue porta. Purus risus duis lacinia. Massa netus felis ligula auctor cum nisl pede eget. Class donec leo nibh dictumst parturient fermentum vitae mi semper. Purus porta donec torquent purus. Etiam class ornare. Curae porta ligula scelerisque augue habitasse per curae sit. Risus justo aliquet convallis orci dapibus magna. Justo ipsum nibh tellus fermentum vitae malesuada montes erat libero tempus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.276205 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.594883 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "leo..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fames-fusce-maecenas.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor morbi porta donec nisi semper cursus ridiculus senectus. Netus risus diam sed odio non metus. Etiam morbi dis cursus at erat suspendisse dapibus consectetuer potenti lorem diam et. Justo class vitae lacinia venenatis eros posuere sapien. Dolor neque interdum nec cubilia cras mus erat accumsan enim mus. Proin fames. Proin porta nulla fames conubia litora. Proin ipsum est urna mus pellentesque in dolor hymenaeos ve massa dis pede dignissim dui. Lorem class justo sociis montes. Purus donec a aliquet primis risus. Justo proin. Netus proin sem eget parturient eu nascetur magna tincidunt cubilia varius netus class mollis vestibulum netus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fames fusce maecenas.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./fames-fusce-maecenas."
+}

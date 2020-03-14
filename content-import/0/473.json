@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:3.092567 GMT-4",
+    "_uid": "736904b555dd48ebbc5232038ebab001",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-class-ornare-proin.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:3.133630 GMT-4",
+    "title": "Netus class ornare proin.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce nulla.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Proin porta tempor lorem suspendisse accumsan blandit. Dolor morbi urna et nec venenatis tellus erat iaculis platea eu. Class magna a orci curae nullam magna euismod venenatis nam conubia. Etiam risus sit eros quam metus eu ipsum. Lacus ipsum magna. Porta lacus dis morbi feugiat magna netus scelerisque molestie. Proin purus. Justo netus placerat arcu nullam egestas quam id odio faucibus enim hymenaeos nullam. Lacus porta faucibus parturient natoque eget bibendum metus vivamus. Fames morbi tempor leo erat montes commodo. Vitae porta congue elementum parturient sodales sem et interdum quisque magnis. Felis porta. Justo magna. Purus neque nullam penatibus rutrum praesent. Purus neque mollis pellentesque sodales quis vel fermentum mauris ridiculus. Lacus augue pulvinar erat. Felis purus mauris amet mi nunc taciti adipiscing. Velit justo non velit tincidunt. Ipsum curae.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:3.095815 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:3.130285 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "netus-class-ornare-proin.",
+    "remoteUrl": "Purus%20proin%20nulla%20morbi%20platea%20accumsan%20cras%20sociis%20parturient%20sollicitudin%20euismod%20elit%20diam%20consequat.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Neque nulla dapibus quis. Lacus felis nec diam. Etiam dolor tellus adipiscing nascetur nulla sed urna praesent. Fames massa ligula morbi fames condimentum molestie pretium quisque augue dis diam. Purus augue tellus curae quisque quam. Fames proin curae. Morbi neque per enim amet fermentum imperdiet adipiscing cras malesuada.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus class ornare proin.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 56,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./netus-class-ornare-proin."
+}

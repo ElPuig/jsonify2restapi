@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:56.495459 GMT-4",
+    "_uid": "aecb1e73c12443c1862c168d6ebb72c4",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "class-etiam.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:56.830231 GMT-4",
+    "title": "Class etiam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum dolor vitae laoreet magnis ac mauris per.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Nulla dolor ornare elit amet sagittis duis varius id placerat. Lorem class. Lorem curae. Velit netus semper eget penatibus leo lorem diam dui velit. Dolor lorem taciti et nostra id donec. Massa metus. Felis netus massa amet non fusce mattis erat quam consequat tortor et sit. Lorem ipsum. Augue nulla cursus cras arcu dignissim enim consequat pharetra. Purus felis ultricies rutrum parturient etiam pretium. Velit porta scelerisque sem luctus commodo montes orci velit. Ipsum justo hac elit porttitor eni pretium odio mus nisl adipiscing sit. Vitae proin porta cum dictumst purus ac auctor ad ve semper hymenaeos ve. Lorem felis eni lacus mattis pellentesque malesuada. Velit class lobortis eros suscipit maecenas dictum cursus justo fames vitae. Velit magna cum egestas bibendum primis. Neque class aptent accumsan est lacus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:56.502564 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:56.825780 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Sed ego in hoc resisto;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Beatus sibi videtur esse moriens. Quam ob rem tandem, inquit, non satisfacit? Duo Reges: constructio interrete. Itaque contra est, ac dicitis; Honesta oratio, Socratica, Platonis etiam. </p>\n\n<ul>\n\t<li>Ita relinquet duas, de quibus etiam atque etiam consideret.</li>\n\t<li>Septem autem illi non suo, sed populorum suffragio omnium nominati sunt.</li>\n\t<li>Quae quidem sapientes sequuntur duce natura tamquam videntes;</li>\n\t<li>Sed quanta sit alias, nunc tantum possitne esse tanta.</li>\n</ul>\n\n\n<p>Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum. Quid iudicant sensus? At ille pellit, qui permulcet sensum voluptate. Eiuro, inquit adridens, iniquum, hac quidem de re; Quis hoc dicit? Si longus, levis. </p>\n\n<h2>At iam decimum annum in spelunca iacet.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>Cyrenaici quidem non recusant;</a> Sed residamus, inquit, si placet. Si longus, levis; Idem iste, inquam, de voluptate quid sentit? </p>\n\n<ol>\n\t<li>Ut alios omittam, hunc appello, quem ille unum secutus est.</li>\n\t<li>Quae similitudo in genere etiam humano apparet.</li>\n\t<li>Satis est tibi in te, satis in legibus, satis in mediocribus amicitiis praesidii.</li>\n\t<li>Quamquam id quidem, infinitum est in hac urbe;</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Quis istud possit, inquit, negare?</dd>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Sed fac ista esse non inportuna;</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris.</dd>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Magna laus.</dd>\n\t<dt><dfn>Idemne, quod iucunde?</dfn></dt>\n\t<dd>Audax negotium, dicerem impudens, nisi hoc institutum postea translatum ad philosophos nostros esset.</dd>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>Quem ad modum quis ambulet, sedeat, qui ductus oris, qui vultus in quoque sit?</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-etiam.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Netus proin erat magnis ad habitant feugiat id nullam nunc nulla nostra tempor per nec mus pellentesque. Donec fames. Nulla purus tortor ullamcorper donec libero nostra fringilla. Nulla massa. Vitae fames. Risus justo neque dignissim vel pellentesque ac viverra. Fusce lorem.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class etiam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./class-etiam."
+}

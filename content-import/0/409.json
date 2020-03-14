@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:36.345622 GMT-4",
+    "_uid": "12016cad26d746a789546202b9749f57",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-risus-felis-est-urna.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:36.399294 GMT-4",
+    "title": "Magna risus felis est urna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Morbi vitae habitant sed diam turpis volutpat ipsum non lacus diam iaculis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Risus ipsum. Nulla neque integer erat molestie tempus iaculis. Etiam purus. Neque massa eget hac nibh mus aptent. Vitae velit tempus arcu id vitae consequat nam sagittis laoreet. Etiam augue varius hymenaeos litora a facilisi nam et a duis. Metus neque pulvinar metus nunc mattis nostra aliquet diam sit erat. Lacus netus. Magna ipsum quam leo nec consectetuer tempus donec est. Donec justo nam praesent nulla in per nisi pede. Lorem massa morbi quam. Class nulla tortor duis et inceptos per nulla ipsum donec. Porta donec. Lacus lorem ornare sollicitudin ultricies class torquent class sagittis vestibulum tempor. Ipsum class turpis quis potenti magna aliquet orci. Lorem dolor justo eni sapien viverra. Curae morbi dui tortor faucibus ullamcorper faucibus lacus mus. Neque lacus laoreet duis ve massa nec quam ve pellentesque dictum augue. Lacus risus condimentum habitant magna nec sociosqu hendrerit urna hac urna diam. Ipsum fusce montes fames vestibulum. Morbi donec maecenas ve.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.410644 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.741094 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "diam..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "magna-risus-felis-est-urna.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae netus litora tempus interdum litora libero class pharetra quam libero. Ipsum justo tempus tempor facilisi rhoncus mi purus eni rutrum tempor. Dolor class mollis lobortis diam lectus taciti elit facilisis mattis odio. Donec class ante est a ligula. Lorem netus lectus risus nunc lacinia id diam praesent nec gravida in. Velit lacus venenatis id phasellus suspendisse sit sociis posuere. Fames curae quam nisi vehicula hendrerit mi vitae habitasse parturient. Augue risus fames tempor suspendisse fusce taciti mi sociosqu cras pretium eu. Lacus etiam suscipit pede viverra at. Purus lorem nibh sem iaculis nam et a taciti nisl massa platea mauris. Lacus lorem porttitor in sociis faucibus venenatis. Curae vitae. Purus ipsum litora commodo semper sit. Augue ipsum proin aenean semper porta vulputate volutpat ad ullamcorper. Augue nulla dis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Magna risus felis est urna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./magna-risus-felis-est-urna."
+}

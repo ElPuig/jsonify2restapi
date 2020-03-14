@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:59.882212 GMT-4",
+    "_uid": "b4133dc9b0f64eb6bcdec774d028e44e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "purus-augue-fames-penatibus-egestas-dictum-ac-urna-phasellus-aenean-ipsum-parturient-dictumst-urna-congue-conubia.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:0.215950 GMT-4",
+    "title": "Purus augue fames penatibus egestas dictum ac urna phasellus aenean ipsum parturient dictumst urna congue conubia.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Justo netus per.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Lorem morbi eget senectus non tortor tristique habitant aenean blandit. Etiam felis. Justo porta conubia luctus ipsum. Fames porta primis fames lobortis diam auctor per vivamus. Massa purus. Felis magna scelerisque nam mattis risus. Donec risus neque taciti neque parturient. Donec nulla duis enim sodales primis. Justo metus lectus lacus adipiscing scelerisque dictum et. Magna justo praesent mus. Dolor purus lectus magnis aliquam hendrerit.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:59.888694 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:0.210797 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Cupit enim d\u00edcere nihil posse ad beatam vitam deesse sapienti.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum divisit ineleganter; Bonum valitudo: miser morbus. Tamen a proposito, inquam, aberramus. Cur post Tarentum ad Archytam? Primum quid tu dicis breve? Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Huius, Lyco, oratione locuples, rebus ipsis ielunior.</a> Quis istud possit, inquit, negare? </p>\n\n<ol>\n\t<li>Dolere malum est: in crucem qui agitur, beatus esse non potest.</li>\n\t<li>Ita prorsus, inquam;</li>\n\t<li>Nam si amitti vita beata potest, beata esse non potest.</li>\n\t<li>Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis.</li>\n\t<li>Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Praeclare hoc quidem.</dfn></dt>\n\t<dd>Quorum sine causa fieri nihil putandum est.</dd>\n\t<dt><dfn>Ita credo.</dfn></dt>\n\t<dd>Primum cur ista res digna odio est, nisi quod est turpis?</dd>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</dd>\n</dl>\n\n\n<ul>\n\t<li>Illa sunt similia: hebes acies est cuipiam oculorum, corpore alius senescit;</li>\n\t<li>Hoc uno captus Erillus scientiam summum bonum esse defendit nec rem ullam aliam per se expetendam.</li>\n\t<li>Non laboro, inquit, de nomine.</li>\n\t<li>Nondum autem explanatum satis, erat, quid maxime natura vellet.</li>\n</ul>\n\n\n<p>Duarum enim vitarum nobis erunt instituta capienda. Quamquam te quidem video minime esse deterritum. Nunc haec primum fortasse audientis servire debemus. Quid ergo attinet gloriose loqui, nisi constanter loquare? </p>\n\n<h2>Ex eorum enim scriptis et institutis cum omnis doctrina liberalis, omnis historia.</h2>\n\n<p>Occultum facinus esse potuerit, gaudebit; Hoc etsi multimodis reprehendi potest, tamen accipio, quod dant. Ut aliquid scire se gaudeant? Qualem igitur hominem natura inchoavit? </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "purus-augue-fames-penatibus-egestas-dictum-ac-urna-phasellus-aenean-ipsum-parturient-dictumst-urna-congue-conubia.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Class vitae a euismod libero ante mus rhoncus eu mus. Risus velit montes ligula eget consectetuer sagittis vitae. Donec velit lorem amet lobortis gravida aenean class augue. Lorem vitae vel. Justo curae arcu eni proin curabitur. Porta ipsum purus elit. Nulla justo facilisis enim est. Purus dolor aliquet dignissim. Fusce neque suspendisse dictumst. Felis velit pharetra parturient vulputate proin cubilia et augue vehicula. Fusce fames cubilia eu quam lorem dolor suscipit at dui sapien. Justo netus hac adipiscing vestibulum id. Morbi velit. Velit purus pede pulvinar hendrerit cursus. Etiam curae. Metus morbi gravida platea cum taciti.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Purus augue fames penatibus egestas dictum ac urna phasellus aenean ipsum parturient dictumst urna congue conubia.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./purus-augue-fames-penatibus-egestas-dictum-ac-urna-phasellus-aenean-ipsum-parturient-dictumst-urna-congue-conubia."
+}

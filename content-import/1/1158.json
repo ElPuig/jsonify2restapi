@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/14 14:01:26.116718 GMT-4",
+    "endDate": "2018/11/15 09:34:31.256245 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Compensabatur, inquit, cum summis doloribus laetitia.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tu quidem reddes; Est, ut dicis, inquam. Laboro autem non sine causa; Bonum valitudo: miser morbus. Et quod est munus, quod opus sapientiae? Duo Reges: constructio interrete. Quis est tam dissimile homini. </p>\n\n<dl>\n\t<dt><dfn>Eademne, quae restincta siti?</dfn></dt>\n\t<dd>Quae cum magnifice primo dici viderentur, considerata minus probabantur.</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Ergo hoc quidem apparet, nos ad agendum esse natos.</dd>\n</dl>\n\n\n<ol>\n\t<li>Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam;</li>\n\t<li>Scaevola tribunus plebis ferret ad plebem vellentne de ea re quaeri.</li>\n\t<li>Quid loquor de nobis, qui ad laudem et ad decus nati, suscepti, instituti sumus?</li>\n</ol>\n\n\n<ul>\n\t<li>Qua ex cognitione facilior facta est investigatio rerum occultissimarum.</li>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n\t<li>Ut proverbia non nulla veriora sint quam vestra dogmata.</li>\n\t<li>Vulgo enim dicitur: Iucundi acti labores, nec male Euripidesconcludam, si potero, Latine;</li>\n\t<li>Dolere malum est: in crucem qui agitur, beatus esse non potest.</li>\n\t<li>Gerendus est mos, modo recte sentiat.</li>\n</ul>\n\n\n<p>Vide, quaeso, rectumne sit. Quid ad utilitatem tantae pecuniae? Mihi enim erit isdem istis fortasse iam utendum. </p>\n\n<p>Facillimum id quidem est, inquam. <a href='http://loripsum.net/' target='_blank'>Quid est enim aliud esse versutum?</a> Quodsi ipsam honestatem undique pertectam atque absolutam. Sed ad rem redeamus; Itaque contra est, ac dicitis; Quaerimus enim finem bonorum. </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 18:02:50.590875 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "5c91156880f84733a618ed318d7660c8",
+    "expirationDate": "None",
+    "contactName": "Fusce vitae hac.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Nulla proin litora amet condimentum.",
+    "id": "vitae-class-suspendisse-at-primis.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Vitae class suspendisse at primis.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Massa vitae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Purus ipsum eget non quis ultrices nam mollis risus. Neque metus quam nunc accumsan dolor mi nullam class. Magna purus semper. Metus fusce mauris interdum odio sociis dapibus cras praesent scelerisque. Fusce porta enim ullamcorper integer dui et. Proin metus sit. Lorem risus amet tortor nonummy ut per tincidunt mauris dictum eni id a erat. Proin etiam faucibus magna dolor mauris netus vestibulum facilisi laoreet iaculis semper eni id. Fusce vitae a sodales aenean dis et potenti ve ad. Curae lacus mollis ornare eget fusce venenatis mus netus parturient ultrices etiam. Velit lacus. Purus lorem curae montes adipiscing consectetuer vivamus dui tempor lacinia iaculis semper amet. Lacus class etiam nec nunc sit augue eros per.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:50.594556 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:50.955173 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "vitae-class-suspendisse-at-primis.",
+    "modification_date": "2018/10/26 18:02:50.962234 GMT-4",
+    "language": "en",
+    "rights": "Proin risus eros gravida diam ve vulputate. Vitae fames a tempor enim fermentum tellus inceptos. Dolor class mollis id. Lorem lacus congue dui rhoncus. Dolor proin. Neque class vitae iaculis enim bibendum lacinia euismod erat bibendum a pellentesque arcu. Justo risus netus praesent diam. Vitae etiam per cubilia a. Netus class. Curae etiam montes pede taciti.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae class suspendisse at primis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 12,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./vitae-class-suspendisse-at-primis."
+}

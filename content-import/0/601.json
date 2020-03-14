@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:11.407672 GMT-4",
+    "_uid": "54c318a6a92c448b8b0ef316a1868bd6",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "massa-ipsum.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:11.456424 GMT-4",
+    "title": "Massa ipsum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Curae porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Magna vitae placerat ad tempus molestie parturient hymenaeos. Purus nulla tempus nisl eu. Fames fusce. Purus magna pretium elit ridiculus nullam. Justo donec morbi netus rutrum primis justo dapibus ve vehicula turpis. Felis fusce. Purus donec ullamcorper sagittis pretium posuere quam. Etiam massa netus a tempus tincidunt velit lorem ligula lectus hac. Proin neque eni egestas et. Class nulla nec nisi sapien. Velit dolor lobortis vestibulum mattis at magnis suscipit. Lorem fusce a rhoncus id est in fames pellentesque. Velit lorem eleifend nunc leo enim cum pellentesque tortor morbi imperdiet natoque lorem mus. Lorem massa. Class etiam. Proin curae elit posuere urna interdum platea montes. Augue justo. Magna morbi elementum vivamus est adipiscing id ridiculus condimentum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.276205 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.594883 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "vestibulum..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "massa-ipsum.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Donec morbi auctor at. Neque massa metus tempus aenean velit adipiscing diam. Massa porta primis netus interdum justo quisque nibh senectus aliquam. Purus etiam magna mollis porta. Nulla purus volutpat donec mi dolor. Felis proin. Porta nulla ornare aenean. Fusce curae. Donec class semper montes cum interdum. Fames magna habitant at. Porta neque quam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Massa ipsum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./massa-ipsum."
+}

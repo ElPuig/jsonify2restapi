@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:50.711276 GMT-4",
+    "_uid": "db1cb32b0ea74c63a18a67899e4d211b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-magna-senectus-dui-duis-sed-duis.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:50.760786 GMT-4",
+    "title": "Curae magna senectus dui duis sed duis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Etiam proin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Purus etiam. Class lacus lacinia cras eu pharetra. Fusce ipsum. Fames justo semper quis lacus. Felis porta laoreet ligula venenatis. Curae neque dolor aenean suspendisse morbi. Vitae lorem orci facilisi imperdiet. Vitae lacus. Justo netus eleifend tincidunt torquent volutpat felis. Neque vitae praesent. Porta fusce aptent dictum massa. Neque class quis cum. Donec justo class rutrum dictum est cubilia. Dolor neque feugiat varius purus curabitur eni magna. Etiam lacus accumsan dis mattis habitant habitasse. Lacus nulla neque pharetra. Dolor neque curae quis blandit at semper mi vel. Class fusce justo leo class tincidunt dui hac sollicitudin congue. Lorem felis.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "luctus..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "curae-magna-senectus-dui-duis-sed-duis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Proin morbi diam malesuada tortor. Morbi magna neque massa ligula cum. Justo massa. Massa curae leo. Massa fusce. Neque morbi massa eleifend elit dictum nam. Fames class sociis neque dapibus mattis nunc aptent amet odio congue nonummy ad phasellus. Netus lorem quam nisi leo augue vestibulum pulvinar quis sem massa curabitur placerat. Massa purus cras tellus sociis urna magnis ut commodo. Lorem netus sit nibh nec nisl. Felis fames gravida odio est quam nam conubia. Dolor curae dictum. Lorem curae elit quis neque malesuada placerat mi. Massa magna non amet mauris vel amet cras dignissim. Ipsum curae diam magnis convallis. Vitae proin leo neque conubia sapien massa interdum. Massa neque odio faucibus pretium nulla metus neque metus morbi interdum vestibulum sodales.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Curae magna senectus dui duis sed duis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./curae-magna-senectus-dui-duis-sed-duis."
+}

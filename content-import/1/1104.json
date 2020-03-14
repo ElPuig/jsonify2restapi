@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:20.393654 GMT-4",
+    "_uid": "706cd625b94a4522a1e495a616d29645",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "justo-lacus-praesent-mus-eros-leo-dolor-posuere-eget-sed.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:21.763074 GMT-4",
+    "title": "Justo lacus praesent mus eros leo dolor posuere eget sed.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus vitae turpis taciti.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Donec magna eget a. Neque nulla diam a pede ve nibh inceptos id sed sociis ipsum parturient. Dolor netus. Velit etiam venenatis sit netus convallis magna habitasse vel eni. Purus risus cubilia molestie rutrum. Lorem magna. Augue risus semper in imperdiet ve elementum ut ligula fermentum sociosqu. Magna purus. Lacus dolor ornare sollicitudin cubilia class et sapien. Etiam ipsum ornare urna phasellus ac proin ornare etiam mi. Neque felis. Nulla risus magnis nisl quis senectus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:20.399717 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:21.757727 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quare ad ea primum, si videtur; Honesta oratio, Socratica, Platonis etiam. Duo Reges: constructio interrete. Contemnit enim disserendi elegantiam, confuse loquitur. </p>\n\n<h2>Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum.</h2>\n\n<p>Idemne, quod iucunde? Expectoque quid ad id, quod quaerebam, respondeas. Quis istud possit, inquit, negare? <a href='http://loripsum.net/' target='_blank'>At hoc in eo M.</a> Aliud igitur esse censet gaudere, aliud non dolere. Rhetorice igitur, inquam, nos mavis quam dialectice disputare? Non laboro, inquit, de nomine. </p>\n\n<p>Quo modo? Ratio quidem vestra sic cogit. Ita multa dicunt, quae vix intellegam. Oratio me istius philosophi non offendit; Quis istud, quaeso, nesciebat? Erat enim Polemonis. Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. </p>\n\n<ul>\n\t<li>Cur fortior sit, si illud, quod tute concedis, asperum et vix ferendum putabit?</li>\n\t<li>Item de contrariis, a quibus ad genera formasque generum venerunt.</li>\n\t<li>Nam illud vehementer repugnat, eundem beatum esse et multis malis oppressum.</li>\n\t<li>Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.</li>\n\t<li>Nondum autem explanatum satis, erat, quid maxime natura vellet.</li>\n\t<li>Sextilio Rufo, cum is rem ad amicos ita deferret, se esse heredem Q.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua erat transfixus, hastam.</dd>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.</dd>\n\t<dt><dfn>Quid Zeno?</dfn></dt>\n\t<dd>Negare non possum.</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Quae animi affectio suum cuique tribuens atque hanc, quam dico.</dd>\n</dl>\n\n\n<ol>\n\t<li>Nemo nostrum istius generis asotos iucunde putat vivere.</li>\n\t<li>Igitur neque stultorum quisquam beatus neque sapientium non beatus.</li>\n\t<li>Is cum arderet podagrae doloribus visitassetque hominem Charmides Epicureus perfamiliaris et tristis exiret, Mane, quaeso, inquit, Charmide noster;</li>\n\t<li>Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est.</li>\n\t<li>A primo, ut opinor, animantium ortu petitur origo summi boni.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "justo-lacus-praesent-mus-eros-leo-dolor-posuere-eget-sed.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Augue fames sit morbi cubilia odio mi pellentesque aliquet per ac. Etiam ipsum. Nulla morbi diam eni in fusce ligula. Fames velit eget est eget fames habitasse bibendum risus turpis morbi per. Felis fusce quam etiam fringilla nostra a aliquam aenean cum dictum nostra est. Massa nulla senectus dis neque eget platea rhoncus duis in lorem. Lacus donec dolor integer nibh vestibulum. Massa neque magna lacinia. Lorem vitae eni purus curae gravida convallis. Ipsum netus neque nostra id phasellus velit et dui phasellus. Porta nulla massa. Vitae metus ante porta proin cursus adipiscing massa blandit. Dolor velit gravida et elit massa magna non sapien aliquam eget nam id. Lacus velit eni etiam mattis. Ipsum justo.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo lacus praesent mus eros leo dolor posuere eget sed.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./justo-lacus-praesent-mus-eros-leo-dolor-posuere-eget-sed."
+}

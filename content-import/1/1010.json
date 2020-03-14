@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:33.389728 GMT-4",
+    "_uid": "d2f65d8324e24644ac9ec3250fac2e4f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-risus-volutpat-mus-metus-fermentum-senectus-duis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:33.439730 GMT-4",
+    "title": "Fusce risus volutpat mus metus fermentum senectus duis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Risus lacus vivamus tincidunt sagittis risus mi sollicitudin semper libero ultrices porttitor aenean.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Magna morbi nunc per commodo aenean sapien curabitur placerat ut. Purus velit cras leo fringilla. Proin curae quam sem enim proin malesuada. Netus magna eget justo condimentum pharetra netus rhoncus ornare risus bibendum. Lacus ipsum aptent penatibus rutrum suscipit amet. Class augue lobortis tristique consectetuer nonummy orci est a lectus orci natoque. Lacus neque litora morbi. Netus donec cursus auctor augue. Augue nulla arcu nec cubilia. Velit class felis risus tortor porta condimentum quis sociis dui elit dictumst. Neque dolor sociosqu ve. Dolor proin. Class felis sem volutpat a pellentesque arcu. Donec proin vel porttitor vel commodo a. Nulla massa suspendisse ve. Risus neque nullam mollis viverra ac et vel orci quam curae.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.204606 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.527359 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "eni..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fusce-risus-volutpat-mus-metus-fermentum-senectus-duis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Donec proin lectus dapibus egestas eros ornare nonummy quisque ipsum sed odio eni ridiculus. Class curae sociosqu ridiculus in. Risus lacus enim ve sollicitudin gravida dignissim vel gravida. Vitae risus venenatis sociosqu inceptos sociis primis augue arcu. Dolor velit conubia dis dictum laoreet convallis. Class fusce purus dictumst ve felis porttitor tristique nunc. Porta massa. Fames velit quam hac mauris sodales et sapien quisque nostra. Magna fusce est nibh dolor gravida dictum. Curae lacus nec duis. Fames lacus. Lorem purus suscipit arcu eni dui ve tempus cum blandit neque magna imperdiet vel consectetuer. Proin purus pede a quam vestibulum nam. Proin magna morbi pretium tortor. Lorem etiam curae varius facilisi dolor magna aptent risus senectus parturient. Curae dolor sem parturient hendrerit magna mus. Class velit iaculis rhoncus auctor. Donec risus praesent dui nonummy et est ullamcorper potenti suspendisse duis enim velit laoreet. Curae massa eni etiam curae aliquam. Ipsum metus risus cubilia class quis eget per.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fusce risus volutpat mus metus fermentum senectus duis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./fusce-risus-volutpat-mus-metus-fermentum-senectus-duis."
+}

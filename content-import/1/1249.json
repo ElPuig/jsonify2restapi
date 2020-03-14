@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Apud imperitos tum illa dicta sunt, aliquid etiam coronae datum;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Habent enim et bene longam et satis litigiosam disputationem. Cave putes quicquam esse verius. Duo Reges: constructio interrete. </p>\n\n<dl>\n\t<dt><dfn>Stoici scilicet.</dfn></dt>\n\t<dd>Deprehensus omnem poenam contemnet.</dd>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Quis enim est, qui non videat haec esse in natura rerum tria?</dd>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Expressa vero in iis aetatibus, quae iam confirmatae sunt.</dd>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Ostendit pedes et pectus.</dd>\n\t<dt><dfn>Quonam, inquit, modo?</dfn></dt>\n\t<dd>Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis.</dd>\n</dl>\n\n\n<ul>\n\t<li>Bonum integritas corporis: misera debilitas.</li>\n\t<li>Atqui haec patefactio quasi rerum opertarum, cum quid quidque sit aperitur, definitio est.</li>\n\t<li>Et nemo nimium beatus est;</li>\n\t<li>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</li>\n</ul>\n\n\n<p>Quid autem habent admirationis, cum prope accesseris? Sed ad rem redeamus; Bonum valitudo: miser morbus. Res enim concurrent contrariae. Tollenda est atque extrahenda radicitus. Aliter homines, aliter philosophos loqui putas oportere? </p>\n\n<ol>\n\t<li>Quare conare, quaeso.</li>\n\t<li>Estne, quaeso, inquam, sitienti in bibendo voluptas?</li>\n\t<li>Expectoque quid ad id, quod quaerebam, respondeas.</li>\n\t<li>Primum cur ista res digna odio est, nisi quod est turpis?</li>\n</ol>\n\n\n<p>Respondeat totidem verbis. <a href='http://loripsum.net/' target='_blank'>Tum Torquatus: Prorsus, inquit, assentior;</a> Quid de Platone aut de Democrito loquar? <a href='http://loripsum.net/' target='_blank'>Summum en\u00edm bonum exposuit vacuitatem doloris;</a> Etiam beatissimum? Mihi enim satis est, ipsis non satis. </p>\n\n",
+    "creation_date": "2018/10/26 18:03:28.493125 GMT-4",
+    "imageCaption": "Justo ipsum cras metus aenean tellus massa.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-class-amet-class.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:28.854580 GMT-4",
+    "title": "Fusce class amet class.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus class vulputate lacus et curae netus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Fusce morbi augue platea pretium phasellus. Morbi felis lacus nunc sociis vestibulum senectus netus vivamus viverra bibendum. Donec velit platea ve. Justo ipsum primis dapibus odio at cum pede semper tortor leo sociis commodo semper nisi ullamcorper ve cursus maecenas. Donec lorem. Fusce etiam sit curae proin sociosqu in scelerisque et magnis a. Massa metus sapien accumsan parturient aenean elit eu urna. Fusce metus suspendisse dis pede etiam nisi porta. Nulla justo etiam nulla taciti id. Nulla proin. Risus lacus nonummy eros sagittis. Purus class. Fusce ipsum hac.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:28.497250 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:28.850688 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "fusce-class-amet-class.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Felis neque urna cum consequat nam dui sollicitudin cursus ut semper venenatis risus id. Nulla dolor aliquam nibh at metus eu. Proin justo morbi scelerisque. Lacus neque dolor orci laoreet. Netus morbi molestie fusce sociis libero etiam hymenaeos. Metus velit nec sed pellentesque massa eu porta pellentesque lorem. Augue netus dapibus ac suscipit lacinia. Netus nulla aliquam fringilla luctus sagittis etiam at. Etiam morbi vitae tellus arcu integer mi aenean placerat phasellus fames ridiculus faucibus at. Velit dolor arcu turpis posuere aenean tristique sodales metus lorem a. Metus lorem quam a urna et fusce eu. Dolor fames magna dui enim. Magna porta suspendisse habitant commodo aliquam fames ve. Metus porta augue class phasellus nascetur nostra.",
+    "_content_type_description": "text/plain",
+    "_uid": "0ed5869884b74772a9ecd7b81e237cca",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce class amet class.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 63,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./fusce-class-amet-class."
+}

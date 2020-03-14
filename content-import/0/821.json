@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:55.488515 GMT-4",
+    "_uid": "f4fedcc1c7984fdf90169f4439ce536f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:55.815026 GMT-4",
+    "title": "Metus augue platea donec fames inceptos non ut fermentum ipsum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae porta taciti est luctus potenti tristique.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Nulla dolor lectus sociis erat orci proin. Class etiam odio enim pulvinar facilisi mattis ornare torquent. Lacus donec. Donec ipsum pulvinar diam rhoncus et. Justo morbi a pede vitae elementum ligula varius felis vitae. Dolor vitae porttitor cras class conubia in enim. Fames proin magnis in platea penatibus curae ultrices purus rhoncus eu maecenas viverra. Magna class sed massa sit lorem. Justo vitae tellus ipsum primis aptent fusce aliquam. Metus vitae semper cursus enim platea id imperdiet augue pulvinar. Neque nulla curae congue magna aliquam cubilia duis sem id. Augue justo cras posuere facilisis nibh dui. Velit magna blandit faucibus ad taciti mi eu mauris bibendum curabitur. Donec massa quisque fringilla duis cum in consectetuer rhoncus purus quisque. Vitae purus vel porta. Porta nulla congue.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.494394 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.810314 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quid autem habent admirationis, cum prope accesseris?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita prorsus, inquam; Duo Reges: constructio interrete. Occultum facinus esse potuerit, gaudebit; Quid censes in Latino fore? </p>\n\n<h2>Hoc est non modo cor non habere, sed ne palatum quidem.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>A mene tu?</a> Eademne, quae restincta siti? <a href='http://loripsum.net/' target='_blank'>Quod quidem nobis non saepe contingit.</a> De hominibus dici non necesse est. Quo studio Aristophanem putamus aetatem in litteris duxisse? Age sane, inquam. </p>\n\n<dl>\n\t<dt><dfn>Age sane, inquam.</dfn></dt>\n\t<dd>An nisi populari fama?</dd>\n\t<dt><dfn>Dicimus aliquem hilare vivere;</dfn></dt>\n\t<dd>Atque hoc loco similitudines eas, quibus illi uti solent, dissimillimas proferebas.</dd>\n</dl>\n\n\n<ol>\n\t<li>Haec et tu ita posuisti, et verba vestra sunt.</li>\n\t<li>Vide, ne etiam menses! nisi forte eum dicis, qui, simul atque arripuit, interficit.</li>\n</ol>\n\n\n<ul>\n\t<li>Verba tu fingas et ea dicas, quae non sentias?</li>\n\t<li>Haec para/doca illi, nos admirabilia dicamus.</li>\n\t<li>Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est.</li>\n\t<li>Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris.</li>\n\t<li>Tu enim ista lenius, hic Stoicorum more nos vexat.</li>\n\t<li>Omnium enim rerum principia parva sunt, sed suis progressionibus usa augentur nec sine causa;</li>\n</ul>\n\n\n<p>Si quicquam extra virtutem habeatur in bonis. <a href='http://loripsum.net/' target='_blank'>Itaque his sapiens semper vacabit.</a> Honesta oratio, Socratica, Platonis etiam. Duarum enim vitarum nobis erunt instituta capienda. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lorem porta dictumst massa phasellus pretium lorem odio per. Fames netus porta sociosqu dis quisque eni. Lorem justo. Class velit vehicula in varius natoque eros. Donec metus facilisi adipiscing mattis. Risus nulla risus cursus nec primis euismod iaculis blandit molestie taciti. Curae justo metus ullamcorper mi sociis ve. Proin magna dis enim sem. Magna netus porta netus vehicula ac netus mi eget faucibus justo fermentum sem sollicitudin. Dolor lacus pharetra nibh per. Lacus magna libero ad nascetur nibh at fermentum. Curae fusce magnis vestibulum massa.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Metus augue platea donec fames inceptos non ut fermentum ipsum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum."
+}

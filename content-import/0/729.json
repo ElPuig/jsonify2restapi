@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Praeteritis, inquit, gaudeo.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Sed ego in hoc resisto;</a> Sin aliud quid voles, postea. Restinguet citius, si ardentem acceperit. Stoicos roga. </p>\n\n<h2>Eaedem res maneant alio modo.</h2>\n\n<p>Esse enim quam vellet iniquus iustus poterat inpune. Quae cum dixisset, finem ille. <a href='http://loripsum.net/' target='_blank'>Sed nimis multa.</a> Nunc haec primum fortasse audientis servire debemus. </p>\n\n<p>Duo Reges: constructio interrete. Collige omnia, quae soletis: Praesidium amicorum. Ratio quidem vestra sic cogit. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Nullus est igitur cuiusquam dies natalis. </p>\n\n<ul>\n\t<li>An hoc usque quaque, aliter in vita?</li>\n\t<li>Isto modo, ne si avia quidem eius nata non esset.</li>\n\t<li>Propter nos enim illam, non propter eam nosmet ipsos diligimus.</li>\n\t<li>Quas enim kakaw Graeci appellant, vitia malo quam malitias nominare.</li>\n\t<li>Efficiens dici potest.</li>\n\t<li>Ego vero volo in virtute vim esse quam maximam;</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Confecta res esset.</dfn></dt>\n\t<dd>Non enim iam stirpis bonum quaeret, sed animalis.</dd>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Sit hoc ultimum bonorum, quod nunc a me defenditur;</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>De ingenio eius in his disputationibus, non de moribus quaeritur.</dd>\n\t<dt><dfn>Tria genera bonorum;</dfn></dt>\n\t<dd>Etenim si delectamur, cum scribimus, quis est tam invidus, qui ab eo nos abducat?</dd>\n</dl>\n\n\n<ol>\n\t<li>Et quidem iure fortasse, sed tamen non gravissimum est testimonium multitudinis.</li>\n\t<li>Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 17:59:6.671959 GMT-4",
+    "imageCaption": "Augue donec lobortis donec a sociis quam ullamcorper eni diam nunc cubilia mus ve tempus malesuada.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "etiam-porta-nec-netus-ultricies.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:7.004427 GMT-4",
+    "title": "Etiam porta nec netus ultricies.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce ipsum eros nascetur vehicula montes posuere orci.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Curae lacus per nunc ligula dolor. Porta lacus donec lorem vitae cursus curae commodo accumsan. Nulla purus lacus hac risus nam urna sociosqu leo taciti. Lacus felis. Class porta leo duis porta id cras ve leo quis ac nisl. Fusce porta dolor nibh id nulla dolor sapien augue adipiscing. Ipsum netus. Risus justo. Purus felis dui nibh duis vulputate interdum vitae eu auctor torquent eros ligula consequat. Ipsum felis. Justo donec ornare velit vitae.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:6.675408 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:6.999933 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "etiam-porta-nec-netus-ultricies.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor lorem dictum lorem phasellus hac. Dolor etiam cras class blandit. Vitae neque natoque curabitur urna hac donec vel ridiculus. Vitae felis tellus congue proin rhoncus nunc blandit id accumsan. Vitae dolor diam sed arcu parturient. Donec porta. Nulla magna a dapibus mi congue integer egestas quam. Felis justo per laoreet. Donec risus magnis nascetur. Morbi velit ornare metus ante quam eros hendrerit. Justo donec. Morbi purus rutrum velit phasellus laoreet est ac lacus ridiculus. Class donec sodales euismod cras ac urna class. Risus velit porta mus vulputate facilisi curae primis eros ad. Risus magna platea class cum. Etiam purus etiam mus urna et consectetuer commodo quis amet. Proin lorem taciti habitasse fermentum. Massa porta.",
+    "_content_type_description": "text/plain",
+    "_uid": "e3630c3947174f719eeeeae385944d20",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Etiam porta nec netus ultricies.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 69,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./etiam-porta-nec-netus-ultricies."
+}

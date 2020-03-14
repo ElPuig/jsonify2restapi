@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Inde igitur, inquit, ordiendum est. Frater et T. Hoc Hieronymus summum bonum esse dixit. <a href='http://loripsum.net/' target='_blank'>Suo genere perveniant ad extremum;</a> Quis non odit sordidos, vanos, leves, futtiles? Duo Reges: constructio interrete. </p>\n\n<ul>\n\t<li>Summus dolor plures dies manere non potest?</li>\n\t<li>Ista ipsa, quae tu breviter: regem, dictatorem, divitem solum esse sapientem, a te quidem apte ac rotunde;</li>\n\t<li>Conferam tecum, quam cuique verso rem subicias;</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Ecce aliud simile dissimile.</a> Illi enim inter se dissentiunt. Terram, mihi crede, ea lanx et maria deprimet. <a href='http://loripsum.net/' target='_blank'>Beatus autem esse in maximarum rerum timore nemo potest.</a> </p>\n\n<p>Ea possunt paria non esse. An hoc usque quaque, aliter in vita? Tibi hoc incredibile, quod beatissimum. Venit ad extremum; Atqui reperies, inquit, in hoc quidem pertinacem; Negare non possum. Nihil illinc huc pervenit. <a href='http://loripsum.net/' target='_blank'>Dici enim nihil potest verius.</a> </p>\n\n<ol>\n\t<li>At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit;</li>\n\t<li>Nunc agendum est subtilius.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Tubulo putas dicere?</dfn></dt>\n\t<dd>Ita relinquet duas, de quibus etiam atque etiam consideret.</dd>\n\t<dt><dfn>Poterat autem inpune;</dfn></dt>\n\t<dd>Quas enim kakaw Graeci appellant, vitia malo quam malitias nominare.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 18:04:35.450668 GMT-4",
+    "imageCaption": "Porta morbi commodo neque sem cras.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-class.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:35.787551 GMT-4",
+    "title": "Lorem class.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus nulla.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Lorem augue. Lacus proin nullam fermentum adipiscing eros aptent torquent. Vitae donec etiam praesent consequat ut scelerisque eros nostra et curabitur parturient eni dolor nonummy. Proin lorem. Morbi lacus. Massa magna pede ullamcorper vivamus metus. Dolor netus. Class justo augue lacinia mollis orci eros mus nullam hac dis. Etiam justo odio iaculis ve. Donec lorem sit. Lorem morbi risus venenatis parturient quis semper. Augue fusce bibendum ve.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:35.456208 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:35.783382 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "lorem-class.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Augue purus arcu nisl dignissim tempor. Donec risus mollis. Vitae felis congue mauris. Fusce morbi. Etiam nulla dui facilisi penatibus cum accumsan. Felis neque inceptos tincidunt at magna consectetuer. Porta metus nibh lorem suspendisse molestie nibh nisl torquent. Vitae morbi eleifend est eget parturient. Curae lorem hac. Morbi nulla. Lorem nulla magna vehicula metus ad id pede et montes. Vitae class enim.",
+    "_content_type_description": "text/plain",
+    "_uid": "6557ea25159443c9bec5a17c4bcf9860",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem class.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 64,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./lorem-class."
+}

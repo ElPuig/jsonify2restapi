@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/05 10:34:40.374072 GMT-4",
+    "endDate": "2018/11/06 08:54:36.062384 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tria genera bonorum; Certe, nisi voluptatem tanti aestimaretis. Duo Reges: constructio interrete. Id Sextilius factum negabat. <a href='http://loripsum.net/' target='_blank'>Idem iste, inquam, de voluptate quid sentit?</a> Pollicetur certe. </p>\n\n<p>Hoc non est positum in nostra actione. Vide, quantum, inquam, fallare, Torquate. Eam tum adesse, cum dolor omnis absit; <a href='http://loripsum.net/' target='_blank'>Sed haec in pueris;</a> Honesta oratio, Socratica, Platonis etiam. Sed fac ista esse non inportuna; </p>\n\n<dl>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Sed fortuna fortis;</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Cum autem negant ea quicquam ad beatam vitam pertinere, rursus naturam relinquunt.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Sed quod proximum fuit non vidit.</dd>\n\t<dt><dfn>Stoicos roga.</dfn></dt>\n\t<dd>Itaque ne iustitiam quidem recte quis dixerit per se ipsam optabilem, sed quia iucunditatis vel plurimum afferat.</dd>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>Animum autem reliquis rebus ita perfecit, ut corpus;</dd>\n</dl>\n\n\n<ul>\n\t<li>Quod vestri quidem vel optime disputant, nihil opus esse eum, qui philosophus futurus sit, scire litteras.</li>\n\t<li>In qua si nihil est praeter rationem, sit in una virtute finis bonorum;</li>\n\t<li>Sunt enim quasi prima elementa naturae, quibus ubertas orationis adhiberi vix potest, nec equidem eam cogito consectari.</li>\n\t<li>Etenim semper illud extra est, quod arte comprehenditur.</li>\n\t<li>Cur igitur, cum de re conveniat, non malumus usitate loqui?</li>\n\t<li>Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat.</li>\n</ul>\n\n\n<pre>\nSin ea non neglegemus neque tamen ad finem summi boni\nreferemus, non multum ab Erilli levitate aberrabimus.\n\nQuae hic rei publicae vulnera inponebat, eadem ille sanabat.\n</pre>\n\n\n<p>Prioris generis est docilitas, memoria; Tum Triarius: Posthac quidem, inquit, audacius. <code>Quare conare, quaeso.</code> Quo studio Aristophanem putamus aetatem in litteris duxisse? Nulla erit controversia. </p>\n\n<ol>\n\t<li>Themistocles quidem, cum ei Simonides an quis alius artem memoriae polliceretur, Oblivionis, inquit, mallem.</li>\n\t<li>Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt;</li>\n\t<li>Quo modo autem optimum, si bonum praeterea nullum est?</li>\n\t<li>At certe gravius.</li>\n</ol>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:51.311405 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "69df8537fd8a438b8c84dc4ef1d252c4",
+    "expirationDate": "None",
+    "contactName": "Neque porta.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Curae fames nostra ornare.",
+    "id": "justo-ipsum-gravida-diam-ve-pharetra-fusce-id-nec-luctus-feugiat-sodales.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.381365 GMT-4",
+    "title": "Justo ipsum gravida diam ve pharetra fusce id nec luctus feugiat sodales.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Massa ipsum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Netus class per quis sed feugiat erat diam nibh. Justo velit metus lectus felis quisque mus potenti placerat lectus sociis. Felis nulla. Class velit a montes enim lectus egestas mi per habitasse eni lacinia cursus eros eu pellentesque. Morbi purus habitasse senectus tellus sapien class taciti placerat nonummy feugiat tristique orci elit. Netus etiam a nonummy at purus neque imperdiet erat. Massa velit varius risus amet nunc congue dapibus blandit quam augue velit. Dolor velit etiam nunc ultrices massa habitant cras nisl. Neque risus massa morbi nostra tempus sit rhoncus ligula. Magna velit pede faucibus maecenas quisque nonummy quam hac nibh enim eleifend. Donec proin non quis fringilla platea pharetra imperdiet.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:51.315031 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.396161 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "justo-ipsum-gravida-diam-ve-pharetra-fusce-id-nec-luctus-feugiat-sodales.",
+    "modification_date": "2018/10/26 13:51:42.381665 GMT-4",
+    "language": "en",
+    "rights": "Dolor morbi dolor pulvinar erat dignissim vehicula pede. Velit vitae interdum et montes felis habitasse turpis a pulvinar ante montes ornare. Proin donec a cras lacus aliquet elit tempus magnis. Ipsum fames. Velit lorem netus a. Donec purus scelerisque ut litora dis congue mi at consequat ad tortor dignissim. Neque velit. Class lacus sapien magna scelerisque ut. Metus felis lorem. Felis nulla volutpat adipiscing aenean. Augue neque. Augue massa aenean proin parturient ullamcorper mattis at consequat nibh urna nec magna eget.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo ipsum gravida diam ve pharetra fusce id nec luctus feugiat sodales.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/justo-ipsum-gravida-diam-ve-pharetra-fusce-id-nec-luctus-feugiat-sodales."
+}

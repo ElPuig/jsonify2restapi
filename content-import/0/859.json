@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:16.855424 GMT-4",
+    "_uid": "a946915cf6f04b55984b50fd69672254",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "lorem-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:17.186008 GMT-4",
+    "title": "Lorem augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus porta nisl posuere auctor dis sem.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Fames massa maecenas cras pede sem. Lorem metus porta cursus eget condimentum gravida. Class felis varius nunc condimentum et primis. Netus class netus lectus. Etiam metus nullam ut mi. Magna etiam sem ligula. Purus metus. Purus fames magnis convallis eu tempus lacinia feugiat porta urna est molestie. Fames justo. Dolor fames congue. Purus etiam a aliquet varius etiam ut magnis class ipsum phasellus fames.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:16.862415 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:17.181219 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Ita credo.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem adhuc; <a href='http://loripsum.net/' target='_blank'>Collige omnia, quae soletis: Praesidium amicorum.</a> Quae contraria sunt his, malane? Quo tandem modo? </p>\n\n<ul>\n\t<li>Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus.</li>\n\t<li>Quid enim ab antiquis ex eo genere, quod ad disserendum valet, praetermissum est?</li>\n\t<li>Quocirca intellegi necesse est in ipsis rebus, quae discuntur et cognoscuntur, invitamenta inesse, quibus ad discendum cognoscendumque moveamur.</li>\n\t<li>Id et fieri posse et saepe esse factum et ad voluptates percipiendas maxime pertinere.</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Ut optime, secundum naturam affectum esse possit.</a> Utram tandem linguam nescio? Duo Reges: constructio interrete. Nunc omni virtuti vitium contrario nomine opponitur. Sit hoc ultimum bonorum, quod nunc a me defenditur; Facile est hoc cernere in primis puerorum aetatulis. </p>\n\n<h2>Quacumque enim ingredimur, in aliqua historia vestigium ponimus.</h2>\n\n<p>Gloriosa ostentatio in constituendo summo bono. Quodcumque in mentem incideret, et quodcumque tamquam occurreret. Itaque ad tempus ad Pisonem omnes. Ratio quidem vestra sic cogit. Huius, Lyco, oratione locuples, rebus ipsis ielunior. </p>\n\n<ol>\n\t<li>Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam;</li>\n\t<li>Quid autem habent admirationis, cum prope accesseris?</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Non est enim vitium in oratione solum, sed etiam in moribus.</dd>\n\t<dt><dfn>Quis enim redargueret?</dfn></dt>\n\t<dd>Respondeat totidem verbis.</dd>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>Sed ad haec, nisi molestum est, habeo quae velim.</dd>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Satis est tibi in te, satis in legibus, satis in mediocribus amicitiis praesidii.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lorem-augue.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Felis lorem eget magnis enim. Augue vitae duis egestas ornare nostra hymenaeos netus. Nulla lorem dapibus pretium eleifend laoreet et. Dolor proin lobortis ve lorem hac duis cras. Felis curae. Morbi dolor justo est conubia ac primis nec platea nascetur vestibulum. Lacus fusce risus hac. Netus massa condimentum. Vitae metus maecenas per ve felis sem quis. Nulla fames nostra. Proin etiam condimentum in sapien nulla vestibulum suspendisse aenean eu varius ac in quis felis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./lorem-augue."
+}

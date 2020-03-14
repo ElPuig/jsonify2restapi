@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:53.978499 GMT-4",
+    "_uid": "0b6909e5d34e42199d4f4f010fc0b7fa",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "magna-justo-vulputate-nam-faucibus-elementum-class.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:54.314704 GMT-4",
+    "title": "Magna justo vulputate nam faucibus elementum class.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Magna massa.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Donec neque mus fusce vulputate. Neque velit elit est eu mauris lacus lobortis. Morbi lacus placerat at vitae ac ridiculus a vel ultricies. Fusce proin vel duis ac. Porta lacus proin risus fames luctus fusce ve. Justo massa. Risus netus fusce purus primis sollicitudin fringilla nulla facilisi ut luctus viverra aptent. Class nulla a nonummy varius mollis purus lacinia velit nec inceptos. Curae dolor rutrum ante quisque taciti proin aptent nisl. Metus dolor vel porta velit quam. Velit fames. Velit morbi primis ac nam mi pellentesque. Lacus metus. Etiam donec. Donec morbi sociosqu ad vel amet porta integer mollis. Proin fames. Etiam felis taciti interdum senectus lectus. Velit justo. Curae metus per duis. Netus velit arcu at pellentesque cubilia quis nam sollicitudin semper ac. Augue felis nunc suspendisse ac litora conubia mauris.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:53.983848 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:54.310128 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Sin te auctoritas commovebat, nobisne omnibus et Platoni ipsi nescio quem illum anteponebas?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si verbum sequimur, primum longius verbum praepositum quam bonum. Qualem igitur hominem natura inchoavit? Nihil enim hoc differt. Sed vos squalidius, illorum vides quam niteat oratio. </p>\n\n<dl>\n\t<dt><dfn>Quonam modo?</dfn></dt>\n\t<dd>De ingenio eius in his disputationibus, non de moribus quaeritur.</dd>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Polemoni et iam ante Aristoteli ea prima visa sunt, quae paulo ante dixi.</dd>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Quodcumque in mentem incideret, et quodcumque tamquam occurreret.</dd>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>At modo dixeras nihil in istis rebus esse, quod interesset.</dd>\n</dl>\n\n\n<p>Quid ad utilitatem tantae pecuniae? Sed quid sentiat, non videtis. Huius ego nunc auctoritatem sequens idem faciam. Qua tu etiam inprudens utebare non numquam. </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Idem adhuc; Si enim ad populum me vocas, eum. Sine ea igitur iucunde negat posse se vivere? Quae similitudo in genere etiam humano apparet. Quae diligentissime contra Aristonem dicuntur a Chryippo. Cur deinde Metrodori liberos commendas? </p>\n\n<ol>\n\t<li>At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit;</li>\n\t<li>Partim cursu et peragratione laetantur, congregatione aliae coetum quodam modo civitatis imitantur;</li>\n\t<li>Sint ista Graecorum;</li>\n\t<li>In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.</li>\n\t<li>Ergo adhuc, quantum equidem intellego, causa non videtur fuisse mutandi nominis.</li>\n</ol>\n\n\n<ul>\n\t<li>Idemque diviserunt naturam hominis in animum et corpus.</li>\n\t<li>Quid est, quod ab ea absolvi et perfici debeat?</li>\n\t<li>Et hanc quidem primam exigam a te operam, ut audias me quae a te dicta sunt refellentem.</li>\n\t<li>Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-justo-vulputate-nam-faucibus-elementum-class.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Ipsum nulla quis lacinia eni ad consectetuer luctus purus inceptos adipiscing dapibus. Nulla morbi. Lacus metus urna quis vel luctus dictum odio suspendisse non nunc adipiscing rutrum nisi libero elit. Donec nulla. Velit justo. Augue class potenti nec. Fusce netus. Porta risus molestie justo a dictum morbi fringilla suscipit. Purus massa curabitur cursus ad vel eget montes fringilla. Purus justo eni vulputate tellus inceptos sed iaculis a suspendisse. Augue neque scelerisque nascetur. Risus felis purus amet eros nascetur dis ad semper. Nulla magna sit nisl cum curae proin turpis ad ornare sodales ad. Class ipsum metus amet sodales phasellus ante pede adipiscing mauris pharetra pede iaculis. Magna nulla quam cum a mattis. Risus lorem sagittis mi scelerisque eget ligula malesuada fusce. Nulla massa. Lorem morbi eros nullam torquent odio cubilia ut ligula gravida rutrum sed. Lacus magna pulvinar mus eros urna. Augue fames urna purus condimentum.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna justo vulputate nam faucibus elementum class.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./magna-justo-vulputate-nam-faucibus-elementum-class."
+}

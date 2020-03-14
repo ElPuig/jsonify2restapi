@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:56.327647 GMT-4",
+    "_uid": "0c26eec166534da99368e7427f17cc1f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "dolor-nulla-tempor-turpis-sodales-diam-hac-a-montes-urna-erat-lacinia-at-dignissim.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:56.669971 GMT-4",
+    "title": "Dolor nulla tempor turpis sodales diam hac a montes urna erat lacinia at dignissim.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Magna morbi leo.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Augue porta tempor. Vitae nulla nascetur fames eu. Fames felis suscipit felis. Fusce proin ornare dis turpis quisque semper eget. Curae vitae. Class augue nibh mauris ad praesent maecenas. Porta etiam enim maecenas cursus nonummy ve in. Proin nulla. Curae netus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:56.333396 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:56.665508 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Hoc loco tenere se Triarius non potuit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Stoicos roga. Quid Zeno? Dat enim intervalla et relaxat. Duo Reges: constructio interrete. Si quidem, inquit, tollerem, sed relinquo. </p>\n\n<p>Ergo ita: non posse honeste vivi, nisi honeste vivatur? Pauca mutat vel plura sane; <a href='http://loripsum.net/' target='_blank'>An tu me de L.</a> Est, ut dicis, inquam. <a href='http://loripsum.net/' target='_blank'>Maximus dolor, inquit, brevis est.</a> </p>\n\n<dl>\n\t<dt><dfn>Sed fortuna fortis;</dfn></dt>\n\t<dd>Animadverti, \u00ednquam, te isto modo paulo ante ponere, et scio ab Antiocho nostro dici sic solere;</dd>\n\t<dt><dfn>Quae sequuntur igitur?</dfn></dt>\n\t<dd>Primum in nostrane potestate est, quid meminerimus?</dd>\n</dl>\n\n\n<ol>\n\t<li>Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt.</li>\n\t<li>Quae quidem sapientes sequuntur duce natura tamquam videntes;</li>\n</ol>\n\n\n<ul>\n\t<li>At hoc in eo M.</li>\n\t<li>Ut alios omittam, hunc appello, quem ille unum secutus est.</li>\n\t<li>Satis est tibi in te, satis in legibus, satis in mediocribus amicitiis praesidii.</li>\n\t<li>Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia.</li>\n\t<li>Quasi ego id curem, quid ille aiat aut neget.</li>\n</ul>\n\n\n<h2>Quam si explicavisset, non tam haesitaret.</h2>\n\n<p>Sed vos squalidius, illorum vides quam niteat oratio. Sed ea mala virtuti magnitudine obruebantur. Quae est igitur causa istarum angustiarum? Quae est igitur causa istarum angustiarum? Restinguet citius, si ardentem acceperit. Sed tamen intellego quid velit. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "dolor-nulla-tempor-turpis-sodales-diam-hac-a-montes-urna-erat-lacinia-at-dignissim.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Dolor ipsum curae taciti lectus. Neque dolor feugiat semper est egestas maecenas euismod cubilia. Fames ipsum molestie adipiscing. Donec lacus massa interdum etiam ac. Vitae class neque quisque nostra. Netus fusce odio felis aliquet dui pulvinar blandit ad. Donec netus non aenean nostra. Etiam lacus rhoncus vivamus turpis ad. Vitae netus. Dolor nulla enim facilisi fusce elementum vulputate adipiscing gravida sed. Ipsum metus accumsan ac condimentum in. Ipsum donec cubilia volutpat gravida sodales nisl sociosqu. Fusce donec cursus turpis sagittis facilisis hac potenti bibendum semper cursus sociosqu risus a. Lorem fusce orci scelerisque iaculis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor nulla tempor turpis sodales diam hac a montes urna erat lacinia at dignissim.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./dolor-nulla-tempor-turpis-sodales-diam-hac-a-montes-urna-erat-lacinia-at-dignissim."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:20.167918 GMT-4",
+    "_uid": "d26c3a0de9384987b62cacbd81eb7fdf",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-ipsum-sit-enim-sem-aptent-pede-elit.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:20.227049 GMT-4",
+    "title": "Lacus ipsum sit enim sem aptent pede elit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Nulla metus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Etiam netus. Class netus taciti cursus felis platea velit scelerisque hac. Donec netus amet cursus eu pretium pede fusce. Dolor netus amet scelerisque sed. Metus dolor sem vulputate. Purus magna morbi potenti urna eu faucibus lobortis feugiat. Porta justo lectus nibh penatibus non etiam dictum at risus. Fames felis netus erat et dignissim. Proin augue sed dolor nam eni hendrerit.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.205244 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.565584 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "phasellus..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lacus-ipsum-sit-enim-sem-aptent-pede-elit.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna justo lobortis lacus pellentesque faucibus lacus ac rutrum donec ullamcorper in. Netus neque nonummy urna faucibus. Class augue a quisque semper sed sociis. Risus netus scelerisque. Ipsum vitae curae. Lorem massa. Neque porta netus metus pulvinar quis odio nunc. Morbi porta leo cras ante cras nonummy. Dolor magna sociosqu nisi eu. Vitae netus velit duis per taciti montes. Nulla curae turpis sollicitudin venenatis metus in cursus dis. Lorem fames a. Lacus dolor. Donec ipsum. Massa fusce cum elit pede est pede enim.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lacus ipsum sit enim sem aptent pede elit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./lacus-ipsum-sit-enim-sem-aptent-pede-elit."
+}

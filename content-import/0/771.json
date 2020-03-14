@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:32.266515 GMT-4",
+    "_uid": "aa89ca3e079b4fc0aa33949ffed6c144",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "vitae-felis-primis-vestibulum-sollicitudin.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:32.593599 GMT-4",
+    "title": "Vitae felis primis vestibulum sollicitudin.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem neque a conubia ac hac elit cum class.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Purus curae conubia. Augue metus. Fusce metus ornare suspendisse metus sociis magna non. Fusce neque sed adipiscing ut eros dolor tempor netus senectus tristique. Curae neque habitant erat placerat mollis vestibulum bibendum eros. Fames purus. Fames velit. Velit justo aliquam. Donec vitae eget a nisl etiam class amet nec. Fusce ipsum habitant non. Morbi fusce a gravida semper cum viverra erat sodales commodo pretium integer. Metus etiam blandit. Nulla fames. Fames massa. Curae neque iaculis torquent dapibus justo vestibulum condimentum varius. Morbi felis augue urna imperdiet eleifend. Neque metus. Augue netus molestie eu metus at nisl venenatis ultrices.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:32.272441 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:32.588064 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Minime vero, inquit ille, consentit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Murenam te accusante defenderem. <a href='http://loripsum.net/' target='_blank'>Id est enim, de quo quaerimus.</a> Bestiarum vero nullum iudicium puto. Quid enim? Mihi enim satis est, ipsis non satis. Duo Reges: constructio interrete. </p>\n\n<p>Beatus sibi videtur esse moriens. <a href='http://loripsum.net/' target='_blank'>Quod ea non occurrentia fingunt, vincunt Aristonem;</a> Aliter enim nosmet ipsos nosse non possumus. Audeo dicere, inquit. Odium autem et invidiam facile vitabis. Erat enim Polemonis. </p>\n\n<h2>Istic sum, inquit.</h2>\n\n<p>At enim hic etiam dolore. Nam de isto magna dissensio est. Illud non continuo, ut aeque incontentae. Sed nimis multa. </p>\n\n<ol>\n\t<li>An est aliquid, quod te sua sponte delectet?</li>\n\t<li>Non est ista, inquam, Piso, magna dissensio.</li>\n\t<li>Praeclare, inquit, facis, cum et eorum memoriam tenes, quorum uterque tibi testamento liberos suos commendavit, et puerum diligis.</li>\n\t<li>Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere.</li>\n\t<li>Nec tamen ille erat sapiens quis enim hoc aut quando aut ubi aut unde?</li>\n</ol>\n\n\n<ul>\n\t<li>Et quod est munus, quod opus sapientiae?</li>\n\t<li>Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers?</li>\n\t<li>Non enim quaero quid verum, sed quid cuique dicendum sit.</li>\n\t<li>Illis videtur, qui illud non dubitant bonum dicere -;</li>\n\t<li>Eadem fortitudinis ratio reperietur.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Illa videamus, quae a te de amicitia dicta sunt.</dd>\n\t<dt><dfn>Iam contemni non poteris.</dfn></dt>\n\t<dd>Cui Tubuli nomen odio non est?</dd>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.</dd>\n\t<dt><dfn>Sullae consulatum?</dfn></dt>\n\t<dd>Ut optime, secundum naturam affectum esse possit.</dd>\n\t<dt><dfn>Pugnant Stoici cum Peripateticis.</dfn></dt>\n\t<dd>Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat.</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>Illis videtur, qui illud non dubitant bonum dicere -;</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "vitae-felis-primis-vestibulum-sollicitudin.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Velit nulla felis aenean. Massa morbi risus nisi tempus. Fames justo a arcu velit curae nec nibh gravida integer. Purus fusce cras quam morbi sapien cras id vitae. Velit vitae cubilia nulla ut donec at nec cras parturient. Felis lorem. Vitae etiam lacus vel rutrum. Felis netus eni donec ligula elit curabitur pellentesque vestibulum quis. Vitae dolor. Class fusce rhoncus placerat egestas congue mus dictum praesent massa neque. Class curae pretium ornare dui adipiscing.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae felis primis vestibulum sollicitudin.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./vitae-felis-primis-vestibulum-sollicitudin."
+}

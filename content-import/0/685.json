@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:51.558151 GMT-4",
+    "_uid": "879a14c892a74ba4a7dc19a8785ca070",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "ipsum-lorem-mattis-ac-sit-arcu.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:51.609514 GMT-4",
+    "title": "Ipsum lorem mattis ac sit arcu.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Ipsum metus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Nulla massa faucibus fermentum montes ut nam massa. Etiam velit tortor sem tortor inceptos venenatis vel. Fames vitae lacus commodo tempor sem. Lorem netus pretium sapien felis scelerisque mus in placerat gravida congue. Dolor nulla. Curae porta velit netus sem ipsum vestibulum. Massa nulla. Morbi augue natoque tellus nisi fringilla dictum. Magna proin diam felis amet id. Dolor fusce augue orci justo massa eros duis eleifend. Fames donec. Etiam lacus odio dapibus eu arcu faucibus dui urna in senectus erat non dapibus. Nulla proin. Magna metus. Fusce vitae. Purus proin aptent et placerat per taciti elit egestas at eu.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "a..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "ipsum-lorem-mattis-ac-sit-arcu.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Augue massa aenean odio diam eni cursus a lacinia nostra vulputate. Vitae netus magnis sociosqu scelerisque suscipit pretium rhoncus mauris etiam. Lorem etiam mollis ante. Ipsum massa dui mollis cursus. Morbi velit metus mauris. Neque fusce congue felis dapibus cubilia hymenaeos ante nonummy et tempor litora class. Nulla ipsum ultrices nulla aliquet cras a dolor iaculis. Ipsum metus nonummy ad. Nulla porta cubilia dapibus ante ad quis sagittis suspendisse bibendum. Vitae proin vitae conubia nisl dui commodo arcu. Nulla dolor feugiat nibh potenti risus ad quis facilisi. Neque purus. Fames felis nascetur metus consequat vulputate proin vivamus sed urna. Curae lacus. Risus velit neque auctor mattis elementum sociosqu morbi et nullam molestie commodo conubia convallis ultrices. Velit lacus cum etiam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Ipsum lorem mattis ac sit arcu.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 25,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./ipsum-lorem-mattis-ac-sit-arcu."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:58.371965 GMT-4",
+    "_uid": "8321013fd7b9467480f6114f7505e313",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:58.700207 GMT-4",
+    "title": "Curae felis mollis condimentum lorem vulputate interdum at per.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque fames.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Ipsum vitae curae cursus. Risus neque ornare mauris gravida tempor eu elit purus. Vitae neque sapien per quis vestibulum cursus. Etiam class orci odio tincidunt ligula a. Magna massa enim curae ve mus condimentum posuere. Purus velit. Lacus purus conubia at elit proin litora pellentesque vulputate class ut risus ornare luctus tincidunt id malesuada fermentum. Morbi dolor lobortis. Justo netus. Donec felis. Felis vitae sit eros imperdiet. Metus felis tempor lacus class inceptos odio et elementum habitasse. Felis velit ullamcorper ve lectus mi. Nulla dolor fames.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.377699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.696020 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Ea possunt paria non esse.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Immo alio genere; Eadem fortitudinis ratio reperietur. Sed fortuna fortis; At iste non dolendi status non vocatur voluptas. </p>\n\n<dl>\n\t<dt><dfn>Idem adhuc;</dfn></dt>\n\t<dd>Nam si amitti vita beata potest, beata esse non potest.</dd>\n\t<dt><dfn>Haec dicuntur inconstantissime.</dfn></dt>\n\t<dd>Itaque hic ipse iam pridem est reiectus;</dd>\n\t<dt><dfn>In schola desinis.</dfn></dt>\n\t<dd>Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae.</dd>\n\t<dt><dfn>Scrupulum, inquam, abeunti;</dfn></dt>\n\t<dd>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali.</dd>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Quibus autem in rebus tanta obscuratio non fit, fieri tamen potest, ut id ipsum, quod interest, non sit magnum.</dd>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Ita finis bonorum existit secundum naturam vivere sic affectum, ut optime is affici possit ad naturamque accommodatissime.</dd>\n</dl>\n\n\n<h3>Idem adhuc;</h3>\n\n<p>Videsne quam sit magna dissensio? Duo enim genera quae erant, fecit tria. Negat enim summo bono afferre incrementum diem. Quae sequuntur igitur? Itaque contra est, ac dicitis; </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Hos contra singulos dici est melius. Quod vestri non item. Contineo me ab exemplis. Sed quae tandem ista ratio est? De hominibus dici non necesse est. Quae cum dixisset paulumque institisset, Quid est? Videmus igitur ut conquiescere ne infantes quidem possint. Erat enim Polemonis. </p>\n\n<ul>\n\t<li>Videmus in quodam volucrium genere non nulla indicia pietatis, cognitionem, memoriam, in multis etiam desideria videmus.</li>\n\t<li>Minime id quidem, inquam, alienum, multumque ad ea, quae quaerimus, explicatio tua ista profecerit.</li>\n\t<li>Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere.</li>\n\t<li>Theophrastus mediocriterne delectat, cum tractat locos ab Aristotele ante tractatos?</li>\n</ul>\n\n\n<ol>\n\t<li>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</li>\n\t<li>Est autem a te semper dictum nec gaudere quemquam nisi propter corpus nec dolere.</li>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n\t<li>Qua tu etiam inprudens utebare non numquam.</li>\n\t<li>Totum autem id externum est, et quod externum, id in casu est.</li>\n\t<li>Non modo carum sibi quemque, verum etiam vehementer carum esse?</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Felis nulla. Purus etiam dolor auctor aptent nascetur nunc accumsan. Justo vitae. Neque dolor facilisis duis ullamcorper et sapien vitae praesent sit nibh pharetra non. Curae porta netus condimentum. Curae purus vitae habitant ut augue porttitor. Porta massa nam diam pulvinar. Donec etiam nullam augue cubilia cum dapibus mi quam proin ad montes. Fusce risus tempus ornare mus vestibulum ridiculus condimentum nulla. Purus vitae netus habitant. Augue porta diam per penatibus eni gravida nascetur et tortor pede. Nulla class nisl ipsum scelerisque nec. Fusce metus dapibus elit diam vehicula aenean. Netus etiam tortor. Morbi neque aenean velit adipiscing volutpat neque tristique vehicula mi risus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae felis mollis condimentum lorem vulputate interdum at per.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per."
+}

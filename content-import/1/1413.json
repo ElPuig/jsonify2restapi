@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:05:10.026852 GMT-4",
+    "_uid": "039ba4fa03404ef497b0d259214e2949",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "magna-purus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:05:10.367823 GMT-4",
+    "title": "Magna purus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam nulla eros at magna convallis vivamus metus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Augue fusce sociis cras in ultricies malesuada lacus ve phasellus a fames. Proin class pulvinar magna pellentesque ipsum ac rutrum nec amet dapibus. Metus donec a quisque. Porta vitae. Morbi curae cursus libero phasellus integer mauris augue. Ipsum metus dapibus consequat. Proin nulla. Magna massa. Donec fusce mus nullam interdum ullamcorper hac in. Donec netus dictum at sapien gravida pede at convallis augue phasellus pharetra nisi. Velit risus laoreet cum mi lobortis sed cras leo. Velit neque. Proin purus class magna curae proin facilisi. Porta class eros id pede feugiat dolor sem gravida ut turpis torquent maecenas sociis. Etiam proin elit penatibus nullam. Curae risus tempor ipsum nisi ullamcorper sodales. Morbi lorem vel proin integer.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:10.032899 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:10.362680 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Sed utrum hortandus es nobis, Luci, inquit, an etiam tua sponte propensus es?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illud non continuo, ut aeque incontentae. Istic sum, inquit. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> An tu me de L. Id est enim, de quo quaerimus. Primum quid tu dicis breve? </p>\n\n<p>Sed ea mala virtuti magnitudine obruebantur. Tecum optime, deinde etiam cum mediocri amico. Si enim ad populum me vocas, eum. </p>\n\n<ol>\n\t<li>Quae hic rei publicae vulnera inponebat, eadem ille sanabat.</li>\n\t<li>Semovenda est igitur voluptas, non solum ut recta sequamini, sed etiam ut loqui deceat frugaliter.</li>\n</ol>\n\n\n<ul>\n\t<li>In qua si nihil est praeter rationem, sit in una virtute finis bonorum;</li>\n\t<li>An est aliquid per se ipsum flagitiosum, etiamsi nulla comitetur infamia?</li>\n\t<li>Negat esse eam, inquit, propter se expetendam.</li>\n\t<li>Portenta haec esse dicit, neque ea ratione ullo modo posse vivi;</li>\n\t<li>Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus;</li>\n\t<li>Iam in altera philosophiae parte.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Tum Lucius: Mihi vero ista valde probata sunt, quod item fratri puto.</dd>\n\t<dt><dfn>Summae mihi videtur inscitiae.</dfn></dt>\n\t<dd>Nihil enim arbitror esse magna laude dignum, quod te praetermissurum credam aut mortis aut doloris metu.</dd>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur.</dd>\n\t<dt><dfn>At certe gravius.</dfn></dt>\n\t<dd>Ita multo sanguine profuso in laetitia et in victoria est mortuus.</dd>\n</dl>\n\n\n<p>Cur post Tarentum ad Archytam? <a href='http://loripsum.net/' target='_blank'>Negare non possum.</a> Terram, mihi crede, ea lanx et maria deprimet. Etenim semper illud extra est, quod arte comprehenditur. An potest cupiditas finiri? Negat esse eam, inquit, propter se expetendam. <a href='http://loripsum.net/' target='_blank'>Sed quid sentiat, non videtis.</a> Nam ista vestra: Si gravis, brevis; </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-purus.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lorem netus odio eros ultricies libero nisi ullamcorper eu ornare praesent netus. Purus proin netus sociosqu venenatis sociis magna scelerisque placerat etiam. Risus class lobortis odio eget inceptos lorem eni. Class purus odio penatibus malesuada lacus fames non blandit. Donec porta duis convallis non dictumst. Fames massa. Etiam vitae. Dolor risus mauris sociis placerat tincidunt at hymenaeos cubilia fusce neque. Massa morbi lacus donec justo magnis mollis curae hendrerit quam scelerisque potenti ullamcorper eget nullam ve semper venenatis vehicula.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna purus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel./magna-purus."
+}

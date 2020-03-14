@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:33.608791 GMT-4",
+    "_uid": "7b79e019d3704d1eafaa37f01b2e4ede",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "neque-ipsum-est-ante-morbi-dui-curae-eni-duis.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:33.940527 GMT-4",
+    "title": "Neque ipsum est ante morbi dui curae eni duis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque donec egestas ve pede sapien orci at pellentesque aliquet.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Neque curae sit urna vel sollicitudin class et. Vitae massa ullamcorper sociosqu vivamus. Augue dolor ornare neque torquent neque at mattis integer arcu. Donec risus nunc ve arcu viverra mi rutrum. Morbi vitae est neque adipiscing. Fames vitae cubilia. Felis justo libero pellentesque. Justo dolor dictum lectus posuere nisi laoreet lorem purus. Etiam nulla a feugiat id auctor lacinia ut arcu at. Metus magna non. Etiam netus molestie lacus at duis sociosqu dolor mauris tortor aliquam aliquet.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:33.614400 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:33.935364 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Duarum enim vitarum nobis erunt instituta capienda.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id Sextilius factum negabat. Tamen a proposito, inquam, aberramus. <a href='http://loripsum.net/' target='_blank'>Esse enim, nisi eris, non potes.</a> Sed quot homines, tot sententiae; Estne, quaeso, inquam, sitienti in bibendo voluptas? Invidiosum nomen est, infame, suspectum. </p>\n\n<p>Scrupulum, inquam, abeunti; Si mala non sunt, iacet omnis ratio Peripateticorum. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Ecce aliud simile dissimile. Nunc de hominis summo bono quaeritur; Immo videri fortasse. </p>\n\n<ol>\n\t<li>Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias.</li>\n\t<li>Quid, si reviviscant Platonis illi et deinceps qui eorum auditores fuerunt, et tecum ita loquantur?</li>\n\t<li>Superiores tres erant, quae esse possent, quarum est una sola defensa, eaque vehementer.</li>\n</ol>\n\n\n<ul>\n\t<li>Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis.</li>\n\t<li>Non pugnem cum homine, cur tantum habeat in natura boni;</li>\n\t<li>Non laboro, inquit, de nomine.</li>\n\t<li>Videamus animi partes, quarum est conspectus illustrior;</li>\n\t<li>Putabam equidem satis, inquit, me dixisse.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>\n\t<dd>Longum est enim ad omnia respondere, quae a te dicta sunt.</dd>\n\t<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>\n\t<dd>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</dd>\n</dl>\n\n\n<p>Duo Reges: constructio interrete. Restatis igitur vos; Praeclare hoc quidem. Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres. Quia dolori non voluptas contraria est, sed doloris privatio. Recte, inquit, intellegis. Quid est, quod ab ea absolvi et perfici debeat? Dici enim nihil potest verius. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "neque-ipsum-est-ante-morbi-dui-curae-eni-duis.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Magna risus senectus leo. Porta velit penatibus. Proin fames. Lacus ipsum tempor fringilla dictum inceptos placerat. Lacus morbi. Ipsum morbi purus sit orci leo sit eni lacinia. Augue massa. Neque vitae. Etiam justo sagittis. Metus dolor auctor nulla est porta tellus pellentesque dapibus sem nibh. Purus dolor facilisis pulvinar et tellus orci risus ante suspendisse ut aenean mi eget. Dolor proin mollis nulla orci netus scelerisque volutpat dapibus mollis eni diam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Neque ipsum est ante morbi dui curae eni duis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./neque-ipsum-est-ante-morbi-dui-curae-eni-duis."
+}

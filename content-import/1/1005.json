@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:32.312898 GMT-4",
+    "_uid": "a916a5f8539048be92756e386dadff63",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "massa-dolor-lectus-sociis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:32.361910 GMT-4",
+    "title": "Massa dolor lectus sociis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Lorem proin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Lacus morbi. Curae etiam. Netus justo est. Netus dolor iaculis montes ve mollis a nascetur cum. Morbi metus. Nulla fusce metus laoreet nulla nunc nisl. Proin nulla dictum vestibulum felis. Felis fames. Morbi lorem auctor parturient morbi cubilia massa leo curae. Fusce netus nostra erat mattis ac sapien nulla cubilia in vulputate morbi malesuada. Felis massa quis viverra mi id metus cum donec. Curae augue rutrum magnis facilisis tortor habitant porta. Nulla magna quam proin tellus ve magna dolor nam rutrum ac aliquam ut. Magna proin curae risus diam in nulla. Fusce lacus natoque commodo urna arcu dolor nonummy euismod lacus. Morbi augue urna.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.204606 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.527359 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "lorem..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "massa-dolor-lectus-sociis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla proin enim scelerisque pretium leo inceptos. Fusce dolor a nisl adipiscing magnis nec iaculis sapien metus. Velit etiam. Neque augue tortor ve. Purus metus dictum vestibulum faucibus nulla leo parturient elementum eget eros venenatis. Etiam fusce luctus per taciti. Vitae nulla torquent penatibus mi fermentum nulla odio integer. Lorem purus. Felis nulla dictum felis condimentum hac. Curae fames cubilia est eu odio mollis curabitur. Massa curae risus cursus primis faucibus phasellus. Justo dolor varius pellentesque. Curae velit dolor augue posuere sociosqu congue turpis. Nulla fames leo elit lorem vitae dolor habitant nulla hac amet. Massa neque leo nisl congue ut mollis. Justo dolor bibendum et metus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Massa dolor lectus sociis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./massa-dolor-lectus-sociis."
+}

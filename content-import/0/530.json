@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:35.301038 GMT-4",
+    "_uid": "fb27af5ac1ff4a6fbddbe10c1056b4e3",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "felis-neque.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:35.632393 GMT-4",
+    "title": "Felis neque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus felis commodo.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Dolor massa class odio. Felis fusce sodales aenean lorem suspendisse volutpat urna in ligula ac. Metus magna dignissim lectus per gravida at ve. Magna porta volutpat ante pulvinar quisque consectetuer dignissim aenean. Porta lorem rutrum hac quisque. Dolor curae ipsum blandit cum. Vitae class sociosqu fames orci integer elementum. Curae velit integer. Donec metus primis adipiscing sollicitudin conubia fusce eni class imperdiet sem cubilia cum parturient. Donec fames platea nonummy ut lorem ve porttitor quam. Nulla fusce non orci amet nam in mollis quisque aliquam auctor lacus suscipit. Fames morbi magnis parturient pellentesque viverra non ante. Porta etiam ultrices mus ac nulla vulputate imperdiet. Fusce purus. Dolor ipsum lacinia risus est nisi velit hymenaeos donec fermentum. Etiam proin magna ultrices neque facilisi. Risus class a.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:35.306645 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:35.627391 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tuo vero id quidem, inquam, arbitratu. Putabam equidem satis, inquit, me dixisse. Hoc enim constituto in philosophia constituta sunt omnia. Urgent tamen et nihil remittunt. </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Nam ista vestra: Si gravis, brevis; Quibusnam praeteritis? Laboro autem non sine causa; Summum en\u00edm bonum exposuit vacuitatem doloris; Pauca mutat vel plura sane; Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur. Omnia contraria, quos etiam insanos esse vultis. </p>\n\n<h3>Quid de Pythagora?</h3>\n\n<p>Cur iustitia laudatur? <a href='http://loripsum.net/' target='_blank'>Pauca mutat vel plura sane;</a> <a href='http://loripsum.net/' target='_blank'>Si longus, levis;</a> Primum Theophrasti, Strato, physicum se voluit; Videamus animi partes, quarum est conspectus illustrior; Erat enim Polemonis. </p>\n\n<dl>\n\t<dt><dfn>Ita credo.</dfn></dt>\n\t<dd>Quae iam oratio non a philosopho aliquo, sed a censore opprimenda est.</dd>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.</dd>\n\t<dt><dfn>At certe gravius.</dfn></dt>\n\t<dd>Minime vero istorum quidem, inquit.</dd>\n\t<dt><dfn>Contineo me ab exemplis.</dfn></dt>\n\t<dd>Tum Quintus: Est plane, Piso, ut dicis, inquit.</dd>\n</dl>\n\n\n<ul>\n\t<li>Sed tu istuc dixti bene Latine, parum plane.</li>\n\t<li>Vides igitur, si amicitiam sua caritate metiare, nihil esse praestantius, sin emolumento, summas familiaritates praediorum fructuosorum mercede superari.</li>\n\t<li>Nec vero alia sunt quaerenda contra Carneadeam illam sententiam.</li>\n\t<li>Hic Speusippus, hic Xenocrates, hic eius auditor Polemo, cuius illa ipsa sessio fuit, quam videmus.</li>\n\t<li>Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur.</li>\n</ul>\n\n\n<ol>\n\t<li>Semper enim ex eo, quod maximas partes continet latissimeque funditur, tota res appellatur.</li>\n\t<li>Earum etiam rerum, quas terra gignit, educatio quaedam et perfectio est non dissimilis animantium.</li>\n\t<li>Sed quanta sit alias, nunc tantum possitne esse tanta.</li>\n\t<li>Erit enim instructus ad mortem contemnendam, ad exilium, ad ipsum etiam dolorem.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "felis-neque.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Class donec integer eni pulvinar habitasse. Augue proin sociis rutrum mi. Massa lacus dictumst porta cum ipsum tristique faucibus at netus at mattis eu dis. Massa fames vitae placerat nisi sociis euismod cum molestie sodales augue vestibulum. Porta fames aenean magnis vehicula nisi. Justo lorem curabitur. Vitae felis dolor ipsum platea litora eni ac massa auctor platea diam ac eget ac consectetuer duis. Nulla magna ipsum varius imperdiet pretium aenean et sociosqu semper diam facilisis. Dolor velit nisl sed commodo inceptos. Magna metus. Vitae augue nostra ipsum velit litora. Lacus ipsum. Fusce justo arcu proin sapien lectus habitant est mi quis. Nulla dolor maecenas per quam molestie laoreet. Augue fusce ultricies habitasse vestibulum. Etiam metus semper aptent fames molestie ad massa litora at sociosqu aptent. Purus metus mauris curae sed adipiscing parturient ad. Purus metus magnis et. Donec lorem commodo erat sed quam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Felis neque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./felis-neque."
+}

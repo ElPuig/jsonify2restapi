@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:23.119786 GMT-4",
+    "_uid": "3d42a6178c774d4fbdc409fb59759c33",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "felis-velit-cras-integer-mi-facilisi-mollis-magnis-eros.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:23.451167 GMT-4",
+    "title": "Felis velit cras integer mi facilisi mollis magnis eros.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce morbi vivamus nonummy massa metus congue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Felis netus. Velit fusce quis iaculis curae nulla suspendisse torquent erat pulvinar pellentesque mauris ut. Class netus luctus fames felis leo diam libero sociis id neque. Justo lacus litora torquent justo eros aenean id accumsan feugiat. Etiam proin varius. Proin ipsum praesent odio nunc. Dolor felis lorem rutrum. Felis metus erat penatibus sed eros conubia eu nascetur blandit etiam. Felis metus curae pharetra fames duis mollis semper. Fames purus taciti. Purus class egestas magnis.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:23.125870 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:23.446615 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quid, de quo nulla dissensio est?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Certe non potest. Aliter enim explicari, quod quaeritur, non potest. </p>\n\n<h2>Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta.</h2>\n\n<p>Eademne, quae restincta siti? Memini me adesse P. Quo igitur, inquit, modo? Negat esse eam, inquit, propter se expetendam. </p>\n\n<p>Duo Reges: constructio interrete. Ego vero volo in virtute vim esse quam maximam; Ego vero isti, inquam, permitto. <a href='http://loripsum.net/' target='_blank'>Haec quo modo conveniant, non sane intellego.</a> <a href='http://loripsum.net/' target='_blank'>Id enim natura desiderat.</a> </p>\n\n<ul>\n\t<li>Itaque sensibus rationem adiunxit et ratione effecta sensus non reliquit.</li>\n\t<li>Princeps huius civitatis Phalereus Demetrius cum patria pulsus esset iniuria, ad Ptolomaeum se regem Alexandream contulit.</li>\n\t<li>Conferam tecum, quam cuique verso rem subicias;</li>\n</ul>\n\n\n<ol>\n\t<li>Haec para/doca illi, nos admirabilia dicamus.</li>\n\t<li>Hoc non est positum in nostra actione.</li>\n\t<li>Apud ceteros autem philosophos, qui quaesivit aliquid, tacet;</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Quamquam te quidem video minime esse deterritum.</dd>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "felis-velit-cras-integer-mi-facilisi-mollis-magnis-eros.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Morbi proin ante orci pretium id nisi posuere etiam nibh cubilia quam ve. Lorem metus mattis scelerisque ipsum ligula neque habitant. Justo fames interdum quam lectus dui et lacus et mauris. Etiam netus risus sapien mi ultrices. Felis neque ipsum volutpat massa nonummy blandit. Risus lorem integer fusce justo nonummy amet fusce. Velit lorem. Augue etiam nullam proin nostra nulla vestibulum suscipit cras elit. Ipsum vitae potenti aenean ad quis lorem velit augue. Netus lorem blandit. Ipsum lacus taciti nisi sollicitudin vehicula. Etiam donec duis amet arcu varius. Ipsum augue phasellus lectus. Porta felis mauris vestibulum massa aliquam placerat. Magna purus maecenas quis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Felis velit cras integer mi facilisi mollis magnis eros.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./felis-velit-cras-integer-mi-facilisi-mollis-magnis-eros."
+}

@@ -1,0 +1,77 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:19.682771 GMT-4",
+    "_uid": "e17836587e22432d8b44317b0c513276",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-porta-neque-semper-dapibus-egestas-dictum-ad-nostra.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:19.735694 GMT-4",
+    "title": "Dolor porta neque semper dapibus egestas dictum ad nostra.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Netus etiam nulla quam purus nulla etiam odio.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fames nulla eleifend nisl lectus. Felis etiam tempus laoreet malesuada vehicula donec. Vitae felis sociis tellus cum ligula. Lorem vitae. Donec morbi leo eget sit nulla convallis elementum duis non tellus. Neque lorem porta proin nec interdum ridiculus etiam in lectus bibendum. Magna donec massa enim commodo ve. Augue dolor. Massa metus ligula. Proin lorem ligula purus augue condimentum placerat hendrerit volutpat. Curae fames cras scelerisque. Purus neque vel pharetra penatibus consectetuer gravida curae in et fusce. Proin netus platea habitasse adipiscing commodo diam. Porta morbi egestas nunc eu placerat gravida. Vitae fames felis litora dictum morbi euismod enim at per fames diam est erat varius. Nulla purus. Porta fusce platea. Netus dolor fames pede natoque ad praesent quis non sollicitudin eu pretium. Curae morbi. Nulla ipsum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "netus..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "dolor-porta-neque-semper-dapibus-egestas-dictum-ad-nostra.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Netus fusce inceptos eget semper nostra ad. Porta velit senectus vestibulum mollis. Morbi fames elit ultrices. Netus metus nisl scelerisque leo. Donec dolor nam urna. Felis proin dictum ut. Vitae morbi. Velit purus quam. Justo risus tellus parturient vehicula diam congue rhoncus. Vitae augue cum curae penatibus est morbi ligula. Lorem etiam. Ipsum augue. Ipsum neque mus lorem convallis vulputate. Massa dolor per nisi egestas id netus vulputate. Neque magna eni. Felis fusce lobortis tristique duis. Lorem metus scelerisque enim arcu dis eget porta curabitur fusce volutpat. Velit etiam augue cum nisi sem curae eros.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Dolor porta neque semper dapibus egestas dictum ad nostra.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/dolor-porta-neque-semper-dapibus-egestas-dictum-ad-nostra."
+}

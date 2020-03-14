@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Poterat autem inpune; Scrupulum, inquam, abeunti; Sed haec nihil sane ad rem; </p>\n\n<p>Deinde disputat, quod cuiusque generis animantium statui deceat extremum. Iam enim adesse poterit. Mihi enim satis est, ipsis non satis. Multoque hoc melius nos veriusque quam Stoici. Tu quidem reddes; Quid, de quo nulla dissensio est? </p>\n\n<ul>\n\t<li>Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis vitia posuisse contraria.</li>\n\t<li>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</li>\n\t<li>Materiam vero rerum et copiam apud hos exilem, apud illos uberrimam reperiemus.</li>\n\t<li>Beatus autem esse in maximarum rerum timore nemo potest.</li>\n\t<li>Nam si beatus umquam fuisset, beatam vitam usque ad illum a Cyro extructum rogum pertulisset.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Moriatur, inquit.</dfn></dt>\n\t<dd>Claudii libidini, qui tum erat summo ne imperio, dederetur.</dd>\n\t<dt><dfn>At enim sequor utilitatem.</dfn></dt>\n\t<dd>Illa argumenta propria videamus, cur omnia sint paria peccata.</dd>\n</dl>\n\n\n<ol>\n\t<li>Causa autem fuit huc veniendi ut quosdam hinc libros promerem.</li>\n\t<li>Cave putes quicquam esse verius.</li>\n\t<li>Hosne igitur laudas et hanc eorum, inquam, sententiam sequi nos censes oportere?</li>\n\t<li>At coluit ipse amicitias.</li>\n\t<li>An quod ita callida est, ut optime possit architectari voluptates?</li>\n\t<li>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos.</li>\n</ol>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Tum mihi Piso: Quid ergo? Quis enim redargueret? Tanta vis admonitionis inest in locis; </p>\n\n",
+    "creation_date": "2018/10/26 18:00:26.776382 GMT-4",
+    "imageCaption": "Velit justo mollis.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-ipsum-eros-feugiat-ve-sit-nisl-dui-potenti-velit-magna-class-nascetur-amet-posuere-et.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:27.103569 GMT-4",
+    "title": "Curae ipsum eros feugiat ve sit nisl dui potenti velit magna class nascetur amet posuere et.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus vitae sit tortor pharetra velit etiam mauris massa dolor.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Fusce felis nonummy et sagittis. Dolor nulla varius nostra lorem parturient enim. Porta vitae mattis auctor per ornare diam nibh nec viverra sem. Augue lacus. Massa magna a arcu adipiscing ridiculus condimentum non sociis enim. Magna netus vehicula phasellus a class. Augue purus netus dolor curae velit aenean senectus erat accumsan. Magna fames tortor quis malesuada in tortor a. Ipsum lacus cubilia platea elit. Justo etiam euismod eu malesuada venenatis.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:26.780135 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:27.100067 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "curae-ipsum-eros-feugiat-ve-sit-nisl-dui-potenti-velit-magna-class-nascetur-amet-posuere-et.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fames magna ligula. Porta magna ipsum a ornare. Curae massa cum enim cursus eu. Justo purus sodales sit habitasse quisque. Fusce justo. Lacus velit erat elit hac curae magna. Netus lacus quam a amet etiam luctus augue aliquet cum torquent. Neque porta diam dolor eu ipsum turpis. Curae fusce. Nulla risus aenean. Ipsum class. Morbi etiam justo dictum molestie convallis enim euismod. Massa curae litora rutrum vel tellus. Risus etiam.",
+    "_content_type_description": "text/plain",
+    "_uid": "67a1ce755afe422f8d017554abce203d",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae ipsum eros feugiat ve sit nisl dui potenti velit magna class nascetur amet posuere et.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 65,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./curae-ipsum-eros-feugiat-ve-sit-nisl-dui-potenti-velit-magna-class-nascetur-amet-posuere-et."
+}

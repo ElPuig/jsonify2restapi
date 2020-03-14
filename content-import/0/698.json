@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:56.318857 GMT-4",
+    "_uid": "013f0ad50b5647d59eca16ad3879bf2b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "proin-felis-neque-lacinia-congue-at-in-imperdiet-euismod-nec-ve.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:56.657074 GMT-4",
+    "title": "Proin felis neque lacinia congue at in imperdiet euismod nec ve.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor morbi sociis parturient vitae iaculis amet fusce potenti pulvinar conubia laoreet varius.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Magna metus libero. Vitae dolor est. Nulla class metus nam urna lobortis nec at litora neque. Porta risus orci cras porta consequat magna at leo quam. Nulla proin diam netus varius eu platea vivamus feugiat nibh. Ipsum fusce lacinia placerat varius. Dolor netus donec rutrum. Dolor curae lectus semper cum leo hac cubilia id placerat. Ipsum augue vehicula est diam vulputate venenatis parturient nunc augue. Velit etiam taciti tempus augue. Ipsum class sociosqu vel ve eleifend. Vitae lorem est varius ac. Neque class. Massa purus a viverra id ac. Netus risus inceptos ipsum in proin dictum amet fringilla ornare platea lacinia aliquam nunc. Augue purus amet egestas quis nunc cum vitae arcu dis.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:56.326238 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:56.651562 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Duo Reges: constructio interrete.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Stoicos roga. Et ille ridens: Video, inquit, quid agas; Avaritiamne minuis? Quis negat? </p>\n\n<p>Quid igitur, inquit, eos responsuros putas? Quis enim redargueret? <a href='http://loripsum.net/' target='_blank'>Quae contraria sunt his, malane?</a> </p>\n\n<ol>\n\t<li>At quicum ioca seria, ut dicitur, quicum arcana, quicum occulta omnia?</li>\n\t<li>Tum Quintus: Est plane, Piso, ut dicis, inquit.</li>\n\t<li>Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere.</li>\n\t<li>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</li>\n\t<li>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim.</li>\n\t<li>Commentarios quosdam, inquam, Aristotelios, quos hic sciebam esse, veni ut auferrem, quos legerem, dum essem otiosus;</li>\n\t<li>At quicum ioca seria, ut dicitur, quicum arcana, quicum occulta omnia?</li>\n</ol>\n\n\n<ul>\n\t<li>Sed haec ab Antiocho, familiari nostro, dicuntur multo melius et fortius, quam a Stasea dicebantur.</li>\n\t<li>Scripta sane et multa et polita, sed nescio quo pacto auctoritatem oratio non habet.</li>\n\t<li>Curium putes loqui, interdum ita laudat, ut quid praeterea sit bonum neget se posse ne suspicari quidem.</li>\n\t<li>Sed ad haec, nisi molestum est, habeo quae velim.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Haeret in salebra.</dfn></dt>\n\t<dd>Dicam, inquam, et quidem discendi causa magis, quam quo te aut Epicurum reprehensum velim.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Multoque hoc melius nos veriusque quam Stoici.</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</dd>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Qui enim voluptatem ipsam contemnunt, iis licet dicere se acupenserem maenae non anteponere.</dd>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>Cuius similitudine perspecta in formarum specie ac dignitate transitum est ad honestatem dictorum atque factorum.</dd>\n\t<dt><dfn>Praeclarae mortes sunt imperatoriae;</dfn></dt>\n\t<dd>Primum in nostrane potestate est, quid meminerimus?</dd>\n</dl>\n\n\n<p>Refert tamen, quo modo. Sin aliud quid voles, postea. Faceres tu quidem, Torquate, haec omnia; Stoici scilicet. Tecum optime, deinde etiam cum mediocri amico. <a href='http://loripsum.net/' target='_blank'>Age, inquies, ista parva sunt.</a> </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "proin-felis-neque-lacinia-congue-at-in-imperdiet-euismod-nec-ve.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Proin vitae mus nibh mauris turpis risus praesent neque ve. Fusce neque elit nascetur pellentesque tempus mi. Nulla lacus proin magnis donec vestibulum blandit quis neque egestas id nam convallis hac sollicitudin ut. Neque augue quam purus hymenaeos mauris donec netus. Fusce augue donec ipsum varius augue suscipit tristique nec pellentesque. Risus netus fringilla ultrices libero proin adipiscing quam risus eu lobortis rhoncus iaculis orci in elit lacus. Augue porta orci eu nam libero nulla euismod sit. Fusce netus sociis consectetuer imperdiet nullam. Curae dolor. Ipsum augue quis. Etiam massa nec donec adipiscing orci donec. Ipsum risus. Justo metus amet mi purus ultricies felis magnis at ut. Felis metus sed dis tincidunt eget euismod. Donec neque bibendum metus sit. Fusce donec mus sociis laoreet rhoncus elementum cum pretium ac montes a adipiscing. Ipsum fames taciti cras eu ante faucibus. Lacus morbi nam dolor quis. Porta netus ullamcorper ac mollis feugiat. Nulla magna tempor nisi pede morbi. Lacus lorem libero nostra dui torquent ridiculus dictum ad lobortis laoreet integer. Risus fames ante ac donec auctor imperdiet porta mi.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Proin felis neque lacinia congue at in imperdiet euismod nec ve.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./proin-felis-neque-lacinia-congue-at-in-imperdiet-euismod-nec-ve."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:17.385858 GMT-4",
+    "_uid": "abe3ac6537b6462685eb824b16029090",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:17.713384 GMT-4",
+    "title": "Vitae risus mattis nullam purus nonummy arcu fames nonummy rhoncus dolor.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus purus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Ipsum etiam ligula condimentum porta aenean eleifend mi curae sapien. Donec morbi dolor quis ligula tincidunt parturient. Fusce netus. Fusce dolor. Etiam felis pretium dictumst curae tellus curae feugiat varius sed id justo nostra congue vivamus potenti litora hac urna et sollicitudin. Class vitae nisi aliquet et phasellus curae sit nulla. Metus fusce platea nam lectus duis vivamus massa cras feugiat. Massa magna cum. Netus class nunc duis. Lacus magna dignissim enim rhoncus. Netus etiam per fusce curabitur potenti. Morbi neque aliquet sociosqu auctor vestibulum velit blandit mus id. Magna fusce dis elit pellentesque parturient nunc porta montes ac eu cras nunc vestibulum urna. Fames purus auctor nullam nam mauris. Velit fames turpis dictum justo amet arcu elementum. Fusce netus massa diam quisque viverra. Lacus porta etiam. Fames lorem pretium ad ve nisl proin.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Isto modo ne improbos quidem, si essent boni viri.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In schola desinis. Torquatus, is qui consul cum Cn. Eam tum adesse, cum dolor omnis absit; Eaedem res maneant alio modo. Duo Reges: constructio interrete. Tecum optime, deinde etiam cum mediocri amico. </p>\n\n<p>Terram, mihi crede, ea lanx et maria deprimet. <a href='http://loripsum.net/' target='_blank'>Pauca mutat vel plura sane;</a> Est, ut dicis, inquam. Numquam facies. Quonam, inquit, modo? Hic ambiguo ludimur. </p>\n\n<ol>\n\t<li>Estne, quaeso, inquam, sitienti in bibendo voluptas?</li>\n\t<li>Nunc haec primum fortasse audientis servire debemus.</li>\n\t<li>Quae enim adhuc protulisti, popularia sunt, ego autem a te elegantiora desidero.</li>\n</ol>\n\n\n<p>Quis hoc dicit? Eam tum adesse, cum dolor omnis absit; Tubulo putas dicere? Huius, Lyco, oratione locuples, rebus ipsis ielunior. Tamen a proposito, inquam, aberramus. Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit? </p>\n\n<dl>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Cuius similitudine perspecta in formarum specie ac dignitate transitum est ad honestatem dictorum atque factorum.</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>Et ego: Piso, inquam, si est quisquam, qui acute in causis videre soleat quae res agatur.</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P.</dd>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Atque haec ita iustitiae propria sunt, ut sint virtutum reliquarum communia.</dd>\n</dl>\n\n\n<ul>\n\t<li>Cum autem in quo sapienter dicimus, id a primo rectissime dicitur.</li>\n\t<li>Quid ergo dubitamus, quin, si non dolere voluptas sit summa, non esse in voluptate dolor sit maximus?</li>\n\t<li>Theophrasti igitur, inquit, tibi liber ille placet de beata vita?</li>\n\t<li>Dicam, inquam, et quidem discendi causa magis, quam quo te aut Epicurum reprehensum velim.</li>\n\t<li>Quis Aristidem non mortuum diligit?</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Velit nulla. Magna donec mattis mi sociosqu viverra erat a curae. Justo risus. Neque etiam habitant justo neque amet non. Risus nulla suscipit sem natoque ve mi enim tempus curabitur. Lacus netus facilisi pede rutrum. Risus lorem eni justo magna eni amet ad etiam condimentum. Morbi metus ligula euismod quis felis penatibus eget. Curae magna. Proin risus non fusce penatibus vivamus aptent. Velit justo amet sed. Morbi magna turpis risus nonummy. Netus nulla neque justo nam. Augue dolor ornare magnis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae risus mattis nullam purus nonummy arcu fames nonummy rhoncus dolor.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor."
+}

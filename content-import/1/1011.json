@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:33.635243 GMT-4",
+    "_uid": "c15e7427ecbe4305be5ae9ab10f6ac92",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-class-per-dolor-auctor-elit.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:33.689097 GMT-4",
+    "title": "Fames class per dolor auctor elit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Fusce morbi pede placerat eget.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Lorem netus morbi. Porta purus volutpat. Netus massa commodo lacinia mollis cum nibh. Purus class felis semper ut orci laoreet nonummy torquent congue. Nulla etiam. Dolor class amet imperdiet sapien magna semper fames laoreet rhoncus. Justo lacus proin sem ante dictumst nec ve mattis habitant laoreet. Metus vitae. Ipsum netus etiam tortor libero laoreet. Lorem velit lectus proin. Class ipsum. Morbi risus feugiat nunc suscipit fusce ut metus eu nisl convallis mi. Fames proin dictum vitae aptent orci turpis ligula lorem. Neque porta dui arcu aenean. Metus felis tellus ornare facilisis. Netus morbi.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.204606 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.527359 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "massa..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fames-class-per-dolor-auctor-elit.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae purus vitae. Velit nulla. Netus etiam. Justo porta sociis montes vel commodo fusce eni pede id eleifend natoque. Dolor velit. Netus vitae natoque eget iaculis in ornare consequat mi. Lacus morbi ridiculus commodo sollicitudin posuere metus ve consequat lacinia velit. Porta massa tempus. Porta ipsum.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fames class per dolor auctor elit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 27,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./fames-class-per-dolor-auctor-elit."
+}

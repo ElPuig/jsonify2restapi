@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/15 07:37:51.709478 GMT-4",
+    "endDate": "2018/11/16 14:12:35.602629 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Cur igitur, inquam, res tam dissimiles eodem nomine appellas?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante Aristippus, et ille melius. Quod cum dixissent, ille contra. Quid ad utilitatem tantae pecuniae? Cur post Tarentum ad Archytam? Duo Reges: constructio interrete. Quod cum accidisset ut alter alterum necopinato videremus, surrexit statim. <a href='http://loripsum.net/' target='_blank'>Huius, Lyco, oratione locuples, rebus ipsis ielunior.</a> </p>\n\n<ol>\n\t<li>Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit?</li>\n\t<li>Cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua erat transfixus, hastam.</li>\n\t<li>Neque solum ea communia, verum etiam paria esse dixerunt.</li>\n</ol>\n\n\n<ul>\n\t<li>Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse;</li>\n\t<li>An ea, quae per vinitorem antea consequebatur, per se ipsa curabit?</li>\n\t<li>Quis, quaeso, inquit, est, qui quid sit voluptas nesciat, aut qui, quo magis id intellegat, definitionem aliquam desideret?</li>\n\t<li>Egone non intellego, quid sit don Graece, Latine voluptas?</li>\n\t<li>Duarum enim vitarum nobis erunt instituta capienda.</li>\n\t<li>Est autem officium, quod ita factum est, ut eius facti probabilis ratio reddi possit.</li>\n\t<li>Quaeque de virtutibus dicta sunt, quem ad modum eae semper voluptatibus inhaererent, eadem de amicitia dicenda sunt.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Haec dicuntur inconstantissime.</dfn></dt>\n\t<dd>Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</dd>\n\t<dt><dfn>Tria genera bonorum;</dfn></dt>\n\t<dd>Et quidem illud ipsum non nimium probo et tantum patior, philosophum loqui de cupiditatibus finiendis.</dd>\n\t<dt><dfn>Ita credo.</dfn></dt>\n\t<dd>Qua tu etiam inprudens utebare non numquam.</dd>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Haec mihi videtur delicatior, ut ita dicam, molliorque ratio, quam virtutis vis gravitasque postulat.</dd>\n</dl>\n\n\n<p>Illa tamen simplicia, vestra versuta. Qui ita affectus, beatum esse numquam probabis; Ego vero volo in virtute vim esse quam maximam; Prodest, inquit, mihi eo esse animo. <a href='http://loripsum.net/' target='_blank'>Quid ergo attinet gloriose loqui, nisi constanter loquare?</a> Apparet statim, quae sint officia, quae actiones. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Si longus, levis dictata sunt.</a> Graece donan, Latine voluptatem vocant. Quis Aristidem non mortuum diligit? Ut aliquid scire se gaudeant? </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 18:03:51.997595 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "c444c0ba8c2a4e1cb2f7603d0743aebb",
+    "expirationDate": "None",
+    "contactName": "Lorem vitae neque a quam purus sodales.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Curae fames montes sociis habitasse etiam.",
+    "id": "dolor-ipsum-vel-erat-inceptos-lacus-aenean-suspendisse-etiam-consequat-curabitur-ipsum-faucibus-mus-conubia-a.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Dolor ipsum vel erat inceptos lacus aenean suspendisse etiam consequat curabitur ipsum faucibus mus conubia a.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Felis neque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Fusce morbi risus purus velit class a eget etiam mi. Massa netus cursus consectetuer curabitur etiam quam sociis et ad. Justo donec dapibus duis. Risus metus ipsum primis aliquet viverra urna et metus aenean tincidunt congue netus natoque pede. Metus massa turpis luctus velit potenti ut. Fames etiam sapien magnis sem ut nulla dui nibh quam. Felis fames. Risus nulla. Netus justo class urna dui massa. Dolor vitae ligula hendrerit nam consectetuer ornare id etiam ut phasellus. Augue morbi nostra in vitae et. Donec class ipsum lacinia congue nam.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:52.003237 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:52.334499 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "dolor-ipsum-vel-erat-inceptos-lacus-aenean-suspendisse-etiam-consequat-curabitur-ipsum-faucibus-mus-conubia-a.",
+    "modification_date": "2018/10/26 18:03:52.338058 GMT-4",
+    "language": "en",
+    "rights": "Porta lacus nibh mollis. Felis vitae. Augue felis integer amet fusce porta lorem scelerisque pulvinar lacus hendrerit parturient nunc. Neque risus. Magna augue velit lorem tristique duis sit sollicitudin. Justo dolor curae. Netus proin ultrices cum mi litora leo adipiscing parturient eu vehicula. Porta donec integer dis malesuada arcu. Massa lorem nam fames. Vitae massa sem nibh. Neque metus mattis nunc ullamcorper ad mauris facilisi eros est. Massa etiam mattis vehicula purus ut sapien habitasse felis id pellentesque pretium inceptos. Lacus velit aliquet primis sem adipiscing. Purus fames ipsum vulputate vel per ad a quam.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor ipsum vel erat inceptos lacus aenean suspendisse etiam consequat curabitur ipsum faucibus mus conubia a.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 10,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./dolor-ipsum-vel-erat-inceptos-lacus-aenean-suspendisse-etiam-consequat-curabitur-ipsum-faucibus-mus-conubia-a."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:55.603832 GMT-4",
+    "_uid": "cd357a1809c143a98962da853f9c5e32",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "etiam-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:55.934674 GMT-4",
+    "title": "Etiam augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae vitae sed adipiscing elementum lorem amet iaculis mi et.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Proin fusce maecenas felis amet faucibus. Magna nulla ligula at fermentum. Netus felis. Curae felis. Augue etiam varius congue erat tempus est rhoncus ve dignissim. Porta fames. Class nulla cursus felis conubia magnis eros sed fames. Proin massa turpis diam penatibus at elementum proin cum diam. Velit fames vitae tortor enim mattis. Curae netus leo justo. Fusce neque luctus imperdiet est interdum dapibus. Augue vitae semper penatibus facilisi in. Risus nulla risus potenti ipsum elit aliquam ve. Porta fames. Fames lorem elit. Massa fames.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:55.609090 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:55.929805 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae hic rei publicae vulnera inponebat, eadem ille sanabat. Satis est ad hoc responsum. Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Vide, quantum, inquam, fallare, Torquate.</a> Quid enim? </p>\n\n<dl>\n\t<dt><dfn>Memini vero, inquam;</dfn></dt>\n\t<dd>Nihil enim desiderabile concupiscunt, plusque in ipsa iniuria detrimenti est quam in iis rebus emolumenti, quae pariuntur iniuria.</dd>\n\t<dt><dfn>Perge porro;</dfn></dt>\n\t<dd>Sed nimis multa.</dd>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>Quae in controversiam veniunt, de iis, si placet, disseramus.</dd>\n</dl>\n\n\n<h2>Quae enim adhuc protulisti, popularia sunt, ego autem a te elegantiora desidero.</h2>\n\n<p>Bonum negas esse divitias, praepos\u00ectum esse dicis? Quo modo autem optimum, si bonum praeterea nullum est? Gerendus est mos, modo recte sentiat. Quod ea non occurrentia fingunt, vincunt Aristonem; Quae diligentissime contra Aristonem dicuntur a Chryippo. Is es profecto tu. Nemo nostrum istius generis asotos iucunde putat vivere. <a href='http://loripsum.net/' target='_blank'>Idemne potest esse dies saepius, qui semel fuit?</a> </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Quibus ego vehementer assentior.</a> Verba tu fingas et ea dicas, quae non sentias? </p>\n\n<ul>\n\t<li>Cum audissem Antiochum, Brute, ut solebam, cum M.</li>\n\t<li>Quid loquor de nobis, qui ad laudem et ad decus nati, suscepti, instituti sumus?</li>\n\t<li>Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</li>\n\t<li>Quamquam id quidem licebit iis existimare, qui legerint.</li>\n</ul>\n\n\n<ol>\n\t<li>Hoc enim identidem dicitis, non intellegere nos quam dicatis voluptatem.</li>\n\t<li>Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum;</li>\n\t<li>Quod ea non occurrentia fingunt, vincunt Aristonem;</li>\n\t<li>Primum cur ista res digna odio est, nisi quod est turpis?</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "etiam-augue.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Velit curae. Magna class. Metus ipsum integer elementum nullam interdum nisl. Class curae nisl integer ut purus cursus nulla morbi gravida quis. Morbi purus elit inceptos. Metus magna a elit ve volutpat sit elit. Velit vitae. Proin donec fames magnis nulla cubilia amet consectetuer. Donec magna metus urna nec aptent arcu eu nisl. Class magna. Class metus fermentum mauris morbi odio accumsan in.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Etiam augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./etiam-augue."
+}

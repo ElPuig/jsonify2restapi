@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quod non faceret, si in voluptate summum bonum poneret.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Stoici scilicet. Tu vero, inquam, ducas licet, si sequetur; </p>\n\n<dl>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Bonum integritas corporis: misera debilitas.</dd>\n\t<dt><dfn>Ille incendat?</dfn></dt>\n\t<dd>Atque adhuc ea dixi, causa cur Zenoni non fuisset, quam ob rem a superiorum auctoritate discederet.</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Sin autem eos non probabat, quid attinuit cum iis, quibuscum re concinebat, verbis discrepare?</dd>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Quid Zeno?</dd>\n</dl>\n\n\n<p>Certe non potest. Duo Reges: constructio interrete. Praeclare hoc quidem. Paria sunt igitur. Pugnant Stoici cum Peripateticis. </p>\n\n<ul>\n\t<li>Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem;</li>\n\t<li>Ergo id est convenienter naturae vivere, a natura discedere.</li>\n\t<li>Itaque nostrum est-quod nostrum dico, artis est-ad ea principia, quae accepimus.</li>\n\t<li>Quorum sine causa fieri nihil putandum est.</li>\n</ul>\n\n\n<h2>Vestri haec verecundius, illi fortasse constantius.</h2>\n\n<p>Quid vero? Quid censes in Latino fore? Quod cum dixissent, ille contra. Quam ob rem tandem, inquit, non satisfacit? Quid censes in Latino fore? Deinde dolorem quem maximum? Quonam, inquit, modo? Hoc mihi cum tuo fratre convenit. Idemne, quod iucunde? </p>\n\n<ol>\n\t<li>Duae sunt enim res quoque, ne tu verba solum putes.</li>\n\t<li>Nobis Heracleotes ille Dionysius flagitiose descivisse videtur a Stoicis propter oculorum dolorem.</li>\n\t<li>Atque etiam val\u00edtudinem, vires, vacuitatem doloris non propter utilitatem solum, sed etiam ipsas propter se expetemus.</li>\n\t<li>Ita enim se Athenis collocavit, ut sit paene unus ex Atticis, ut id etiam cognomen videatur habiturus.</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 18:00:24.050180 GMT-4",
+    "imageCaption": "Magna fusce magna ipsum sodales turpis mus magnis ac primis integer.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-magna-quis-mauris-hymenaeos.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:24.383398 GMT-4",
+    "title": "Lorem magna quis mauris hymenaeos.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor donec iaculis elit et pellentesque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Velit netus. Ipsum dolor justo felis aenean potenti. Neque porta ante eu facilisis. Nulla massa sit ipsum adipiscing pulvinar duis. Class felis elit magnis luctus justo. Risus proin sem quam est. Donec augue. Magna fusce tempor neque viverra elementum enim elit vel rhoncus. Risus netus platea. Curae etiam sit neque malesuada quam. Purus lorem maecenas purus quisque mollis eget quis cras at quam gravida id nec mi a. Augue purus. Netus justo sit curae dis eros parturient. Neque metus. Metus fusce torquent tristique augue mi malesuada urna. Dolor magna nibh nec a mauris massa. Metus massa nec ligula a. Metus lorem nam eros non elit imperdiet cursus.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:24.053771 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:24.379655 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "lorem-magna-quis-mauris-hymenaeos.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Etiam proin sem fusce. Augue magna mattis hymenaeos consequat nibh. Morbi nulla cras cubilia a. Augue metus odio mollis volutpat etiam vivamus. Dolor massa leo sem ac volutpat arcu tempus mi sem ullamcorper cubilia dis maecenas. Nulla velit facilisi cum eget a nibh lacus. Justo vitae sapien libero nisi. Lorem class. Class fames. Class curae faucibus dignissim elit erat faucibus. Lacus morbi a nibh lorem velit primis sollicitudin ultricies mauris. Fames felis enim dis. Lacus nulla magnis ultrices sodales. Massa porta vel odio at senectus sapien tempor nulla hac cras.",
+    "_content_type_description": "text/plain",
+    "_uid": "7f2bbf461ec449d5a0a6d9becce80ee4",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem magna quis mauris hymenaeos.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 60,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./lorem-magna-quis-mauris-hymenaeos."
+}

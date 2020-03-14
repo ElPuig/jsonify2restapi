@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:42.888780 GMT-4",
+    "_uid": "9fb6b7ed48d842a2b737f1ccc42bbeeb",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-ipsum.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:42.930193 GMT-4",
+    "title": "Lacus ipsum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce class felis aliquet morbi felis libero quis cum pellentesque ac feugiat enim mi accumsan sagittis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Morbi ipsum curae litora. Risus augue euismod mi at orci mollis ut tempus. Justo dolor ornare laoreet nisl sociosqu sagittis augue. Magna porta. Morbi velit quis ac sollicitudin viverra nec ad rutrum. Justo metus magna dis justo commodo. Risus nulla nullam parturient habitant netus tellus ipsum gravida. Proin lacus risus tempus scelerisque. Velit curae nec odio senectus ipsum erat donec malesuada. Porta metus malesuada suspendisse augue litora hymenaeos lacus. Fames ipsum.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:42.892317 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:42.926479 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lacus-ipsum.",
+    "remoteUrl": "Ipsum%20augue%20metus%20lobortis%20purus%20duis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta vitae. Curae augue. Felis justo sapien ve pede. Purus velit porta praesent. Etiam purus leo nunc duis proin penatibus orci vel semper cursus. Netus magna sagittis amet quis cras maecenas adipiscing curabitur condimentum venenatis eget. Fames augue curabitur primis a adipiscing dui vestibulum taciti. Purus class. Risus fusce tortor nonummy ante ac. Curae etiam montes hymenaeos dictumst porta risus nisl maecenas eget urna luctus. Velit lorem nulla etiam suspendisse arcu nunc parturient quam lorem class.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lacus ipsum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 56,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./lacus-ipsum."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Sed quid minus probandum quam esse aliquem beatum nec satis beatum?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summus dolor plures dies manere non potest? Quare attende, quaeso. Et nemo nimium beatus est; Duo Reges: constructio interrete. Quis istud possit, inquit, negare? </p>\n\n<h2>Duo enim genera quae erant, fecit tria.</h2>\n\n<p><a href='http://loripsum.net/' target='_blank'>Sumenda potius quam expetenda.</a> Maximus dolor, inquit, brevis est. Quid ergo hoc loco intellegit honestum? </p>\n\n<ul>\n\t<li>Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius.</li>\n\t<li>Heri, inquam, ludis commissis ex urbe profectus veni ad vesperum.</li>\n\t<li>At modo dixeras nihil in istis rebus esse, quod interesset.</li>\n</ul>\n\n\n<p>Respondent extrema primis, media utrisque, omnia omnibus. Cur iustitia laudatur? Ut aliquid scire se gaudeant? Iam contemni non poteris. Gloriosa ostentatio in constituendo summo bono. Quis non odit sordidos, vanos, leves, futtiles? </p>\n\n<ol>\n\t<li>Bonum negas esse divitias, praepos\u00ectum esse dicis?</li>\n\t<li>Nunc vero a primo quidem mirabiliter occulta natura est nec perspici nec cognosci potest.</li>\n\t<li>Videamus igitur sententias eorum, tum ad verba redeamus.</li>\n\t<li>Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</li>\n\t<li>Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Urgent tamen et nihil remittunt.</dd>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Quae diligentissime contra Aristonem dicuntur a Chryippo.</dd>\n\t<dt><dfn>Beatum, inquit.</dfn></dt>\n\t<dd>Cum autem in quo sapienter dicimus, id a primo rectissime dicitur.</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Tu enim ista lenius, hic Stoicorum more nos vexat.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:57:45.516980 GMT-4",
+    "imageCaption": "Justo velit morbi cum magna mattis id euismod pede eu.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "donec-dolor-donec.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:46.008819 GMT-4",
+    "title": "Donec dolor donec.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem augue elementum in condimentum quis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Porta fusce. Class metus platea pellentesque vulputate lorem. Morbi vitae montes primis massa velit. Lorem dolor curae lorem primis sollicitudin convallis lorem. Fames lacus suspendisse interdum venenatis donec cras erat praesent. Velit neque euismod gravida eget molestie. Morbi donec potenti augue massa eleifend nibh potenti velit est semper. Metus etiam metus morbi orci. Ipsum curae nisl vel. Vitae massa mollis ante elit magna nunc vivamus ve. Class risus dolor metus auctor lorem per. Velit fusce cursus. Fusce lorem sodales sem vivamus in sociis sit parturient ligula sem iaculis. Risus felis. Justo fames taciti auctor lorem commodo iaculis tristique urna.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:45.520794 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:46.004885 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "donec-dolor-donec.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Metus fames dui. Justo neque morbi sociis amet. Massa lorem rutrum luctus vulputate ac dictum phasellus lacus maecenas tristique pellentesque quisque. Ipsum justo aliquam amet sem. Class morbi torquent adipiscing congue porta egestas dui pede. Nulla morbi a platea quis malesuada consectetuer parturient eros felis dictumst. Neque velit cum arcu sagittis. Dolor porta feugiat conubia turpis ac. Lacus donec congue tempor vitae ligula accumsan parturient. Metus netus luctus ac urna curabitur faucibus risus eu. Augue felis. Morbi metus donec justo magna porttitor orci nam nibh. Ipsum fames varius nulla senectus ve odio diam. Class dolor magnis mi. Vitae risus rhoncus at turpis nisl dapibus. Donec justo commodo potenti cursus purus dignissim ullamcorper imperdiet diam elit tristique varius. Class dolor conubia et volutpat duis tempor mi inceptos euismod.",
+    "_content_type_description": "text/plain",
+    "_uid": "69fe688d85ca4c3f9687968a3c5acf7c",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec dolor donec.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 64,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./donec-dolor-donec."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:37.580996 GMT-4",
+    "_uid": "fe0365d49ed04f1e9ed1eab49e058cc5",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "ipsum-donec.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:37.914562 GMT-4",
+    "title": "Ipsum donec.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Magna class non orci.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Proin lorem vitae nostra congue. Porta massa eni eget eni magna. Justo porta justo. Justo velit condimentum praesent. Felis nulla conubia volutpat magna curabitur ornare molestie. Risus dolor. Felis lorem aenean adipiscing faucibus felis viverra. Etiam purus tellus porta aliquam nisi at etiam. Massa morbi torquent sit auctor nunc quis per class mollis. Porta metus ligula scelerisque curae. Felis neque sociosqu parturient vulputate condimentum nulla nostra. Fusce etiam non. Class fames. Curae netus odio ullamcorper iaculis dui facilisis sit arcu nonummy class id aptent nascetur habitant purus. Metus dolor suspendisse ve ligula pharetra habitasse. Netus velit varius nam parturient vestibulum. Augue fames erat non accumsan hymenaeos fames dictumst. Netus risus neque fames condimentum interdum ultricies nibh mus natoque. Curae fusce sociosqu vestibulum consequat suspendisse imperdiet cras eget vulputate libero pharetra primis tempor dis. Morbi lacus nunc ve sollicitudin. Augue netus ullamcorper sagittis dignissim quis. Donec metus montes tortor nec varius. Nulla proin mus hac sollicitudin eu nonummy ut phasellus feugiat. Massa neque metus urna per sit potenti erat et vehicula.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:37.586544 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:37.909940 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Hic quoque suus est de summoque bono dissentiens dici vere Peripateticus non potest.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At iam decimum annum in spelunca iacet. Conferam tecum, quam cuique verso rem subicias; Duo Reges: constructio interrete. </p>\n\n<ul>\n\t<li>Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit.</li>\n\t<li>Ex quo intellegitur officium medium quiddam esse, quod neque in bonis ponatur neque in contrariis.</li>\n\t<li>Non risu potius quam oratione eiciendum?</li>\n\t<li>An eum locum libenter invisit, ubi Demosthenes et Aeschines inter se decertare soliti sunt?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Sint ista Graecorum;</dfn></dt>\n\t<dd>Quod vestri quidem vel optime disputant, nihil opus esse eum, qui philosophus futurus sit, scire litteras.</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Dicet pro me ipsa virtus nec dubitabit isti vestro beato M.</dd>\n\t<dt><dfn>Age sane, inquam.</dfn></dt>\n\t<dd>Quae quidem vel cum periculo est quaerenda vobis;</dd>\n\t<dt><dfn>Memini vero, inquam;</dfn></dt>\n\t<dd>Inde sermone vario sex illa a Dipylo stadia confecimus.</dd>\n</dl>\n\n\n<h3>Hanc quoque iucunditatem, si vis, transfer in animum;</h3>\n\n<p>Quis Aristidem non mortuum diligit? <a href='http://loripsum.net/' target='_blank'>Contineo me ab exemplis.</a> Haec para/doca illi, nos admirabilia dicamus. Vestri haec verecundius, illi fortasse constantius. Sint modo partes vitae beatae. Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Dicimus aliquem hilare vivere; </p>\n\n<h2>An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia?</h2>\n\n<p>Itaque hic ipse iam pridem est reiectus; A mene tu? Contemnit enim disserendi elegantiam, confuse loquitur. Bonum negas esse divitias, praepos\u00ectum esse dicis? Si enim ad populum me vocas, eum. Quamquam id quidem, infinitum est in hac urbe; </p>\n\n<ol>\n\t<li>Nulla erit controversia.</li>\n\t<li>Ille enim occurrentia nescio quae comminiscebatur;</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "ipsum-donec.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Etiam vitae dictumst hac mattis platea ipsum conubia. Fames justo sociis. Netus justo. Justo risus litora cursus volutpat. Augue neque dapibus odio lorem curae. Fusce neque dis justo imperdiet conubia pellentesque. Dolor netus ipsum mollis turpis quis feugiat. Purus netus proin. Vitae metus odio arcu. Etiam netus elit nisi. Lorem velit massa rutrum donec. Class fames suscipit vulputate velit eu erat. Augue fusce consequat vestibulum cras donec phasellus nullam. Risus magna sem cubilia faucibus nostra accumsan facilisis lectus massa sodales lacinia justo. Risus class. Class purus congue metus consequat sodales nam eu ipsum. Neque massa. Lacus neque libero et dis ve.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Ipsum donec.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./ipsum-donec."
+}

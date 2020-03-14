@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:0.337639 GMT-4",
+    "_uid": "d4d225044d9042c3a3f0cd70c271f60a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "nulla-felis-sed-elementum-dictum-porta-nec-primis-ut.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:0.671842 GMT-4",
+    "title": "Nulla felis sed elementum dictum porta nec primis ut.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Donec proin sapien congue morbi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Donec dolor. Metus etiam mauris. Velit nulla. Donec massa euismod nunc sollicitudin parturient amet mollis parturient netus. Velit vitae. Dolor ipsum luctus pede cras suscipit. Felis ipsum vitae lectus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:0.343740 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:0.666967 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Non risu potius quam oratione eiciendum?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quare ad ea primum, si videtur; Nam de isto magna dissensio est. </p>\n\n<dl>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Ne amores quidem sanctos a sapiente alienos esse arbitrantur.</dd>\n\t<dt><dfn>Restatis igitur vos;</dfn></dt>\n\t<dd>Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere.</dd>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Contemnit enim disserendi elegantiam, confuse loquitur.</dd>\n\t<dt><dfn>Quid iudicant sensus?</dfn></dt>\n\t<dd>Consequens enim est et post oritur, ut dixi.</dd>\n</dl>\n\n\n<ul>\n\t<li>Et quidem, inquit, vehementer errat;</li>\n\t<li>Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere.</li>\n</ul>\n\n\n<p>Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Haeret in salebra.</a> Si qua in iis corrigere voluit, deteriora fecit. Etiam beatissimum? Vide, quaeso, rectumne sit. Huius, Lyco, oratione locuples, rebus ipsis ielunior. Cur post Tarentum ad Archytam? </p>\n\n<p>Quis Aristidem non mortuum diligit? Sed quid sentiat, non videtis. Sed quid sentiat, non videtis. Quod ea non occurrentia fingunt, vincunt Aristonem; <a href='http://loripsum.net/' target='_blank'>Atqui reperies, inquit, in hoc quidem pertinacem;</a> Pugnant Stoici cum Peripateticis. </p>\n\n<ol>\n\t<li>Et hunc idem dico, inquieta sed ad virtutes et ad vitia nihil interesse.</li>\n\t<li>Nos autem non solum beatae vitae istam esse oblectationem videmus, sed etiam levamentum miseriarum.</li>\n\t<li>Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus;</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "nulla-felis-sed-elementum-dictum-porta-nec-primis-ut.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Donec morbi metus sit cras orci erat ad. Massa risus neque non duis consectetuer nascetur risus massa. Class ipsum tempor libero est. Velit donec iaculis nec at dolor ad. Velit class non pede hac etiam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Nulla felis sed elementum dictum porta nec primis ut.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./nulla-felis-sed-elementum-dictum-porta-nec-primis-ut."
+}

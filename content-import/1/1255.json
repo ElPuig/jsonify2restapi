@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Negat enim summo bono afferre incrementum diem.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum essent dicta, discessimus. Duo Reges: constructio interrete. </p>\n\n<p>Age, inquies, ista parva sunt. Si longus, levis dictata sunt. </p>\n\n<ul>\n\t<li>Sed finge non solum callidum eum, qui aliquid improbe faciat, verum etiam praepotentem, ut M.</li>\n\t<li>Claudii libidini, qui tum erat summo ne imperio, dederetur.</li>\n\t<li>Sin aliud quid voles, postea.</li>\n</ul>\n\n\n<ol>\n\t<li>Quis enim redargueret?</li>\n\t<li>Quaero igitur, quo modo hae tantae commendationes a natura profectae subito a sapientia relictae sint.</li>\n\t<li>Prodest, inquit, mihi eo esse animo.</li>\n\t<li>Quae cum essent dicta, discessimus.</li>\n\t<li>Quis suae urbis conservatorem Codrum, quis Erechthei filias non maxime laudat?</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Quo studio Aristophanem putamus aetatem in litteris duxisse?</dd>\n\t<dt><dfn>Audeo dicere, inquit.</dfn></dt>\n\t<dd>Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba.</dd>\n\t<dt><dfn>Etiam beatissimum?</dfn></dt>\n\t<dd>Istam voluptatem perpetuam quis potest praestare sapienti?</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Quod cum dixissent, ille contra.</dd>\n</dl>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Quis Aristidem non mortuum diligit?</a> Idemne, quod iucunde? Tecum optime, deinde etiam cum mediocri amico. Nemo igitur esse beatus potest. </p>\n\n",
+    "creation_date": "2018/10/26 18:03:32.144721 GMT-4",
+    "imageCaption": "Class vitae sapien lobortis scelerisque sociosqu feugiat metus nec.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "morbi-ipsum.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:32.484174 GMT-4",
+    "title": "Morbi ipsum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam purus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Nulla metus lacus dui porta feugiat tellus. Augue curae sociosqu fringilla magna sed. Velit justo erat proin volutpat ac ullamcorper eros amet. Class netus natoque curae urna montes porttitor nonummy auctor ipsum. Augue curae ultrices per ante dignissim. Lorem fusce quis nec ridiculus purus hac amet leo pellentesque. Lorem netus. Augue felis amet litora id dolor ligula in duis interdum. Fusce magna nam. Magna proin rhoncus quisque venenatis erat commodo. Neque lacus egestas cum posuere praesent etiam pede convallis mi consequat pretium morbi nisi quisque. Vitae fames bibendum erat libero dolor nulla a gravida ac auctor.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:32.149255 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:32.479620 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "morbi-ipsum.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fusce metus sit maecenas posuere ut ornare. Lorem metus conubia ac duis. Lorem porta pede dis id interdum. Massa fusce justo. Felis justo felis iaculis tortor. Class nulla. Curae massa sem cras leo porta. Metus felis. Lacus ipsum lectus tincidunt inceptos eu leo fames eni augue. Risus curae lectus consequat sagittis ipsum pretium potenti tempus ac netus. Lacus lorem sociosqu enim urna ut arcu sociosqu ut nullam malesuada sem. Ipsum purus dapibus urna eni. Lacus velit vehicula porta ad fringilla vitae a tellus. Curae neque quam.",
+    "_content_type_description": "text/plain",
+    "_uid": "af7823c2c3f745998b0b87e9f7e2016a",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Morbi ipsum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 69,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./morbi-ipsum."
+}

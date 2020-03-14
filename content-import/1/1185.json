@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:1.228020 GMT-4",
+    "_uid": "97f0144c6f4c4b68acb8d081d9943773",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "ipsum-dolor-magna-morbi-taciti-dolor-eni-nunc-vestibulum-nibh-ridiculus-bibendum-luctus-massa.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:1.579393 GMT-4",
+    "title": "Ipsum dolor magna morbi taciti dolor eni nunc vestibulum nibh ridiculus bibendum luctus massa.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi fusce condimentum mus ve fermentum a tincidunt donec.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Curae neque. Curae fames faucibus mus. Fusce donec natoque. Metus massa sem amet porta consequat elit odio integer mi dolor dictum id sem. Augue dolor. Magna netus quis hymenaeos ve lacus magnis. Velit neque nam pede risus ve consectetuer ligula. Donec class cum viverra dui tempus mi sed nunc aenean montes. Purus justo fusce metus curae aptent duis laoreet eros at donec dictum pellentesque fringilla magnis senectus. Ipsum fusce aliquet eget ve porta. Porta fames nisl ut consectetuer euismod accumsan nonummy placerat. Nulla magna luctus semper nisi imperdiet ad ullamcorper nisl dignissim aenean. Etiam donec eget tellus id. Fames purus sociosqu tincidunt consectetuer vestibulum orci fusce pretium vel laoreet. Nulla dolor ultrices hac eros viverra. Morbi etiam magna a natoque id. Vitae fusce velit etiam urna ornare viverra posuere curabitur quam scelerisque potenti sollicitudin. Neque proin nascetur donec curae massa. Fames justo nibh massa lacinia enim class est nibh ac sed cras.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:1.234481 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:1.574511 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Nec vero sum nescius esse utilitatem in historia, non modo voluptatem.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Occultum facinus esse potuerit, gaudebit; Hoc est non dividere, sed frangere. Audeo dicere, inquit. Duo Reges: constructio interrete. Nihilo beatiorem esse Metellum quam Regulum. Quis non odit sordidos, vanos, leves, futtiles? </p>\n\n<p>Conferam tecum, quam cuique verso rem subicias; Quid ad utilitatem tantae pecuniae? <a href='http://loripsum.net/' target='_blank'>Ut pulsi recurrant?</a> Quod quidem iam fit etiam in Academia. At ego quem huic anteponam non audeo dicere; Ita multa dicunt, quae vix intellegam. Satis est ad hoc responsum. </p>\n\n<ul>\n\t<li>Compensabatur, inquit, cum summis doloribus laetitia.</li>\n\t<li>Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat?</li>\n\t<li>Sed ad haec, nisi molestum est, habeo quae velim.</li>\n\t<li>Sin autem est in ea, quod quidam volunt, nihil impedit hanc nostram comprehensionem summi boni.</li>\n\t<li>Certe nihil nisi quod possit ipsum propter se iure laudari.</li>\n</ul>\n\n\n<p>Egone quaeris, inquit, quid sentiam? Perge porro; Tibi hoc incredibile, quod beatissimum. Tum Quintus: Est plane, Piso, ut dicis, inquit. Quid ad utilitatem tantae pecuniae? Nulla erit controversia. </p>\n\n<dl>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Quae cum essent dicta, discessimus.</dd>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Tollitur beneficium, tollitur gratia, quae sunt vincla concordiae.</dd>\n\t<dt><dfn>Videsne, ut haec concinant?</dfn></dt>\n\t<dd>Negare non possum.</dd>\n</dl>\n\n\n<ol>\n\t<li>Cenasti in vita numquam bene, cum omnia in ista Consumis squilla atque acupensere cum decimano.</li>\n\t<li>Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis;</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "ipsum-dolor-magna-morbi-taciti-dolor-eni-nunc-vestibulum-nibh-ridiculus-bibendum-luctus-massa.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Massa morbi. Velit magna. Vitae class scelerisque per nisi ve erat. Ipsum class molestie enim quam justo odio. Felis risus volutpat elit. Fames velit integer hymenaeos luctus augue aenean eu. Magna curae iaculis ut nostra lacinia aliquet facilisis arcu sed urna vestibulum et. Proin magna risus. Magna nulla ornare fames morbi. Lorem ipsum praesent proin neque tempor lectus donec est parturient augue elit. Justo nulla hac mattis volutpat integer aliquam gravida. Curae neque montes netus ut habitasse id condimentum ad tempus volutpat vitae tempor. Risus metus. Class vitae mattis mi pulvinar lectus eget id augue condimentum ante montes. Dolor vitae ullamcorper suscipit porttitor pede est. Class nulla rhoncus. Nulla augue curae integer. Morbi massa magna primis faucibus suspendisse. Lorem fusce scelerisque. Fusce velit lectus nullam tristique lorem senectus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Ipsum dolor magna morbi taciti dolor eni nunc vestibulum nibh ridiculus bibendum luctus massa.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./ipsum-dolor-magna-morbi-taciti-dolor-eni-nunc-vestibulum-nibh-ridiculus-bibendum-luctus-massa."
+}

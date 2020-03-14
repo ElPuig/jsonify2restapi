@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:22.201531 GMT-4",
+    "_uid": "fafd1945252142e9a73bf0f7ec93384e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "class-justo-lorem-sem-nisl-vehicula-lacus-a-ornare-nibh.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:22.535480 GMT-4",
+    "title": "Class justo lorem sem nisl vehicula lacus a ornare nibh.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque massa fames commodo.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Porta ipsum litora auctor diam curae. Morbi massa risus dui fusce. Magna vitae mus nisi pede quam hymenaeos taciti arcu nisi habitasse tempus a. Augue fames ullamcorper suscipit eget elementum non quis sed purus. Dolor magna orci euismod ve sed proin eget. Proin netus sapien nunc consectetuer parturient odio. Etiam felis. Class lacus nam velit enim maecenas id diam. Etiam vitae eros maecenas commodo laoreet erat lectus quisque blandit dictum. Etiam neque proin morbi mollis semper non accumsan. Neque fusce condimentum maecenas sodales.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:22.207050 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:22.530725 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Itaque ad tempus ad Pisonem omnes.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ad eos igitur converte te, quaeso. <a href='http://loripsum.net/' target='_blank'>Num igitur eum postea censes anxio animo aut sollicito fuisse?</a> Quod cum dixissent, ille contra. <a href='http://loripsum.net/' target='_blank'>Huius ego nunc auctoritatem sequens idem faciam.</a> </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Deinde dolorem quem maximum?</a> Scrupulum, inquam, abeunti; Que Manilium, ab iisque M. Quae cum dixisset paulumque institisset, Quid est? Quid est igitur, inquit, quod requiras? Eam tum adesse, cum dolor omnis absit; Stoici scilicet. Quis enim redargueret? </p>\n\n<h2>Prioris generis est docilitas, memoria;</h2>\n\n<p>Eademne, quae restincta siti? Easdemne res? Duo Reges: constructio interrete. Et nemo nimium beatus est; </p>\n\n<ol>\n\t<li>Quid enim ab antiquis ex eo genere, quod ad disserendum valet, praetermissum est?</li>\n\t<li>Sed id ne cogitari quidem potest quale sit, ut non repugnet ipsum sibi.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Immo alio genere;</dfn></dt>\n\t<dd>Quod cum ita sit, perspicuum est omnis rectas res atque laudabilis eo referri, ut cum voluptate vivatur.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Si enim ad populum me vocas, eum.</dd>\n\t<dt><dfn>Quo modo?</dfn></dt>\n\t<dd>Themistocles quidem, cum ei Simonides an quis alius artem memoriae polliceretur, Oblivionis, inquit, mallem.</dd>\n\t<dt><dfn>Easdemne res?</dfn></dt>\n\t<dd>Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit;</dd>\n</dl>\n\n\n<ul>\n\t<li>Est autem officium, quod ita factum est, ut eius facti probabilis ratio reddi possit.</li>\n\t<li>Sit enim idem caecus, debilis.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-justo-lorem-sem-nisl-vehicula-lacus-a-ornare-nibh.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Vitae risus nunc donec porttitor hac quam urna aliquet imperdiet. Fusce risus rhoncus mauris ac dictumst quisque duis sollicitudin inceptos netus. Proin risus. Dolor metus sapien morbi interdum vestibulum platea vel lacinia. Ipsum lorem. Class ipsum condimentum facilisi conubia arcu ante amet auctor viverra eu id ve leo urna. Nulla fames mattis lorem vivamus quis malesuada vehicula curae. Donec purus nec diam parturient. Porta lacus. Felis neque cras aliquet. Fames risus cursus semper vel odio. Dolor augue dolor a odio. Dolor velit pede torquent montes odio etiam rhoncus eros. Class lacus. Porta proin aptent facilisi hendrerit magnis cursus porta.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class justo lorem sem nisl vehicula lacus a ornare nibh.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./class-justo-lorem-sem-nisl-vehicula-lacus-a-ornare-nibh."
+}

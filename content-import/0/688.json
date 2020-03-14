@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:52.178622 GMT-4",
+    "_uid": "039a1a8cb04845168dacb9a9a86500de",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-metus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:52.227514 GMT-4",
+    "title": "Neque metus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Curae massa ornare.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fames donec arcu cubilia iaculis praesent mi suspendisse nisi. Porta metus scelerisque est eros nunc class. Ipsum metus. Ipsum magna magnis mi tempus habitasse neque aliquam at curabitur aliquet non mi tellus. Purus augue magnis nulla vitae metus vivamus nec. Justo morbi turpis ullamcorper neque ornare duis netus nullam ridiculus. Magna metus. Curae vitae curae magnis non. Class lacus accumsan neque. Risus metus. Class risus hac mauris sociosqu nostra quis proin dignissim vel purus. Neque lorem eget integer duis nam morbi.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "fames..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "neque-metus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Etiam risus donec posuere integer nunc in morbi torquent non. Augue purus inceptos nisi natoque. Justo lorem sem natoque porta pede. Velit massa arcu ullamcorper mi aenean. Purus ipsum gravida sit bibendum. Purus vitae mauris metus vestibulum ad. Porta felis purus leo eget tellus facilisis. Class risus mauris ad. Metus massa phasellus adipiscing sodales eni bibendum. Vitae donec per vehicula viverra ac. Justo lorem. Porta netus lacinia per inceptos. Dolor morbi varius adipiscing. Morbi dolor dictumst lorem at nulla turpis euismod. Lorem augue nascetur at risus mollis vitae sem. Neque magna a mollis hymenaeos interdum inceptos dolor consectetuer elementum neque bibendum risus morbi sociis. Morbi lacus potenti sociis. Nulla velit ornare pellentesque natoque dolor adipiscing. Netus ipsum orci enim justo lacinia et.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Neque metus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./neque-metus."
+}

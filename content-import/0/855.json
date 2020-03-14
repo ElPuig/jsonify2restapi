@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:15.001735 GMT-4",
+    "_uid": "f94ce33b8f7747e6a3be13041a20553b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "fusce-porta-blandit-aptent-cum-lectus-a-inceptos.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:15.336660 GMT-4",
+    "title": "Fusce porta blandit aptent cum lectus a inceptos.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus velit mus urna aliquam phasellus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Purus class elit. Lorem proin est orci eget parturient. Lorem ipsum suspendisse faucibus vulputate a est dignissim senectus purus ligula lacus blandit. Neque velit. Justo augue senectus vestibulum magnis nulla vestibulum nascetur. Velit magna. Lacus proin. Donec netus dui blandit tempus leo vestibulum. Velit lorem tellus semper lacinia. Ipsum dolor natoque curae vestibulum vehicula natoque quis inceptos. Justo morbi fames ligula netus. Porta augue hac metus magna quam pretium risus eu ac amet ridiculus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:15.008536 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:15.332234 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Non enim iam stirpis bonum quaeret, sed animalis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vide, quantum, inquam, fallare, Torquate. Pauca mutat vel plura sane; </p>\n\n<ol>\n\t<li>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</li>\n\t<li>Si est nihil nisi corpus, summa erunt illa: valitudo, vacuitas doloris, pulchritudo, cetera.</li>\n\t<li>At Zeno eum non beatum modo, sed etiam divitem dicere ausus est.</li>\n\t<li>Nam, ut sint illa vendibiliora, haec uberiora certe sunt.</li>\n</ol>\n\n\n<p>Duo Reges: constructio interrete. Nihil illinc huc pervenit. Universa enim illorum ratione cum tota vestra confligendum puto. Illi enim inter se dissentiunt. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.</a> Nam quid possumus facere melius? Vide, quantum, inquam, fallare, Torquate. Torquatus, is qui consul cum Cn. Erat enim Polemonis. </p>\n\n<ul>\n\t<li>Dicam, inquam, et quidem discendi causa magis, quam quo te aut Epicurum reprehensum velim.</li>\n\t<li>Qua igitur re ab deo vincitur, si aeternitate non vincitur?</li>\n\t<li>An est aliquid, quod te sua sponte delectet?</li>\n\t<li>Similiter sensus, cum accessit ad naturam, tuetur illam quidem, sed etiam se tuetur;</li>\n\t<li>Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego;</li>\n\t<li>Omnia peccata paria dicitis.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Stoicos roga.</dfn></dt>\n\t<dd>Quis non odit sordidos, vanos, leves, futtiles?</dd>\n\t<dt><dfn>Idem adhuc;</dfn></dt>\n\t<dd>His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fusce-porta-blandit-aptent-cum-lectus-a-inceptos.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Vitae metus dolor felis ligula risus litora potenti viverra mollis elit tortor rutrum dapibus. Dolor neque. Massa nulla rutrum purus sagittis purus et mollis cras. Proin porta. Felis lacus nisl curabitur tempus turpis facilisis ut litora. Metus donec elit nonummy eget parturient nunc tincidunt dis metus. Curae class cursus sociosqu cras mus. Neque curae lobortis sit quam leo ante tempus auctor commodo. Porta class natoque fringilla eget ullamcorper. Porta morbi mauris in tempor sem nisl odio penatibus. Risus fames quis volutpat augue elit proin venenatis nec. Fusce lorem a gravida ut mattis nisl at consectetuer diam integer.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce porta blandit aptent cum lectus a inceptos.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./fusce-porta-blandit-aptent-cum-lectus-a-inceptos."
+}

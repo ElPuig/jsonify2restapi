@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:35.950499 GMT-4",
+    "_uid": "7f05f5db34eb4e73bc72c2ad5d98874d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "metus-velit-ornare.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:36.000999 GMT-4",
+    "title": "Metus velit ornare.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Proin justo non pede tristique faucibus eu eni.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fames netus interdum parturient mollis eu. Lacus etiam. Velit metus vivamus luctus elit felis vulputate nec consectetuer. Nulla magna dis adipiscing ut nostra viverra nibh ut. Class massa sed ipsum conubia. Netus magna. Curae etiam netus eleifend cum vivamus arcu inceptos purus tortor lectus. Etiam lacus est.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.410644 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.741094 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "ultrices..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "metus-velit-ornare.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Etiam fames senectus dignissim nisl sed duis arcu eleifend ullamcorper leo aptent sociis. Risus lacus a nibh. Augue donec class ipsum lacus pede elit cum nascetur lacus dignissim adipiscing. Dolor massa inceptos id nostra inceptos parturient. Massa fames torquent at cras porta lobortis dignissim metus hymenaeos venenatis eget dolor ornare ligula. Magna risus amet maecenas hac iaculis senectus nisl viverra gravida quam pellentesque pulvinar massa torquent mus. Augue risus est. Class vitae turpis erat quam. Morbi risus non augue fringilla scelerisque leo turpis laoreet potenti nullam in tortor sociosqu adipiscing euismod mus maecenas. Fames morbi nibh feugiat at orci malesuada platea. Etiam lacus sociis nulla lacinia nonummy urna at ipsum pellentesque. Donec lacus velit erat. Neque fames luctus ut cum enim per felis curae urna scelerisque feugiat sollicitudin elementum neque a egestas rutrum. Class felis. Lacus vitae suspendisse molestie eget semper dolor mollis sollicitudin viverra donec eu metus ad. Nulla augue. Ipsum metus nunc vivamus a libero erat. Proin morbi varius molestie in.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Metus velit ornare.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-velit-ornare."
+}

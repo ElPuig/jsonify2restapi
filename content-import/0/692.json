@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:53.525851 GMT-4",
+    "_uid": "438d2973786648d28a2067971acf734e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "curae-lorem-risus-arcu-ac-pellentesque-semper-fames-sociis.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:53.855672 GMT-4",
+    "title": "Curae lorem risus arcu ac pellentesque semper fames sociis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fames metus praesent lorem ridiculus per.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Porta magna congue velit congue augue fusce. Etiam massa libero est nunc amet. Dolor fames. Netus justo aliquet enim est tempus in sapien ve cras. Magna lacus magnis nisl mi sollicitudin magnis. Metus lorem. Porta magna. Magna velit natoque volutpat risus tincidunt molestie. Lorem purus. Fames purus magnis vivamus. Neque felis dignissim magna sem arcu ac sollicitudin luctus nostra. Risus justo. Nulla purus sed parturient in hendrerit. Felis vitae leo gravida lectus ut vel tempor gravida penatibus. Netus fames porta eni velit cum sem phasellus velit a odio adipiscing rutrum.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:53.531104 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:53.848634 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Tu autem, si tibi illa probabantur, cur non propriis verbis ea tenebas?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Torquatus, is qui consul cum Cn. Sed virtutem ipsam inchoavit, nihil amplius. Velut ego nunc moveor. Respondeat totidem verbis. Aliter autem vobis placet. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Est enim effectrix multarum et magnarum voluptatum. </p>\n\n<ul>\n\t<li>Sin te auctoritas commovebat, nobisne omnibus et Platoni ipsi nescio quem illum anteponebas?</li>\n\t<li>Cum autem negant ea quicquam ad beatam vitam pertinere, rursus naturam relinquunt.</li>\n\t<li>Quod si ita sit, cur opera philosophiae sit danda nescio.</li>\n\t<li>Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</li>\n</ul>\n\n\n<p>Multoque hoc melius nos veriusque quam Stoici. Dic in quovis conventu te omnia facere, ne doleas. Scaevolam M. Quid iudicant sensus? </p>\n\n<p>Vide, quantum, inquam, fallare, Torquate. Quam ob rem tandem, inquit, non satisfacit? Huius ego nunc auctoritatem sequens idem faciam. Falli igitur possumus. </p>\n\n<dl>\n\t<dt><dfn>ALIO MODO.</dfn></dt>\n\t<dd>Cum autem venissemus in Academiae non sine causa nobilitata spatia, solitudo erat ea, quam volueramus.</dd>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Quae diligentissime contra Aristonem dicuntur a Chryippo.</dd>\n\t<dt><dfn>Quare attende, quaeso.</dfn></dt>\n\t<dd>Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit?</dd>\n\t<dt><dfn>Tenent mordicus.</dfn></dt>\n\t<dd>Quid autem habent admirationis, cum prope accesseris?</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>Alterum significari idem, ut si diceretur, officia media omnia aut pleraque servantem vivere.</dd>\n</dl>\n\n\n<ol>\n\t<li>Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem.</li>\n\t<li>Quaerimus enim finem bonorum.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-lorem-risus-arcu-ac-pellentesque-semper-fames-sociis.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Felis class. Curae class curae conubia imperdiet lectus sed mattis aliquet tincidunt nisl duis commodo curae non nec. Felis nulla mus quam massa metus scelerisque nec mauris habitant. Fusce magna integer neque erat et. Etiam class praesent nibh cras ac vitae ligula consectetuer ridiculus porta. Lorem fusce vel est. Lorem metus ridiculus bibendum ut. Massa risus amet tristique orci nec massa natoque sapien hac rhoncus. Massa curae. Nulla class varius mus elit non potenti et tellus bibendum orci euismod ad commodo enim consectetuer. Porta dolor dis platea. Donec risus mauris fusce. Porta lacus mus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae lorem risus arcu ac pellentesque semper fames sociis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./curae-lorem-risus-arcu-ac-pellentesque-semper-fames-sociis."
+}

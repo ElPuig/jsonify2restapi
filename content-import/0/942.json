@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:58.368082 GMT-4",
+    "_uid": "203a490ec1ba4fa99f8f95cec171198f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "netus-porta.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:58.698513 GMT-4",
+    "title": "Netus porta.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque donec inceptos vulputate lectus suscipit fringilla mi venenatis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Ipsum lorem bibendum duis sociis malesuada. Proin massa. Magna velit dolor urna viverra nonummy. Curae vitae libero. Justo porta pede mus inceptos dignissim mi condimentum arcu venenatis dis ipsum facilisis aliquet turpis. Lorem etiam. Neque purus fames suspendisse non eget commodo mi mollis mi hac tempor penatibus porta senectus. Netus curae potenti egestas dictum ipsum sodales diam sem morbi est tortor hac parturient ac. Felis magna. Justo neque sociis penatibus. Etiam ipsum eget viverra mi ve id vulputate augue. Magna felis a egestas ut dui nibh a purus gravida sociosqu auctor quam. Etiam dolor platea et porta. Purus magna suspendisse at aenean habitant tristique cras amet laoreet dignissim diam.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:58.374124 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:58.693633 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Post enim Chrysippum eum non sane est disputatum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At enim sequor utilitatem. Non semper, inquam; Quid est, quod ab ea absolvi et perfici debeat? </p>\n\n<p>Venit ad extremum; Iam id ipsum absurdum, maximum malum neglegi. Graccho, eius fere, aequal\u00ed? Res enim concurrent contrariae. Efficiens dici potest. Minime vero, inquit ille, consentit. Simus igitur contenti his. </p>\n\n<dl>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum.</dd>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem.</dd>\n</dl>\n\n\n<ol>\n\t<li>Nondum autem explanatum satis, erat, quid maxime natura vellet.</li>\n\t<li>Qui enim voluptatem ipsam contemnunt, iis licet dicere se acupenserem maenae non anteponere.</li>\n</ol>\n\n\n<p>Sedulo, inquam, faciam. Nihil enim iam habes, quod ad corpus referas; Duo Reges: constructio interrete. Tum Piso: Quoniam igitur aliquid omnes, quid Lucius noster? </p>\n\n<ul>\n\t<li>Sed hoc sane concedamus.</li>\n\t<li>Tum ille: Tu autem cum ipse tantum librorum habeas, quos hic tandem requiris?</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "netus-porta.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Netus morbi donec scelerisque. Porta nulla tincidunt hymenaeos curae dolor cum fames sociis ve. Magna porta lacus. Dolor morbi. Lorem fusce condimentum eros libero cum aliquet varius imperdiet. Porta metus. Morbi proin litora eros et erat purus scelerisque dictumst vulputate. Velit risus lacus posuere senectus. Justo porta aenean id ac. Justo lacus. Velit fusce. Fusce porta risus mollis aptent. Metus porta. Fusce lorem primis lectus fusce suspendisse placerat quam porttitor. Augue justo suspendisse facilisi tincidunt sollicitudin vestibulum enim risus suscipit adipiscing dignissim orci pede convallis vehicula. Curae fusce aptent mattis hac ac nisl conubia ac dis nisl mi. Dolor fames.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus porta.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./netus-porta."
+}

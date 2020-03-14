@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/12 08:20:13.372571 GMT-4",
+    "endDate": "2018/11/13 10:32:38.486221 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Vide, quaeso, rectumne sit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ALIO MODO. Sedulo, inquam, faciam. </p>\n\n<pre>\nQuid interest, nisi quod ego res notas notis verbis appello,\nilli nomina nova quaerunt, quibus idem dicant?\n\nIntroduci enim virtus nullo modo potest, nisi omnia, quae\nleget quaeque reiciet, unam referentur ad summam.\n</pre>\n\n\n<p>Faceres tu quidem, Torquate, haec omnia; <code>Ratio enim nostra consentit, pugnat oratio.</code> </p>\n\n<ol>\n\t<li>Ut placet, inquit, etsi enim illud erat aptius, aequum cuique concedere.</li>\n\t<li>Et non ex maxima parte de tota iudicabis?</li>\n\t<li>Primum quid tu dicis breve?</li>\n\t<li>Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Sed fortuna fortis;</dfn></dt>\n\t<dd>Nec vero sum nescius esse utilitatem in historia, non modo voluptatem.</dd>\n\t<dt><dfn>Hunc vos beatum;</dfn></dt>\n\t<dd>Nam aliquando posse recte fieri dicunt nulla expectata nec quaesita voluptate.</dd>\n</dl>\n\n\n<ul>\n\t<li>Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest.</li>\n\t<li>Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam;</li>\n\t<li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>\n\t<li>Transfer idem ad modestiam vel temperantiam, quae est moderatio cupiditatum rationi oboediens.</li>\n</ul>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Quid de Pythagora? Praeteritis, inquit, gaudeo. Si longus, levis dictata sunt. Memini vero, inquam; Num quid tale Democritus? </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:48.243600 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "ba0a79f3554c43e9b6cdfa8c0443b1db",
+    "expirationDate": "None",
+    "contactName": "Magna neque quis mauris cum feugiat ultrices odio penatibus nostra praesent.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Augue felis.",
+    "id": "vitae-class-natoque.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.202379 GMT-4",
+    "title": "Vitae class natoque.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae massa vehicula vitae magnis parturient fames.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Curae magna conubia habitasse sapien. Lacus curae morbi tortor ut accumsan. Class fames quis nisl consequat nascetur. Neque lacus elit ad eget integer tincidunt et hendrerit. Felis metus iaculis euismod. Dolor neque blandit sociosqu donec id aenean. Curae velit mus nisi proin. Risus curae aptent fusce augue nisi rutrum lacinia ad libero. Netus lacus arcu leo pretium. Magna ipsum donec a. Neque fusce. Velit felis egestas habitasse mi ultricies a fusce. Velit neque sociis vulputate conubia pellentesque egestas dignissim maecenas orci et arcu. Dolor metus nam vitae quis. Purus netus a ornare elit. Risus augue litora metus. Morbi massa pretium platea dui cras.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:48.246741 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.213916 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "vitae-class-natoque.",
+    "modification_date": "2018/10/26 13:51:42.202631 GMT-4",
+    "language": "en",
+    "rights": "Donec etiam hac ultricies lectus vitae parturient senectus. Magna velit. Lacus dolor quisque lacus ac ipsum velit per. Etiam class litora mi pede. Risus donec class proin risus. Magna massa mattis purus. Proin class rutrum quis tortor at. Massa lacus nam adipiscing dolor diam suspendisse natoque est. Magna nulla gravida mattis sem eget dictumst a vehicula ante. Massa class orci. Felis class vel lorem quam sapien ad faucibus lectus aliquam nibh eros donec. Dolor neque cursus cras mollis lorem montes ligula etiam. Augue massa taciti et massa. Risus curae vehicula odio malesuada congue dolor hendrerit sem.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae class natoque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 61,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/vitae-class-natoque."
+}

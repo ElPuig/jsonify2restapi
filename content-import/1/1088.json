@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:13.523440 GMT-4",
+    "_uid": "e5afad6aa4594f59b1642cfbcb5f91e3",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "purus-metus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:13.573453 GMT-4",
+    "title": "Purus metus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Massa neque ipsum non faucibus dolor in ad leo felis adipiscing at hendrerit enim.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fames vitae volutpat. Risus magna senectus eu cum eu porta. Felis lacus eget condimentum feugiat. Dolor magna torquent proin mi diam quis felis integer odio sociis. Purus etiam semper adipiscing consectetuer viverra nisi dolor enim dictum nec cursus gravida leo. Fusce ipsum interdum magna tellus scelerisque dolor ligula magnis. Lacus massa semper facilisi posuere pede. Velit class enim blandit ve amet nascetur lacus nibh condimentum. Vitae dolor nisi nostra in nibh elit. Netus donec hac pede pellentesque ut curae lacus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.377699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.696020 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "vel..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "purus-metus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lacus massa natoque montes ve arcu. Dolor nulla hymenaeos orci cursus ultricies dictumst sapien pede nunc vehicula. Purus felis aliquet conubia elementum diam. Etiam ipsum lorem lacus semper etiam. Risus augue pretium imperdiet auctor parturient sollicitudin lacinia etiam porta. Class lacus nisi scelerisque conubia. Netus dolor congue sociis sit quis pede mi dui curabitur cursus. Felis velit pede. Donec morbi. Lorem metus luctus ac congue duis vel pellentesque varius taciti. Fames donec facilisis condimentum massa. Etiam nulla scelerisque arcu venenatis sollicitudin parturient quis dolor ridiculus fusce ve curabitur donec. Class porta. Netus ipsum. Nulla lorem nam amet dis fames aliquam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Purus metus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./purus-metus."
+}

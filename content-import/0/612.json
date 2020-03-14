@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:14.417165 GMT-4",
+    "_uid": "075170e2d958495da0c98be78f439ebe",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "etiam-fusce-semper-nulla-tempor-magna-vivamus-aptent-id-mi-ac.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:15.329994 GMT-4",
+    "title": "Etiam fusce semper nulla tempor magna vivamus aptent id mi ac.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus fusce primis congue dui.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Risus dolor rutrum vestibulum class pede. Lorem porta nibh at odio vulputate. Justo magna mauris pharetra imperdiet eget habitasse pellentesque aliquam hymenaeos senectus class. Fusce fames rutrum quis cras leo porta consequat. Justo lacus fames cum duis a nisl ve sapien netus hendrerit quis nam leo. Vitae massa laoreet cursus lacus nisl dapibus ut eget lobortis interdum morbi ac. Morbi fames lectus vestibulum. Donec fusce sem odio non cum consectetuer ve massa. Justo dolor hac nisl nisi quis placerat augue rhoncus montes nam interdum. Morbi velit. Curae dolor libero curae laoreet vitae. Fames vitae cum nostra laoreet. Velit metus enim ut. Proin magna condimentum leo. Donec neque sed odio nam ante sit purus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:14.422641 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:15.325438 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Rationis enim perfectio est virtus;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et non ex maxima parte de tota iudicabis? Quodcumque in mentem incideret, et quodcumque tamquam occurreret. Et ille ridens: Video, inquit, quid agas; <a href='http://loripsum.net/' target='_blank'>Velut ego nunc moveor.</a> At hoc in eo M. Nihil opus est exemplis hoc facere longius. Sed ille, ut dixi, vitiose. </p>\n\n<ul>\n\t<li>Quid enim de amicitia statueris utilitatis causa expetenda vides.</li>\n\t<li>Itaque his sapiens semper vacabit.</li>\n\t<li>Sed eum qui audiebant, quoad poterant, defendebant sententiam suam.</li>\n</ul>\n\n\n<p>Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris. Sed nimis multa. Quo tandem modo? Ut aliquid scire se gaudeant? Facillimum id quidem est, inquam. Sed plane dicit quod intellegit. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> <a href='http://loripsum.net/' target='_blank'>Pollicetur certe.</a> Satis est ad hoc responsum. Torquatus, is qui consul cum Cn. </p>\n\n<ol>\n\t<li>Nihil sane.</li>\n\t<li>Stoici autem, quod finem bonorum in una virtute ponunt, similes sunt illorum;</li>\n\t<li>Nam, ut paulo ante docui, augendae voluptatis finis est doloris omnis amotio.</li>\n\t<li>Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Magna laus.</dfn></dt>\n\t<dd>Ad eos igitur converte te, quaeso.</dd>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest.</dd>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Quis hoc dicit?</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "etiam-fusce-semper-nulla-tempor-magna-vivamus-aptent-id-mi-ac.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Magna risus integer ac ornare mi convallis duis. Ipsum lorem ornare ut. Porta lorem amet vivamus ac lectus vulputate leo laoreet id posuere erat habitant. Lacus justo aenean nam vestibulum ad ridiculus condimentum penatibus. Ipsum justo lectus dui nostra pulvinar ultricies nisl scelerisque in mattis mus posuere vel iaculis. Dolor lacus. Class lorem. Porta dolor luctus ad habitant purus ac vel lorem. Magna class turpis habitant class justo quis cubilia curabitur nullam nascetur parturient potenti per congue.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Etiam fusce semper nulla tempor magna vivamus aptent id mi ac.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./etiam-fusce-semper-nulla-tempor-magna-vivamus-aptent-id-mi-ac."
+}

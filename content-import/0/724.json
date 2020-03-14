@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quare attende, quaeso.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Restatis igitur vos; Itaque hic ipse iam pridem est reiectus; Tollenda est atque extrahenda radicitus. <a href='http://loripsum.net/' target='_blank'>Minime vero, inquit ille, consentit.</a> Dici enim nihil potest verius. Nos vero, inquit ille; </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>ALIO MODO. Duo enim genera quae erant, fecit tria. Certe, nisi voluptatem tanti aestimaretis. Quo igitur, inquit, modo? Hic ambiguo ludimur. Ecce aliud simile dissimile. </p>\n\n<ol>\n\t<li>Num igitur utiliorem tibi hunc Triarium putas esse posse, quam si tua sint Puteolis granaria?</li>\n\t<li>Quis animo aequo videt eum, quem inpure ac flagitiose putet vivere?</li>\n\t<li>Quamquam te quidem video minime esse deterritum.</li>\n</ol>\n\n\n<p>Confecta res esset. Minime vero, inquit ille, consentit. <a href='http://loripsum.net/' target='_blank'>Ergo hoc quidem apparet, nos ad agendum esse natos.</a> <a href='http://loripsum.net/' target='_blank'>Simus igitur contenti his.</a> At certe gravius. Conferam tecum, quam cuique verso rem subicias; <a href='http://loripsum.net/' target='_blank'>Aliter homines, aliter philosophos loqui putas oportere?</a> Tria genera bonorum; </p>\n\n<dl>\n\t<dt><dfn>Sed fortuna fortis;</dfn></dt>\n\t<dd>Quippe: habes enim a rhetoribus;</dd>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Ex eorum enim scriptis et institutis cum omnis doctrina liberalis, omnis historia.</dd>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Res tota, Torquate, non doctorum hominum, velle post mortem epulis celebrari memoriam sui nominis.</dd>\n\t<dt><dfn>Quonam, inquit, modo?</dfn></dt>\n\t<dd>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</dd>\n\t<dt><dfn>Ne discipulum abducam, times.</dfn></dt>\n\t<dd>Age nunc isti doceant, vel tu potius quis enim ista melius?</dd>\n</dl>\n\n\n<ul>\n\t<li>Restinguet citius, si ardentem acceperit.</li>\n\t<li>Cur igitur easdem res, inquam, Peripateticis dicentibus verbum nullum est, quod non intellegatur?</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 17:59:4.114727 GMT-4",
+    "imageCaption": "Metus porta nulla eros.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "vitae-velit.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:4.441776 GMT-4",
+    "title": "Vitae velit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Magna metus arcu nam penatibus vel convallis lacinia dictum tortor hac.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Class purus aliquet nam facilisi nulla vel duis adipiscing ut placerat feugiat tincidunt. Curae proin tempor consequat lobortis eros magnis sem dapibus. Morbi porta bibendum cras faucibus vel. Augue vitae nullam auctor vivamus. Risus magna. Lorem netus. Augue massa semper augue fringilla laoreet purus metus velit rutrum lobortis facilisis class amet suspendisse integer. Metus proin viverra gravida. Neque porta sociis ut enim et lobortis. Porta justo nulla rhoncus dictum fames erat egestas id at aenean. Etiam ipsum torquent ac varius nonummy ac nisi ante mattis blandit taciti orci ac orci. Lacus massa fusce.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:4.118297 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:4.437334 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "vitae-velit.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Felis purus suspendisse in nostra at. Proin ipsum tempus pellentesque habitasse nulla a eros adipiscing porttitor ullamcorper est. Neque justo varius ve torquent cum. Massa dolor. Donec felis habitasse inceptos curae. Purus netus magnis egestas consequat id. Metus lorem ligula inceptos quam vehicula imperdiet. Neque fames aptent tristique nulla augue nibh dolor.",
+    "_content_type_description": "text/plain",
+    "_uid": "23571526498c49a49c00698ffe188f6e",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae velit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 64,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./vitae-velit."
+}

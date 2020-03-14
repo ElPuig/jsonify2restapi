@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:12.608725 GMT-4",
+    "_uid": "a447121bbd2d4aae90286bb4a7a1ba4c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-purus-dictum-platea-facilisis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:12.659906 GMT-4",
+    "title": "Netus purus dictum platea facilisis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Felis velit morbi maecenas nisi varius mi etiam at nisl at.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Dolor justo cum lorem dui. Velit donec. Felis class nonummy urna vel. Netus augue condimentum eni ac. Felis porta class. Fames class urna. Netus justo erat semper et pharetra. Velit class pede suspendisse mus elit eni odio a. Vitae velit lectus eu senectus sociis habitant egestas habitasse urna scelerisque viverra metus. Class porta taciti nunc nullam posuere habitasse sagittis ac. Felis ipsum vitae. Ipsum morbi mauris mollis sed duis dignissim ac congue sagittis id massa proin nec nisi eu vitae ve hendrerit eros duis. Curae felis. Neque proin est curae adipiscing ullamcorper mattis at hac ullamcorper.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.494394 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.810314 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "sapien..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "netus-purus-dictum-platea-facilisis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Purus neque egestas eget urna curae amet mus purus ultricies eros mus fusce vel nunc dui ut pharetra. Curae class est nulla sociis parturient pellentesque aliquet. Fusce donec eni orci taciti in eu. Netus metus scelerisque ut taciti per cum et fusce scelerisque. Lorem netus conubia est at feugiat. Porta donec lectus dolor scelerisque nam nullam. Curae lacus viverra nascetur. Dolor netus. Magna metus ullamcorper odio urna mauris eleifend. Purus magna sociosqu parturient tellus odio curae dictum et.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Netus purus dictum platea facilisis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./netus-purus-dictum-platea-facilisis."
+}

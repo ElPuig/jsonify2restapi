@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Minime id quidem, inquam, alienum, multumque ad ea, quae quaerimus, explicatio tua ista profecerit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Quid autem habent admirationis, cum prope accesseris?</a> Erit enim mecum, si tecum erit. Bonum valitudo: miser morbus. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Respondent extrema primis, media utrisque, omnia omnibus. Duo Reges: constructio interrete. </p>\n\n<ul>\n\t<li>Illa videamus, quae a te de amicitia dicta sunt.</li>\n\t<li>Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet.</li>\n\t<li>Memini me adesse P.</li>\n\t<li>Quod ea non occurrentia fingunt, vincunt Aristonem;</li>\n\t<li>Ne tum quidem te respicies et cogitabis sibi quemque natum esse et suis voluptatibus?</li>\n\t<li>Itaque a sapientia praecipitur se ipsam, si usus sit, sapiens ut relinquat.</li>\n</ul>\n\n\n<p>Quae contraria sunt his, malane? Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href='http://loripsum.net/' target='_blank'>At, si voluptas esset bonum, desideraret.</a> Quonam, inquit, modo? </p>\n\n<ol>\n\t<li>Post enim Chrysippum eum non sane est disputatum.</li>\n\t<li>Nulla profecto est, quin suam vim retineat a primo ad extremum.</li>\n\t<li>Est enim effectrix multarum et magnarum voluptatum.</li>\n\t<li>Sed potestne rerum maior esse dissensio?</li>\n\t<li>Etenim semper illud extra est, quod arte comprehenditur.</li>\n\t<li>Laelius clamores sof\u00f2w ille so lebat Edere compellans gumias ex ordine nostros.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Hic ambiguo ludimur.</dfn></dt>\n\t<dd>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Respondent extrema primis, media utrisque, omnia omnibus.</dd>\n</dl>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Tubulo putas dicere?</a> Sic enim censent, oportunitatis esse beate vivere. Expectoque quid ad id, quod quaerebam, respondeas. Eadem nunc mea adversum te oratio est. </p>\n\n",
+    "creation_date": "2018/10/26 18:02:29.398373 GMT-4",
+    "imageCaption": "Porta proin sed aptent in ultrices.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "augue-metus-dapibus-ante-justo-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:29.736070 GMT-4",
+    "title": "Augue metus dapibus ante justo morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Felis metus vehicula ut suspendisse eget imperdiet id auctor fermentum facilisis etiam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Curae dolor molestie cum ve porttitor parturient urna. Velit fames varius leo parturient morbi ante ultrices parturient aptent velit pretium. Velit felis sem sagittis habitasse pede vel eros adipiscing. Felis dolor sit ante. Etiam nulla ligula. Justo felis augue senectus ad platea aliquet cras parturient aptent. Fames curae sem dis pellentesque massa. Felis velit. Donec lorem a pretium ve dictumst leo luctus a vestibulum cum vitae. Neque porta a aenean nunc dui netus malesuada gravida morbi vel libero. Lorem morbi cum cursus proin vestibulum aliquam urna nisi. Nulla magna ante pharetra consectetuer tellus ad pharetra nisi eleifend a pulvinar non.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:29.402278 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:29.731480 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "augue-metus-dapibus-ante-justo-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lorem vitae accumsan eget nibh sit nonummy molestie montes volutpat parturient. Ipsum etiam purus mauris massa parturient torquent.",
+    "_content_type_description": "text/plain",
+    "_uid": "61e256df341d477bacb9382bc20ff4fd",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue metus dapibus ante justo morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 65,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./augue-metus-dapibus-ante-justo-morbi."
+}

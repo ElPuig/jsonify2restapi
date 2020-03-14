@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/26 13:53:54.322938 GMT-4",
+    "endDate": "2018/10/28 07:37:23.543715 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Igitur neque stultorum quisquam beatus neque sapientium non beatus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Quis hoc dicit? Iam id ipsum absurdum, maximum malum neglegi. Age, inquies, ista parva sunt. Prioris generis est docilitas, memoria; Quonam, inquit, modo? </p>\n\n<pre>\nIstud quidem, inquam, optime dicis, sed quaero nonne tibi\nfaciendum idem sit nihil dicenti bonum, quod non rectum\nhonestumque sit, reliquarum rerum discrimen omne tollenti.\n\nEt ille ridens: Video, inquit, quid agas;\n</pre>\n\n\n<dl>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Hic Speusippus, hic Xenocrates, hic eius auditor Polemo, cuius illa ipsa sessio fuit, quam videmus.</dd>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>An me, inquam, nisi te audire vellem, censes haec dicturum fuisse?</dd>\n</dl>\n\n\n<ol>\n\t<li>Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis.</li>\n\t<li>Quaerimus enim finem bonorum.</li>\n\t<li>Quodcumque in mentem incideret, et quodcumque tamquam occurreret.</li>\n\t<li>Sit hoc ultimum bonorum, quod nunc a me defenditur;</li>\n</ol>\n\n\n<p>Laboro autem non sine causa; Facillimum id quidem est, inquam. <code>Videamus animi partes, quarum est conspectus illustrior;</code> Sint ista Graecorum; </p>\n\n<p>A mene tu? Quid de Platone aut de Democrito loquar? Si longus, levis; Bonum liberi: misera orbitas. Nulla erit controversia. An tu me de L. </p>\n\n<ul>\n\t<li>Sumenda potius quam expetenda.</li>\n\t<li>Quid est, quod ab ea absolvi et perfici debeat?</li>\n\t<li>A villa enim, credo, et: Si ibi te esse scissem, ad te ipse venissem.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:50:18.985913 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "1266c02c3bf24cbe8ea9aa0ae4906b4b",
+    "expirationDate": "None",
+    "contactName": "Fusce velit.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Donec proin.",
+    "id": "justo-porta-quis-molestie.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:44.391008 GMT-4",
+    "title": "Justo porta quis molestie.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae ipsum risus lectus eget nisi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Porta felis eni pede diam venenatis. Fames lorem condimentum suscipit. Lorem class aptent ac neque nisl porta. Class netus etiam a montes magna in semper curae. Curae vitae varius aenean sem vivamus ligula congue ve. Justo magna. Class lorem facilisis eleifend tortor sapien ut torquent. Lorem augue nec arcu consectetuer id fusce platea id primis praesent. Netus risus tortor aptent sem ante per porta pretium. Augue donec ornare ridiculus. Class porta curae a nisi. Morbi ipsum arcu suscipit. Morbi justo.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:50:18.991087 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:44.403027 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "justo-porta-quis-molestie.",
+    "modification_date": "2018/10/26 13:51:44.391261 GMT-4",
+    "language": "en",
+    "rights": "Porta felis sem nec sollicitudin id aliquam ac suscipit dui netus fringilla. Purus donec nostra venenatis sit. Porta donec dictumst sit erat cum non sit nec egestas at urna convallis. Augue proin nullam parturient. Risus purus erat purus phasellus cum dolor consequat. Donec proin quis ullamcorper quisque netus ve mus. Fames massa ultrices diam. Purus curae. Porta neque. Fusce morbi augue bibendum nulla elementum. Lacus donec auctor sociis fringilla penatibus vestibulum egestas per. Porta purus nec maecenas consequat eget diam eros natoque tristique eros nibh netus lacinia commodo.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo porta quis molestie.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 144,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/justo-porta-quis-molestie."
+}

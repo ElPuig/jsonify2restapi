@@ -1,0 +1,77 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:18.992296 GMT-4",
+    "_uid": "eccc9038a9034c6da95a2a834cee476d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-donec-duis-sociosqu-duis-dis.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:19.065474 GMT-4",
+    "title": "Curae donec duis sociosqu duis dis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Curae risus mauris neque suscipit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Justo donec. Donec dolor diam leo lorem sit urna primis habitasse in penatibus eget mus cras et consectetuer. Augue massa sociosqu elementum nisi scelerisque aliquet sem. Metus magna. Dolor curae. Dolor nulla eros velit suscipit adipiscing dictum sem inceptos vulputate at varius ac. Vitae fames. Curae porta massa volutpat et taciti maecenas ultricies. Ipsum nulla. Porta dolor etiam dui eget sociis habitant. Vitae justo est urna viverra. Lorem risus dis pede elit.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "sodales..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "curae-donec-duis-sociosqu-duis-dis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta augue posuere pretium rutrum ad velit mattis vestibulum massa. Massa dolor nullam donec rhoncus malesuada nisl scelerisque ut. Massa felis. Augue dolor euismod torquent vitae nunc. Netus magna penatibus vitae fusce per senectus fames gravida. Donec curae dis dolor aliquam litora sit commodo faucibus euismod arcu ac. Morbi nulla. Nulla justo eget massa tempus neque sodales quisque nibh eleifend condimentum inceptos ipsum. Fusce purus augue elit in metus elementum nam. Risus velit varius lorem urna etiam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Curae donec duis sociosqu duis dis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/curae-donec-duis-sociosqu-duis-dis."
+}

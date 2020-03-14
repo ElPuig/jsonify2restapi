@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:51.153263 GMT-4",
+    "_uid": "618134a1f0b64afd8cb97f6005bc0406",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-metus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:51.205669 GMT-4",
+    "title": "Lorem metus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Velit magna eleifend augue vitae montes cursus gravida conubia cursus hac rutrum mi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Ipsum vitae a blandit ad eni condimentum commodo. Vitae magna. Porta magna. Risus ipsum aptent. Netus neque nunc praesent est odio hac eget congue. Curae lorem ultrices in curae eu ut lacus turpis suspendisse. Metus vitae aptent scelerisque. Metus felis. Augue risus mus. Magna augue hendrerit morbi ad cum ut vehicula nec gravida. Morbi lorem condimentum faucibus euismod lorem non. Justo lorem morbi porta tempus in. Nulla morbi leo orci. Lorem lacus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "luctus..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lorem-metus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Curae dolor taciti aptent placerat adipiscing integer. Ipsum curae lobortis non eros ad leo nisl eu. Magna purus quis eni morbi vestibulum ad. Massa netus mauris tempus lacus. Magna porta. Netus velit ornare proin at litora est conubia eleifend etiam a feugiat. Class vitae amet feugiat quis neque blandit ve erat. Lacus metus sit nulla risus quis pulvinar tellus volutpat. Lacus etiam magnis tristique sociosqu urna vivamus nisl mollis tellus phasellus cum lorem fames per risus varius. Magna lacus. Neque nulla interdum justo urna cras sed nam vel. Velit augue donec eni amet cras donec. Lacus class congue consectetuer tristique morbi. Lorem curae magna hymenaeos ullamcorper magna curabitur ipsum vulputate ad fermentum proin. Neque felis bibendum consequat sagittis dolor class amet.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lorem metus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./lorem-metus."
+}

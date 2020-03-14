@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Hunc vos beatum;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed residamus, inquit, si placet. Minime vero istorum quidem, inquit. Quamquam te quidem video minime esse deterritum. Honesta oratio, Socratica, Platonis etiam. Duo Reges: constructio interrete. </p>\n\n<ul>\n\t<li>An est aliquid per se ipsum flagitiosum, etiamsi nulla comitetur infamia?</li>\n\t<li>At Zeno eum non beatum modo, sed etiam divitem dicere ausus est.</li>\n\t<li>Sin te auctoritas commovebat, nobisne omnibus et Platoni ipsi nescio quem illum anteponebas?</li>\n\t<li>Infinitio ipsa, quam apeirian vocant, tota ab illo est, tum innumerabiles mundi, qui et oriantur et intereant cotidie.</li>\n</ul>\n\n\n<ol>\n\t<li>Si longus, levis;</li>\n\t<li>Negat enim summo bono afferre incrementum diem.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Stoicos roga.</dfn></dt>\n\t<dd>Iubet igitur nos Pythius Apollo noscere nosmet ipsos.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Videamus animi partes, quarum est conspectus illustrior;</dd>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Theophrastum tamen adhibeamus ad pleraque, dum modo plus in virtute teneamus, quam ille tenuit, firmitatis et roboris.</dd>\n\t<dt><dfn>Praeclare hoc quidem.</dfn></dt>\n\t<dd>Quorum altera prosunt, nocent altera.</dd>\n</dl>\n\n\n<p>Facillimum id quidem est, inquam. Omnes enim iucundum motum, quo sensus hilaretur. Facete M. Nihil ad rem! Ne sit sane; </p>\n\n<h2>Quia nec honesto quic quam honestius nec turpi turpius.</h2>\n\n<p>Sed nunc, quod agimus; Itaque fecimus. </p>\n\n",
+    "creation_date": "2018/10/26 18:01:6.395737 GMT-4",
+    "imageCaption": "Etiam purus.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "massa-dolor-etiam-erat-semper-rutrum-natoque.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:6.721117 GMT-4",
+    "title": "Massa dolor etiam erat semper rutrum natoque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus proin hymenaeos dapibus nullam non rhoncus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Velit fames nec nisl mi metus phasellus leo aliquet litora nam dapibus netus. Purus dolor. Donec purus sodales cubilia commodo malesuada pede potenti ac justo tempor velit bibendum curabitur arcu vivamus blandit fringilla nibh eros nec. Lorem fames mollis parturient maecenas odio. Fames ipsum integer dignissim urna. Nulla fusce condimentum id dictum class inceptos netus consectetuer proin eu auctor sed. Purus metus nisl platea ad arcu. Metus ipsum. Augue fusce. Massa magna.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:6.399295 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:6.717066 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "massa-dolor-etiam-erat-semper-rutrum-natoque.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae augue massa sociis tellus est habitant. Etiam metus viverra ac quam sociosqu faucibus velit vulputate sociosqu ac semper mus. Augue nulla tortor. Netus curae enim cubilia a ullamcorper cum mollis proin habitant sem cras. Metus ipsum porta leo duis elit. Etiam justo scelerisque ve congue ve nascetur velit ve a. Metus fames mauris cras pede laoreet proin fames. Proin fusce ultrices nunc. Fames class leo duis. Donec porta mattis maecenas molestie eu. Neque purus magnis consectetuer nonummy eros. Justo porta. Proin fusce duis cum posuere ultrices taciti. Neque nulla dictum proin at. Justo purus mauris ut mus cras rutrum vestibulum sollicitudin vivamus felis eu tellus.",
+    "_content_type_description": "text/plain",
+    "_uid": "c037fbaa3b1e4934ae3755b341f26410",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Massa dolor etiam erat semper rutrum natoque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 65,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./massa-dolor-etiam-erat-semper-rutrum-natoque."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae duo sunt, unum facit. Qui est in parvis malis. </p>\n\n<ol>\n\t<li>Aliter homines, aliter philosophos loqui putas oportere?</li>\n\t<li>Quorum omnium quae sint notitiae, quae quidem significentur rerum vocabulis, quaeque cuiusque vis et natura sit mox videbimus.</li>\n</ol>\n\n\n<p>Ecce aliud simile dissimile. Duo Reges: constructio interrete. Quae cum dixisset paulumque institisset, Quid est? Tria genera bonorum; Inde sermone vario sex illa a Dipylo stadia confecimus. Quibusnam praeteritis? </p>\n\n<p>Respondeat totidem verbis. Primum quid tu dicis breve? </p>\n\n<dl>\n\t<dt><dfn>Beatum, inquit.</dfn></dt>\n\t<dd>Ita fit beatae vitae domina fortuna, quam Epicurus ait exiguam intervenire sapienti.</dd>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest.</dd>\n\t<dt><dfn>Sed ad rem redeamus;</dfn></dt>\n\t<dd>Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest.</dd>\n</dl>\n\n\n<ul>\n\t<li>Nec vero sum nescius esse utilitatem in historia, non modo voluptatem.</li>\n\t<li>Res enim concurrent contrariae.</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 18:03:31.504998 GMT-4",
+    "imageCaption": "Class donec sodales feugiat.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-donec.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:31.836534 GMT-4",
+    "title": "Lorem donec.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi purus ultrices porta at dolor libero lectus risus iaculis pede consequat placerat platea volutpat.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Felis fusce per est per sollicitudin dolor nunc. Felis ipsum sit urna pellentesque sagittis neque eu suscipit libero. Ipsum lorem sapien. Magna neque elit nam ligula natoque vel conubia. Felis massa dictum enim tellus porttitor at litora. Purus augue tortor adipiscing fusce diam per. Fames ipsum orci sem a. Dolor massa risus faucibus risus id. Netus augue. Purus netus morbi quis taciti sodales ut vehicula conubia sapien enim turpis cum parturient. Nulla etiam urna imperdiet ut suspendisse nibh vulputate tempor volutpat. Etiam felis. Nulla dolor porta massa orci.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:31.509537 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:31.833145 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "lorem-donec.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lacus purus lorem ipsum metus amet nonummy lacus in. Class donec dui primis dui nunc pede leo torquent justo libero est. Etiam proin a gravida mi velit sapien orci imperdiet mus. Neque magna arcu integer euismod vivamus mauris leo semper libero. Curae class felis leo urna fusce mollis id mattis lacinia. Proin fusce velit libero etiam aliquet lobortis. Neque magna netus sed enim id felis. Metus class sapien. Velit lorem fermentum. Fusce morbi. Etiam felis. Felis nulla nibh dapibus at curabitur a sem ridiculus proin in luctus euismod lacinia amet pede per iaculis platea amet. Magna augue magnis cursus. Lacus massa tempor parturient sollicitudin lacinia. Metus curae proin ornare non adipiscing ac ornare. Felis neque accumsan vitae habitasse venenatis fames augue.",
+    "_content_type_description": "text/plain",
+    "_uid": "0d1c0ba630e6415bacf645ba06b43a76",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem donec.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./lorem-donec."
+}

@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/21 10:49:53.022897 GMT-4",
+    "endDate": "2018/10/23 22:31:39.062183 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quod cum dixissent, ille contra.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae ista amicitia est? Compensabatur, inquit, cum summis doloribus laetitia. Tollenda est atque extrahenda radicitus. </p>\n\n<ol>\n\t<li>Sed potestne rerum maior esse dissensio?</li>\n\t<li>Quae sunt igitur communia vobis cum antiquis, iis sic utamur quasi concessis;</li>\n\t<li>Illum mallem levares, quo optimum atque humanissimum virum, Cn.</li>\n\t<li>Earum etiam rerum, quas terra gignit, educatio quaedam et perfectio est non dissimilis animantium.</li>\n\t<li>Equidem etiam Epicurum, in physicis quidem, Democriteum puto.</li>\n\t<li>Hoc ille tuus non vult omnibusque ex rebus voluptatem quasi mercedem exigit.</li>\n</ol>\n\n\n<p>Tenent mordicus. Mihi, inquam, qui te id ipsum rogavi? </p>\n\n<ul>\n\t<li>In motu et in statu corporis nihil inest, quod animadvertendum esse ipsa natura iudicet?</li>\n\t<li>Sed quot homines, tot sententiae;</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>Sunt enim prima elementa naturae, quibus auctis v\u00edrtutis quasi germen efficitur.</dd>\n\t<dt><dfn>Quae sequuntur igitur?</dfn></dt>\n\t<dd>Audio equidem philosophi vocem, Epicure, sed quid tibi dicendum sit oblitus es.</dd>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Cur iustitia laudatur?</dd>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Idemne potest esse dies saepius, qui semel fuit?</dd>\n</dl>\n\n\n<p>Ea possunt paria non esse. Quid est enim aliud esse versutum? Tum Triarius: Posthac quidem, inquit, audacius. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Ne in odium veniam, si amicum destitero tueri. Quid de Platone aut de Democrito loquar? </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 18:02:12.382261 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "75f85bf8d8614798b26e779d89ab5dc3",
+    "expirationDate": "None",
+    "contactName": "Fames metus tellus sapien eleifend.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Velit curae cursus.",
+    "id": "fusce-justo-arcu-amet-netus.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Fusce justo arcu amet netus.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus magna.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Fusce ipsum. Massa fames nunc venenatis at fusce scelerisque suscipit erat rhoncus dapibus odio parturient imperdiet lacus. Massa lorem ornare ve. Neque magna metus pharetra. Velit lacus sem duis potenti ante. Felis metus luctus nullam morbi rutrum natoque commodo. Neque lorem justo metus libero id enim imperdiet. Augue metus. Magna nulla blandit aliquam fusce elit sem fusce lacus. Curae proin lacus nulla aliquet pede curae ve.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:12.386570 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:12.719697 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "fusce-justo-arcu-amet-netus.",
+    "modification_date": "2018/10/26 18:02:12.723484 GMT-4",
+    "language": "en",
+    "rights": "Magna fames turpis senectus tristique a ridiculus metus eu sapien etiam. Risus proin. Curae fusce. Fames ipsum nostra lectus faucibus erat sit amet pede massa turpis netus adipiscing molestie cras aliquam. Porta magna. Porta purus volutpat metus at nulla non. Metus etiam pulvinar justo. Fames augue semper platea lobortis per nibh ut. Massa purus quam vulputate sem. Ipsum dolor congue tortor natoque ut. Lacus metus porta sed duis suscipit. Ipsum magna nascetur sem nostra vitae aliquet nunc ad ipsum. Augue porta euismod erat cum tellus facilisis. Vitae dolor ante rhoncus iaculis nibh cursus convallis ut nulla. Vitae fusce dictum litora est vestibulum tincidunt nisl turpis ligula. Dolor proin mollis et elit mollis facilisis. Curae lacus nisl vel.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce justo arcu amet netus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 19,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./fusce-justo-arcu-amet-netus."
+}

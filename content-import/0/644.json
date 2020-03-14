@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Hoc mihi cum tuo fratre convenit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita credo. Duo Reges: constructio interrete. </p>\n\n<h2>Sed vos squalidius, illorum vides quam niteat oratio.</h2>\n\n<p>Iam contemni non poteris. Ubi ut eam caperet aut quando? Sed erat aequius Triarium aliquid de dissensione nostra iudicare. Non autem hoc: igitur ne illud quidem. At eum nihili facit; Quippe: habes enim a rhetoribus; </p>\n\n<ol>\n\t<li>Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est.</li>\n\t<li>Polycratem Samium felicem appellabant.</li>\n\t<li>Ut placet, inquit, etsi enim illud erat aptius, aequum cuique concedere.</li>\n</ol>\n\n\n<ul>\n\t<li>Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit.</li>\n\t<li>Quid de Pythagora?</li>\n\t<li>Quamquam in hac divisione rem ipsam prorsus probo, elegantiam desidero.</li>\n</ul>\n\n\n<p>Praeclarae mortes sunt imperatoriae; Ratio quidem vestra sic cogit. Nam de isto magna dissensio est. </p>\n\n<dl>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes.</dd>\n\t<dt><dfn>Sint ista Graecorum;</dfn></dt>\n\t<dd>Non enim, si omnia non sequebatur, idcirco non erat ortus illinc.</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Nec vero alia sunt quaerenda contra Carneadeam illam sententiam.</dd>\n\t<dt><dfn>Praeclare hoc quidem.</dfn></dt>\n\t<dd>Quae duo sunt, unum facit.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:58:25.277005 GMT-4",
+    "imageCaption": "Massa risus.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-metus-magnis-interdum-duis-litora.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:25.631883 GMT-4",
+    "title": "Fusce metus magnis interdum duis litora.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Massa justo semper scelerisque lorem consequat dis posuere.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Velit vitae nisi cursus. Neque netus. Donec morbi scelerisque senectus risus maecenas in scelerisque ut montes lobortis. Donec fames nisl elit potenti mi orci mi erat facilisis mattis a facilisi diam mattis et. Velit magna. Magna morbi lorem tristique eu convallis a. Etiam magna. Massa fames a feugiat tellus morbi suspendisse. Vitae curae netus. Ipsum morbi accumsan porta nisl facilisis praesent ante magnis faucibus arcu placerat leo. Felis nulla.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:25.281057 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:25.628090 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "fusce-metus-magnis-interdum-duis-litora.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta metus tristique eleifend urna aptent. Porta augue eget cubilia morbi adipiscing faucibus. Vitae risus diam placerat massa. Fusce proin aptent vitae nullam suscipit eros varius viverra et. Dolor risus. Massa lacus facilisis. Metus donec est nisl duis erat enim praesent tellus orci non fames iaculis. Justo vitae suscipit proin in diam habitant. Massa nulla aenean cursus eget litora netus scelerisque quam duis donec tempor lorem mauris. Justo dolor ligula est conubia augue at ut est eu duis. Risus velit euismod ve mollis sed lectus taciti nulla eni orci odio hendrerit urna. Fusce netus per nisl fusce ve arcu. Lacus nulla maecenas et felis metus. Fusce dolor mauris consectetuer vulputate aenean maecenas.",
+    "_content_type_description": "text/plain",
+    "_uid": "826860ada1c3446a97d8cd6bcc6b9953",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce metus magnis interdum duis litora.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 65,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./fusce-metus-magnis-interdum-duis-litora."
+}

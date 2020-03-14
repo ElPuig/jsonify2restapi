@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:51.770162 GMT-4",
+    "_uid": "39e61a20650c4272bb3523f9c63cb0ec",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "nulla-purus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:51.818351 GMT-4",
+    "title": "Nulla purus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Nulla fusce interdum massa ac at enim laoreet.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Augue felis condimentum. Magna netus nam urna neque risus quis non nibh. Purus metus a cursus diam dapibus in nibh habitasse. Fames vitae quis mi rutrum lacus imperdiet. Velit curae egestas augue odio aliquam natoque. Fames justo quis eu sollicitudin natoque tristique erat quam class. Fusce fames mattis massa adipiscing suspendisse rutrum in malesuada augue feugiat enim vitae. Morbi lorem. Class nulla nam bibendum tristique ut purus ante est dui eni. Augue fusce. Risus donec urna rutrum in duis dolor duis non urna at. Ipsum donec nunc nostra nam aenean ut magnis justo porta magnis. Curae magna cursus tristique maecenas rutrum. Justo purus semper penatibus vitae habitasse dui. Velit justo libero tristique nulla. Morbi velit inceptos morbi ut. Metus lacus quam blandit id sapien elit.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "nonummy..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "nulla-purus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum morbi a viverra. Proin metus dui lacus. Etiam neque. Fusce justo sodales erat. Vitae netus pretium fusce at tristique nunc. Porta netus nisi eu justo malesuada hac metus parturient. Justo metus maecenas parturient mollis. Metus risus rutrum eu accumsan taciti habitant fringilla quam eget faucibus. Justo morbi montes in semper rhoncus iaculis. Donec class pharetra per amet ad ultricies adipiscing nibh tempus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Nulla purus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./nulla-purus."
+}

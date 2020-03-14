@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:37.602387 GMT-4",
+    "_uid": "c917a1cffe93412496fd8af6b62b7772",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "metus-justo-donec-sodales-duis-sodales-lorem-cum.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:37.654508 GMT-4",
+    "title": "Metus justo donec sodales duis sodales lorem cum.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Lorem risus vel nisl urna posuere massa in nulla venenatis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Vitae netus risus scelerisque ac primis odio scelerisque. Velit vitae elit vivamus ac odio. Ipsum morbi. Curae risus. Fusce felis lorem. Lacus purus diam varius ac et nec nisi quisque risus eu enim dapibus mattis ac. Curae magna. Neque porta condimentum duis orci quisque nulla lacus. Augue lorem sem. Augue justo magnis odio et felis quam. Netus purus sagittis tristique sed. Justo porta. Porta massa habitasse per pellentesque netus. Dolor porta. Vitae metus potenti eni parturient. Porta curae eget.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.410644 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.741094 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "sociosqu..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "metus-justo-donec-sodales-duis-sodales-lorem-cum.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa class est lorem turpis. Felis risus nonummy quam odio parturient cum adipiscing vestibulum. Nulla risus. Porta metus. Morbi fusce. Magna lorem sociis at mi libero nunc rutrum ultricies. Morbi neque fames congue. Purus magna. Nulla fames tortor adipiscing maecenas dolor pulvinar lacus ac. Lorem massa dui eget parturient ligula. Justo class dapibus. Magna fusce. Ipsum augue. Class metus rhoncus. Dolor fusce ligula arcu ac class ve eros maecenas curae accumsan. Class porta nam eni ve pharetra cum. Fames neque tortor malesuada lobortis habitant porta. Risus augue.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Metus justo donec sodales duis sodales lorem cum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-justo-donec-sodales-duis-sodales-lorem-cum."
+}

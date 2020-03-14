@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:3.367153 GMT-4",
+    "_uid": "98a86dffd8de43ada9ec4e35fe80b61e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-magna.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:3.412209 GMT-4",
+    "title": "Lorem magna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Felis lorem.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Neque lorem nonummy mus lectus ultricies ve netus. Vitae netus nascetur dolor penatibus nam cum fermentum placerat. Felis purus. Donec curae duis ridiculus pulvinar congue aptent. Nulla ipsum. Proin justo libero dolor. Donec etiam nonummy orci risus sociis. Felis class hac erat ad consectetuer tempus dictum justo. Curae vitae. Class justo quam a quis mi porttitor commodo non mauris aliquet. Vitae netus. Massa lacus dictumst quam mattis magnis ac lobortis dis proin rhoncus dui. Fusce justo suspendisse erat elementum quis commodo nibh eu consectetuer taciti aptent. Dolor metus lorem proin rhoncus et eget dictumst. Neque morbi mollis adipiscing morbi eros rhoncus vitae. Fames neque odio curabitur torquent nisl nullam diam ut nisi condimentum dapibus.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:3.371258 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:3.408600 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lorem-magna.",
+    "remoteUrl": "Fames%20augue%20nisl%20nam%20curae.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Class netus facilisis ullamcorper dignissim quis luctus mus integer leo. Massa lacus. Velit lacus a varius eros. Neque curae per pede hac ante adipiscing primis in fringilla pede. Etiam magna sociosqu est. Fames risus. Dolor felis condimentum senectus aliquet montes cum egestas at imperdiet. Class fusce leo. Lorem porta maecenas in quis class ipsum condimentum erat elit netus aliquet mattis donec vestibulum. Vitae curae fusce pretium nonummy tempor. Justo donec est. Morbi donec lacus inceptos at etiam sem arcu molestie proin a. Massa netus placerat risus iaculis auctor tristique fusce mi nulla eu curabitur. Purus nulla eni netus massa gravida pharetra eu. Proin felis justo aenean nulla adipiscing pede.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem magna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 58,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./lorem-magna."
+}

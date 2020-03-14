@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:0.768012 GMT-4",
+    "_uid": "3782540048554e3088e4360c732b2f78",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:0.821159 GMT-4",
+    "title": "Fames morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Netus dolor venenatis nullam dictumst facilisis inceptos dictum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Felis vitae cum enim dapibus ac malesuada. Magna porta suspendisse facilisi conubia et platea sodales. Justo ipsum integer mus habitant potenti pretium tristique eros. Fusce porta sem donec tristique sagittis in mollis euismod. Magna purus urna rhoncus nisl sollicitudin. Fames lacus. Dolor porta proin vitae magnis semper ridiculus. Augue lacus semper ac eni eget eu. Lorem ipsum congue enim nullam in velit ac cursus. Proin velit felis senectus id cum lacus justo montes mi. Ipsum metus taciti urna. Lacus etiam ligula lacus porttitor sem lacus mus. Lorem metus purus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.286624 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:42.614922 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "platea..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fames-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Velit netus pulvinar enim cursus urna. Nulla neque euismod facilisis diam. Proin augue. Ipsum augue. Velit augue nam quam urna magna erat id ipsum nostra. Risus vitae mus molestie vitae tellus montes sem parturient. Etiam nulla taciti ad est malesuada cum. Vitae purus odio iaculis ad praesent habitant netus pede quam commodo. Porta metus proin eni diam leo integer. Felis massa. Felis proin pede gravida pretium elit duis hymenaeos pharetra netus velit class habitant ac. Porta risus viverra rutrum ut at varius ultrices id cum suspendisse posuere augue vitae dapibus cras.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fames morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./fames-morbi."
+}

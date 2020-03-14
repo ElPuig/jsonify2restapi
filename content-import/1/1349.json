@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:29.884406 GMT-4",
+    "_uid": "8ec0f5473de94a16ae413d992c5c1c86",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-risus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:29.930843 GMT-4",
+    "title": "Class risus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Porta etiam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Fames massa dictum. Justo magna maecenas massa. Porta risus phasellus lobortis bibendum ornare quis ipsum. Curae lacus. Netus fusce nam. Lorem porta nullam. Porta augue purus ullamcorper nascetur. Neque fames. Nulla metus montes tristique morbi consequat hac class. Curae felis cras a urna eu pellentesque. Neque metus blandit elit justo vitae orci non augue vulputate. Felis augue ornare purus vestibulum interdum urna nostra id. Metus augue quis egestas fringilla ve odio eu quis cras cubilia est. Risus felis orci sapien vel erat vivamus fames dui etiam class montes magnis. Fusce augue faucibus adipiscing imperdiet netus ut. Netus magna quis dolor quisque fermentum. Class dolor neque semper nostra fringilla aliquet morbi ve lorem mus. Netus class. Augue ipsum odio fusce venenatis justo diam molestie vestibulum. Porta magna purus sed placerat donec sed parturient ac magnis eros mi.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:29.888009 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:29.926082 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-risus.",
+    "remoteUrl": "Magna%20lacus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Etiam fusce iaculis aliquam rutrum velit aliquam mollis tortor blandit quis id proin. Velit fusce aenean turpis ante consectetuer parturient ante elementum ornare vulputate placerat diam semper. Metus vitae cras dapibus rhoncus semper nunc pede dictum parturient morbi gravida. Lacus augue lacinia maecenas nunc nisl non erat augue primis interdum. Fusce lacus. Fusce ipsum torquent justo nibh nascetur vehicula mauris. Magna velit. Class donec etiam montes ornare feugiat leo ve praesent potenti at. Donec magna. Neque metus nostra erat. Netus morbi. Ipsum neque etiam massa nisi aptent vestibulum class quis torquent vel magna fringilla. Felis vitae. Nulla porta a arcu fusce cubilia. Proin lorem cras proin luctus ante nostra ad praesent cum orci luctus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class risus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 51,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./class-risus."
+}

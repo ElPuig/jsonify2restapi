@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum audissem Antiochum, Brute, ut solebam, cum M. <a href='http://loripsum.net/' target='_blank'>Quid ergo?</a> Cyrenaici quidem non recusant; Igitur neque stultorum quisquam beatus neque sapientium non beatus. </p>\n\n<dl>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>Quid, quod res alia tota est?</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Quod eo liquidius faciet, si perspexerit rerum inter eas verborumne sit controversia.</dd>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Non est enim vitium in oratione solum, sed etiam in moribus.</dd>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum.</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Cum autem venissemus in Academiae non sine causa nobilitata spatia, solitudo erat ea, quam volueramus.</dd>\n</dl>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Si quidem, inquit, tollerem, sed relinquo. Illi enim inter se dissentiunt. Respondent extrema primis, media utrisque, omnia omnibus. </p>\n\n<ol>\n\t<li>Ita relinquet duas, de quibus etiam atque etiam consideret.</li>\n\t<li>Scio enim esse quosdam, qui quavis lingua philosophari possint;</li>\n</ol>\n\n\n<p>Sed fortuna fortis; Quid ad utilitatem tantae pecuniae? Utilitatis causa amicitia est quaesita. Si quicquam extra virtutem habeatur in bonis. Qualem igitur hominem natura inchoavit? Aliter enim nosmet ipsos nosse non possumus. </p>\n\n<ul>\n\t<li>Ex rebus enim timiditas, non ex vocabulis nascitur.</li>\n\t<li>Ac tamen hic mallet non dolere.</li>\n\t<li>Utrum igitur tibi litteram videor an totas paginas commovere?</li>\n\t<li>Morbo gravissimo affectus, exul, orbus, egens, torqueatur eculeo: quem hunc appellas, Zeno?</li>\n\t<li>Igitur neque stultorum quisquam beatus neque sapientium non beatus.</li>\n\t<li>Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus;</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 17:57:4.295075 GMT-4",
+    "imageCaption": "Curae augue donec nunc taciti tempus.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-nulla-per-dis-pellentesque-in-gravida.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:4.632194 GMT-4",
+    "title": "Neque nulla per dis pellentesque in gravida.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem morbi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Justo risus dolor est duis nonummy ad consequat. Purus curae. Purus magna tempus mi semper eni. Fames purus. Fames augue class montes facilisis felis curabitur lectus. Proin risus rutrum tellus commodo. Purus vitae. Class purus libero turpis sed id a. Neque nulla donec amet massa. Fames dolor. Class vitae arcu natoque nam mi purus ad. Donec nulla ornare est feugiat ultrices lacinia nisi sollicitudin nascetur. Felis risus. Magna felis nisl dis class. Fames proin. Donec augue nisi. Class proin netus aptent scelerisque massa.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:4.298604 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:4.628392 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "neque-nulla-per-dis-pellentesque-in-gravida.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae augue mattis enim euismod. Massa justo duis at quam nonummy. Porta lacus. Metus fusce sem enim eu tincidunt elit imperdiet id nulla penatibus auctor faucibus feugiat dapibus erat. Lacus proin aliquet et litora blandit. Nulla metus nisl aliquam netus quam aliquet purus ante. Ipsum nulla tristique vestibulum quis turpis libero augue.",
+    "_content_type_description": "text/plain",
+    "_uid": "8d146f2ff7a54376bcaece107dffec27",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Neque nulla per dis pellentesque in gravida.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 61,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./neque-nulla-per-dis-pellentesque-in-gravida."
+}

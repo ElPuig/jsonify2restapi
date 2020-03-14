@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Atque his de rebus et splendida est eorum et illustris oratio.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neminem videbis ita laudatum, ut artifex callidus comparandarum voluptatum diceretur. Tecum optime, deinde etiam cum mediocri amico. Frater et T. </p>\n\n<ol>\n\t<li>Qui bonum omne in virtute ponit, is potest dicere perfici beatam vitam perfectione virtutis;</li>\n\t<li>Non est enim vitium in oratione solum, sed etiam in moribus.</li>\n\t<li>Quis suae urbis conservatorem Codrum, quis Erechthei filias non maxime laudat?</li>\n\t<li>Aliter enim explicari, quod quaeritur, non potest.</li>\n</ol>\n\n\n<ul>\n\t<li>Quia dolori non voluptas contraria est, sed doloris privatio.</li>\n\t<li>Tu enim ista lenius, hic Stoicorum more nos vexat.</li>\n\t<li>Suo enim quisque studio maxime ducitur.</li>\n\t<li>Quodsi Graeci leguntur a Graecis isdem de rebus alia ratione compositis, quid est, cur nostri a nostris non legantur?</li>\n\t<li>Nam quid possumus facere melius?</li>\n\t<li>Nam his libris eum malo quam reliquo ornatu villae delectari.</li>\n</ul>\n\n\n<h2>Sed venio ad inconstantiae crimen, ne saepius dicas me aberrare;</h2>\n\n<p>Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Rhetorice igitur, inquam, nos mavis quam dialectice disputare?</a> </p>\n\n<p>Quis est tam dissimile homini. Quae diligentissime contra Aristonem dicuntur a Chryippo. Eademne, quae restincta siti? Quae in controversiam veniunt, de iis, si placet, disseramus. </p>\n\n<dl>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Ergo hoc quidem apparet, nos ad agendum esse natos.</dd>\n\t<dt><dfn>Hunc vos beatum;</dfn></dt>\n\t<dd>Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta.</dd>\n\t<dt><dfn>Quid de Pythagora?</dfn></dt>\n\t<dd>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Oratio me istius philosophi non offendit;</dd>\n\t<dt><dfn>Recte dicis;</dfn></dt>\n\t<dd>Stoici autem, quod finem bonorum in una virtute ponunt, similes sunt illorum;</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:57:48.441172 GMT-4",
+    "imageCaption": "Justo risus.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "donec-metus-posuere-odio-bibendum-augue-sodales.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:48.774094 GMT-4",
+    "title": "Donec metus posuere odio bibendum augue sodales.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Nulla justo varius scelerisque curae primis luctus quisque ligula.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Velit vitae. Class lorem augue metus vivamus leo mi. Neque proin quam. Fames etiam tortor leo vehicula convallis elit dis. Netus fusce. Neque velit. Class metus ornare. Lorem neque dictumst eu sapien. Dolor magna augue cras rutrum mus pretium eu non. Magna purus tempus ad. Massa nulla. Curae lacus. Velit nulla nisl est hac ad massa id.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:48.445337 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:48.770577 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "donec-metus-posuere-odio-bibendum-augue-sodales.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna etiam arcu cum consequat sapien. Risus fusce feugiat ligula sem rhoncus at. Augue netus semper congue odio. Risus morbi risus per donec. Fusce lorem nullam aliquet at ut eros. Risus metus nunc massa tristique ullamcorper lorem ornare conubia erat. Etiam morbi vivamus. Fusce felis massa amet condimentum in litora facilisi proin ridiculus lacinia varius convallis. Dolor neque. Morbi porta tellus congue. Class porta pede eni tempus habitasse congue vestibulum sollicitudin egestas lorem. Magna dolor. Velit proin lectus nascetur.",
+    "_content_type_description": "text/plain",
+    "_uid": "1e9e6637be764c71a9761d61e6b7387d",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec metus posuere odio bibendum augue sodales.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 69,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./donec-metus-posuere-odio-bibendum-augue-sodales."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:33.406860 GMT-4",
+    "_uid": "cc7537ece40d40e6b4008a3f9dd18818",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "morbi-proin-ipsum-potenti-duis-odio.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:33.736069 GMT-4",
+    "title": "Morbi proin ipsum potenti duis odio.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fames purus diam laoreet nisi nec turpis potenti nibh nec.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Morbi lorem turpis fusce suspendisse id nostra suscipit vestibulum hendrerit. Curae vitae tortor vulputate porttitor nibh. Curae neque est ante nisi fames litora. Vitae lacus fermentum ultricies arcu elit malesuada auctor dictum eni. Netus dolor eleifend hac blandit congue turpis. Massa dolor nam elit. Purus magna varius congue proin nam. Lacus augue potenti sodales nostra. Augue lacus eros suscipit vestibulum. Neque morbi. Class purus. Fames neque eros senectus nonummy taciti.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:33.412411 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:33.731225 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Hoc loco tenere se Triarius non potuit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non igitur bene. Quid sequatur, quid repugnet, vident. Tuo vero id quidem, inquam, arbitratu. Duo Reges: constructio interrete. Eam stabilem appellas. Ratio quidem vestra sic cogit. Gloriosa ostentatio in constituendo summo bono. </p>\n\n<h2>Ut optime, secundum naturam affectum esse possit.</h2>\n\n<p>Suam denique cuique naturam esse ad vivendum ducem. <a href='http://loripsum.net/' target='_blank'>Oratio me istius philosophi non offendit;</a> <a href='http://loripsum.net/' target='_blank'>Putabam equidem satis, inquit, me dixisse.</a> An potest cupiditas finiri? </p>\n\n<dl>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Tantum dico, magis fuisse vestrum agere Epicuri diem natalem, quam illius testamento cavere ut ageretur.</dd>\n\t<dt><dfn>Magna laus.</dfn></dt>\n\t<dd>Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus.</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>An eiusdem modi?</dd>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Praeclare enim Plato: Beatum, cui etiam in senectute contigerit, ut sapientiam verasque opiniones assequi possit.</dd>\n\t<dt><dfn>Simus igitur contenti his.</dfn></dt>\n\t<dd>Ita enim vivunt quidam, ut eorum vita refellatur oratio.</dd>\n</dl>\n\n\n<ol>\n\t<li>Qui ita affectus, beatum esse numquam probabis;</li>\n\t<li>Vitiosum est enim in dividendo partem in genere numerare.</li>\n\t<li>At enim, qua in vita est aliquid mali, ea beata esse non potest.</li>\n\t<li>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos.</li>\n</ol>\n\n\n<ul>\n\t<li>Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta.</li>\n\t<li>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</li>\n\t<li>Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba.</li>\n\t<li>Sed quanta sit alias, nunc tantum possitne esse tanta.</li>\n</ul>\n\n\n<h3>Quae quidem vel cum periculo est quaerenda vobis;</h3>\n\n<p>Itaque his sapiens semper vacabit. Quae duo sunt, unum facit. Quodsi ipsam honestatem undique pertectam atque absolutam. Easdemne res? Itaque contra est, ac dicitis; <a href='http://loripsum.net/' target='_blank'>Primum Theophrasti, Strato, physicum se voluit;</a> Negare non possum. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "morbi-proin-ipsum-potenti-duis-odio.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Massa vitae neque enim at nisi ridiculus inceptos dolor convallis taciti. Nulla lacus vulputate duis arcu sed ipsum. Nulla donec eni suscipit donec. Dolor nulla pretium mollis non. Curae metus orci vivamus mus. Curae risus suscipit enim gravida mi. Netus lorem condimentum pulvinar ridiculus quis integer curae eni quisque in etiam risus. Nulla massa. Velit purus tellus pellentesque curabitur. Morbi massa diam ante penatibus orci natoque nostra fames. Porta etiam. Fusce proin rutrum augue vestibulum eleifend aliquam euismod velit vel suscipit. Fusce donec purus. Porta vitae lacus nostra parturient risus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Morbi proin ipsum potenti duis odio.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./morbi-proin-ipsum-potenti-duis-odio."
+}

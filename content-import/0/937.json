@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:56.043823 GMT-4",
+    "_uid": "71547eb6adb84b4c92822f1975800c0c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "massa-neque-porta-rutrum-hac-dui.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:56.373248 GMT-4",
+    "title": "Massa neque porta rutrum hac dui.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Nulla vitae lectus eros suspendisse aliquet ullamcorper quam eget odio.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Netus lorem a erat ad sollicitudin libero lacus. Nulla risus amet elit posuere ve vel litora aliquet. Donec fames purus consequat ad condimentum nisl. Curae massa rutrum platea lobortis hymenaeos purus sociosqu fusce etiam nisl varius at. Vitae magna. Augue lacus dui diam inceptos vel. Fames vitae placerat lorem sollicitudin fusce ad. Nulla morbi. Felis vitae tempus congue. Donec felis. Felis purus magna proin ligula vehicula etiam at velit consectetuer netus ve at diam. Dolor augue. Fames netus habitant non eget leo justo lacinia per auctor felis nibh. Curae fames. Netus fusce.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:56.049442 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:56.367900 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Non enim ipsa genuit hominem, sed accepit a natura inchoatum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faceres tu quidem, Torquate, haec omnia; Quae est igitur causa istarum angustiarum? Sed ea mala virtuti magnitudine obruebantur. Murenam te accusante defenderem. Duo Reges: constructio interrete. Sed ad bona praeterita redeamus. <a href='http://loripsum.net/' target='_blank'>Non igitur bene.</a> </p>\n\n<dl>\n\t<dt><dfn>Quid adiuvas?</dfn></dt>\n\t<dd>Atque hoc loco similitudines eas, quibus illi uti solent, dissimillimas proferebas.</dd>\n\t<dt><dfn>De illis, cum volemus.</dfn></dt>\n\t<dd>Itaque in rebus minime obscuris non multus est apud eos disserendi labor.</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis.</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Sint modo partes vitae beatae.</dd>\n</dl>\n\n\n<p>Comprehensum, quod cognitum non habet? Dici enim nihil potest verius. Tum Torquatus: Prorsus, inquit, assentior; Omnes enim iucundum motum, quo sensus hilaretur. Apud ceteros autem philosophos, qui quaesivit aliquid, tacet; A mene tu? </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Illud dico, ea, quae dicat, praeclare inter se cohaerere.</a> <a href='http://loripsum.net/' target='_blank'>Ut id aliis narrare gestiant?</a> Quis est, qui non oderit libidinosam, protervam adolescentiam? </p>\n\n<ol>\n\t<li>Te ipsum, dignissimum maioribus tuis, voluptasne induxit, ut adolescentulus eriperes P.</li>\n\t<li>Fortasse id optimum, sed ubi illud: Plus semper voluptatis?</li>\n\t<li>Audax negotium, dicerem impudens, nisi hoc institutum postea translatum ad philosophos nostros esset.</li>\n\t<li>Sed quid sentiat, non videtis.</li>\n\t<li>Ego vero isti, inquam, permitto.</li>\n\t<li>Negat esse eam, inquit, propter se expetendam.</li>\n</ol>\n\n\n<ul>\n\t<li>Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;</li>\n\t<li>Idque testamento cavebit is, qui nobis quasi oraculum ediderit nihil post mortem ad nos pertinere?</li>\n\t<li>Tertium autem omnibus aut maximis rebus iis, quae secundum naturam sint, fruentem vivere.</li>\n\t<li>Fortasse id optimum, sed ubi illud: Plus semper voluptatis?</li>\n\t<li>Maximeque eos videre possumus res gestas audire et legere velle, qui a spe gerendi absunt confecti senectute.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "massa-neque-porta-rutrum-hac-dui.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Fames massa purus sed justo arcu etiam massa tempus rhoncus pede convallis luctus. Etiam porta fames ipsum tortor consectetuer. Felis proin dolor tortor adipiscing eleifend magna ante nec a. Fames etiam congue primis habitant porttitor felis. Fames felis. Vitae magna. Fames curae fusce aenean ullamcorper augue cursus massa faucibus proin. Felis nulla. Lorem curae. Lorem porta quam in justo platea. Velit fusce laoreet urna pellentesque parturient. Lorem curae mauris lacus ipsum pretium class fusce magnis sociosqu porttitor.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Massa neque porta rutrum hac dui.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./massa-neque-porta-rutrum-hac-dui."
+}

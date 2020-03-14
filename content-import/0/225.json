@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/28 00:20:56.975192 GMT-4",
+    "endDate": "2018/10/30 12:46:5.763372 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>A primo, ut opinor, animantium ortu petitur origo summi boni.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tu vero, inquam, ducas licet, si sequetur; Quid nunc honeste dicit? <a href='http://loripsum.net/' target='_blank'>An potest cupiditas finiri?</a> <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> </p>\n\n<h2>Non autem hoc: igitur ne illud quidem.</h2>\n\n<p>Nonne videmus quanta perturbatio rerum omnium consequatur, quanta confusio? <a href='http://loripsum.net/' target='_blank'>Sic consequentibus vestris sublatis prima tolluntur.</a> <code>Hoc mihi cum tuo fratre convenit.</code> Quonam, inquit, modo? </p>\n\n<dl>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Qua tu etiam inprudens utebare non numquam.</dd>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Qui enim existimabit posse se miserum esse beatus non erit.</dd>\n\t<dt><dfn>ALIO MODO.</dfn></dt>\n\t<dd>Ait enim se, si uratur, Quam hoc suave! dicturum.</dd>\n</dl>\n\n\n<h3>Erit enim instructus ad mortem contemnendam, ad exilium, ad ipsum etiam dolorem.</h3>\n\n<p>Suo genere perveniant ad extremum; Cave putes quicquam esse verius. Dempta enim aeternitate nihilo beatior Iuppiter quam Epicurus; Hoc simile tandem est? Quis istud possit, inquit, negare? Apparet statim, quae sint officia, quae actiones. Idemne, quod iucunde? </p>\n\n<ol>\n\t<li>Quod totum contra est.</li>\n\t<li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>\n\t<li>Certe, nisi voluptatem tanti aestimaretis.</li>\n\t<li>Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles.</li>\n</ol>\n\n\n<pre>\nQuae fere omnia appellantur uno ingenii nomine, easque\nvirtutes qui habent, ingeniosi vocantur.\n\nOmnes, qui non sint sapientes, aeque miseros esse, sapientes\nomnes summe beatos, recte facta omnia aequalia, omnia\npeccata paria;\n</pre>\n\n\n<ul>\n\t<li>Non risu potius quam oratione eiciendum?</li>\n\t<li>Negat esse eam, inquit, propter se expetendam.</li>\n\t<li>Audeo dicere, inquit.</li>\n\t<li>Neque solum ea communia, verum etiam paria esse dixerunt.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:33.743462 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "54ce2d0fac1b4aaeb70479951a1af4ad",
+    "expirationDate": "None",
+    "contactName": "Class neque nunc venenatis turpis.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Neque porta.",
+    "id": "lorem-magna-tortor.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:41.095530 GMT-4",
+    "title": "Lorem magna tortor.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem risus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Netus lacus mauris condimentum lorem taciti fames vestibulum ante. Curae vitae ipsum per justo habitasse dolor eleifend eni fames. Morbi massa. Magna massa commodo malesuada pede euismod at enim scelerisque sodales consectetuer gravida metus leo fames. Fames class conubia leo in a quis justo. Curae massa dis cras ligula. Magna risus maecenas lacus. Morbi metus. Lorem augue varius semper et arcu. Massa etiam. Donec nulla iaculis feugiat purus.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:33.747624 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:41.108368 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "lorem-magna-tortor.",
+    "modification_date": "2018/10/26 13:51:41.095813 GMT-4",
+    "language": "en",
+    "rights": "Curae class lectus potenti ut lacus dis nunc ad consectetuer integer. Risus curae montes phasellus proin. Metus justo habitasse donec interdum eget magnis parturient sollicitudin quisque nibh orci vivamus. Augue lacus varius sollicitudin ridiculus porta. Risus netus. Fusce justo. Velit morbi. Dolor morbi purus dui amet a erat eu consectetuer turpis augue. Morbi magna dictum pretium rhoncus. Etiam fusce. Lorem augue. Ipsum donec. Porta neque volutpat est elit per. Etiam proin. Vitae felis nibh nisl.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem magna tortor.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/lorem-magna-tortor."
+}

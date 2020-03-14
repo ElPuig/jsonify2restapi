@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:37.325320 GMT-4",
+    "_uid": "490ffc30b71e4a399a259077cd90baf6",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "metus-purus-ligula-id-potenti-et-facilisi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:37.661090 GMT-4",
+    "title": "Metus purus ligula id potenti et facilisi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi nulla mauris feugiat.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Vitae augue fames senectus pede sociis conubia. Fusce netus facilisis praesent semper aenean justo praesent morbi augue neque. Netus fusce ullamcorper arcu nunc inceptos a pellentesque pede aliquet lectus nec urna quisque. Netus morbi rhoncus dapibus amet. Felis velit laoreet dis lobortis. Justo nulla nisi est primis cubilia.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:37.331518 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:37.656219 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Etenim semper illud extra est, quod arte comprehenditur.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis est tam dissimile homini. Duo Reges: constructio interrete. Ille incendat? Haec igitur Epicuri non probo, inquam. Vide, quantum, inquam, fallare, Torquate. At enim sequor utilitatem. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Itaque contra est, ac dicitis;</a> Eaedem res maneant alio modo. <a href='http://loripsum.net/' target='_blank'>Quod iam a me expectare noli.</a> Eaedem res maneant alio modo. <a href='http://loripsum.net/' target='_blank'>Cur haec eadem Democritus?</a> </p>\n\n<ul>\n\t<li>Hoc est dicere: Non reprehenderem asotos, si non essent asoti.</li>\n\t<li>Ergo id est convenienter naturae vivere, a natura discedere.</li>\n\t<li>Quid de Pythagora?</li>\n\t<li>Ergo instituto veterum, quo etiam Stoici utuntur, hinc capiamus exordium.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Perge porro;</dfn></dt>\n\t<dd>Non est enim vitium in oratione solum, sed etiam in moribus.</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Et hunc idem dico, inquieta sed ad virtutes et ad vitia nihil interesse.</dd>\n\t<dt><dfn>Quare attende, quaeso.</dfn></dt>\n\t<dd>Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus;</dd>\n\t<dt><dfn>Confecta res esset.</dfn></dt>\n\t<dd>In parvis enim saepe, qui nihil eorum cogitant, si quando iis ludentes minamur praecipitaturos alicunde, extimescunt.</dd>\n</dl>\n\n\n<ol>\n\t<li>Quid, si etiam iucunda memoria est praeteritorum malorum?</li>\n\t<li>Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba.</li>\n\t<li>At iste non dolendi status non vocatur voluptas.</li>\n\t<li>Vitiosum est enim in dividendo partem in genere numerare.</li>\n</ol>\n\n\n<h2>Consequens enim est et post oritur, ut dixi.</h2>\n\n<p>Graccho, eius fere, aequal\u00ed? Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Odium autem et invidiam facile vitabis. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "metus-purus-ligula-id-potenti-et-facilisi.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Felis ipsum suspendisse dui ac proin sollicitudin ultrices felis. Ipsum etiam enim porta egestas ut egestas erat. Nulla fames etiam hac montes blandit odio ante adipiscing nibh. Morbi lorem. Netus vitae lorem ante primis blandit tellus erat laoreet ante ut cras volutpat dis diam dictum ac. Neque massa arcu curabitur inceptos nostra orci eu porta. Lorem nulla sociis id sociis mus rutrum metus vestibulum elit massa rhoncus sociosqu montes libero ultrices torquent purus. Fusce netus sagittis purus quam congue. Augue lacus mollis porta facilisi quis auctor et nec nisi senectus feugiat. Fusce class nostra nam feugiat a scelerisque leo orci sociosqu scelerisque. Class vitae. Class dolor scelerisque leo sapien fermentum risus erat ullamcorper. Purus neque. Netus proin quam ullamcorper eni cras mattis mi ultrices iaculis felis fames.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Metus purus ligula id potenti et facilisi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./metus-purus-ligula-id-potenti-et-facilisi."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:52.008528 GMT-4",
+    "_uid": "4ee87044cfdd482686c2d9c366e7e0ec",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-fusce-enim-dui-taciti-torquent-malesuada-ut-tincidunt-parturient.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:52.055669 GMT-4",
+    "title": "Netus fusce enim dui taciti torquent malesuada ut tincidunt parturient.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Metus etiam mollis class scelerisque dis mollis tempor.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Risus netus semper nunc etiam quisque. Neque augue torquent cras torquent pellentesque sociis curae. Class donec dis sodales donec ac. Vitae magna conubia enim parturient mus adipiscing congue enim laoreet eu amet. Metus vitae. Netus metus risus metus tincidunt. Netus porta potenti consequat hac diam aliquet feugiat nunc. Metus curae dui nibh faucibus nisi aptent mi faucibus. Etiam lorem morbi justo cum feugiat amet sed. Massa etiam. Morbi fusce. Risus massa mauris sapien in senectus arcu. Lacus fusce nunc nec.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:37.750630 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:38.076399 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "etiam..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "netus-fusce-enim-dui-taciti-torquent-malesuada-ut-tincidunt-parturient.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla lacus nascetur adipiscing varius morbi vehicula. Fames fusce eros amet venenatis porta. Donec fames interdum eu lacus. Augue fusce justo tempor quam egestas. Netus metus etiam duis. Fames dolor. Risus vitae condimentum sem id a.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Netus fusce enim dui taciti torquent malesuada ut tincidunt parturient.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./netus-fusce-enim-dui-taciti-torquent-malesuada-ut-tincidunt-parturient."
+}

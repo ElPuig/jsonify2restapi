@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:33.845331 GMT-4",
+    "_uid": "9a5900ca567f4d0abc729d85e677cc01",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "massa-porta-non-nunc-adipiscing-eni-proin-mattis.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:35.185806 GMT-4",
+    "title": "Massa porta non nunc adipiscing eni proin mattis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Velit etiam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Augue netus. Fusce lacus. Proin class porta natoque viverra nisl facilisi curae molestie fusce malesuada. Morbi vitae ligula aenean per nostra. Proin lorem est mattis elementum at risus mauris integer ac ad libero lobortis vivamus. Curae class. Fusce donec lobortis quam eros blandit arcu. Massa neque urna ullamcorper eni turpis velit condimentum. Fusce proin. Risus ipsum blandit. Donec fames enim iaculis at id primis netus velit a aptent elit risus nulla. Massa fames commodo sem ve diam ultricies aenean volutpat quam hac. Netus risus nisl odio parturient fringilla.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:33.851223 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:35.181283 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Tanta vis admonitionis inest in locis;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nos commodius agimus. Sint modo partes vitae beatae. Eademne, quae restincta siti? Honesta oratio, Socratica, Platonis etiam. </p>\n\n<ol>\n\t<li>Tu quidem reddes;</li>\n\t<li>A quibus propter discendi cupiditatem videmus ultimas terras esse peragratas.</li>\n\t<li>Cum sciret confestim esse moriendum eamque mortem ardentiore studio peteret, quam Epicurus voluptatem petendam putat.</li>\n\t<li>Primum Theophrasti, Strato, physicum se voluit;</li>\n\t<li>Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur.</li>\n\t<li>Restincta enim sitis stabilitatem voluptatis habet, inquit, illa autem voluptas ipsius restinctionis in motu est.</li>\n</ol>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Tibi hoc incredibile, quod beatissimum. Primum in nostrane potestate est, quid meminerimus? Restinguet citius, si ardentem acceperit. Quae similitudo in genere etiam humano apparet. Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris. Hunc vos beatum; </p>\n\n<p>Sed nimis multa. Et quidem, inquit, vehementer errat; Iam id ipsum absurdum, maximum malum neglegi. Ego vero isti, inquam, permitto. At hoc in eo M. </p>\n\n<ul>\n\t<li>Illa tamen simplicia, vestra versuta.</li>\n\t<li>Itaque quantum adiit periculum! ad honestatem enim illum omnem conatum suum referebat, non ad voluptatem.</li>\n\t<li>Quid enim possumus hoc agere divinius?</li>\n\t<li>Deinde dolorem quem maximum?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet.</dd>\n\t<dt><dfn>Quid de Pythagora?</dfn></dt>\n\t<dd>Qui si ea, quae dicit, ita sentiret, ut verba significant, quid inter eum et vel Pyrrhonem vel Aristonem interesset?</dd>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Quamquam haec quidem praeposita recte et reiecta dicere licebit.</dd>\n\t<dt><dfn>Paria sunt igitur.</dfn></dt>\n\t<dd>Nam, ut saepe iam dixi, in infirma aetate inbecillaque mente vis naturae quasi per caliginem cernitur;</dd>\n\t<dt><dfn>Facete M.</dfn></dt>\n\t<dd>Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est.</dd>\n\t<dt><dfn>Paria sunt igitur.</dfn></dt>\n\t<dd>Hoc ne statuam quidem dicturam pater aiebat, si loqui posset.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "massa-porta-non-nunc-adipiscing-eni-proin-mattis.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Velit purus. Fusce morbi porta cras ultrices. Augue fusce ullamcorper ut ligula quisque penatibus ad. Metus donec dictum non enim sollicitudin. Nulla felis suspendisse sit ligula aptent aliquet elit. Risus porta interdum mi magna ultrices diam euismod dapibus enim hymenaeos. Netus vitae. Magna augue tellus diam tempus sit cubilia interdum. Metus dolor aenean curae proin platea nullam magna congue suspendisse lacus tellus taciti nonummy cubilia. Class neque. Morbi lorem dui tincidunt sociis mollis placerat ipsum id dictum. Metus etiam iaculis nunc ve nibh justo fermentum pulvinar vehicula class ridiculus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Massa porta non nunc adipiscing eni proin mattis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./massa-porta-non-nunc-adipiscing-eni-proin-mattis."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:32.738122 GMT-4",
+    "_uid": "9c890df3685f4de2a0868eb212001b2d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "augue-etiam-dignissim-feugiat-fames-augue-a-quam-velit.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:32.791840 GMT-4",
+    "title": "Augue etiam dignissim feugiat fames augue a quam velit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Vitae porta orci.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Lorem purus a lectus erat sollicitudin facilisi justo sapien velit nec. Lorem class cras gravida vulputate vehicula diam primis sapien. Morbi velit nostra hac. Ipsum magna nulla libero nisl congue parturient sollicitudin aliquet eleifend lacinia viverra proin. Class metus a taciti nisi varius ut dui mauris commodo laoreet hendrerit. Magna felis. Massa fames a diam ve duis aenean hac semper. Donec velit nam porta dui sit dui consectetuer. Metus risus. Magna etiam habitant dui ad a litora risus. Augue class. Justo augue nibh lacinia ut accumsan sociis. Netus curae venenatis hac sollicitudin congue in. Justo vitae quam aliquam fermentum. Magna metus mus orci. Ipsum nulla a nisi adipiscing consequat condimentum morbi tristique blandit class nisi netus. Velit proin faucibus adipiscing aptent magna adipiscing natoque dis cubilia.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.204606 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:18.527359 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "velit..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "augue-etiam-dignissim-feugiat-fames-augue-a-quam-velit.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae dolor rhoncus urna porta varius hendrerit ac. Donec magna. Velit curae tempor at in duis maecenas nec. Class velit ridiculus adipiscing diam. Proin class sem amet nam sem leo dis sed sem. Risus felis fusce leo urna. Lorem lacus tortor purus feugiat nisi velit et tortor facilisi quis eleifend etiam. Justo porta proin ullamcorper molestie amet est. Felis vitae eros tempus mi mauris mus amet suscipit magna consectetuer dignissim ipsum dui. Metus purus vehicula vel purus natoque bibendum cras lacinia id nullam eni taciti ut suscipit donec eu. Magna dolor litora scelerisque fames. Class neque. Class ipsum. Porta ipsum habitasse semper hendrerit adipiscing.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Augue etiam dignissim feugiat fames augue a quam velit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./augue-etiam-dignissim-feugiat-fames-augue-a-quam-velit."
+}

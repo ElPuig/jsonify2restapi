@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:31.132198 GMT-4",
+    "_uid": "cad2c8218b95417b86a4d728d022690a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "nulla-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:31.184881 GMT-4",
+    "title": "Nulla morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Fusce proin potenti nam accumsan facilisis lectus quam ante metus laoreet fames.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Velit magna pharetra enim ligula mauris enim amet. Ipsum fames commodo aenean mi placerat sit ipsum cubilia erat parturient sapien et id. Fames nulla non amet felis lacus tellus hendrerit. Morbi lacus taciti ad etiam. Proin augue ante. Justo dolor habitant penatibus eu facilisis commodo consectetuer pretium vehicula eu scelerisque ut congue dui. Fusce vitae enim a eget vitae sed magna nunc arcu inceptos pellentesque congue varius rhoncus tempus orci. Lacus metus accumsan curae mi varius non euismod justo class proin rhoncus nulla. Dolor felis a iaculis tortor id vel. Nulla risus nullam dignissim dui urna vel quis pellentesque eu laoreet eros. Dolor justo. Fames proin ipsum per etiam semper fermentum dapibus. Metus felis tempus mi nisi. Velit magna. Netus vitae odio sodales ad urna eu. Risus massa mauris primis. Vitae porta mus class.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "odio..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "nulla-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae etiam lacinia mauris leo enim etiam mattis parturient. Curae fames leo augue hymenaeos leo eget sed hac ve a. Purus donec nam erat commodo ve. Lorem donec nunc nec lacus tempus. Massa porta. Ipsum felis torquent odio aliquet a taciti nisi. Nulla metus scelerisque. Augue magna dictum ac nostra pede ac. Netus augue dictum tortor placerat. Nulla neque sapien primis nibh felis sagittis dui iaculis pharetra. Vitae ipsum pulvinar porta fringilla dui felis. Proin nulla ipsum sapien pretium ve mattis venenatis. Augue netus urna aliquam a suspendisse vel litora hac. Purus lacus morbi nisl scelerisque posuere. Fusce morbi augue montes tempus sed.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Nulla morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 25,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./nulla-morbi."
+}

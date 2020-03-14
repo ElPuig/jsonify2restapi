@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/11 20:09:15.075136 GMT-4",
+    "endDate": "2018/10/13 10:51:29.395767 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Fortasse id optimum, sed ubi illud: Plus semper voluptatis?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Quae cum essent dicta, discessimus. Quae cum dixisset, finem ille. Istam voluptatem perpetuam quis potest praestare sapienti? </p>\n\n<dl>\n\t<dt><dfn>Is es profecto tu.</dfn></dt>\n\t<dd>Laboro autem non sine causa;</dd>\n\t<dt><dfn>An potest cupiditas finiri?</dfn></dt>\n\t<dd>Vitae autem degendae ratio maxime quidem illis placuit quieta.</dd>\n\t<dt><dfn>Quid Zeno?</dfn></dt>\n\t<dd>Alia quaedam dicent, credo, magna antiquorum esse peccata, quae ille veri investigandi cupidus nullo modo ferre potuerit.</dd>\n\t<dt><dfn>Sullae consulatum?</dfn></dt>\n\t<dd>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</dd>\n</dl>\n\n\n<p>Quorum altera prosunt, nocent altera. Utilitatis causa amicitia est quaesita. Negat esse eam, inquit, propter se expetendam. Et quod est munus, quod opus sapientiae? </p>\n\n<p>Sed fortuna fortis; Praeteritis, inquit, gaudeo. Prioris generis est docilitas, memoria; Haec dicuntur inconstantissime. </p>\n\n<ol>\n\t<li>De malis autem et bonis ab iis animalibus, quae nondum depravata sint, ait optime iudicari.</li>\n\t<li>Non enim, si malum est dolor, carere eo malo satis est ad bene vivendum.</li>\n\t<li>Eam tum adesse, cum dolor omnis absit;</li>\n</ol>\n\n\n<ul>\n\t<li>Itaque dicunt nec dubitant: mihi sic usus est, tibi ut opus est facto, fac.</li>\n\t<li>Philosophi autem in suis lectulis plerumque moriuntur.</li>\n\t<li>Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</li>\n\t<li>Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:58:44.846998 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "2f175be83c2c453291869324acca5c58",
+    "expirationDate": "None",
+    "contactName": "Magna dolor vitae sodales ligula netus ve a taciti erat.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Metus magna.",
+    "id": "velit-netus.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Velit netus.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus proin pede et quis mi metus ac magna ut morbi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Proin velit porta laoreet luctus amet venenatis sociis. Lorem magna augue eros iaculis aenean fusce et ante porttitor ut magna consectetuer sagittis dolor. Etiam purus morbi suspendisse pharetra eros hac erat quis vitae ad. Donec magna lacinia vivamus tristique. Vitae metus a sociis elementum adipiscing aliquam sit curabitur placerat class magna. Fames vitae eget porta rhoncus phasellus bibendum nullam. Magna lacus praesent ac ornare in quis accumsan lobortis. Justo felis sociis ornare quisque nec. Netus augue praesent ad suspendisse diam. Curae metus. Augue porta nec interdum metus ut. Neque curae quis a augue viverra hendrerit erat ullamcorper.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:44.851573 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:45.183227 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "velit-netus.",
+    "modification_date": "2018/10/26 17:58:45.188130 GMT-4",
+    "language": "en",
+    "rights": "Donec dolor dui etiam vel penatibus hac porta amet ultrices. Velit porta pulvinar mi taciti curabitur per. Netus dolor molestie. Velit ipsum lacinia tortor vitae laoreet litora per. Proin etiam interdum metus. Neque lorem. Morbi purus litora sit bibendum. Netus morbi conubia arcu ultrices felis curabitur dapibus fames morbi velit scelerisque facilisi. Class vitae quis rhoncus amet. Massa ipsum sem fames hac erat sem id class. Morbi netus viverra magnis id diam non enim vestibulum auctor. Proin morbi orci justo nunc a. Class netus odio. Vitae dolor cum quam praesent eleifend semper ornare rhoncus sed. Dolor vitae dui cras dignissim ad. Class donec turpis porta metus.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Velit netus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 10,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./velit-netus."
+}

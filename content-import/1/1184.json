@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:0.768439 GMT-4",
+    "_uid": "dc3fbe4f1f1b4c8d91c9968e006d7f59",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "fusce-proin.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:1.099603 GMT-4",
+    "title": "Fusce proin.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce class mus nisl potenti feugiat hymenaeos inceptos.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Morbi fames. Fusce vitae. Risus ipsum egestas id nisi volutpat suscipit natoque aptent fusce mollis. Lorem massa mollis primis hac iaculis placerat quisque ultrices tortor taciti urna potenti proin at sociis penatibus sagittis et ullamcorper. Massa augue. Curae fames aliquet elementum dictum. Morbi class luctus. Nulla vitae suspendisse sociosqu facilisis proin ve leo. Vitae fames porta iaculis luctus duis urna imperdiet. Vitae risus quisque enim donec mauris. Velit fames eget nec litora a adipiscing sit fusce quisque. Massa class potenti leo quis sociis lectus. Donec morbi neque sapien id. Vitae proin. Vitae dolor laoreet neque nibh id primis litora volutpat suspendisse faucibus. Justo curae hac massa leo. Augue ipsum sapien. Ipsum velit fusce eros rhoncus et curabitur.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:0.774321 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:1.094899 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>A mene tu?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Tecum optime, deinde etiam cum mediocri amico.</a> Proclivi currit oratio. Duo Reges: constructio interrete. Poterat autem inpune; <a href='http://loripsum.net/' target='_blank'>Hoc non est positum in nostra actione.</a> Qua tu etiam inprudens utebare non numquam. </p>\n\n<p>Ita ne hoc quidem modo paria peccata sunt. Tanta vis admonitionis inest in locis; Quis non odit sordidos, vanos, leves, futtiles? Fortasse id optimum, sed ubi illud: Plus semper voluptatis? </p>\n\n<p>Quae est igitur causa istarum angustiarum? Tubulo putas dicere? </p>\n\n<ul>\n\t<li>Quid loquor de nobis, qui ad laudem et ad decus nati, suscepti, instituti sumus?</li>\n\t<li>Age nunc isti doceant, vel tu potius quis enim ista melius?</li>\n\t<li>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Ut proverbia non nulla veriora sint quam vestra dogmata.</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia;</dd>\n\t<dt><dfn>Equidem e Cn.</dfn></dt>\n\t<dd>Qua tu etiam inprudens utebare non numquam.</dd>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Ita ne hoc quidem modo paria peccata sunt.</dd>\n\t<dt><dfn>Moriatur, inquit.</dfn></dt>\n\t<dd>Est tamen ea secundum naturam multoque nos ad se expetendam magis hortatur quam superiora omnia.</dd>\n</dl>\n\n\n<ol>\n\t<li>Quod non faceret, si in voluptate summum bonum poneret.</li>\n\t<li>Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet.</li>\n\t<li>At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit;</li>\n\t<li>Si est nihil nisi corpus, summa erunt illa: valitudo, vacuitas doloris, pulchritudo, cetera.</li>\n\t<li>Ac tamen hic mallet non dolere.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fusce-proin.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Dolor class dui. Dolor porta tempus consectetuer egestas nibh id nam vulputate. Vitae massa risus condimentum non duis. Donec fames. Donec lacus purus imperdiet mollis hendrerit neque et a quis vestibulum nam parturient. Ipsum augue nulla scelerisque et taciti non elit enim. Lacus felis. Porta justo curae eget. Magna metus a pede vestibulum per velit primis pulvinar parturient imperdiet arcu per conubia a. Risus lacus torquent habitasse nisi. Donec lorem leo duis nulla ipsum volutpat parturient sapien. Fusce justo. Class risus donec cubilia lacinia fusce per cubilia sociosqu gravida.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce proin.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./fusce-proin."
+}

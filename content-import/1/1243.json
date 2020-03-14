@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:25.476541 GMT-4",
+    "_uid": "911b5b3438bd401da30d252c586bb31b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-felis-dictum-adipiscing-class-blandit-dis-quis-ad-class-bibendum-nibh.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:25.535643 GMT-4",
+    "title": "Class felis dictum adipiscing class blandit dis quis ad class bibendum nibh.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce justo lorem pharetra hac.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Velit lorem. Justo fusce. Morbi dolor tempus semper per accumsan dignissim dictumst mattis placerat. Nulla fusce elementum euismod aptent duis cras nibh accumsan nascetur mattis. Felis vitae ornare aptent etiam in et malesuada velit est. Neque netus. Etiam fames sociis at cras neque ac hendrerit viverra varius ve volutpat ornare erat. Felis massa laoreet vulputate nisl suspendisse. Etiam magna. Curae augue ligula nascetur metus et auctor consequat massa ad. Class nulla enim gravida tortor amet. Augue dolor eleifend habitasse eros hac vel ve. Risus felis mus felis posuere habitant porta ac augue.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:25.481980 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:25.531469 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-felis-dictum-adipiscing-class-blandit-dis-quis-ad-class-bibendum-nibh.",
+    "remoteUrl": "Ipsum%20justo%20euismod%20tempor%20per%20placerat%20a%20pellentesque%20pede%20nulla%20turpis%20risus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fames fusce. Netus massa luctus suspendisse class porttitor faucibus sapien magnis nunc id. Lacus fames. Donec nulla tristique pharetra congue donec senectus. Morbi metus odio est elit sodales fames dui etiam tortor proin. Curae neque dolor primis varius hendrerit justo hac. Metus class iaculis vehicula tempus eget montes ac odio faucibus at sapien pellentesque tristique. Felis magna. Vitae nulla feugiat et non litora. Augue fusce aenean amet fringilla aptent. Morbi netus turpis in faucibus nisl non ante odio potenti. Fames dolor volutpat vestibulum congue in faucibus primis dictum dui arcu. Felis fames malesuada.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class felis dictum adipiscing class blandit dis quis ad class bibendum nibh.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 57,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./class-felis-dictum-adipiscing-class-blandit-dis-quis-ad-class-bibendum-nibh."
+}

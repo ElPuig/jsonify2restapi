@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Primum quid tu dicis breve?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec dicuntur fortasse ieiunius; <a href='http://loripsum.net/' target='_blank'>Nunc haec primum fortasse audientis servire debemus.</a> Esse enim, nisi eris, non potes. Ea possunt paria non esse. </p>\n\n<dl>\n\t<dt><dfn>Ita credo.</dfn></dt>\n\t<dd>Nam si propter voluptatem, quae est ista laus, quae possit e macello peti?</dd>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret?</dd>\n\t<dt><dfn>Hunc vos beatum;</dfn></dt>\n\t<dd>Sunt enim prima elementa naturae, quibus auctis v\u00edrtutis quasi germen efficitur.</dd>\n</dl>\n\n\n<p>Atqui reperies, inquit, in hoc quidem pertinacem; Duo Reges: constructio interrete. Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum. </p>\n\n<ul>\n\t<li>Itaque homo in primis ingenuus et gravis, dignus illa familiaritate Scipionis et Laelii, Panaetius, cum ad Q.</li>\n\t<li>An me, inquis, tam amentem putas, ut apud imperitos isto modo loquar?</li>\n\t<li>Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.</li>\n\t<li>Nec tamen ille erat sapiens quis enim hoc aut quando aut ubi aut unde?</li>\n</ul>\n\n\n<p>Sed residamus, inquit, si placet. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Iam id ipsum absurdum, maximum malum neglegi. Mihi enim satis est, ipsis non satis. Si quicquam extra virtutem habeatur in bonis. <a href='http://loripsum.net/' target='_blank'>Sed erat aequius Triarium aliquid de dissensione nostra iudicare.</a> Quonam modo? </p>\n\n<ol>\n\t<li>Positum est a nostris in iis esse rebus, quae secundum naturam essent, non dolere;</li>\n\t<li>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</li>\n\t<li>Dempta enim aeternitate nihilo beatior Iuppiter quam Epicurus;</li>\n\t<li>Videmusne ut pueri ne verberibus quidem a contemplandis rebus perquirendisque deterreantur?</li>\n\t<li>Etenim nec iustitia nec amicitia esse omnino poterunt, nisi ipsae per se expetuntur.</li>\n\t<li>Unum est sine dolore esse, alterum cum voluptate.</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 17:58:25.792711 GMT-4",
+    "imageCaption": "Class lacus.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "morbi-curae-erat-quam-malesuada.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:26.127624 GMT-4",
+    "title": "Morbi curae erat quam malesuada.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor neque senectus lorem consectetuer nulla diam cum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Felis lacus amet a eros augue felis. Fusce curae. Velit justo tempor parturient ipsum commodo erat per nisl nam fames. Lorem morbi tempus at volutpat. Lacus porta enim suscipit dui nisi molestie rhoncus gravida. Donec class ornare montes massa cras fames nonummy morbi. Massa dolor non nunc integer erat ve pellentesque amet cubilia euismod aptent et. Magna ipsum. Netus felis urna. Vitae justo.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:25.796740 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:26.122889 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "morbi-curae-erat-quam-malesuada.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Neque ipsum. Ipsum proin orci. Donec massa eget. Felis neque dui massa natoque ad arcu cras. Neque velit volutpat et morbi imperdiet natoque consectetuer elementum tempus parturient praesent. Morbi purus. Magna fusce. Massa purus sem cursus in lectus. Massa augue dolor a semper quis dignissim habitant magnis pede tellus. Etiam metus iaculis ligula magnis aliquet rhoncus nibh sollicitudin mi pretium. Massa donec aliquet dapibus habitant nulla eu ut urna dapibus a lectus penatibus maecenas dolor natoque. Nulla class ullamcorper sem diam interdum ornare sociis nisi ipsum egestas malesuada quam. Risus lorem quis praesent vitae. Purus fames sociis magna. Felis proin. Proin dolor eget orci blandit a suspendisse per nostra phasellus.",
+    "_content_type_description": "text/plain",
+    "_uid": "77df629214614d21918e37502ee0362f",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Morbi curae erat quam malesuada.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 66,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./morbi-curae-erat-quam-malesuada."
+}

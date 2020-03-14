@@ -1,0 +1,77 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:20.920745 GMT-4",
+    "_uid": "f93ff32145f7473081e0133e25d1392a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-metus-eni-magna-eni-class-ultricies-purus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:20.977568 GMT-4",
+    "title": "Magna metus eni magna eni class ultricies purus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue lorem mauris ac faucibus fames magna odio tempor vitae maecenas etiam viverra lacinia nibh ac.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Lorem vitae quam. Nulla fames etiam pede eni a dictum dolor. Lorem felis cubilia varius erat massa. Curae porta augue velit massa. Morbi justo fusce turpis montes netus parturient senectus metus est nascetur. Morbi magna suspendisse mi lectus convallis per pellentesque ad conubia. Morbi lorem. Massa lacus tortor class id facilisis a dis. Nulla donec laoreet massa eni luctus ve. Lacus lorem. Massa porta dictum suspendisse lorem semper. Donec risus. Nulla massa duis hac odio vehicula eni conubia urna et. Porta class scelerisque ante mollis ad duis. Netus morbi amet. Netus felis molestie. Fames metus ornare platea sed eros ac lorem sem.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "ad..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "magna-metus-eni-magna-eni-class-ultricies-purus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Justo velit habitant proin viverra aliquet quam odio ve. Etiam ipsum elementum cubilia lorem per tristique turpis faucibus tellus taciti ipsum. Metus vitae mauris ad non hymenaeos proin. Augue justo a vivamus in nullam vel mollis. Morbi proin duis nec porta adipiscing ullamcorper turpis. Lacus proin arcu natoque ac eros inceptos ullamcorper pulvinar velit habitasse. Netus nulla hac primis molestie facilisis. Velit felis sapien massa parturient blandit sit primis. Velit dolor cras etiam pretium luctus risus potenti. Lacus porta nisl nam libero. Lacus ipsum a rutrum velit tristique quis posuere a condimentum mus mi facilisi. Vitae proin turpis nisi ullamcorper conubia consectetuer.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Magna metus eni magna eni class ultricies purus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/magna-metus-eni-magna-eni-class-ultricies-purus."
+}

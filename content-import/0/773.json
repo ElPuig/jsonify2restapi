@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:33.173553 GMT-4",
+    "_uid": "d03df5a117be4847800f23ff7b846600",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "fusce-neque.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:33.505400 GMT-4",
+    "title": "Fusce neque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae fusce ligula auctor nulla scelerisque praesent hendrerit ve ut orci nostra nec.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Donec massa hac odio fusce at luctus sapien fusce porta ullamcorper ac magnis. Nulla class. Vitae magna maecenas. Risus class non felis sed platea tincidunt et montes volutpat cras id hac donec feugiat ad. Porta risus purus nisi ve malesuada purus. Morbi vitae pulvinar augue ut tortor hendrerit. Neque velit porta nec est dui. Class augue ante mi arcu semper conubia.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:33.178999 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:33.500802 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Ut necesse sit omnium rerum, quae natura vigeant, similem esse finem, non eundem.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quacumque enim ingredimur, in aliqua historia vestigium ponimus. Vide, quantum, inquam, fallare, Torquate. Igitur neque stultorum quisquam beatus neque sapientium non beatus. In schola desinis. Scaevolam M. Erat enim Polemonis. Duo Reges: constructio interrete. Praeteritis, inquit, gaudeo. </p>\n\n<ul>\n\t<li>Quid ergo?</li>\n\t<li>Ut alios omittam, hunc appello, quem ille unum secutus est.</li>\n\t<li>Sed tamen est aliquid, quod nobis non liceat, liceat illis.</li>\n\t<li>Quae ista amicitia est?</li>\n</ul>\n\n\n<ol>\n\t<li>Fortasse id optimum, sed ubi illud: Plus semper voluptatis?</li>\n\t<li>Ergo, si semel tristior effectus est, hilara vita amissa est?</li>\n</ol>\n\n\n<p>Facillimum id quidem est, inquam. Graece donan, Latine voluptatem vocant. Ego vero isti, inquam, permitto. Illa tamen simplicia, vestra versuta. Eam stabilem appellas. Si mala non sunt, iacet omnis ratio Peripateticorum. Nihil illinc huc pervenit. </p>\n\n<p>Nihil opus est exemplis hoc facere longius. Negat enim summo bono afferre incrementum diem. Primum Theophrasti, Strato, physicum se voluit; Utilitatis causa amicitia est quaesita. Apparet statim, quae sint officia, quae actiones. Quae duo sunt, unum facit. </p>\n\n<dl>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus;</dd>\n\t<dt><dfn>Quis istum dolorem timet?</dfn></dt>\n\t<dd>Id Sextilius factum negabat.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Non enim, si omnia non sequebatur, idcirco non erat ortus illinc.</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Nunc agendum est subtilius.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fusce-neque.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lacus augue cursus aenean quis penatibus amet. Massa porta lorem euismod ridiculus cursus tempus risus etiam turpis mattis. Ipsum dolor magnis mi bibendum. Augue proin euismod pretium varius mi inceptos amet pede porttitor. Dolor etiam placerat massa a gravida et eros. Curae justo tellus luctus fringilla vestibulum nisi velit ac cursus dignissim in. Massa lacus sagittis ad eros sodales et turpis eros nisl. Vitae neque cursus rutrum. Donec fusce leo pede vestibulum congue duis. Etiam porta cras erat adipiscing cum. Porta etiam sapien mattis. Morbi nulla nam tincidunt mus quam dui morbi lorem tortor porta nam fames porta. Class nulla. Felis fames. Neque magna hac praesent lacinia quis lobortis ultricies est felis duis nec. Donec morbi. Fusce netus platea faucibus facilisis ve. Augue magna mus nunc amet fusce gravida sit faucibus posuere lacinia. Vitae proin risus odio at magna. Nulla ipsum proin.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce neque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./fusce-neque."
+}

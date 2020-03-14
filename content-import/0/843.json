@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:11.131800 GMT-4",
+    "_uid": "23cf83524c2c483a8b56414d3ed83212",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "metus-morbi-lacus-varius.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:11.181563 GMT-4",
+    "title": "Metus morbi lacus varius.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Proin risus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Felis magna nisl maecenas. Purus curae orci arcu parturient at nisi velit gravida. Fames justo nullam mattis. Lorem augue tristique posuere velit eu a erat adipiscing luctus nibh amet facilisis non pellentesque. Etiam donec sit diam nisl elementum risus tincidunt. Nulla ipsum tempor orci suspendisse. Class curae mus tristique. Metus justo aptent nisi libero. Massa etiam potenti dictumst eu dui nibh ac diam curae. Ipsum fusce montes ve nonummy eros risus faucibus odio. Curae lacus. Dolor lacus ultrices mi netus at libero posuere semper fusce. Massa risus. Massa lorem. Risus nulla ante. Donec metus eget dis eni nam. Purus lacus. Vitae class a mattis enim hendrerit rutrum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.494394 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.810314 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "nisl..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "metus-morbi-lacus-varius.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Felis velit nostra. Nulla proin turpis cum vestibulum tortor. Metus lacus auctor massa eleifend vestibulum ultricies. Etiam morbi quis ultricies quis dapibus natoque cursus eu fusce mi eni nisi. Risus ipsum urna condimentum gravida lacus rhoncus leo. Class netus neque montes fames per tempus. Netus morbi facilisi phasellus in mi. Velit ipsum malesuada est ante praesent est blandit torquent libero luctus. Etiam dolor enim facilisi ante. Lorem lacus risus platea quam suspendisse cum tortor. Augue velit a tempor risus urna nec curae nibh nulla hendrerit volutpat libero quis purus integer aliquet.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Metus morbi lacus varius.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./metus-morbi-lacus-varius."
+}

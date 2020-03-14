@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:36.639864 GMT-4",
+    "_uid": "d8e48238bb3d43a38f1b468994b8500b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "magna-dolor-taciti.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:36.973791 GMT-4",
+    "title": "Magna dolor taciti.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi etiam tempor faucibus nisl interdum metus pede condimentum laoreet scelerisque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Ipsum proin congue libero non montes aliquet vivamus semper purus. Porta velit congue varius. Purus class iaculis viverra erat mus erat. Dolor fames urna rhoncus duis leo posuere. Netus augue laoreet. Curae magna. Netus donec. Metus lorem nascetur. Etiam ipsum senectus metus erat eu nibh lacus convallis bibendum. Fames lacus rutrum molestie facilisis nisl eni auctor ultricies. Porta curae lacus integer potenti dictumst velit ridiculus accumsan bibendum donec ve eros iaculis ut tortor iaculis rhoncus sociis. Ipsum vitae. Donec purus dis taciti a maecenas duis amet parturient litora non. Fusce massa vel risus erat nam risus lacus lorem ornare sociis vehicula parturient fringilla. Velit netus felis suspendisse per tempor potenti hendrerit. Lorem curae massa viverra. Justo vitae quis ve nec duis eget cubilia. Purus class justo. Netus etiam. Purus curae tempus augue vestibulum erat tempor semper tristique elementum vestibulum nibh luctus tristique habitasse. Donec proin eleifend dui integer quam. Curae etiam nibh potenti aptent imperdiet. Purus lorem aptent fusce cras dui fusce.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:36.645708 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:36.968910 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Non enim, si omnia non sequebatur, idcirco non erat ortus illinc.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fortuna fortis; Nihil enim iam habes, quod ad corpus referas; Qui est in parvis malis. Duo Reges: constructio interrete. Verum hoc idem saepe faciamus. An nisi populari fama? <a href='http://loripsum.net/' target='_blank'>Istic sum, inquit.</a> </p>\n\n<h2>Propter nos enim illam, non propter eam nosmet ipsos diligimus.</h2>\n\n<p>Sed residamus, inquit, si placet. Avaritiamne minuis? Et ille ridens: Video, inquit, quid agas; Nam ista vestra: Si gravis, brevis; </p>\n\n<ul>\n\t<li>Ut optime, secundum naturam affectum esse possit.</li>\n\t<li>Habent enim et bene longam et satis litigiosam disputationem.</li>\n\t<li>Honesta oratio, Socratica, Platonis etiam.</li>\n</ul>\n\n\n<p>Restatis igitur vos; Bonum patria: miserum exilium. Etenim semper illud extra est, quod arte comprehenditur. <a href='http://loripsum.net/' target='_blank'>Quid de Pythagora?</a> Ne discipulum abducam, times. Illa videamus, quae a te de amicitia dicta sunt. </p>\n\n<dl>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Audax negotium, dicerem impudens, nisi hoc institutum postea translatum ad philosophos nostros esset.</dd>\n\t<dt><dfn>Quo modo?</dfn></dt>\n\t<dd>Hanc se tuus Epicurus omnino ignorare dicit quam aut qualem esse velint qui honestate summum bonum metiantur.</dd>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Magni enim aestimabat pecuniam non modo non contra leges, sed etiam legibus partam.</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>An est aliquid, quod te sua sponte delectet?</dd>\n</dl>\n\n\n<ol>\n\t<li>Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est.</li>\n\t<li>Non enim, si malum est dolor, carere eo malo satis est ad bene vivendum.</li>\n\t<li>Haeret in salebra.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-dolor-taciti.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lorem porta sociis diam. Risus curae inceptos amet pede nibh fames aptent porta ridiculus. Purus fames. Ipsum augue scelerisque. Morbi netus nulla nibh quam eget dolor malesuada class. Risus massa varius rutrum morbi ac imperdiet a felis laoreet sapien mus. Fusce metus ante dis class nunc at eros etiam dapibus. Donec morbi arcu eu arcu netus mollis litora euismod mattis dolor dictum. Netus class iaculis tempus. Etiam porta feugiat dictum magna. Etiam vitae praesent justo penatibus mus nam cum et molestie. Augue neque eros per purus netus viverra litora per nisl enim hac. Risus porta vitae nullam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna dolor taciti.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./magna-dolor-taciti."
+}

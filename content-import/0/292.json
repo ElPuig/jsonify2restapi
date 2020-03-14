@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/24 05:42:50.187972 GMT-4",
+    "endDate": "2018/10/26 11:05:27.093112 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Te enim iudicem aequum puto, modo quae dicat ille bene noris.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Tu quidem reddes; Istam voluptatem perpetuam quis potest praestare sapienti? Recte, inquit, intellegis. Sed mehercule pergrata mihi oratio tua. </p>\n\n<dl>\n\t<dt><dfn>Respondeat totidem verbis.</dfn></dt>\n\t<dd>Quae si potest singula consolando levare, universa quo modo sustinebit?</dd>\n\t<dt><dfn>Ita nemo beato beatior.</dfn></dt>\n\t<dd>Vives, inquit Aristo, magnifice atque praeclare, quod erit cumque visum ages, numquam angere, numquam cupies, numquam timebis.</dd>\n\t<dt><dfn>Praeclare hoc quidem.</dfn></dt>\n\t<dd>Qui ita affectus, beatum esse numquam probabis;</dd>\n\t<dt><dfn>Paria sunt igitur.</dfn></dt>\n\t<dd>Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam.</dd>\n</dl>\n\n\n<ol>\n\t<li>Tum Torquatus: Prorsus, inquit, assentior;</li>\n\t<li>Nam e quibus locis quasi thesauris argumenta depromerentur, vestri ne suspicati quidem sunt, superiores autem artificio et via tradiderunt.</li>\n\t<li>An vero, inquit, quisquam potest probare, quod perceptfum, quod.</li>\n\t<li>Inquit, an parum disserui non verbis Stoicos a Peripateticis, sed universa re et tota sententia dissidere?</li>\n\t<li>Sed quae tandem ista ratio est?</li>\n</ol>\n\n\n<p>Quoniam, si dis placet, ab Epicuro loqui discimus. Vestri haec verecundius, illi fortasse constantius. <code>Si qua in iis corrigere voluit, deteriora fecit.</code> Equidem, sed audistine modo de Carneade? Primum in nostrane potestate est, quid meminerimus? Eaedem res maneant alio modo. </p>\n\n<pre>\nCuius quidem, quoniam Stoicus fuit, sententia condemnata\nmihi videtur esse inanitas ista verborum.\n\nQui enim voluptatem ipsam contemnunt, iis licet dicere se\nacupenserem maenae non anteponere.\n</pre>\n\n\n<h2>Cave putes quicquam esse verius.</h2>\n\n<p>At enim sequor utilitatem. Huius ego nunc auctoritatem sequens idem faciam. Ratio quidem vestra sic cogit. Cur iustitia laudatur? Explanetur igitur. At iam decimum annum in spelunca iacet. </p>\n\n<ul>\n\t<li>Propter nos enim illam, non propter eam nosmet ipsos diligimus.</li>\n\t<li>Itaque rursus eadem ratione, qua sum paulo ante usus, haerebitis.</li>\n\t<li>An vero, inquit, quisquam potest probare, quod perceptfum, quod.</li>\n\t<li>Cuius quidem, quoniam Stoicus fuit, sententia condemnata mihi videtur esse inanitas ista verborum.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:58.415097 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "298e8463542646e3bb998c0919f07c4b",
+    "expirationDate": "None",
+    "contactName": "Curae etiam nascetur fusce libero.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Magna vitae donec sociis pharetra.",
+    "id": "dolor-class-velit-fusce-justo-mollis.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.914916 GMT-4",
+    "title": "Dolor class velit fusce justo mollis.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus velit natoque sed pulvinar.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Nulla purus fusce hendrerit nunc hac sollicitudin mi nonummy quis velit eni. Netus massa. Lorem etiam. Felis class nostra consequat natoque nulla non orci purus ligula. Risus augue nullam mauris volutpat ullamcorper molestie convallis accumsan nisi placerat a. Justo etiam commodo eget non. Donec fusce ullamcorper et dictum. Dolor massa libero elementum curae convallis commodo lacus. Netus lacus mus eros velit eu a mollis ipsum adipiscing suspendisse tellus et. Purus netus pulvinar ut suspendisse et. Morbi augue phasellus sagittis dictum urna. Purus morbi pede. Fames purus vivamus sed at imperdiet parturient amet. Morbi lacus. Dolor metus aliquet imperdiet arcu quam. Porta fusce auctor magna nam odio hac curae tempus metus natoque.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:58.419014 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.928717 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "dolor-class-velit-fusce-justo-mollis.",
+    "modification_date": "2018/10/26 13:51:42.915228 GMT-4",
+    "language": "en",
+    "rights": "Vitae massa. Purus proin. Purus felis dapibus per litora lacinia egestas odio consectetuer. Augue fames arcu semper habitant penatibus nisi eget nulla malesuada tincidunt nisi. Vitae justo platea accumsan porttitor. Etiam risus praesent id. Velit magna dictumst lacus. Dolor vitae aenean turpis facilisis. Netus curae. Donec magna curae dictumst porttitor sed fermentum potenti pellentesque phasellus. Fames metus quis nonummy. Magna purus dignissim adipiscing nec fames lacus curae. Proin metus viverra volutpat dictum quam varius magnis iaculis quis varius ve nisl cras interdum purus. Morbi metus eleifend vitae a conubia aenean at nullam nibh. Lorem massa tempus habitant lorem sed. Dolor augue sem neque facilisis torquent nullam. Metus donec morbi tristique facilisis. Etiam proin netus tellus nibh nisi mi sollicitudin posuere. Augue risus natoque fermentum pharetra ac. Dolor class litora ultricies bibendum mattis congue in habitant dapibus.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor class velit fusce justo mollis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 88,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/dolor-class-velit-fusce-justo-mollis."
+}

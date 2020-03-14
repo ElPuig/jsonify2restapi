@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:32.042847 GMT-4",
+    "_uid": "092de3dd27f04099ad556cc6e2f30791",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-morbi-fusce-nisl-nibh-vitae-dolor-lobortis-sed-orci-parturient-aptent-eu.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:32.096397 GMT-4",
+    "title": "Lorem morbi fusce nisl nibh vitae dolor lobortis sed orci parturient aptent eu.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Ipsum risus euismod duis urna nulla massa eleifend non et litora hac sodales ac.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Nulla curae. Dolor felis ante a pede parturient malesuada. Neque morbi congue nostra non mattis a. Etiam netus morbi fames pulvinar quam diam metus eu mollis. Risus proin porttitor nulla eu habitasse in mauris neque pharetra fames. Curae augue nec quis. Massa netus cum orci. Massa metus. Class donec molestie metus consequat facilisis eros dui sodales. Fusce vitae diam hac augue mus. Curae massa libero ante amet eu quam. Ipsum risus. Risus purus arcu rutrum. Curae ipsum taciti et mi id odio mus nunc id placerat eros ante mattis phasellus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "netus..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lorem-morbi-fusce-nisl-nibh-vitae-dolor-lobortis-sed-orci-parturient-aptent-eu.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna purus aenean proin libero condimentum lorem phasellus. Felis magna congue sociis velit scelerisque in tellus potenti enim id metus. Augue felis. Lorem justo mauris id volutpat cubilia curabitur ante. Augue velit. Augue velit varius scelerisque dolor magnis auctor integer in ligula eu litora. Felis porta ipsum purus gravida elementum nisl quisque at. Felis neque ridiculus vulputate eget semper. Dolor class netus. Augue ipsum cum nisl maecenas nec. Fusce magna. Morbi felis mauris. Fames dolor leo class ipsum a congue cras tincidunt cursus morbi suspendisse leo nibh ultrices. Risus ipsum arcu potenti augue ad augue consectetuer purus. Donec purus tempus metus purus placerat. Neque fames rutrum mi varius eleifend vestibulum commodo sit.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lorem morbi fusce nisl nibh vitae dolor lobortis sed orci parturient aptent eu.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./lorem-morbi-fusce-nisl-nibh-vitae-dolor-lobortis-sed-orci-parturient-aptent-eu."
+}

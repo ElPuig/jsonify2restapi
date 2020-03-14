@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quos quidem tibi studiose et diligenter tractandos magnopere censeo.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Obsecro, inquit, Torquate, haec dicit Epicurus? <a href='http://loripsum.net/' target='_blank'>At hoc in eo M.</a> Collatio igitur ista te nihil iuvat. </p>\n\n<p>Utilitatis causa amicitia est quaesita. <a href='http://loripsum.net/' target='_blank'>Quo modo autem philosophus loquitur?</a> Duo Reges: constructio interrete. At enim sequor utilitatem. </p>\n\n<p>Negat enim summo bono afferre incrementum diem. Duarum enim vitarum nobis erunt instituta capienda. Id mihi magnum videtur. Respondeat totidem verbis. In schola desinis. Respondent extrema primis, media utrisque, omnia omnibus. </p>\n\n<ul>\n\t<li>Alia quaedam dicent, credo, magna antiquorum esse peccata, quae ille veri investigandi cupidus nullo modo ferre potuerit.</li>\n\t<li>Est autem officium, quod ita factum est, ut eius facti probabilis ratio reddi possit.</li>\n\t<li>Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse.</li>\n</ul>\n\n\n<ol>\n\t<li>Ita cum ea volunt retinere, quae superiori sententiae conveniunt, in Aristonem incidunt;</li>\n\t<li>Nam bonum ex quo appellatum sit, nescio, praepositum ex eo credo, quod praeponatur aliis.</li>\n\t<li>Re mihi non aeque satisfacit, et quidem locis pluribus.</li>\n\t<li>Nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat;</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Equidem e Cn.</dfn></dt>\n\t<dd>Te ipsum, dignissimum maioribus tuis, voluptasne induxit, ut adolescentulus eriperes P.</dd>\n\t<dt><dfn>Frater et T.</dfn></dt>\n\t<dd>Illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit.</dd>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Neminem videbis ita laudatum, ut artifex callidus comparandarum voluptatum diceretur.</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 18:01:47.635549 GMT-4",
+    "imageCaption": "Porta donec.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-velit-gravida-ligula-sem-aptent-conubia-natoque.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:47.967439 GMT-4",
+    "title": "Dolor velit gravida ligula sem aptent conubia natoque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Nulla etiam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Dolor risus non pede pharetra. Ipsum class iaculis. Purus massa lectus dui id pede congue dis varius viverra laoreet fermentum. Fames augue sociosqu leo dapibus libero ve. Netus nulla. Risus massa porta. Fames lacus magna risus turpis sollicitudin euismod senectus id vitae nec. Vitae risus cum auctor eros condimentum vel enim nam. Proin lorem nullam lobortis morbi enim per at. Metus morbi nonummy lobortis nostra aptent orci. Morbi felis turpis quis ullamcorper sem aenean a. Etiam nulla. Neque etiam orci at. Nulla morbi arcu ipsum nascetur fusce. Justo donec sociis cursus lacus elementum. Morbi donec. Etiam fusce hac lectus venenatis.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:47.639473 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:47.963303 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "dolor-velit-gravida-ligula-sem-aptent-conubia-natoque.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Neque risus a mattis duis at eros vitae dictum augue. Felis justo venenatis ultrices primis massa suspendisse. Felis metus. Nulla porta fames risus. Magna donec justo euismod nunc eleifend eros natoque. Purus etiam. Massa lorem mollis donec tincidunt mi curabitur viverra. Dolor justo suscipit malesuada eros suspendisse in nostra sollicitudin laoreet dictumst neque tincidunt volutpat dictum. Netus dolor. Class ipsum aliquet. Vitae fusce tempor consectetuer euismod dolor pede sociis. Lorem purus donec dolor. Augue lacus neque taciti mattis pede ac duis.",
+    "_content_type_description": "text/plain",
+    "_uid": "48e4504028244e438ac86523f98af1e9",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor velit gravida ligula sem aptent conubia natoque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 66,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./dolor-velit-gravida-ligula-sem-aptent-conubia-natoque."
+}

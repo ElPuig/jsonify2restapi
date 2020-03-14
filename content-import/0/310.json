@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/29 00:00:5.992076 GMT-4",
+    "endDate": "2018/10/31 07:03:51.850144 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Suo enim quisque studio maxime ducitur.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Numquam facies. Duo Reges: constructio interrete. Quid de Platone aut de Democrito loquar? Ac tamen hic mallet non dolere. </p>\n\n<dl>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Nam quid possumus facere melius?</dd>\n\t<dt><dfn>ALIO MODO.</dfn></dt>\n\t<dd>Tollenda est atque extrahenda radicitus.</dd>\n\t<dt><dfn>At eum nihili facit;</dfn></dt>\n\t<dd>Quod quidem iam fit etiam in Academia.</dd>\n</dl>\n\n\n<ol>\n\t<li>Pudebit te, inquam, illius tabulae, quam Cleanthes sane commode verbis depingere solebat.</li>\n\t<li>Id enim volumus, id contendimus, ut officii fructus sit ipsum officium.</li>\n</ol>\n\n\n<p>Occultum facinus esse potuerit, gaudebit; <a href='http://loripsum.net/' target='_blank'>Quid iudicant sensus?</a> Nihil opus est exemplis hoc facere longius. Inde igitur, inquit, ordiendum est. </p>\n\n<pre>\nNam prius a se poterit quisque discedere quam appetitum\nearum rerum, quae sibi conducant, amittere.\n\nErgo id est convenienter naturae vivere, a natura discedere.\n</pre>\n\n\n<p>Quae diligentissime contra Aristonem dicuntur a Chryippo. Qui ita affectus, beatum esse numquam probabis; Bestiarum vero nullum iudicium puto. Nihil illinc huc pervenit. </p>\n\n<ul>\n\t<li>Tertium autem omnibus aut maximis rebus iis, quae secundum naturam sint, fruentem vivere.</li>\n\t<li>Aliter enim explicari, quod quaeritur, non potest.</li>\n\t<li>Quibus ego vehementer assentior.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:50:4.847953 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "86109dcbe0514b848d0593789a38d7e4",
+    "expirationDate": "None",
+    "contactName": "Neque porta dictum sociosqu porttitor.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Magna fusce litora.",
+    "id": "justo-donec.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:43.385958 GMT-4",
+    "title": "Justo donec.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin neque auctor dapibus urna duis tincidunt torquent vehicula.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Class netus vel interdum ultricies nisl sit ac. Felis morbi fusce turpis habitasse molestie pharetra. Metus curae justo dapibus ornare eros turpis. Magna vitae. Ipsum proin nec. Class ipsum donec. Proin nulla. Morbi nulla. Porta netus. Class metus dolor quis aptent lobortis. Lorem porta tortor elit fames curae dolor velit aliquam. Magna neque tellus proin vestibulum scelerisque montes mi eleifend per ipsum penatibus hendrerit diam. Proin lacus ultricies amet nam molestie massa quisque hendrerit ultrices libero. Ipsum massa iaculis ante eget eni turpis. Class velit cubilia mattis purus.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:50:4.851688 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:43.397226 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "justo-donec.",
+    "modification_date": "2018/10/26 13:51:43.386228 GMT-4",
+    "language": "en",
+    "rights": "Magna risus nostra dictum dis non cubilia. Vitae dolor vivamus. Metus porta leo eros a morbi ut proin sollicitudin inceptos velit. Proin nulla netus. Justo fusce a amet at. Class proin elit ac consectetuer tellus lacus rhoncus nostra duis et metus. Felis donec mollis senectus tempus amet pede ve ante netus imperdiet fusce. Nulla class. Porta dolor ante varius dictumst nisl accumsan eleifend in. Metus proin quis hac ante ac eleifend elit iaculis ad. Fames purus. Morbi ipsum. Porta curae iaculis porta urna congue tempus pharetra amet. Dolor augue. Magna fusce suspendisse enim imperdiet curabitur lorem. Lacus fames commodo tempus ut sapien laoreet quam id velit.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo donec.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 106,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/justo-donec."
+}

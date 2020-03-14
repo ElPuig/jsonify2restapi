@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:30.496260 GMT-4",
+    "_uid": "74545169f8064470939c327255b06dd6",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "etiam-lacus-libero-eu-faucibus-nisi-sapien-id-sapien-mauris-malesuada-mi.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:30.551078 GMT-4",
+    "title": "Etiam lacus libero eu faucibus nisi sapien id sapien mauris malesuada mi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Lacus velit erat commodo ad accumsan dictum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Donec nulla arcu suscipit leo pretium nec at iaculis arcu nisl diam etiam suspendisse accumsan. Proin ipsum eros. Metus porta. Risus velit aptent in congue vel elit. Vitae porta tempor. Massa risus congue rutrum mus. Porta magna vivamus cubilia nonummy duis lacus dolor ligula. Curae risus netus dui natoque. Fames lacus tortor per luctus dolor fames. Augue porta. Velit lacus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "ipsum..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "etiam-lacus-libero-eu-faucibus-nisi-sapien-id-sapien-mauris-malesuada-mi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla dolor nullam enim consectetuer faucibus fames congue aenean. Netus augue orci tristique. Velit massa placerat eu nulla et taciti ad aptent fusce adipiscing inceptos metus. Augue velit eni. Vitae velit lectus eget. Fames proin. Metus augue nostra nulla porttitor laoreet platea augue malesuada elit. Risus donec justo turpis aptent cum nibh fusce donec gravida arcu et augue consectetuer consequat tellus proin. Velit fusce. Dolor justo mattis. Fusce etiam integer sem ac a semper. Felis class felis sapien ad mauris bibendum dapibus tristique erat. Justo vitae sit odio. Porta nulla sed nisl nunc dictum congue diam pede quis faucibus placerat. Proin porta turpis fusce scelerisque. Ipsum justo sagittis dignissim a nec vulputate dictumst ve. Ipsum dolor varius velit nostra mollis potenti vel varius.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Etiam lacus libero eu faucibus nisi sapien id sapien mauris malesuada mi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./etiam-lacus-libero-eu-faucibus-nisi-sapien-id-sapien-mauris-malesuada-mi."
+}

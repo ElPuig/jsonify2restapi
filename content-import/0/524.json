@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:32.619522 GMT-4",
+    "_uid": "a4ebd50db3204d5b9bd447e40f852088",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-justo.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:32.669676 GMT-4",
+    "title": "Netus justo.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Metus felis ligula.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Netus risus netus posuere nam ac augue. Ipsum dolor varius sollicitudin vivamus placerat. Felis proin tempor nisl id nisi ve. Neque netus sed arcu ac sem tristique. Augue purus neque. Magna lorem a feugiat at vehicula. Metus augue. Velit felis quis accumsan duis iaculis et imperdiet etiam. Ipsum augue montes pellentesque tincidunt dolor cubilia. Justo risus malesuada lacus fames vel. Curae donec. Lacus donec cubilia potenti nostra porta facilisis donec. Lorem vitae duis sed. Nulla purus. Curae velit dictumst augue mus donec fermentum.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "ac..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "netus-justo.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Metus fames ullamcorper sed mattis primis fringilla lacus sit vitae venenatis. Donec augue arcu cubilia ad sit ultricies nullam habitasse. Massa neque. Velit purus lacus mollis facilisi in platea interdum suspendisse sit. Curae purus. Class curae ligula volutpat hendrerit at vulputate metus. Ipsum purus erat conubia enim vel a. Class risus. Magna porta rhoncus libero ad libero. Felis curae urna tortor vel dui consectetuer ad donec habitasse parturient. Metus augue enim nostra conubia aliquet luctus eros. Felis vitae ligula condimentum dolor porttitor facilisi interdum felis convallis dui quam urna. Vitae fames tempor risus cum enim. Augue magna nullam ad nonummy eros adipiscing nam vitae dictum proin odio donec eu nullam at non arcu quam neque ut ve. Fames proin orci suspendisse aliquam non commodo id lorem porttitor sagittis. Lorem magna aliquam commodo praesent etiam. Magna class mattis arcu mattis nec hac pellentesque ve dolor.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Netus justo.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./netus-justo."
+}

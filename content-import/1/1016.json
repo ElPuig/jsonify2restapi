@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:35.437147 GMT-4",
+    "_uid": "14f2af021d5b4c56b01e63198c8577e3",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "massa-fusce-justo-amet-sed-dolor-vitae.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:35.771196 GMT-4",
+    "title": "Massa fusce justo amet sed dolor vitae.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Magna class.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Purus vitae montes faucibus proin venenatis vitae. Justo massa. Magna proin nibh massa donec praesent mi suspendisse erat. Ipsum etiam vitae suscipit metus varius. Nulla magna amet dapibus in felis non risus. Magna metus sociosqu duis nam lacinia proin id varius sollicitudin. Metus lorem. Purus massa montes consequat laoreet augue nisl cum elementum velit porttitor sociis inceptos erat. Massa metus arcu eget pede sagittis purus sapien odio eget gravida ante ut dui. Justo felis. Risus purus euismod sit montes dapibus. Justo felis etiam vel quam. Porta risus ridiculus eleifend mauris nibh eget eros. Netus ipsum tempor mauris per faucibus fermentum sollicitudin iaculis purus. Metus purus cum. Class neque lacus sit. Risus purus cubilia sapien cum in metus congue luctus neque iaculis dictum sed. Lorem nulla non odio praesent. Purus metus ullamcorper torquent. Purus curae nibh maecenas a consectetuer. Felis justo. Risus lorem non morbi platea primis.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:35.442668 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:35.766588 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quod idem cum vestri faciant, non satis magnam tribuunt inventoribus gratiam.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Igitur ne dolorem quidem. Sed ad haec, nisi molestum est, habeo quae velim. Quis Aristidem non mortuum diligit? Duo Reges: constructio interrete. Oratio me istius philosophi non offendit; Quid nunc honeste dicit? </p>\n\n<p>Cur iustitia laudatur? Zenonis est, inquam, hoc Stoici. Audeo dicere, inquit. Haec dicuntur fortasse ieiunius; Et quidem, inquit, vehementer errat; Praeclare hoc quidem. </p>\n\n<ol>\n\t<li>Itaque hic ipse iam pridem est reiectus;</li>\n\t<li>Sed virtutem ipsam inchoavit, nihil amplius.</li>\n\t<li>Cur igitur, inquam, res tam dissimiles eodem nomine appellas?</li>\n\t<li>An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P.</li>\n\t<li>Quid est igitur, cur ita semper deum appellet Epicurus beatum et aeternum?</li>\n\t<li>Deque his rebus satis multa in nostris de re publica libris sunt dicta a Laelio.</li>\n</ol>\n\n\n<p>Sed videbimus. Apparet statim, quae sint officia, quae actiones. <a href='http://loripsum.net/' target='_blank'>Tum ille: Ain tandem?</a> Deprehensus omnem poenam contemnet. Deinde disputat, quod cuiusque generis animantium statui deceat extremum. Aliter enim nosmet ipsos nosse non possumus. </p>\n\n<dl>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>A villa enim, credo, et: Si ibi te esse scissem, ad te ipse venissem.</dd>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Ut proverbia non nulla veriora sint quam vestra dogmata.</dd>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>Itaque mihi non satis videmini considerare quod iter sit naturae quaeque progressio.</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere.</dd>\n</dl>\n\n\n<ul>\n\t<li>Si longus, levis.</li>\n\t<li>Non est igitur voluptas bonum.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "massa-fusce-justo-amet-sed-dolor-vitae.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Class magna vitae risus velit bibendum mi. Neque donec porta orci nonummy diam suscipit condimentum pulvinar elit nascetur ad. Risus ipsum interdum urna vehicula. Fusce vitae urna montes ad auctor euismod semper ipsum. Massa purus platea proin rutrum etiam rhoncus cubilia. Dolor purus metus pede dui amet varius id inceptos metus ve. Curae dolor sed ridiculus. Felis fames ante natoque ut montes enim in sollicitudin. Massa magna sodales tempus nibh in amet duis. Lacus proin elit torquent sociis urna in. Augue felis suscipit justo augue eni nisl vulputate mollis vestibulum bibendum justo.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Massa fusce justo amet sed dolor vitae.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./massa-fusce-justo-amet-sed-dolor-vitae."
+}

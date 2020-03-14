@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:56.973113 GMT-4",
+    "_uid": "8a69bdad8ccd41189c2469f5ed83ebec",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "netus-morbi-sed-duis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:57.306701 GMT-4",
+    "title": "Netus morbi sed duis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus morbi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Lacus nulla. Justo proin sem. Lorem magna. Augue felis ornare ullamcorper netus fringilla torquent mi dis ut consectetuer. Magna nulla duis nam etiam. Purus class fermentum. Neque risus velit vel conubia ligula. Curae donec. Ipsum nulla. Fames dolor aliquet sit habitasse platea quam tortor. Felis vitae. Netus risus euismod tempor id velit consectetuer. Felis neque nostra justo quisque orci est vivamus luctus et proin augue. Fusce vitae. Risus massa eros lorem luctus curae vivamus purus cras sodales viverra curabitur lobortis sociis montes nam. Lorem magna donec amet quisque in odio potenti curae mi magnis. Donec neque.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:56.979051 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:57.301967 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Eam tum adesse, cum dolor omnis absit;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitiosum est enim in dividendo partem in genere numerare. Urgent tamen et nihil remittunt. Igitur ne dolorem quidem. Duo Reges: constructio interrete. At enim sequor utilitatem. Egone non intellego, quid sit don Graece, Latine voluptas? Inquit, dasne adolescenti veniam? Certe non potest. </p>\n\n<ul>\n\t<li>Non quam nostram quidem, inquit Pomponius iocans;</li>\n\t<li>Hi curatione adhibita levantur in dies, valet alter plus cotidie, alter videt.</li>\n\t<li>Illa sunt similia: hebes acies est cuipiam oculorum, corpore alius senescit;</li>\n\t<li>Hoc simile tandem est?</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Negat esse eam, inquit, propter se expetendam.</a> Si longus, levis dictata sunt. Tibi hoc incredibile, quod beatissimum. </p>\n\n<dl>\n\t<dt><dfn>Quo tandem modo?</dfn></dt>\n\t<dd>Quod autem satis est, eo quicquid accessit, nimium est;</dd>\n\t<dt><dfn>Idemne, quod iucunde?</dfn></dt>\n\t<dd>Nam adhuc, meo fortasse vitio, quid ego quaeram non perspicis.</dd>\n\t<dt><dfn>Sed fortuna fortis;</dfn></dt>\n\t<dd>Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum.</dd>\n\t<dt><dfn>Quis enim redargueret?</dfn></dt>\n\t<dd>Illa tamen simplicia, vestra versuta.</dd>\n\t<dt><dfn>In schola desinis.</dfn></dt>\n\t<dd>Verba tu fingas et ea dicas, quae non sentias?</dd>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Res enim se praeclare habebat, et quidem in utraque parte.</dd>\n</dl>\n\n\n<ol>\n\t<li>Nam illud quidem adduci vix possum, ut ea, quae senserit ille, tibi non vera videantur.</li>\n\t<li>Expressa vero in iis aetatibus, quae iam confirmatae sunt.</li>\n\t<li>Atque haec ita iustitiae propria sunt, ut sint virtutum reliquarum communia.</li>\n\t<li>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</li>\n\t<li>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</li>\n\t<li>Quae cum essent dicta, finem fecimus et ambulandi et disputandi.</li>\n</ol>\n\n\n<p>Bonum patria: miserum exilium. Zenonis est, inquam, hoc Stoici. Nulla erit controversia. Estne, quaeso, inquam, sitienti in bibendo voluptas? Non igitur bene. Sed quae tandem ista ratio est? Quis enim redargueret? </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "netus-morbi-sed-duis.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Porta morbi. Lacus donec leo justo felis vel imperdiet rutrum inceptos. Nulla vitae molestie vel. Class purus. Magna felis. Curae massa dictum scelerisque risus tristique netus a pede in pellentesque lectus curae. Velit vitae vivamus eu enim vel etiam hac nonummy taciti est. Fusce justo sagittis mus magna adipiscing. Lorem morbi. Nulla donec libero ullamcorper. Magna class. Donec magna facilisi. Massa class dictum ornare cras iaculis vitae hac phasellus. Vitae porta sit dictumst blandit neque cras. Class fusce sociis nullam maecenas. Morbi felis turpis pharetra arcu facilisis mattis fusce vel dictum porttitor. Fames vitae inceptos facilisis eni netus neque. Etiam dolor.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus morbi sed duis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./netus-morbi-sed-duis."
+}

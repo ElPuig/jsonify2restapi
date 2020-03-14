@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:41.298197 GMT-4",
+    "_uid": "3d2a0f6cb62342b984ed5dd6f8f0bdfa",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "risus-fusce-non-adipiscing-parturient-id.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:41.341446 GMT-4",
+    "title": "Risus fusce non adipiscing parturient id.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus porta faucibus eni egestas duis nibh euismod urna ut quis vitae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Fusce lorem nullam pharetra cras egestas potenti pede blandit. Purus velit scelerisque orci. Felis porta. Morbi vitae orci congue ve et etiam. Magna purus neque torquent lorem orci. Lacus class interdum magna enim nec. Velit etiam sodales mus quis hac.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:41.301538 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:41.337454 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "risus-fusce-non-adipiscing-parturient-id.",
+    "remoteUrl": "Velit%20proin%20mattis%20auctor%20ridiculus%20convallis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Class justo cursus ligula dolor ullamcorper mi taciti curabitur ad at. Donec porta enim rutrum non primis integer elit interdum lorem magna congue auctor vitae tincidunt. Proin etiam felis. Fusce velit magna magnis enim hymenaeos ligula id molestie nulla at vitae bibendum justo consectetuer. Nulla augue risus a ornare consequat. Risus proin dis libero at sapien sed. Magna velit. Massa dolor. Velit fusce eni. Risus purus cubilia integer. Netus massa proin tempor mattis morbi ante suspendisse dapibus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Risus fusce non adipiscing parturient id.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 58,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./risus-fusce-non-adipiscing-parturient-id."
+}

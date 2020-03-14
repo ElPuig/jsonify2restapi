@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:42.518413 GMT-4",
+    "_uid": "91e67dd71c544136a019f9c216631b77",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "augue-netus-faucibus-ve-suspendisse-eu.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:42.565464 GMT-4",
+    "title": "Augue netus faucibus ve suspendisse eu.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Vitae magna eni cras massa class congue sollicitudin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Proin purus. Velit lacus magna mauris adipiscing fusce laoreet non vestibulum. Vitae lorem justo. Justo fusce. Velit augue. Fames neque euismod litora class porta lectus magna. Lacus neque egestas sagittis tempor. Neque purus quam velit suspendisse vel et pede duis habitasse at. Vitae class ullamcorper faucibus fusce. Augue fusce lorem diam lectus potenti odio dapibus ve fames platea ve. Augue proin porta aliquam posuere habitasse elit ligula. Lorem massa luctus pede.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:42.523337 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:42.561462 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "augue-netus-faucibus-ve-suspendisse-eu.",
+    "remoteUrl": "Magna%20donec%20ante%20ligula%20laoreet%20feugiat.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Metus lacus nec nunc ante cursus commodo vivamus magnis non cras ante. Ipsum netus. Class etiam libero parturient lacus pretium. Metus netus nullam duis eros euismod ve hendrerit vitae mi metus sit pede erat massa nam. Velit fames pede elit parturient dignissim scelerisque leo. Vitae lacus dignissim nisl proin massa. Class fusce viverra gravida litora lorem parturient. Lacus massa. Fusce porta dui odio conubia tellus mus pede nisi dignissim netus sem ipsum dis cras. Purus massa purus sapien faucibus porta natoque sociis fusce. Risus lacus platea ligula conubia integer mauris urna scelerisque. Porta netus cum nisi tellus vulputate vivamus mollis enim. Ipsum class nullam varius suscipit fames in habitant. Fames class sed orci non ad risus et fames pulvinar ac eros. Netus augue libero ornare rhoncus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue netus faucibus ve suspendisse eu.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 51,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./augue-netus-faucibus-ve-suspendisse-eu."
+}

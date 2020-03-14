@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:2.912180 GMT-4",
+    "_uid": "5b4572fb18d04ccaba6a36dba6f7de69",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-curae-enim-pharetra-suscipit-mauris-vehicula-parturient.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:2.957222 GMT-4",
+    "title": "Lacus curae enim pharetra suscipit mauris vehicula parturient.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi netus sit nisl.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Etiam justo varius convallis neque sagittis ad cum ad tempor. Proin porta mattis nostra est parturient. Lacus velit. Justo curae nullam mattis torquent malesuada. Curae nulla rutrum condimentum porta imperdiet natoque lacus ac quam eni cras habitant leo ac. Purus augue semper cum amet at rutrum natoque potenti platea quam. Neque proin. Risus massa. Risus massa ipsum senectus etiam nec cras parturient ridiculus metus in quam. Nulla fames montes varius id primis id mollis habitant sapien aenean etiam. Justo magna eni vel ve sollicitudin dapibus dolor urna dui inceptos phasellus. Felis velit maecenas. Ipsum justo nostra curae lectus ut placerat nibh. Purus lacus ante accumsan eleifend sociis cursus. Neque dolor viverra mattis massa molestie etiam ve. Massa lacus hac quis amet aliquet felis. Ipsum etiam nibh praesent curabitur est cubilia a. Fames metus lobortis et scelerisque ve platea inceptos natoque sociis ac erat praesent a pulvinar ante. Augue lacus suspendisse accumsan pede per massa mus.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:2.915473 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:2.951572 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lacus-curae-enim-pharetra-suscipit-mauris-vehicula-parturient.",
+    "remoteUrl": "Vitae%20magna%20libero%20ullamcorper%20class%20ornare.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae ipsum quis ornare mi. Velit class libero sollicitudin porttitor semper maecenas vestibulum hymenaeos condimentum. Purus lorem donec imperdiet habitant. Curae magna magnis. Augue magna condimentum id platea erat aliquet eu faucibus varius montes leo nonummy nascetur auctor. Etiam netus. Proin lacus turpis cras vivamus facilisis volutpat tellus auctor praesent nunc sem sodales id nibh. Ipsum curae elit neque. Ipsum morbi accumsan ac duis fames conubia tempor mus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lacus curae enim pharetra suscipit mauris vehicula parturient.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 55,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./lacus-curae-enim-pharetra-suscipit-mauris-vehicula-parturient."
+}

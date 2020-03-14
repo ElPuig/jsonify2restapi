@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:15.044168 GMT-4",
+    "_uid": "b11f692aa7354601b570f9946160f1d4",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "donec-nulla-nunc-facilisis-netus-accumsan-netus-non.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:15.513922 GMT-4",
+    "title": "Donec nulla nunc facilisis netus accumsan netus non.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class massa cum dictum eleifend.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Curae fames taciti sapien torquent facilisis interdum. Risus augue. Lorem donec molestie risus inceptos et ornare pulvinar ve massa dictum. Ipsum risus. Velit massa primis mattis curae sodales ac sed montes ad. Magna donec justo tellus condimentum. Lacus dolor ullamcorper cum. Lorem felis euismod tempus sem aliquam ultrices sapien. Risus massa vitae suspendisse praesent pretium cras at. Etiam magna litora id torquent nunc semper eu quam. Fames etiam. Risus augue laoreet blandit ligula. Nulla massa potenti ultrices et cum erat nisi.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:15.050699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:15.508984 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>An ea, quae per vinitorem antea consequebatur, per se ipsa curabit?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praeclare hoc quidem. Haec dicuntur inconstantissime. Ego vero isti, inquam, permitto. </p>\n\n<ol>\n\t<li>Quia dolori non voluptas contraria est, sed doloris privatio.</li>\n\t<li>Re mihi non aeque satisfacit, et quidem locis pluribus.</li>\n\t<li>Atque etiam val\u00edtudinem, vires, vacuitatem doloris non propter utilitatem solum, sed etiam ipsas propter se expetemus.</li>\n\t<li>Frater et T.</li>\n</ol>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Videsne quam sit magna dissensio? Quis hoc dicit? Tamen a proposito, inquam, aberramus. </p>\n\n<dl>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Ut proverbia non nulla veriora sint quam vestra dogmata.</dd>\n\t<dt><dfn>Neutrum vero, inquit ille.</dfn></dt>\n\t<dd>Quis enim redargueret?</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Sed ne, dum huic obsequor, vobis molestus sim.</dd>\n\t<dt><dfn>Memini vero, inquam;</dfn></dt>\n\t<dd>Apud ceteros autem philosophos, qui quaesivit aliquid, tacet;</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Invidiosum nomen est, infame, suspectum.</dd>\n</dl>\n\n\n<h3>Sed in rebus apertissimis nimium longi sumus.</h3>\n\n<p>Ergo ita: non posse honeste vivi, nisi honeste vivatur? <a href='http://loripsum.net/' target='_blank'>Erat enim Polemonis.</a> Summum en\u00edm bonum exposuit vacuitatem doloris; Et quod est munus, quod opus sapientiae? Summum a vobis bonum voluptas dicitur. Prioris generis est docilitas, memoria; </p>\n\n<ul>\n\t<li>Erat enim Polemonis.</li>\n\t<li>Scio enim esse quosdam, qui quavis lingua philosophari possint;</li>\n\t<li>Theophrasti igitur, inquit, tibi liber ille placet de beata vita?</li>\n\t<li>Summus dolor plures dies manere non potest?</li>\n\t<li>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</li>\n\t<li>-delector enim, quamquam te non possum, ut ais, corrumpere, delector, inquam, et familia vestra et nomine.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "donec-nulla-nunc-facilisis-netus-accumsan-netus-non.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Justo curae netus dis erat molestie imperdiet a. Vitae etiam class enim scelerisque at. Etiam justo. Magna purus fusce nisi aliquam. Massa velit mus class netus mus. Justo dolor porta mattis tempor amet eget. Justo class turpis nullam aliquet quam. Curae dolor condimentum ac auctor mollis vitae aliquam enim cubilia. Dolor etiam est magna cursus ad maecenas. Vitae justo quis non id mollis et eleifend iaculis. Velit purus. Class fusce sociis. Magna vitae nulla nunc. Neque nulla iaculis. Morbi massa.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec nulla nunc facilisis netus accumsan netus non.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./donec-nulla-nunc-facilisis-netus-accumsan-netus-non."
+}

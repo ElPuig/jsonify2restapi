@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/30 16:53:56.323582 GMT-4",
+    "endDate": "2018/11/01 18:21:34.787120 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. At enim hic etiam dolore. Quid enim est a Chrysippo praetermissum in Stoicis? Nulla erit controversia. Duo Reges: constructio interrete. </p>\n\n<ol>\n\t<li>Et harum quidem rerum facilis est et expedita distinctio.</li>\n\t<li>Hic nihil fuit, quod quaereremus.</li>\n\t<li>Quid turpius quam sapientis vitam ex insipientium sermone pendere?</li>\n</ol>\n\n\n<ul>\n\t<li>Quid ergo attinet gloriose loqui, nisi constanter loquare?</li>\n\t<li>De quibus etsi a Chrysippo maxime est elaboratum, tamen a Zenone minus multo quam ab antiquis;</li>\n\t<li>Ergo hoc quidem apparet, nos ad agendum esse natos.</li>\n\t<li>Duae sunt enim res quoque, ne tu verba solum putes.</li>\n\t<li>Num igitur dubium est, quin, si in re ipsa nihil peccatur a superioribus, verbis illi commodius utantur?</li>\n\t<li>Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt.</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Tum mihi Piso: Quid ergo?</a> Primum quid tu dicis breve? Tu vero, inquam, ducas licet, si sequetur; Certe non potest. </p>\n\n<dl>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Quae in controversiam veniunt, de iis, si placet, disseramus.</dd>\n\t<dt><dfn>Perge porro;</dfn></dt>\n\t<dd>Cur deinde Metrodori liberos commendas?</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Cum audissem Antiochum, Brute, ut solebam, cum M.</dd>\n\t<dt><dfn>Optime, inquam.</dfn></dt>\n\t<dd>Sic, et quidem diligentius saepiusque ista loquemur inter nos agemusque communiter.</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Quid de Pythagora?</dd>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Quis enim redargueret?</dd>\n</dl>\n\n\n<h2>Sed quid minus probandum quam esse aliquem beatum nec satis beatum?</h2>\n\n<p>Quae autem natura suae primae institutionis oblita est? Hic nihil fuit, quod quaereremus. Suo genere perveniant ad extremum; <a href='http://loripsum.net/' target='_blank'>Et ille ridens: Video, inquit, quid agas;</a> Nulla erit controversia. <a href='http://loripsum.net/' target='_blank'>Aliter homines, aliter philosophos loqui putas oportere?</a> Suo enim quisque studio maxime ducitur. </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:56:13.102658 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "349bd8d3842642f6955c9da6ddd48e91",
+    "expirationDate": "None",
+    "contactName": "Morbi donec facilisi cum auctor varius gravida fringilla magnis per lectus eu tellus sem lobortis.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Risus curae auctor consequat nulla pede at nisl.",
+    "id": "class-purus-curae-consequat-condimentum-habitasse-nisl.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Class purus curae consequat condimentum habitasse nisl.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Purus risus aptent dignissim ipsum mi elit morbi nonummy ve aptent sit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Felis proin. Velit purus nulla litora consectetuer tincidunt purus arcu quam mus. Lacus curae. Fusce vitae dui viverra nostra per sem consectetuer. Velit metus urna curabitur taciti parturient pulvinar. Netus risus hac odio interdum porta massa sem leo. Vitae nulla pharetra proin vitae semper senectus adipiscing tempor. Curae netus quam maecenas ut ante molestie non rhoncus sociosqu donec ridiculus. Fusce lorem nascetur hac nonummy torquent viverra. Class velit sit penatibus commodo. Felis porta fusce consequat volutpat tempor. Class metus hendrerit nibh. Risus felis. Morbi dolor posuere orci lobortis montes rhoncus hendrerit ante. Augue justo magnis ullamcorper metus luctus tortor maecenas. Netus ipsum dictum venenatis euismod risus vestibulum amet etiam porta. Lorem felis a posuere congue eu nostra sem ornare augue. Lacus lorem libero justo vestibulum accumsan. Fusce augue platea et congue viverra sociis class magnis. Fusce etiam.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:13.106824 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:13.640064 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "class-purus-curae-consequat-condimentum-habitasse-nisl.",
+    "modification_date": "2018/10/26 17:56:13.643697 GMT-4",
+    "language": "en",
+    "rights": "Velit risus nibh a. Risus fusce dui varius ac augue aenean. Augue ipsum phasellus. Curae neque libero semper nisl erat platea hac. Fames proin tempor parturient massa nisl suspendisse vel tellus. Neque velit. Lacus etiam. Augue justo sodales nostra nisl duis gravida. Porta metus egestas litora. Justo purus montes lectus. Curae nulla potenti tellus at quis morbi at porttitor vitae ut. Lacus donec nascetur morbi in urna scelerisque mi rutrum id praesent. Velit etiam non elit justo nisi. Nulla morbi lectus eu dictumst pretium aliquet ultricies facilisi congue erat malesuada maecenas id.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class purus curae consequat condimentum habitasse nisl.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 10,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/class-purus-curae-consequat-condimentum-habitasse-nisl."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Si longus, levis dictata sunt.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non igitur bene. Tecum optime, deinde etiam cum mediocri amico. Quam ob rem tandem, inquit, non satisfacit? Videsne quam sit magna dissensio? Occultum facinus esse potuerit, gaudebit; </p>\n\n<h2>Quorum sine causa fieri nihil putandum est.</h2>\n\n<p>Qui convenit? Sed ego in hoc resisto; A mene tu? <a href='http://loripsum.net/' target='_blank'>Itaque fecimus.</a> Fortemne possumus dicere eundem illum Torquatum? Sequitur disserendi ratio cognitioque naturae; </p>\n\n<ol>\n\t<li>Sin laboramus, quis est, qui alienae modum statuat industriae?</li>\n\t<li>Quippe: habes enim a rhetoribus;</li>\n\t<li>Antiquorum autem sententiam Antiochus noster mihi videtur persequi diligentissime, quam eandem Aristoteli fuisse et Polemonis docet.</li>\n\t<li>Haec dicuntur fortasse ieiunius;</li>\n</ol>\n\n\n<ul>\n\t<li>Facile est hoc cernere in primis puerorum aetatulis.</li>\n\t<li>Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia.</li>\n\t<li>Si enim ad populum me vocas, eum.</li>\n</ul>\n\n\n<p>Quid iudicant sensus? Cur iustitia laudatur? Duo Reges: constructio interrete. Tibi hoc incredibile, quod beatissimum. Itaque contra est, ac dicitis; </p>\n\n<dl>\n\t<dt><dfn>A mene tu?</dfn></dt>\n\t<dd>Aliud est enim po\u00ebtarum more verba fundere, aliud ea, quae dicas, ratione et arte distinguere.</dd>\n\t<dt><dfn>Quid de Pythagora?</dfn></dt>\n\t<dd>Tecum optime, deinde etiam cum mediocri amico.</dd>\n\t<dt><dfn>Quae ista amicitia est?</dfn></dt>\n\t<dd>Si autem id non concedatur, non continuo vita beata tollitur.</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>-, sed ut hoc iudicaremus, non esse in iis partem maximam positam beate aut secus vivendi.</dd>\n</dl>\n\n\n",
+    "creation_date": "2018/10/26 17:57:44.515937 GMT-4",
+    "imageCaption": "Purus ipsum placerat ipsum eu.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "justo-lacus-mus-massa-platea-duis-auctor-id-congue-mi.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:44.844831 GMT-4",
+    "title": "Justo lacus mus massa platea duis auctor id congue mi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum dolor tristique placerat taciti orci.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Porta massa ullamcorper nec mi tristique nisi scelerisque viverra condimentum duis eget ipsum metus. Fusce felis libero rutrum tincidunt netus quis leo class dis. Netus etiam amet ultrices felis sociis vestibulum sociosqu. Fusce massa natoque imperdiet sem sollicitudin. Lorem purus nunc egestas eget nam accumsan curae nonummy elit et consectetuer amet gravida. Velit magna eni. Metus class aptent sapien viverra ad. Velit class magna dictumst et tellus ad hac justo elit cum ante. Justo velit.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:44.519614 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:44.840314 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "justo-lacus-mus-massa-platea-duis-auctor-id-congue-mi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta velit enim est conubia eget at. Fames metus dui eleifend. Massa donec. Massa dolor egestas eu litora dui. Metus risus arcu aliquam elementum. Morbi magna accumsan eu condimentum et mollis sit ligula. Vitae felis nullam curabitur vivamus taciti primis class nam felis nec. Fames neque lectus orci lorem rhoncus justo. Dolor lorem mattis cursus amet et. Nulla class mus eget pede nulla varius maecenas odio. Purus justo tellus eu arcu. Donec nulla tellus tincidunt tristique nunc. Porta magna vehicula ipsum ut tempor suscipit fringilla nec felis semper nulla penatibus laoreet netus. Metus massa aenean nunc id eni cras velit cubilia phasellus urna. Risus etiam non tortor imperdiet praesent at. Nulla magna mus ipsum. Class augue orci quisque vitae fusce taciti facilisis id. Fames augue interdum curabitur ad ultricies. Vitae fames. Porta ipsum. Etiam massa nullam tempor magna venenatis elementum justo a vivamus libero curae adipiscing eu pede id consectetuer. Justo lorem neque aenean auctor commodo eget in consectetuer taciti ut.",
+    "_content_type_description": "text/plain",
+    "_uid": "2d7ed53592a54cfca031447799a118d2",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Justo lacus mus massa platea duis auctor id congue mi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 62,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./justo-lacus-mus-massa-platea-duis-auctor-id-congue-mi."
+}

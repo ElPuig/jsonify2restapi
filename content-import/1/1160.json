@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/14 09:35:54.398337 GMT-4",
+    "endDate": "2018/10/14 13:34:13.738204 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Ratio quidem vestra sic cogit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. An haec ab eo non dicuntur? Duo Reges: constructio interrete. Etiam beatissimum? Cum praesertim illa perdiscere ludus esset. Zenonis est, inquam, hoc Stoici. Illa tamen simplicia, vestra versuta. Utilitatis causa amicitia est quaesita. Tibi hoc incredibile, quod beatissimum. </p>\n\n<dl>\n\t<dt><dfn>Audeo dicere, inquit.</dfn></dt>\n\t<dd>Si longus, levis;</dd>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Cur igitur, inquam, res tam dissimiles eodem nomine appellas?</dd>\n\t<dt><dfn>Hic ambiguo ludimur.</dfn></dt>\n\t<dd>Sed plane dicit quod intellegit.</dd>\n</dl>\n\n\n<p>De quibus cupio scire quid sentias. Itaque hic ipse iam pridem est reiectus; </p>\n\n<p>Non igitur bene. Id Sextilius factum negabat. Ex rebus enim timiditas, non ex vocabulis nascitur. </p>\n\n<ol>\n\t<li>Quaero igitur, quo modo hae tantae commendationes a natura profectae subito a sapientia relictae sint.</li>\n\t<li>Quae cum dixisset paulumque institisset, Quid est?</li>\n\t<li>Addidisti ad extremum etiam indoctum fuisse.</li>\n\t<li>Neque solum ea communia, verum etiam paria esse dixerunt.</li>\n</ol>\n\n\n<ul>\n\t<li>Et si turpitudinem fugimus in statu et motu corporis, quid est cur pulchritudinem non sequamur?</li>\n\t<li>Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit?</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 18:02:51.696894 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "05af47166a484a318d4cd97bcf78b3fe",
+    "expirationDate": "None",
+    "contactName": "Metus etiam lorem pharetra ante taciti nonummy.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Lacus augue ultrices velit in.",
+    "id": "neque-fusce.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Neque fusce.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Velit nulla nonummy diam dui.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Fames justo mus libero nostra vivamus elementum cras hac enim aliquam. Felis class per quis ut dolor at ornare. Purus morbi viverra aptent lorem vestibulum ultrices cubilia ut. Nulla netus commodo est ultrices venenatis augue eu sit duis potenti fusce eros. Risus curae vel justo. Lacus purus. Nulla purus donec lorem hac. Felis curae platea convallis ac fringilla aliquet cursus morbi praesent sem. Fusce ipsum nascetur porta lacus semper nibh pede nulla cursus adipiscing.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:51.701059 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:52.023267 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "neque-fusce.",
+    "modification_date": "2018/10/26 18:02:52.027867 GMT-4",
+    "language": "en",
+    "rights": "Class porta per aptent tellus lacinia cubilia aptent. Ipsum felis odio augue massa sapien mattis est quisque. Morbi purus. Etiam purus fermentum senectus class. Netus porta molestie ve ullamcorper ac aenean cubilia. Fusce curae. Justo porta. Lacus dolor eni nibh a duis proin ultrices lorem. Class justo habitasse vivamus porta class sagittis. Magna massa porta dictum litora porta parturient pulvinar porta cras hac eros. Etiam curae ullamcorper placerat diam ante parturient tortor sagittis. Morbi magna montes massa nonummy iaculis ante non cursus. Fames purus scelerisque interdum ridiculus orci quam dui iaculis ad cursus hendrerit.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Neque fusce.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 14,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./neque-fusce."
+}

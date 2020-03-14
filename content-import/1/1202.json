@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:5.886729 GMT-4",
+    "_uid": "3958d4921be840c99e67fc5fed48f598",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-justo.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:5.929242 GMT-4",
+    "title": "Class justo.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus donec non vestibulum ac mattis nam in morbi arcu hac morbi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Dolor lorem leo purus varius sollicitudin ultricies fusce neque laoreet fusce. Porta class mattis nulla sociosqu nisl auctor. Velit dolor dapibus. Velit fames purus torquent orci dictum sit egestas volutpat etiam. Morbi donec. Proin purus. Porta ipsum tempus magnis curae vel etiam orci. Donec fames. Massa fames. Magna etiam maecenas et condimentum eu tellus pede lacinia in metus. Fames curae nunc tortor aliquam urna lobortis habitant. Felis lorem sed convallis accumsan magnis. Risus dolor porta amet.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:5.890594 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:5.926011 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-justo.",
+    "remoteUrl": "Justo%20nulla%20sem%20massa%20felis%20dui%20metus%20convallis%20facilisis%20risus%20turpis%20nisl%20turpis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor porta scelerisque est. Etiam class cum tortor. Fusce ipsum fusce morbi eros integer augue amet. Justo neque justo cursus eget erat lorem tempus. Nulla lorem duis. Etiam justo. Fusce ipsum suspendisse nascetur metus. Fusce proin risus semper morbi facilisis dis dui sollicitudin at viverra. Netus massa odio ligula. Etiam proin amet dapibus duis vestibulum sapien nulla maecenas. Porta donec risus magnis primis augue scelerisque ut lectus consectetuer. Dolor morbi nisl convallis. Magna netus. Magna class sapien lobortis penatibus interdum. Felis morbi sociis dictum sit.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class justo.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 56,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./class-justo."
+}

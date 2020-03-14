@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:30.295758 GMT-4",
+    "_uid": "013eb3dd7fb44775a9cf4411c2151f88",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "metus-augue-magna.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:30.343392 GMT-4",
+    "title": "Metus augue magna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue fusce.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Velit dolor nibh class viverra urna. Risus purus bibendum vel aptent inceptos erat non fermentum feugiat congue. Ipsum fames dictum. Fusce neque. Justo neque cras purus eu ornare. Fames lacus natoque auctor eu justo consectetuer. Etiam ipsum dolor primis id auctor at. Dolor ipsum varius at magnis ad in diam ante netus ut facilisis a risus ve. Class massa erat nonummy a suspendisse sit ante nunc eget iaculis cursus. Lacus class nisi dis odio laoreet feugiat odio dui duis ultricies. Etiam neque libero eu habitant morbi velit morbi. Netus morbi accumsan purus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "nunc..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "metus-augue-magna.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum felis nec quis sem egestas in. Velit felis blandit dictumst eros eni sodales mi ipsum eget habitasse mauris. Neque justo conubia ligula ante ullamcorper ve tempus senectus vestibulum tellus suscipit aliquet. Augue etiam fames libero ante id consectetuer iaculis malesuada libero eros dictum ut nostra blandit. Curae purus interdum orci pede ridiculus sollicitudin conubia convallis cras pede. Dolor etiam. Neque massa lobortis metus hymenaeos. Proin justo a ligula odio elementum ac. Augue justo.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Metus augue magna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./metus-augue-magna."
+}

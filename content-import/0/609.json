@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:13.046428 GMT-4",
+    "_uid": "33bd53cb644c4f32a6b0d3a7d2bb07eb",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "fames-nulla-praesent-class-iaculis-nonummy-ante-ipsum-fames.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:13.380103 GMT-4",
+    "title": "Fames nulla praesent class iaculis nonummy ante ipsum fames.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fames porta euismod ipsum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Netus massa nulla ornare adipiscing pellentesque aliquet curabitur senectus taciti orci nostra parturient. Purus netus facilisi. Lorem velit auctor. Risus netus aptent elementum velit mauris parturient nulla. Proin lorem cras ipsum ridiculus maecenas neque nunc orci leo a tellus arcu. Fames proin lacinia accumsan ornare accumsan felis elit. Fusce ipsum cras nonummy aliquet arcu fringilla. Magna morbi rutrum pellentesque laoreet nascetur justo nonummy viverra. Class lorem neque commodo sit tristique curae vivamus leo lobortis porttitor. Morbi purus eros nisi. Dolor curae. Dolor lacus curae mattis bibendum sem nullam feugiat tortor nec feugiat cras nam cum egestas neque. Neque class laoreet sapien per at pede placerat dapibus cubilia luctus justo. Class dolor vitae placerat purus aenean ante. Vitae massa erat nisi fusce malesuada quam eni magnis. Donec fusce. Risus vitae.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:13.052283 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:13.375131 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Nosti, credo, illud: Nemo pius est, qui pietatem-;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Minime vero istorum quidem, inquit. Utrum igitur tibi litteram videor an totas paginas commovere? Non quam nostram quidem, inquit Pomponius iocans; Quid de Platone aut de Democrito loquar? </p>\n\n<ul>\n\t<li>Non est enim vitium in oratione solum, sed etiam in moribus.</li>\n\t<li>Ita redarguitur ipse a sese, convincunturque scripta eius probitate ipsius ac moribus.</li>\n\t<li>Hanc quoque iucunditatem, si vis, transfer in animum;</li>\n</ul>\n\n\n<p>Quod equidem non reprehendo; Sed nimis multa. Recte, inquit, intellegis. At multis se probavit. <a href='http://loripsum.net/' target='_blank'>An hoc usque quaque, aliter in vita?</a> Cur post Tarentum ad Archytam? <a href='http://loripsum.net/' target='_blank'>Profectus in exilium Tubulus statim nec respondere ausus;</a> </p>\n\n<p>Eaedem res maneant alio modo. Quod ea non occurrentia fingunt, vincunt Aristonem; Cur id non ita fit? Duo Reges: constructio interrete. </p>\n\n<ol>\n\t<li>Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit?</li>\n\t<li>Is ita vivebat, ut nulla tam exquisita posset inveniri voluptas, qua non abundaret.</li>\n\t<li>Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris.</li>\n\t<li>Multa sunt dicta ab antiquis de contemnendis ac despiciendis rebus humanis;</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Facile pateremur, qui etiam nunc agendi aliquid discendique causa prope contra naturam v\u00edgillas suscipere soleamus.</dd>\n\t<dt><dfn>Itaque ab his ordiamur.</dfn></dt>\n\t<dd>Num igitur eum postea censes anxio animo aut sollicito fuisse?</dd>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</dd>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba.</dd>\n\t<dt><dfn>Quo modo?</dfn></dt>\n\t<dd>Res tota, Torquate, non doctorum hominum, velle post mortem epulis celebrari memoriam sui nominis.</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>Hic quoque suus est de summoque bono dissentiens dici vere Peripateticus non potest.</dd>\n\t<dt><dfn>ALIO MODO.</dfn></dt>\n\t<dd>Tu autem inter haec tantam multitudinem hominum interiectam non vides nec laetantium nec dolentium?</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fames-nulla-praesent-class-iaculis-nonummy-ante-ipsum-fames.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Ipsum fusce. Justo neque. Fusce augue aenean iaculis et facilisi cras platea taciti. Magna augue nisi a nibh etiam. Magna felis amet congue libero natoque in. Felis fames massa aliquet. Proin augue hac quam fermentum dis ante odio purus sodales turpis pede ante. Morbi fusce lacinia id quam massa litora donec. Lorem lacus vitae lectus mattis purus convallis senectus aptent nunc lectus vel in. Ipsum justo ultricies vestibulum eget primis nostra eros in diam sagittis dis. Vitae velit odio conubia curae ante ullamcorper. Velit lacus. Massa metus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames nulla praesent class iaculis nonummy ante ipsum fames.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./fames-nulla-praesent-class-iaculis-nonummy-ante-ipsum-fames."
+}

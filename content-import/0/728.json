@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quare hoc videndum est, possitne nobis hoc ratio philosophorum dare.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non igitur bene. Gloriosa ostentatio in constituendo summo bono. <a href='http://loripsum.net/' target='_blank'>Quorum altera prosunt, nocent altera.</a> Duo Reges: constructio interrete. Quid igitur, inquit, eos responsuros putas? Velut ego nunc moveor. <a href='http://loripsum.net/' target='_blank'>Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse;</a> Sed plane dicit quod intellegit. </p>\n\n<ul>\n\t<li>Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam;</li>\n\t<li>Ergo et avarus erit, sed finite, et adulter, verum habebit modum, et luxuriosus eodem modo.</li>\n\t<li>Illa argumenta propria videamus, cur omnia sint paria peccata.</li>\n\t<li>Non minor, inquit, voluptas percipitur ex vilissimis rebus quam ex pretiosissimis.</li>\n</ul>\n\n\n<ol>\n\t<li>Isto modo ne improbos quidem, si essent boni viri.</li>\n\t<li>Quando enim Socrates, qui parens philosophiae iure dici potest, quicquam tale fecit?</li>\n</ol>\n\n\n<p>Quantum Aristoxeni ingenium consumptum videmus in musicis? Quae ista amicitia est? Tum Torquatus: Prorsus, inquit, assentior; Magna laus. </p>\n\n<dl>\n\t<dt><dfn>Quibusnam praeteritis?</dfn></dt>\n\t<dd>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</dd>\n\t<dt><dfn>Erat enim Polemonis.</dfn></dt>\n\t<dd>Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</dd>\n\t<dt><dfn>Magna laus.</dfn></dt>\n\t<dd>Cum autem in quo sapienter dicimus, id a primo rectissime dicitur.</dd>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Proclivi currit oratio.</dd>\n</dl>\n\n\n<h2>Dic in quovis conventu te omnia facere, ne doleas.</h2>\n\n<p>Tollenda est atque extrahenda radicitus. <a href='http://loripsum.net/' target='_blank'>Si quidem, inquit, tollerem, sed relinquo.</a> Universa enim illorum ratione cum tota vestra confligendum puto. Tum mihi Piso: Quid ergo? </p>\n\n",
+    "creation_date": "2018/10/26 17:59:6.163059 GMT-4",
+    "imageCaption": "Morbi metus quisque donec ac penatibus condimentum.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-augue-ligula.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:6.497367 GMT-4",
+    "title": "Fusce augue ligula.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Magna etiam leo nibh pede ridiculus litora ultrices.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Velit magna aliquam aliquet. Nulla lacus montes mattis. Morbi felis donec eget interdum hendrerit ve purus. Etiam fusce arcu rhoncus nisi. Etiam lacus neque aenean consectetuer tristique netus urna conubia duis mi. Vitae neque morbi a lectus eros proin et. Lorem curae. Massa fames proin condimentum quis nunc mus nisi. Massa risus potenti rutrum arcu. Lacus risus. Neque justo sociis varius sed luctus a eleifend. Nulla risus commodo ultrices ac.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:6.166676 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:6.493760 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "fusce-augue-ligula.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Donec justo mauris pulvinar. Dolor purus montes class. Metus augue inceptos eu eget turpis montes diam ullamcorper et sociis. Fusce dolor semper. Porta nulla ultrices sit dolor integer nonummy rutrum urna ad augue phasellus condimentum mus. Nulla lacus luctus congue dapibus ad eget hendrerit nam. Justo morbi. Augue justo sapien proin convallis euismod curae erat. Risus metus etiam placerat vestibulum malesuada ipsum a. Neque lacus. Morbi donec ullamcorper cras pede habitant consectetuer nullam ipsum ut sollicitudin. Porta felis litora. Neque metus urna potenti ve morbi congue nec eget porttitor ridiculus nisl. Fusce augue nullam enim mi pulvinar. Proin morbi senectus at lacus non massa quisque dui elit adipiscing. Fames augue luctus consectetuer tincidunt nulla eget conubia.",
+    "_content_type_description": "text/plain",
+    "_uid": "a2210c6c549046398df2620733306d3c",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce augue ligula.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./fusce-augue-ligula."
+}

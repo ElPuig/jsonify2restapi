@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/11 17:04:59.226436 GMT-4",
+    "endDate": "2018/11/14 04:20:47.542213 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Frater et T.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Recte, inquit, intellegis. Teneo, inquit, finem illi videri nihil dolere. <code>De illis, cum volemus.</code> Duo Reges: constructio interrete. </p>\n\n<pre>\nQuaero igitur, quo modo hae tantae commendationes a natura\nprofectae subito a sapientia relictae sint.\n\nSic enim maiores nostri labores non fugiendos tristissimo\ntamen verbo aerumnas etiam in deo nominaverunt.\n</pre>\n\n\n<dl>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Haec para/doca illi, nos admirabilia dicamus.</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Traditur, inquit, ab Epicuro ratio neglegendi doloris.</dd>\n</dl>\n\n\n<ol>\n\t<li>Si verbum sequimur, primum longius verbum praepositum quam bonum.</li>\n\t<li>Cupit enim d\u00edcere nihil posse ad beatam vitam deesse sapienti.</li>\n\t<li>Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam;</li>\n\t<li>Esse enim, nisi eris, non potes.</li>\n\t<li>Videmusne ut pueri ne verberibus quidem a contemplandis rebus perquirendisque deterreantur?</li>\n\t<li>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</li>\n</ol>\n\n\n<h2>Animum autem reliquis rebus ita perfecit, ut corpus;</h2>\n\n<p>Cur iustitia laudatur? Haec dicuntur inconstantissime. Cur, nisi quod turpis oratio est? <code>Inquit, dasne adolescenti veniam?</code> Expectoque quid ad id, quod quaerebam, respondeas. </p>\n\n<ul>\n\t<li>Nihil enim hoc differt.</li>\n\t<li>Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus;</li>\n\t<li>A mene tu?</li>\n\t<li>Consequens enim est et post oritur, ut dixi.</li>\n</ul>\n\n\n<p>Sin aliud quid voles, postea. Poterat autem inpune; Tamen a proposito, inquam, aberramus. Hic ambiguo ludimur. </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:50:0.242554 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "2c27eb03de864f64ae9f77f6538d2bc5",
+    "expirationDate": "None",
+    "contactName": "Velit netus felis tortor vestibulum purus nisl venenatis erat eget mattis penatibus.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Augue nulla ante.",
+    "id": "fames-neque-nascetur-et-magna-libero-fusce-class-sapien-taciti-praesent-vestibulum-integer-sit-porttitor-integer-sociis-enim-rhoncus.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:43.045944 GMT-4",
+    "title": "Fames neque nascetur et magna libero fusce class sapien taciti praesent vestibulum integer sit porttitor integer sociis enim rhoncus.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam velit neque duis a velit quisque ut lacinia erat mi arcu porta.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Class justo tempus at dis in duis felis libero sociosqu conubia. Porta velit accumsan. Fusce risus pretium. Ipsum dolor nibh. Fames justo lorem cras at nunc at neque sem elit nec quis cras. Fames netus. Nulla lorem. Ipsum netus a nisl mi molestie. Velit donec. Massa felis. Porta purus augue odio nam massa vulputate sed fusce parturient quisque. Massa donec congue cursus sociosqu hac. Netus felis. Augue justo suspendisse pede orci lectus tortor lacus non. Purus dolor taciti consectetuer laoreet eleifend et. Fusce lacus a natoque at ipsum auctor magnis. Donec felis porta sed.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:50:0.245896 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:43.059327 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "fames-neque-nascetur-et-magna-libero-fusce-class-sapien-taciti-praesent-vestibulum-integer-sit-porttitor-integer-sociis-enim-rhoncus.",
+    "modification_date": "2018/10/26 13:51:43.046224 GMT-4",
+    "language": "en",
+    "rights": "Donec ipsum est nisi nec ac sollicitudin integer eni elementum mauris. Dolor fusce nisi ultricies ad mattis dignissim vulputate enim erat varius. Class fusce montes etiam hac augue. Class neque praesent dolor ve sollicitudin lectus eu. Augue purus scelerisque per et tristique.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames neque nascetur et magna libero fusce class sapien taciti praesent vestibulum integer sit porttitor integer sociis enim rhoncus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 93,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/fames-neque-nascetur-et-magna-libero-fusce-class-sapien-taciti-praesent-vestibulum-integer-sit-porttitor-integer-sociis-enim-rhoncus."
+}

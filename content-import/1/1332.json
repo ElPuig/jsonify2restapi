@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:23.584053 GMT-4",
+    "_uid": "70f8e829fd1343c2964a48c8697f9705",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "etiam-purus-cursus-ve-imperdiet.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:23.912231 GMT-4",
+    "title": "Etiam purus cursus ve imperdiet.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class proin interdum penatibus a class mi curae lobortis class orci ridiculus sollicitudin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Massa lorem vivamus risus. Etiam risus curae eros nec nisl eget dignissim duis. Curae ipsum suspendisse ultrices quisque luctus. Felis curae quisque elementum nisl fermentum mollis a gravida semper. Porta justo nec arcu faucibus quam duis adipiscing facilisis elit per nam. Dolor felis sit morbi facilisis quis est a rutrum eget id porta bibendum. Etiam curae donec urna nulla blandit. Purus netus congue in cras ad neque semper felis. Proin risus aliquam bibendum. Velit lorem leo nibh pharetra taciti aliquet laoreet primis leo nunc. Purus magna mattis imperdiet et condimentum quam magnis urna conubia et arcu. Fusce massa. Ipsum donec laoreet ridiculus nostra risus leo class tristique scelerisque hac. Ipsum morbi elementum molestie ligula. Donec vitae torquent. Fusce donec litora quam ultricies mi curae praesent vitae diam elit.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:23.590104 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:23.907304 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Si stante, hoc natura videlicet vult, salvam esse se, quod concedimus;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Verum hoc idem saepe faciamus. Bonum incolumis acies: misera caecitas. Invidiosum nomen est, infame, suspectum. </p>\n\n<dl>\n\t<dt><dfn>Quod vestri non item.</dfn></dt>\n\t<dd>Nunc omni virtuti vitium contrario nomine opponitur.</dd>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Quaero igitur, quo modo hae tantae commendationes a natura profectae subito a sapientia relictae sint.</dd>\n\t<dt><dfn>Poterat autem inpune;</dfn></dt>\n\t<dd>Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.</dd>\n</dl>\n\n\n<ol>\n\t<li>Eam tum adesse, cum dolor omnis absit;</li>\n\t<li>Ergo infelix una molestia, fellx rursus, cum is ipse anulus in praecordiis piscis inventus est?</li>\n\t<li>Habent enim et bene longam et satis litigiosam disputationem.</li>\n\t<li>Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.</li>\n\t<li>Re mihi non aeque satisfacit, et quidem locis pluribus.</li>\n</ol>\n\n\n<h2>Quo modo autem optimum, si bonum praeterea nullum est?</h2>\n\n<p>Istam voluptatem perpetuam quis potest praestare sapienti? Dic in quovis conventu te omnia facere, ne doleas. Quia dolori non voluptas contraria est, sed doloris privatio. Graece donan, Latine voluptatem vocant. </p>\n\n<p>Sed videbimus. <a href='http://loripsum.net/' target='_blank'>Si longus, levis.</a> Quodsi ipsam honestatem undique pertectam atque absolutam. Sed ego in hoc resisto; Immo alio genere; </p>\n\n<ul>\n\t<li>Quae quidem sapientes sequuntur duce natura tamquam videntes;</li>\n\t<li>Ita, quem ad modum in senatu semper est aliquis, qui interpretem postulet, sic, isti nobis cum interprete audiendi sunt.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "etiam-purus-cursus-ve-imperdiet.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Nulla velit nulla diam sit cursus. Justo augue mus urna. Magna class facilisi ac condimentum enim convallis pellentesque viverra vulputate eros duis. Purus neque. Augue felis. Dolor class pharetra ut sem condimentum. Felis porta aptent magna magnis semper et torquent. Class curae tempus eros nullam congue vehicula. Velit nulla. Felis fusce cras luctus diam ridiculus nascetur. Porta nulla suspendisse interdum. Lacus vitae posuere etiam conubia pede interdum hac lorem elementum. Felis fusce.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Etiam purus cursus ve imperdiet.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./etiam-purus-cursus-ve-imperdiet."
+}

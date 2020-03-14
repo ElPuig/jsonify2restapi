@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:24.958942 GMT-4",
+    "_uid": "fa0d0bb5c9ab485f94bd5f90ffc7b632",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "nulla-porta-nec-nunc-amet-diam-erat-duis-orci-non.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:25.294035 GMT-4",
+    "title": "Nulla porta nec nunc amet diam erat duis orci non.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Donec fames.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Porta fusce auctor. Augue etiam porta sodales sit in orci in. Ipsum lorem primis sit libero nascetur. Fusce augue iaculis ve dignissim scelerisque sem arcu elementum sociosqu. Lorem massa aptent ad sed odio sem vitae vestibulum inceptos cras. Class purus ligula eleifend id purus cum placerat ultricies. Neque etiam eni tempor a euismod at. Nulla curae placerat odio. Netus fames integer suscipit cursus. Donec risus nam ante duis sociosqu. Velit netus sit magna conubia dis nullam eu amet. Neque magna molestie adipiscing vivamus. Metus felis. Lorem purus praesent in nisl dictumst neque blandit amet adipiscing cum lorem conubia cubilia fermentum dui commodo.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:24.966892 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:25.289437 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Ergo illi intellegunt quid Epicurus dicat, ego non intellego?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis istud, quaeso, nesciebat? Si longus, levis dictata sunt. Duo Reges: constructio interrete. Tenent mordicus. </p>\n\n<p>Sin aliud quid voles, postea. Illa argumenta propria videamus, cur omnia sint paria peccata. Falli igitur possumus. <a href='http://loripsum.net/' target='_blank'>An hoc usque quaque, aliter in vita?</a> Que Manilium, ab iisque M. Nihil illinc huc pervenit. </p>\n\n<p>Bonum liberi: misera orbitas. In schola desinis. </p>\n\n<ol>\n\t<li>Te enim iudicem aequum puto, modo quae dicat ille bene noris.</li>\n\t<li>Sed tempus est, si videtur, et recta quidem ad me.</li>\n</ol>\n\n\n<ul>\n\t<li>Quae quo sunt excelsiores, eo dant clariora indicia naturae.</li>\n\t<li>In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.</li>\n\t<li>Videamus igitur sententias eorum, tum ad verba redeamus.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Claudii libidini, qui tum erat summo ne imperio, dederetur.</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Non laboro, inquit, de nomine.</dd>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>Est enim tanti philosophi tamque nobilis audacter sua decreta defendere.</dd>\n\t<dt><dfn>Si longus, levis;</dfn></dt>\n\t<dd>Cur fortior sit, si illud, quod tute concedis, asperum et vix ferendum putabit?</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "nulla-porta-nec-nunc-amet-diam-erat-duis-orci-non.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lorem magna sit dui ac auctor. Velit fusce sociis justo laoreet egestas nisl ac consectetuer aptent neque metus. Magna augue eget elit adipiscing montes molestie integer metus augue taciti sociosqu nisi nullam integer turpis ante. Ipsum nulla ante cursus egestas viverra sodales fringilla interdum in primis eros lacinia. Netus fusce condimentum vel. Morbi fames. Porta dolor amet sociis ad. Morbi velit habitant netus blandit. Fusce curae suscipit id nec nunc. Vitae magna eget aenean potenti laoreet accumsan. Velit morbi diam semper sed feugiat. Lacus neque a tortor cras et nec malesuada taciti. Porta neque quis vivamus. Neque etiam accumsan ut fames et.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Nulla porta nec nunc amet diam erat duis orci non.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./nulla-porta-nec-nunc-amet-diam-erat-duis-orci-non."
+}

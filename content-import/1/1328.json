@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:21.586834 GMT-4",
+    "_uid": "82e5ed8684a6483db20d041078e16024",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "fusce-curae-sem-erat-sit-class-lorem-aptent-ad-torquent.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:22.076453 GMT-4",
+    "title": "Fusce curae sem erat sit class lorem aptent ad torquent.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class augue metus mus dolor hac nisi conubia nam lobortis vivamus pede.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Etiam felis platea ullamcorper class convallis elementum. Augue etiam dui cras ridiculus at tempus purus est faucibus nonummy nisl cursus. Augue porta eget leo duis accumsan. Netus risus cursus parturient dolor nisl metus dapibus. Donec metus suspendisse ve mollis. Magna velit taciti. Velit fusce nisi dapibus orci eu non orci ut. Fames morbi elit lorem lobortis dui nisi pharetra torquent viverra quisque pede. Fames lacus. Netus lacus neque. Felis etiam. Metus class.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:21.593355 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:22.072001 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc enim constituto in philosophia constituta sunt omnia. Recte, inquit, intellegis. Itaque contra est, ac dicitis; Poterat autem inpune; Prioris generis est docilitas, memoria; Duo enim genera quae erant, fecit tria. </p>\n\n<dl>\n\t<dt><dfn>Tria genera bonorum;</dfn></dt>\n\t<dd>Itaque nostrum est-quod nostrum dico, artis est-ad ea principia, quae accepimus.</dd>\n\t<dt><dfn>Sint ista Graecorum;</dfn></dt>\n\t<dd>Illum mallem levares, quo optimum atque humanissimum virum, Cn.</dd>\n\t<dt><dfn>Ne discipulum abducam, times.</dfn></dt>\n\t<dd>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Si longus, levis.</dd>\n\t<dt><dfn>Istic sum, inquit.</dfn></dt>\n\t<dd>Non enim hilaritate nec lascivia nec risu aut ioco, comite levitatis, saepe etiam tristes firmitate et constantia sunt beati.</dd>\n\t<dt><dfn>Idem adhuc;</dfn></dt>\n\t<dd>Quamquam haec quidem praeposita recte et reiecta dicere licebit.</dd>\n</dl>\n\n\n<p>Si longus, levis; Tamen a proposito, inquam, aberramus. Vide, quantum, inquam, fallare, Torquate. Et quidem, inquit, vehementer errat; Quid ergo? Quid nunc honeste dicit? </p>\n\n<ul>\n\t<li>An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P.</li>\n\t<li>Sed haec omittamus;</li>\n\t<li>Tum ille timide vel potius verecunde: Facio, inquit.</li>\n\t<li>Sed videbimus.</li>\n\t<li>Istam voluptatem perpetuam quis potest praestare sapienti?</li>\n\t<li>Dic in quovis conventu te omnia facere, ne doleas.</li>\n</ul>\n\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Tria genera bonorum; Neutrum vero, inquit ille. Nulla erit controversia. Sic consequentibus vestris sublatis prima tolluntur. </p>\n\n<ol>\n\t<li>Quarum cum una sit, qua mores conformari putantur, differo eam partem, quae quasi stirps ets huius quaestionis.</li>\n\t<li>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</li>\n\t<li>Ea possunt paria non esse.</li>\n\t<li>Sed non sunt in eo genere tantae commoditates corporis tamque productae temporibus tamque multae.</li>\n\t<li>Ne vitationem quidem doloris ipsam per se quisquam in rebus expetendis putavit, nisi etiam evitare posset.</li>\n\t<li>Cuius quidem, quoniam Stoicus fuit, sententia condemnata mihi videtur esse inanitas ista verborum.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "fusce-curae-sem-erat-sit-class-lorem-aptent-ad-torquent.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Felis metus varius ante iaculis. Porta etiam urna magna sit vestibulum. Purus nulla eni nibh at est tincidunt inceptos tempor placerat ullamcorper. Neque class pharetra odio convallis. Curae felis interdum dolor. Porta lorem diam a arcu ut sollicitudin vivamus nulla eu mollis eleifend dui. Lacus class scelerisque volutpat cras sem nulla. Neque lorem. Nulla metus pharetra. Etiam neque. Fames donec torquent enim sodales quis sapien inceptos mi ipsum sapien varius.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce curae sem erat sit class lorem aptent ad torquent.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./fusce-curae-sem-erat-sit-class-lorem-aptent-ad-torquent."
+}

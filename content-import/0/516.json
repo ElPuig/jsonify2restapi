@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/18 02:37:22.243641 GMT-4",
+    "endDate": "2018/10/20 09:26:49.951733 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Sapientem locupletat ipsa natura, cuius divitias Epicurus parabiles esse docuit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui reperies, inquit, in hoc quidem pertinacem; Non igitur bene. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Hoc ipsum elegantius poni meliusque potuit. </p>\n\n<ul>\n\t<li>Est autem a te semper dictum nec gaudere quemquam nisi propter corpus nec dolere.</li>\n\t<li>Ita graviter et severe voluptatem secrevit a bono.</li>\n\t<li>Rhetorice igitur, inquam, nos mavis quam dialectice disputare?</li>\n\t<li>Non dolere, inquam, istud quam vim habeat postea videro;</li>\n</ul>\n\n\n<p>Rhetorice igitur, inquam, nos mavis quam dialectice disputare? Quamquam haec quidem praeposita recte et reiecta dicere licebit. Sed nunc, quod agimus; Aliter enim explicari, quod quaeritur, non potest. <a href='http://loripsum.net/' target='_blank'>Quodsi ipsam honestatem undique pertectam atque absolutam.</a> Venit ad extremum; </p>\n\n<ol>\n\t<li>Propter nos enim illam, non propter eam nosmet ipsos diligimus.</li>\n\t<li>Ne amores quidem sanctos a sapiente alienos esse arbitrantur.</li>\n</ol>\n\n\n<h2>Quae si potest singula consolando levare, universa quo modo sustinebit?</h2>\n\n<p>Conferam tecum, quam cuique verso rem subicias; Audeo dicere, inquit. At hoc in eo M. Quorum sine causa fieri nihil putandum est. </p>\n\n<dl>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Huius ego nunc auctoritatem sequens idem faciam.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Habent enim et bene longam et satis litigiosam disputationem.</dd>\n</dl>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:57:30.352903 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "4875f16361394070a1486f67e73802b8",
+    "expirationDate": "None",
+    "contactName": "Neque metus inceptos ultricies at hymenaeos felis mi lectus tellus hac eget consequat lacus lorem.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Lorem curae.",
+    "id": "etiam-netus.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Etiam netus.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus purus inceptos cras hac diam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Fusce risus pulvinar porttitor donec amet velit at magnis sociosqu enim nisl. Augue morbi a feugiat. Morbi augue tellus ut mattis laoreet. Vitae curae. Ipsum etiam. Risus justo suscipit eros. Purus magna arcu orci neque mauris erat mus molestie facilisis hac. Neque ipsum sociosqu. Risus etiam sodales ante et orci maecenas vehicula mollis. Augue netus etiam sociosqu massa sodales hac aliquet arcu a cras. Neque magna neque nisl nisi bibendum laoreet nostra. Dolor fames dignissim massa justo montes erat nonummy.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:30.356673 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:30.681948 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "etiam-netus.",
+    "modification_date": "2018/10/26 17:57:30.685798 GMT-4",
+    "language": "en",
+    "rights": "Dolor ipsum molestie etiam ut primis molestie vestibulum dictum etiam viverra erat ac elit non. Donec felis. Fames risus amet proin consequat. Nulla porta. Proin netus proin felis taciti sociis ridiculus. Netus donec taciti torquent eget montes feugiat ut dui diam proin. Lorem felis facilisi arcu. Felis proin facilisi justo in leo in. Fames ipsum facilisi proin morbi massa rhoncus lacinia tempor nam at. Fames magna purus vehicula cras. Velit ipsum neque volutpat ve massa. Fames morbi scelerisque dictumst felis elementum volutpat ve mauris. Morbi magna libero nunc consectetuer dictumst ipsum. Metus magna. Augue proin ligula ve proin nisl libero ad. Felis velit suscipit adipiscing taciti eu. Metus morbi. Nulla augue libero et dictum habitant.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Etiam netus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 18,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./etiam-netus."
+}

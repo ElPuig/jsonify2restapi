@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quorum sine causa fieri nihil putandum est.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum valitudo: miser morbus. <a href='http://loripsum.net/' target='_blank'>Omnia peccata paria dicitis.</a> Pollicetur certe. Moriatur, inquit. Res enim concurrent contrariae. </p>\n\n<p>Duo Reges: constructio interrete. Quid est, quod ab ea absolvi et perfici debeat? Praeclare hoc quidem. Ut proverbia non nulla veriora sint quam vestra dogmata. </p>\n\n<p>At ille pellit, qui permulcet sensum voluptate. Quid enim possumus hoc agere divinius? Etiam beatissimum? Sed haec omittamus; </p>\n\n<ol>\n\t<li>Nam aliquando posse recte fieri dicunt nulla expectata nec quaesita voluptate.</li>\n\t<li>Respondent extrema primis, media utrisque, omnia omnibus.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Respondeat totidem verbis.</dfn></dt>\n\t<dd>Sedulo, inquam, faciam.</dd>\n\t<dt><dfn>At multis malis affectus.</dfn></dt>\n\t<dd>Et non ex maxima parte de tota iudicabis?</dd>\n\t<dt><dfn>Easdemne res?</dfn></dt>\n\t<dd>Etenim nec iustitia nec amicitia esse omnino poterunt, nisi ipsae per se expetuntur.</dd>\n\t<dt><dfn>Sed nimis multa.</dfn></dt>\n\t<dd>Quid enim est a Chrysippo praetermissum in Stoicis?</dd>\n</dl>\n\n\n<ul>\n\t<li>Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur?</li>\n\t<li>Nec vero alia sunt quaerenda contra Carneadeam illam sententiam.</li>\n\t<li>Stoici autem, quod finem bonorum in una virtute ponunt, similes sunt illorum;</li>\n\t<li>Incommoda autem et commoda-ita enim estmata et dustmata appello-communia esse voluerunt, paria noluerunt.</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 17:57:44.020465 GMT-4",
+    "imageCaption": "Vitae velit.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "risus-donec-cursus-lorem.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:44.347848 GMT-4",
+    "title": "Risus donec cursus lorem.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Donec fames gravida rhoncus cras pharetra eu vitae ve fermentum lacus nibh at libero fusce fringilla mauris.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Felis magna montes non tellus lobortis phasellus mi ornare curabitur. Lacus magna aliquam. Velit morbi ipsum augue integer urna lobortis facilisi rutrum. Porta dolor congue augue penatibus facilisi magnis. Class vitae maecenas in odio nunc vel a. Justo class varius nascetur odio mollis ac penatibus ve condimentum. Netus neque nam rutrum conubia sed quam enim id sem netus elementum. Purus lorem a erat parturient ridiculus ullamcorper hymenaeos enim arcu. Risus nulla arcu phasellus placerat metus.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:44.023845 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:44.344265 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "risus-donec-cursus-lorem.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Risus porta. Ipsum velit rhoncus pharetra lacus commodo rutrum dis amet. Magna lacus cubilia aliquam hendrerit platea pulvinar vestibulum. Velit purus suscipit diam. Justo etiam nunc justo ullamcorper dui dictum. Dolor metus. Proin massa urna. Morbi purus urna vehicula ipsum. Fusce metus nisi pede ut. Purus morbi ligula ve odio potenti ve fusce purus dui. Vitae ipsum. Lorem curae per etiam malesuada suspendisse vitae tristique. Metus lorem. Felis proin luctus auctor sagittis eros est ipsum magnis class pulvinar at tempus. Velit dolor fusce congue at. Proin curae nonummy praesent neque at netus.",
+    "_content_type_description": "text/plain",
+    "_uid": "d233436b97694e2785f77cf2c02f7eab",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Risus donec cursus lorem.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 61,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./risus-donec-cursus-lorem."
+}

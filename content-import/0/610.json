@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:13.517193 GMT-4",
+    "_uid": "c4b305938efe494ea0d5f19e5cfca74b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "dolor-justo-nisl-magna.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:13.843455 GMT-4",
+    "title": "Dolor justo nisl magna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fames morbi eros orci parturient malesuada morbi ultricies fringilla.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Netus metus. Risus dolor quis quam facilisis rutrum a blandit libero. Porta class nec nonummy in fermentum. Magna justo. Velit felis dis velit nec mauris conubia ultricies. Augue dolor dictum consequat per massa parturient suspendisse ligula ac id. Fusce massa dui augue orci imperdiet senectus litora urna at. Metus lorem habitant adipiscing phasellus fames nam nisl commodo a scelerisque leo. Neque lacus tempus nibh et sollicitudin. Morbi curae lobortis habitasse.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:13.522615 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:13.839077 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Color egregius, integra valitudo, summa gratia, vita denique conferta voluptatum omnium varietate.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Age, inquies, ista parva sunt. Illa tamen simplicia, vestra versuta. Duo Reges: constructio interrete. Quantum Aristoxeni ingenium consumptum videmus in musicis? </p>\n\n<dl>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Hoc enim constituto in philosophia constituta sunt omnia.</dd>\n\t<dt><dfn>Equidem e Cn.</dfn></dt>\n\t<dd>Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit.</dd>\n</dl>\n\n\n<ul>\n\t<li>Quis suae urbis conservatorem Codrum, quis Erechthei filias non maxime laudat?</li>\n\t<li>Quod mihi quidem visus est, cum sciret, velle tamen confitentem audire Torquatum.</li>\n</ul>\n\n\n<ol>\n\t<li>Praeclare Laelius, et recte sof\u00f1w, illudque vere: O Publi, o gurges, Galloni! es homo miser, inquit.</li>\n\t<li>Prave, nequiter, turpiter cenabat;</li>\n\t<li>Cur iustitia laudatur?</li>\n\t<li>Quod autem meum munus dicis non equidem recuso, sed te adiungo socium.</li>\n</ol>\n\n\n<h2>Equidem etiam Epicurum, in physicis quidem, Democriteum puto.</h2>\n\n<p>Quod vestri non item. Negat esse eam, inquit, propter se expetendam. Expectoque quid ad id, quod quaerebam, respondeas. Tum Torquatus: Prorsus, inquit, assentior; </p>\n\n<p>Cyrenaici quidem non recusant; Paulum, cum regem Persem captum adduceret, eodem flumine invectio? Quod ea non occurrentia fingunt, vincunt Aristonem; Vitae autem degendae ratio maxime quidem illis placuit quieta. <a href='http://loripsum.net/' target='_blank'>Sed quid sentiat, non videtis.</a> Videamus animi partes, quarum est conspectus illustrior; </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "dolor-justo-nisl-magna.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Nulla fames suspendisse accumsan felis porta ligula quam. Neque nulla vehicula vitae hac nisl praesent a facilisi diam natoque ut. Justo augue. Magna purus neque eni pede mi. Fusce etiam habitant lacus class pretium natoque mattis nibh dui. Neque felis. Nulla vitae per proin orci inceptos pulvinar cursus. Lacus felis tristique dis conubia hac pharetra facilisis amet. Nulla netus diam in sollicitudin posuere pulvinar lectus ante id mauris. Purus lacus. Lorem velit.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor justo nisl magna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./dolor-justo-nisl-magna."
+}

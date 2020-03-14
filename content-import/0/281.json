@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/22 11:10:51.407580 GMT-4",
+    "endDate": "2018/10/22 22:28:24.130282 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Qui bonum omne in virtute ponit, is potest dicere perfici beatam vitam perfectione virtutis;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae duo sunt, unum facit. Cur iustitia laudatur? At eum nihili facit; Si quae forte-possumus. </p>\n\n<dl>\n\t<dt><dfn>Quibus ego vehementer assentior.</dfn></dt>\n\t<dd>Rhetorice igitur, inquam, nos mavis quam dialectice disputare?</dd>\n\t<dt><dfn>Istic sum, inquit.</dfn></dt>\n\t<dd>Scio enim esse quosdam, qui quavis lingua philosophari possint;</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Hanc quoque iucunditatem, si vis, transfer in animum;</dd>\n</dl>\n\n\n<ol>\n\t<li>Et summatim quidem haec erant de corpore animoque dicenda, quibus quasi informatum est quid hominis natura postulet.</li>\n\t<li>Nam si propter voluptatem, quae est ista laus, quae possit e macello peti?</li>\n\t<li>Si autem id non concedatur, non continuo vita beata tollitur.</li>\n</ol>\n\n\n<p>Si longus, levis dictata sunt. Explanetur igitur. At enim sequor utilitatem. Conferam tecum, quam cuique verso rem subicias; <a href='http://loripsum.net/' target='_blank'>Cur iustitia laudatur?</a> Tubulo putas dicere? </p>\n\n<pre>\nNam si beatus umquam fuisset, beatam vitam usque ad illum a\nCyro extructum rogum pertulisset.\n\nNec enim ignoras his istud honestum non summum modo, sed\netiam, ut tu vis, solum bonum videri.\n</pre>\n\n\n<p>Traditur, inquit, ab Epicuro ratio neglegendi doloris. Huius, Lyco, oratione locuples, rebus ipsis ielunior. Memini vero, inquam; Duo Reges: constructio interrete. An haec ab eo non dicuntur? Quid nunc honeste dicit? Quodsi ipsam honestatem undique pertectam atque absolutam. Cur id non ita fit? </p>\n\n<ul>\n\t<li>Tum Piso: Quoniam igitur aliquid omnes, quid Lucius noster?</li>\n\t<li>Si quicquam extra virtutem habeatur in bonis.</li>\n\t<li>Videmusne ut pueri ne verberibus quidem a contemplandis rebus perquirendisque deterreantur?</li>\n\t<li>Omnis enim est natura diligens sui.</li>\n</ul>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:54.505072 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "788220dbff354e2ea6cbea6c6322d52f",
+    "expirationDate": "None",
+    "contactName": "Morbi etiam.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Lacus ipsum.",
+    "id": "felis-class-risus-condimentum.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.618908 GMT-4",
+    "title": "Felis class risus condimentum.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus nulla.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Neque fames. Donec vitae rutrum. Fames lacus cursus lacus vestibulum. Fusce lacus senectus justo ac turpis sociosqu curae lacinia mi. Lorem velit porttitor dui vel mus hymenaeos nec. Justo massa duis iaculis ut nibh lorem hymenaeos aliquam donec vitae. Vitae morbi elit curae suspendisse ac tortor. Donec proin scelerisque. Justo purus cras sociosqu. Nulla magna nisl condimentum cubilia consectetuer integer donec. Donec risus libero turpis vulputate turpis. Nulla fusce nostra duis diam varius egestas integer nostra. Purus lacus. Velit metus class ullamcorper lobortis. Curae porta lectus ad accumsan. Velit justo.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:54.508588 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.631113 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "felis-class-risus-condimentum.",
+    "modification_date": "2018/10/26 13:51:42.619199 GMT-4",
+    "language": "en",
+    "rights": "Donec fusce tempus pulvinar. Donec porta condimentum ultrices curabitur in platea orci. Ipsum class. Justo velit mauris mattis fringilla vulputate. Morbi porta. Morbi nulla. Dolor risus. Velit nulla sapien netus quisque. Purus fames. Fusce morbi ipsum. Morbi felis cubilia natoque hendrerit. Risus purus taciti magna adipiscing.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Felis class risus condimentum.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 77,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/felis-class-risus-condimentum."
+}

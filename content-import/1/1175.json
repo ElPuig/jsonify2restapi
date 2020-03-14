@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:56.898010 GMT-4",
+    "_uid": "c4bcdad3c5f94e2aa8b4bb1b6a6bf3fc",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-felis-inceptos-fusce-mi-nibh-mattis-euismod-libero-eros-suspendisse-gravida-scelerisque.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:56.946693 GMT-4",
+    "title": "Dolor felis inceptos fusce mi nibh mattis euismod libero eros suspendisse gravida scelerisque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Nulla massa odio a vitae potenti duis id purus ad taciti et vehicula.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Velit morbi erat. Metus donec leo interdum elementum at fringilla a fringilla. Class fames per lacus lacinia elementum dis commodo auctor. Morbi netus nec arcu sociosqu malesuada a purus potenti orci. Fusce purus scelerisque interdum ridiculus a augue blandit per mi proin consequat vehicula. Risus porta felis tristique habitasse enim. Purus proin risus laoreet natoque nullam. Porta ipsum quis lorem euismod. Neque magna nonummy laoreet. Neque augue donec a luctus. Porta magna. Lorem metus habitasse blandit hac orci consectetuer eu laoreet nibh accumsan amet mauris. Massa dolor primis semper est eu suscipit. Class proin.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:40.773453 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:41.088324 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "id..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "dolor-felis-inceptos-fusce-mi-nibh-mattis-euismod-libero-eros-suspendisse-gravida-scelerisque.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum risus phasellus. Magna class facilisi sit dapibus. Metus nulla a. Class dolor. Porta justo. Justo lacus cubilia quis consectetuer parturient pede. Morbi purus nullam dis lacinia eu. Ipsum etiam nostra nunc primis ut morbi ridiculus. Metus magna luctus tortor per ligula litora. Porta augue vitae tortor. Lacus lorem tempus suspendisse morbi. Lacus magna. Risus dolor risus consequat mi ultricies a purus aliquam magnis. Morbi metus placerat enim nisl vestibulum ve duis curae ullamcorper ve rutrum malesuada. Felis neque suscipit quis at tellus aliquet enim pede. Felis curae.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Dolor felis inceptos fusce mi nibh mattis euismod libero eros suspendisse gravida scelerisque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./dolor-felis-inceptos-fusce-mi-nibh-mattis-euismod-libero-eros-suspendisse-gravida-scelerisque."
+}

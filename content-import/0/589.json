@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/25 14:55:38.150713 GMT-4",
+    "endDate": "2018/10/25 15:44:37.395099 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quod si ita sit, cur opera philosophiae sit danda nescio.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum in nostrane potestate est, quid meminerimus? Is es profecto tu. </p>\n\n<dl>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Quod cum accidisset ut alter alterum necopinato videremus, surrexit statim.</dd>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>Intellegi quidem, ut propter aliam quampiam rem, verbi gratia propter voluptatem, nos amemus;</dd>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis.</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Res enim concurrent contrariae.</dd>\n</dl>\n\n\n<ol>\n\t<li>Nescio quo modo praetervolavit oratio.</li>\n\t<li>Tertium autem omnibus aut maximis rebus iis, quae secundum naturam sint, fruentem vivere.</li>\n\t<li>Idemque diviserunt naturam hominis in animum et corpus.</li>\n\t<li>Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile.</li>\n</ol>\n\n\n<ul>\n\t<li>Non enim iam stirpis bonum quaeret, sed animalis.</li>\n\t<li>Ne tum quidem te respicies et cogitabis sibi quemque natum esse et suis voluptatibus?</li>\n</ul>\n\n\n<p>Respondent extrema primis, media utrisque, omnia omnibus. Quae est igitur causa istarum angustiarum? Nam de isto magna dissensio est. Efficiens dici potest. Suo genere perveniant ad extremum; Num quid tale Democritus? </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Etiam beatissimum? Itaque his sapiens semper vacabit. Erat enim Polemonis. Cur id non ita fit? </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 17:58:5.632468 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "fc9686e8b5294086a1a87530bd09ebb8",
+    "expirationDate": "None",
+    "contactName": "Donec massa etiam cursus.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Risus vitae.",
+    "id": "morbi-dolor-class-lobortis.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "None",
+    "title": "Morbi dolor class lobortis.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor augue maecenas class eget fusce in fusce auctor platea.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Dolor fusce cras sed nam per ve felis ligula. Justo fames mus neque vestibulum volutpat quam litora dolor phasellus. Etiam morbi eros ultricies nullam vulputate habitant. Vitae morbi nec donec phasellus eu arcu. Risus justo gravida tristique congue adipiscing morbi. Class lacus. Netus proin penatibus commodo mollis massa. Magna metus nunc. Donec fusce enim. Porta neque ultrices nam ac tempor. Dolor vitae tristique dis feugiat a. Dolor fames leo nostra id pede vehicula leo. Magna proin a iaculis ad justo hac amet nisl elementum orci. Netus nulla quisque fames sed diam. Class augue.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:5.636152 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:5.964157 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "morbi-dolor-class-lobortis.",
+    "modification_date": "2018/10/26 17:58:5.968490 GMT-4",
+    "language": "en",
+    "rights": "Nulla risus nostra vestibulum purus eget consequat eu. Velit vitae. Nulla vitae nunc donec tincidunt tristique quam fringilla interdum. Etiam augue lacus. Metus porta non justo etiam ante aliquet ut ve enim aliquet. Purus netus quisque lectus nibh penatibus. Lacus fames luctus primis velit posuere eni feugiat faucibus egestas semper class. Risus donec. Porta risus vivamus vulputate litora ac lobortis suscipit integer donec ac velit at ridiculus. Class purus porttitor scelerisque velit imperdiet torquent nascetur iaculis. Proin curae egestas lacinia ligula ve vehicula arcu sit donec sit porta non lacus feugiat at. Ipsum risus. Etiam lacus metus lectus eros id ridiculus ac. Justo neque placerat venenatis eu. Morbi neque mattis elit ac class molestie. Velit dolor tellus ligula nascetur parturient gravida quis lacus donec ullamcorper. Magna vitae sociis nulla dapibus. Metus donec eni vestibulum.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Morbi dolor class lobortis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 10,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./morbi-dolor-class-lobortis."
+}

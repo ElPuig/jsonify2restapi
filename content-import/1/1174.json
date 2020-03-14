@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:56.683315 GMT-4",
+    "_uid": "5af925bbf0dc4bd591981984a27c8959",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:56.733723 GMT-4",
+    "title": "Magna morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Netus vitae vehicula proin at ut id.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Dolor justo natoque. Massa velit ligula nostra cubilia id nisi. Morbi fames ante interdum imperdiet ve taciti suscipit congue magnis. Neque felis conubia mus blandit a ullamcorper mus diam risus. Nulla felis non nibh tincidunt. Nulla risus eni odio a nunc netus faucibus. Justo donec pretium duis velit dapibus etiam eros ac hendrerit nisi vulputate. Nulla netus mollis taciti nulla convallis nisi. Curae augue tempor rutrum dis. Magna curae ullamcorper leo. Metus netus. Etiam fusce nec. Justo metus a aenean nunc at. Curae porta scelerisque ut varius facilisi accumsan ac condimentum amet quam in class. Metus purus. Curae vitae quam libero est vestibulum turpis erat in pede morbi tristique. Augue donec.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:40.773453 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:41.088324 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "at..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "magna-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Netus ipsum libero risus accumsan id metus consectetuer fusce et. Fames lacus nostra scelerisque risus ridiculus molestie mattis adipiscing consectetuer. Lorem morbi. Risus etiam aliquam litora ac bibendum sodales eu quis nibh feugiat eu. Class risus vel. Etiam proin. Lacus justo sit parturient justo eros at lorem curabitur hendrerit enim. Netus ipsum consequat tincidunt diam per. Massa velit sem porta tincidunt metus ut libero. Donec neque class conubia. Nulla magna class pulvinar ad eget ante parturient est parturient. Curae netus est sed tristique luctus. Dolor etiam maecenas mi morbi montes hymenaeos dictumst et lorem donec erat sed mi ligula ut dictumst. Donec neque sapien neque adipiscing volutpat ipsum ac primis. Curae dolor est purus fermentum adipiscing elit. Proin purus aenean risus in consectetuer nibh viverra in vel nunc ante dolor magnis cubilia.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Magna morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./magna-morbi."
+}

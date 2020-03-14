@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:15.330511 GMT-4",
+    "_uid": "b2ee57f2394e4f488adff39586a0d214",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:15.662182 GMT-4",
+    "title": "Felis ipsum dis diam quam facilisi et condimentum quis sociis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Morbi fusce sociosqu ve neque arcu egestas id sed mi.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Metus augue ridiculus vestibulum elit semper at venenatis vitae diam amet. Fames velit condimentum. Fusce morbi. Fames lacus rhoncus ve ante justo. Curae metus ornare eget penatibus mattis praesent. Risus class. Netus fames sit erat iaculis sodales duis per ornare. Risus donec elit potenti commodo aenean. Massa lacus ullamcorper dis aptent odio dignissim mattis. Proin morbi arcu nascetur cursus odio gravida magnis dolor convallis vitae venenatis montes. Morbi metus lobortis ad ullamcorper nisi diam vestibulum et arcu tincidunt et. Risus netus aenean tempor dignissim neque eu consectetuer nonummy. Ipsum porta sem. Fames lorem nec quis lobortis id. Purus etiam. Risus ipsum ligula congue. Donec dolor torquent netus sem donec.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Hoc ne statuam quidem dicturam pater aiebat, si loqui posset.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum Quintus: Est plane, Piso, ut dicis, inquit. At multis malis affectus. Tollitur beneficium, tollitur gratia, quae sunt vincla concordiae. Simus igitur contenti his. </p>\n\n<ol>\n\t<li>Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus;</li>\n\t<li>Scripta sane et multa et polita, sed nescio quo pacto auctoritatem oratio non habet.</li>\n</ol>\n\n\n<ul>\n\t<li>Ac tamen hic mallet non dolere.</li>\n\t<li>Ut enim consuetudo loquitur, id solum dicitur honestum, quod est populari fama gloriosum.</li>\n\t<li>Sapientem locupletat ipsa natura, cuius divitias Epicurus parabiles esse docuit.</li>\n\t<li>De illis, cum volemus.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Sed haec omittamus;</dfn></dt>\n\t<dd>In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.</dd>\n\t<dt><dfn>Recte, inquit, intellegis.</dfn></dt>\n\t<dd>Color egregius, integra valitudo, summa gratia, vita denique conferta voluptatum omnium varietate.</dd>\n\t<dt><dfn>Praeclare hoc quidem.</dfn></dt>\n\t<dd>Quocirca intellegi necesse est in ipsis rebus, quae discuntur et cognoscuntur, invitamenta inesse, quibus ad discendum cognoscendumque moveamur.</dd>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Eam tum adesse, cum dolor omnis absit;</dd>\n</dl>\n\n\n<p>Duo Reges: constructio interrete. Respondent extrema primis, media utrisque, omnia omnibus. <a href='http://loripsum.net/' target='_blank'>Praeteritis, inquit, gaudeo.</a> Hunc vos beatum; </p>\n\n<p>Quo modo autem philosophus loquitur? Aliter enim explicari, quod quaeritur, non potest. An haec ab eo non dicuntur? <a href='http://loripsum.net/' target='_blank'>Pauca mutat vel plura sane;</a> Iam contemni non poteris. Sit enim idem caecus, debilis. Illa tamen simplicia, vestra versuta. Dat enim intervalla et relaxat. Quae est igitur causa istarum angustiarum? </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Porta massa eni eros eni magna venenatis condimentum elementum amet nonummy lectus. Proin fames sagittis. Donec risus viverra non dapibus ornare amet eros. Class morbi torquent nisl venenatis nascetur odio gravida eu maecenas. Morbi felis nec duis placerat sem elit. Morbi lorem urna molestie mi platea maecenas condimentum dis nisl praesent porttitor. Risus massa turpis. Netus curae placerat etiam pellentesque dictumst magna lorem mauris ultrices cum. Magna dolor curae ornare facilisis at donec proin lorem erat habitasse enim. Justo curae suscipit nibh nostra vivamus eros eget accumsan. Magna porta varius molestie diam in ante nisi vulputate pellentesque adipiscing eros platea dis quam. Class risus. Nulla etiam bibendum fringilla purus dolor a potenti nullam sem tempor. Lorem lacus cum fusce ipsum viverra.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Felis ipsum dis diam quam facilisi et condimentum quis sociis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 34,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis."
+}

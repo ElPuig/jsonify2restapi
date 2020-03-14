@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:25.428630 GMT-4",
+    "_uid": "71c3b3eedac84c3a95100c7f67454dff",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "porta-proin-sapien-lobortis-nibh-phasellus-sollicitudin-integer-nulla-quis-accumsan-cursus-posuere-nonummy.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:25.763307 GMT-4",
+    "title": "Porta proin sapien lobortis nibh phasellus sollicitudin integer nulla quis accumsan cursus posuere nonummy.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Porta donec suspendisse mus quam varius fermentum netus quisque sed vestibulum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Proin nulla neque faucibus tristique fames ad tellus. Curae risus sagittis. Fusce proin nostra diam ac consectetuer auctor et diam sodales non. Class nulla condimentum dictumst phasellus. Proin morbi sem nec pellentesque primis velit aliquam sodales. Nulla lorem nam enim senectus habitant ve sociis. Felis nulla auctor congue quisque ante nisl quam urna id phasellus mi. Dolor lacus. Velit neque dis odio etiam. Massa vitae sapien class litora nascetur torquent velit hendrerit lobortis etiam ut tortor. Lacus massa penatibus inceptos nostra velit aliquam. Ipsum lorem laoreet venenatis mollis mauris risus eni. Lacus massa a odio magna conubia nonummy tempor orci eros. Augue justo eget euismod id sit. Vitae felis sed amet habitasse vitae at justo arcu mollis elementum velit lorem pretium.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:25.434957 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:25.757469 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Putabam equidem satis, inquit, me dixisse.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. An eiusdem modi? Duo Reges: constructio interrete. Sed ea mala virtuti magnitudine obruebantur. Est, ut dicis, inquam. Invidiosum nomen est, infame, suspectum. Immo videri fortasse. </p>\n\n<ul>\n\t<li>Quid ergo attinet gloriose loqui, nisi constanter loquare?</li>\n\t<li>Sunt enim quasi prima elementa naturae, quibus ubertas orationis adhiberi vix potest, nec equidem eam cogito consectari.</li>\n\t<li>Quo modo autem optimum, si bonum praeterea nullum est?</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Si quicquam extra virtutem habeatur in bonis.</a> Tu vero, inquam, ducas licet, si sequetur; <a href='http://loripsum.net/' target='_blank'>Cave putes quicquam esse verius.</a> Nunc vides, quid faciat. </p>\n\n<dl>\n\t<dt><dfn>Qui convenit?</dfn></dt>\n\t<dd>Dolere malum est: in crucem qui agitur, beatus esse non potest.</dd>\n\t<dt><dfn>Sullae consulatum?</dfn></dt>\n\t<dd>Ratio quidem vestra sic cogit.</dd>\n</dl>\n\n\n<p>Negat esse eam, inquit, propter se expetendam. Mihi enim erit isdem istis fortasse iam utendum. Sequitur disserendi ratio cognitioque naturae; Tum mihi Piso: Quid ergo? Age, inquies, ista parva sunt. <a href='http://loripsum.net/' target='_blank'>Conferam avum tuum Drusum cum C.</a> </p>\n\n<ol>\n\t<li>Nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat;</li>\n\t<li>Respondent extrema primis, media utrisque, omnia omnibus.</li>\n\t<li>Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus.</li>\n\t<li>Quid enim tanto opus est instrumento in optimis artibus comparandis?</li>\n\t<li>Nam prius a se poterit quisque discedere quam appetitum earum rerum, quae sibi conducant, amittere.</li>\n</ol>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "porta-proin-sapien-lobortis-nibh-phasellus-sollicitudin-integer-nulla-quis-accumsan-cursus-posuere-nonummy.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Ipsum velit condimentum mus ad rhoncus ve metus sapien inceptos. Fusce netus velit aptent class parturient nisi primis ve blandit duis purus at pellentesque tellus eu. Massa risus mollis ac nunc eleifend. Massa dolor malesuada adipiscing eni parturient nulla nisi ridiculus nisl suspendisse. Etiam donec mus blandit sapien neque class senectus nibh. Fusce metus. Nulla donec sed metus dis viverra metus quis condimentum aliquam pellentesque facilisis. Neque magna. Morbi netus a sodales ornare enim condimentum dui tempus dictum. Nulla porta tempus dignissim lacus elit tempus curabitur bibendum. Lorem metus platea etiam neque litora placerat ornare pulvinar odio natoque magna. Lorem purus. Ipsum nulla condimentum.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Porta proin sapien lobortis nibh phasellus sollicitudin integer nulla quis accumsan cursus posuere nonummy.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./porta-proin-sapien-lobortis-nibh-phasellus-sollicitudin-integer-nulla-quis-accumsan-cursus-posuere-nonummy."
+}

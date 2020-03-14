@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:41.443353 GMT-4",
+    "_uid": "61ee334cfd3e49ce98b5777a19209ea9",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-class-lectus-fringilla-morbi-in-urna-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:41.487859 GMT-4",
+    "title": "Neque class lectus fringilla morbi in urna augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Felis massa luctus et vulputate purus nunc feugiat at inceptos duis cubilia dapibus diam nulla vulputate nam risus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Morbi fusce volutpat nunc dictum quam pellentesque parturient ante. Velit proin conubia netus etiam primis sodales aenean. Class felis. Porta vitae est urna elit fermentum eleifend semper pretium egestas. Neque ipsum sed torquent purus hac consequat tempor magna pretium sit. Dolor nulla sed enim aptent at nam. Felis lacus sit netus quisque sodales montes.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:41.446521 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:41.484202 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "neque-class-lectus-fringilla-morbi-in-urna-augue.",
+    "remoteUrl": "Nulla%20porta%20nibh%20montes%20gravida%20egestas%20fermentum%20quis%20nisl%20cum%20a%20platea.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae porta dictum. Purus lorem scelerisque. Morbi fusce condimentum in sapien et pede cum etiam. Risus etiam a. Fames fusce erat gravida. Fusce class blandit hymenaeos enim quam urna. Porta purus vitae faucibus netus hymenaeos montes facilisi vulputate. Risus class non nisi conubia aliquam proin at tortor. Justo metus. Dolor lacus litora orci et pede facilisi cursus risus nisl lectus adipiscing pellentesque nonummy morbi quam eni. Dolor massa dictum orci arcu duis per felis. Velit metus netus dolor platea sociis massa adipiscing ac ornare molestie nulla nam diam arcu.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Neque class lectus fringilla morbi in urna augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 59,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./neque-class-lectus-fringilla-morbi-in-urna-augue."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:36.994624 GMT-4",
+    "_uid": "915e1b0e65af43abb9d7e3093de85eaa",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "morbi-lorem-cras-ullamcorper-quisque-fames-nibh-class-amet-nisi-faucibus-etiam-mi.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:37.047924 GMT-4",
+    "title": "Morbi lorem cras ullamcorper quisque fames nibh class amet nisi faucibus etiam mi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Purus lacus pretium magna ad magnis nec ve dapibus amet justo nonummy nisi et.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Nulla class scelerisque et libero. Justo nulla mus orci nunc. Magna ipsum nisl scelerisque at sociis. Class purus dolor leo adipiscing purus vivamus malesuada habitant. Neque netus a mollis ante. Lorem proin nostra eu nam ac consectetuer commodo vitae nisl est diam. Magna fusce bibendum parturient. Justo nulla ipsum dictum tortor eu facilisis parturient sit adipiscing lacus nisi mattis congue dis eget. Vitae netus. Class porta arcu nisi maecenas. Justo risus cubilia per bibendum a eleifend nunc hymenaeos cum vehicula posuere. Nulla vitae velit arcu nam. Morbi porta orci venenatis habitant class sollicitudin dolor ac leo eget metus lacinia mi ve primis litora justo. Lorem massa posuere eni dictumst ridiculus erat etiam porttitor habitant nisl. Vitae lacus. Fusce augue luctus curae eni.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.410644 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:21.741094 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "diam..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "morbi-lorem-cras-ullamcorper-quisque-fames-nibh-class-amet-nisi-faucibus-etiam-mi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Morbi augue. Ipsum morbi sociis ligula dolor praesent. Ipsum risus tellus neque. Justo lacus penatibus adipiscing. Netus metus cursus magna. Nulla netus odio tempus. Felis porta facilisi justo eros per eleifend ipsum lacus dis augue fermentum. Morbi felis cum nibh sem tellus ut ornare nascetur proin purus fusce mus parturient. Massa felis vitae justo. Donec vitae auctor justo proin potenti tempor mattis ante. Ipsum porta per. Proin neque.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Morbi lorem cras ullamcorper quisque fames nibh class amet nisi faucibus etiam mi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./morbi-lorem-cras-ullamcorper-quisque-fames-nibh-class-amet-nisi-faucibus-etiam-mi."
+}

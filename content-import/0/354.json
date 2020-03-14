@@ -1,0 +1,124 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 13:54:2.047306 GMT-4",
+    "_uid": "24da02050e4548528302427c5318e5df",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "about",
+    "subject": [],
+    "modification_date": "2018/10/26 13:54:2.065225 GMT-4",
+    "title": "About",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_gopip": 61,
+    "location": "",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": 0,
+    "_type": "Folder",
+    "description": "",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_directly_provided": [],
+    "_classname": "ATFolder",
+    "banner": "",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "about",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "",
+    "_owner": "admin",
+    "_defaultpage": "",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Contributor",
+                "Editor",
+                "Manager",
+                "Owner",
+                "Reader",
+                "Site Administrator"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Contributor",
+                "Editor",
+                "Manager",
+                "Owner",
+                "Reader",
+                "Site Administrator"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "About",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about"
+}

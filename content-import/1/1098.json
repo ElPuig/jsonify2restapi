@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:17.603468 GMT-4",
+    "_uid": "2cb980561da74fa599bd7eff91f887e4",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "magna-morbi-donec.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:17.941064 GMT-4",
+    "title": "Magna morbi donec.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Velit ipsum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Fusce magna litora parturient felis nisi conubia velit. Neque velit enim etiam penatibus per diam. Risus purus fusce a vivamus taciti dui integer sociosqu proin at eros nisl. Neque justo. Neque dolor. Risus vitae nulla hac parturient velit. Fames felis risus quam in morbi sociis feugiat ad. Lacus lorem massa ornare class natoque molestie ut dis rutrum faucibus. Fusce risus molestie habitasse in aptent.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:17.609728 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:17.935673 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Neque solum ea communia, verum etiam paria esse dixerunt.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnes enim iucundum motum, quo sensus hilaretur. Deprehensus omnem poenam contemnet. Quare attende, quaeso. Duo Reges: constructio interrete. </p>\n\n<ol>\n\t<li>An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia?</li>\n\t<li>Quid enim ab antiquis ex eo genere, quod ad disserendum valet, praetermissum est?</li>\n\t<li>Torquatus, is qui consul cum Cn.</li>\n\t<li>Haec dicuntur inconstantissime.</li>\n\t<li>Re mihi non aeque satisfacit, et quidem locis pluribus.</li>\n</ol>\n\n\n<ul>\n\t<li>Mihi quidem Antiochum, quem audis, satis belle videris attendere.</li>\n\t<li>Non minor, inquit, voluptas percipitur ex vilissimis rebus quam ex pretiosissimis.</li>\n</ul>\n\n\n<p>Confecta res esset. Teneo, inquit, finem illi videri nihil dolere. Nonne igitur tibi videntur, inquit, mala? Sequitur disserendi ratio cognitioque naturae; At enim hic etiam dolore. Scaevolam M. </p>\n\n<h2>Ut optime, secundum naturam affectum esse possit.</h2>\n\n<p>Itaque fecimus. Prodest, inquit, mihi eo esse animo. Negat esse eam, inquit, propter se expetendam. Aliter enim nosmet ipsos nosse non possumus. Nunc agendum est subtilius. </p>\n\n<dl>\n\t<dt><dfn>Tu quidem reddes;</dfn></dt>\n\t<dd>Ita cum ea volunt retinere, quae superiori sententiae conveniunt, in Aristonem incidunt;</dd>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Haec quo modo conveniant, non sane intellego.</dd>\n\t<dt><dfn>Quae sequuntur igitur?</dfn></dt>\n\t<dd>Paulum, cum regem Persem captum adduceret, eodem flumine invectio?</dd>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Mihi quidem Antiochum, quem audis, satis belle videris attendere.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-morbi-donec.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Justo felis purus posuere mi dui condimentum euismod scelerisque. Proin metus inceptos metus rhoncus eni senectus phasellus quam cum. Class donec turpis. Purus morbi a montes fermentum lacinia amet. Lorem ipsum nunc nec. Morbi metus tortor vitae dictum eget pellentesque adipiscing ante. Lorem justo. Curae purus nulla imperdiet dui mus et. Etiam dolor eget suspendisse iaculis. Felis etiam dolor habitant proin id consequat vestibulum dapibus cum lacinia cum quis. Etiam porta condimentum hac mauris a commodo mauris sit ac ipsum. Proin lacus augue convallis nunc amet. Vitae netus mollis litora felis metus tellus at lectus blandit vivamus. Metus porta. Donec class dictum in ad pede imperdiet fames ut luctus ac habitasse.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna morbi donec.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 33,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./magna-morbi-donec."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam si explicavisset, non tam haesitaret. Quae sequuntur igitur? Indicant pueri, in quibus ut in speculis natura cernitur. Cur iustitia laudatur? </p>\n\n<ol>\n\t<li>Prioris generis est docilitas, memoria;</li>\n\t<li>Cum autem negant ea quicquam ad beatam vitam pertinere, rursus naturam relinquunt.</li>\n</ol>\n\n\n<h2>In qua si nihil est praeter rationem, sit in una virtute finis bonorum;</h2>\n\n<p>Duo Reges: constructio interrete. Non semper, inquam; Polycratem Samium felicem appellabant. Aliter enim explicari, quod quaeritur, non potest. Nihilo magis. Magna laus. </p>\n\n<dl>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Sed venio ad inconstantiae crimen, ne saepius dicas me aberrare;</dd>\n\t<dt><dfn>Cur iustitia laudatur?</dfn></dt>\n\t<dd>Quid turpius quam sapientis vitam ex insipientium sermone pendere?</dd>\n\t<dt><dfn>Quare conare, quaeso.</dfn></dt>\n\t<dd>Sed residamus, inquit, si placet.</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt.</dd>\n\t<dt><dfn>Nihil sane.</dfn></dt>\n\t<dd>Hoc est non dividere, sed frangere.</dd>\n</dl>\n\n\n<ul>\n\t<li>Nulla profecto est, quin suam vim retineat a primo ad extremum.</li>\n\t<li>Cupit enim d\u00edcere nihil posse ad beatam vitam deesse sapienti.</li>\n\t<li>Nam illud vehementer repugnat, eundem beatum esse et multis malis oppressum.</li>\n\t<li>Quod iam a me expectare noli.</li>\n</ul>\n\n\n<p>Sed ad bona praeterita redeamus. Quae est igitur causa istarum angustiarum? Equidem, sed audistine modo de Carneade? Hoc loco tenere se Triarius non potuit. Qui est in parvis malis. Equidem e Cn. </p>\n\n",
+    "creation_date": "2018/10/26 18:04:31.781900 GMT-4",
+    "imageCaption": "Augue donec ante libero vivamus.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-curae-a-dapibus-magnis-malesuada-imperdiet-orci-elit-curabitur-non.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:33.558525 GMT-4",
+    "title": "Fusce curae a dapibus magnis malesuada imperdiet orci elit curabitur non.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus felis mauris lobortis curae a nunc adipiscing ligula hac in magna.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Donec purus cum sed vel sollicitudin curae cras. Vitae magna nonummy. Metus porta nisl lorem blandit nonummy tellus. Fames etiam rhoncus habitant ac primis. Augue lacus pulvinar arcu leo nisi a elit adipiscing ut. Donec massa. Justo nulla suspendisse volutpat erat habitant commodo ac. Curae justo sem lorem. Fusce morbi penatibus nonummy litora ve suscipit nisl leo. Etiam morbi senectus eros nec. Nulla purus metus posuere in malesuada felis. Felis metus. Donec etiam aenean nisl in senectus vel natoque eni adipiscing penatibus.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:31.786011 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:33.554670 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "fusce-curae-a-dapibus-magnis-malesuada-imperdiet-orci-elit-curabitur-non.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna purus condimentum dui orci volutpat sapien sociis lacinia quam interdum phasellus quis dui eros cum. Neque dolor lorem sapien metus donec tortor. Vitae massa turpis adipiscing purus nisl diam convallis mi luctus aliquet ac nunc ad etiam sapien fames lobortis. Netus lacus elementum semper etiam egestas ut turpis a. Metus porta augue feugiat ve. Lacus donec hac dui. Netus class leo malesuada tempus habitasse sagittis tempus luctus posuere. Metus lorem. Porta class molestie. Netus dolor scelerisque suscipit euismod consectetuer. Proin class. Etiam augue aliquam torquent ad suspendisse pede arcu porttitor dui ante sociis venenatis semper eleifend. Velit netus dui. Lacus fusce. Purus vitae pretium ridiculus sem habitasse. Netus donec. Purus etiam hymenaeos habitasse odio nibh velit.",
+    "_content_type_description": "text/plain",
+    "_uid": "6ba6d04913624842acb901a01fb2dc32",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fusce curae a dapibus magnis malesuada imperdiet orci elit curabitur non.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 60,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./fusce-curae-a-dapibus-magnis-malesuada-imperdiet-orci-elit-curabitur-non."
+}

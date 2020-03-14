@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:25.884897 GMT-4",
+    "_uid": "54f9038f21704e80b1f94a56b1f1731f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-morbi-dis-ultricies-montes-rutrum-mi-facilisi-orci-dis-primis-iaculis-laoreet-placerat.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:25.957819 GMT-4",
+    "title": "Class morbi dis ultricies montes rutrum mi facilisi orci dis primis iaculis laoreet placerat.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Augue dolor cum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Donec purus platea nisl nec nam sollicitudin cursus ut rhoncus. Purus lacus. Ipsum magna ligula parturient nulla arcu. Fusce nulla. Velit nulla bibendum ridiculus. Massa neque eros odio arcu tortor nullam egestas. Dolor curae nulla. Velit lorem tortor pulvinar vivamus ultricies nisi cum. Morbi fusce tellus massa feugiat primis at. Fames etiam cras suscipit molestie justo quis sodales ac orci. Augue netus. Felis curae orci habitasse auctor lorem massa.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:25.891196 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:25.950635 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "class-morbi-dis-ultricies-montes-rutrum-mi-facilisi-orci-dis-primis-iaculis-laoreet-placerat.",
+    "remoteUrl": "Ipsum%20magna%20nostra%20et%20arcu%20luctus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fames fusce. Donec etiam laoreet diam ut malesuada gravida. Ipsum fames nisl potenti dictum ante lectus. Dolor proin. Donec porta cubilia inceptos cubilia tristique rutrum ad enim eget. Fusce risus nunc mus posuere in et hac convallis fusce a. Dolor etiam. Neque netus velit nec cum ridiculus dolor.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class morbi dis ultricies montes rutrum mi facilisi orci dis primis iaculis laoreet placerat.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 59,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./class-morbi-dis-ultricies-montes-rutrum-mi-facilisi-orci-dis-primis-iaculis-laoreet-placerat."
+}

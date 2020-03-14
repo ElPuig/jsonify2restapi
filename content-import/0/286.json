@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/31 05:21:4.412219 GMT-4",
+    "endDate": "2018/11/02 11:10:2.925092 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Te ipsum, dignissimum maioribus tuis, voluptasne induxit, ut adolescentulus eriperes P.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod equidem non reprehendo; Gerendus est mos, modo recte sentiat. Duo Reges: constructio interrete. Nunc omni virtuti vitium contrario nomine opponitur. </p>\n\n<p>Quid adiuvas? Sequitur disserendi ratio cognitioque naturae; Zenonis est, inquam, hoc Stoici. <a href='http://loripsum.net/' target='_blank'>Si longus, levis;</a> Est, ut dicis, inquam. Itaque his sapiens semper vacabit. <a href='http://loripsum.net/' target='_blank'>Conferam tecum, quam cuique verso rem subicias;</a> </p>\n\n<dl>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Tecum optime, deinde etiam cum mediocri amico.</dd>\n\t<dt><dfn>Sullae consulatum?</dfn></dt>\n\t<dd>Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum.</dd>\n\t<dt><dfn>Itaque fecimus.</dfn></dt>\n\t<dd>Ex quo illud efficitur, qui bene cenent omnis libenter cenare, qui libenter, non continuo bene.</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet.</dd>\n\t<dt><dfn>Sullae consulatum?</dfn></dt>\n\t<dd>Vide, quantum, inquam, fallare, Torquate.</dd>\n\t<dt><dfn>Certe non potest.</dfn></dt>\n\t<dd>Nihil enim iam habes, quod ad corpus referas;</dd>\n</dl>\n\n\n<ul>\n\t<li>Te ipsum, dignissimum maioribus tuis, voluptasne induxit, ut adolescentulus eriperes P.</li>\n\t<li>Quid igitur dubitamus in tota eius natura quaerere quid sit effectum?</li>\n\t<li>Quod ea non occurrentia fingunt, vincunt Aristonem;</li>\n\t<li>Quae quidem vel cum periculo est quaerenda vobis;</li>\n\t<li>Illa videamus, quae a te de amicitia dicta sunt.</li>\n</ul>\n\n\n<h2>Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali.</h2>\n\n<p>Audeo dicere, inquit. Ea possunt paria non esse. At enim hic etiam dolore. Poterat autem inpune; <code>Quis non odit sordidos, vanos, leves, futtiles?</code> </p>\n\n<ol>\n\t<li>Sed quid minus probandum quam esse aliquem beatum nec satis beatum?</li>\n\t<li>Cave putes quicquam esse verius.</li>\n</ol>\n\n\n<pre>\nNihilne te delectat umquam -video, quicum loquar-, te\nigitur, Torquate, ipsum per se nihil delectat?\n\nSin autem ad animum, falsum est, quod negas animi ullum esse\ngaudium, quod non referatur ad corpus.\n</pre>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:56.279796 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "336637f533404adfaadc891ad2183809",
+    "expirationDate": "None",
+    "contactName": "Etiam ipsum condimentum at mattis porttitor class morbi purus.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Morbi lorem volutpat hymenaeos ad felis nec magna tincidunt mollis volutpat neque urna.",
+    "id": "augue-curae.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.747801 GMT-4",
+    "title": "Augue curae.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem proin arcu.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Nulla velit. Magna nulla varius nulla rhoncus mattis. Netus etiam non risus feugiat elit eros. Fusce curae a conubia mi torquent. Justo purus. Dolor risus tortor porta. Porta etiam. Ipsum justo mauris ornare lobortis parturient conubia leo aliquet. Metus curae suspendisse habitant etiam sapien litora sed tortor in fames ad nullam. Velit purus cras id duis sem urna pede. Class justo luctus dignissim. Neque fames aliquet montes nam at urna augue ut pede phasellus nisl. Felis etiam montes libero nec elit mi eni consequat sapien a. Morbi felis aenean auctor vel sociosqu donec ut sem nisl vestibulum mattis. Etiam risus. Netus justo luctus ullamcorper justo primis pede laoreet ve nec litora. Porta netus curae sit diam sollicitudin sagittis felis nulla maecenas vestibulum pretium est integer magna odio laoreet in orci. Lorem curae imperdiet dolor eu hymenaeos.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:56.283502 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.761251 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "augue-curae.",
+    "modification_date": "2018/10/26 13:51:42.748047 GMT-4",
+    "language": "en",
+    "rights": "Purus metus. Fusce justo ultrices. Metus porta eni ante sit odio varius mus. Netus lacus suscipit nunc posuere a scelerisque sem nisl. Netus lacus elit hac. Magna felis. Magna purus pede fames. Augue dolor arcu eni potenti ac risus non. Neque lacus ullamcorper habitant laoreet nisi in risus habitasse porta. Ipsum nulla. Purus lorem morbi nibh ac. Velit metus dictumst venenatis at in lectus proin. Class fames class pretium duis nascetur curabitur. Ipsum purus suspendisse. Dolor etiam integer tristique faucibus ultrices congue tempus. Lorem ipsum condimentum nec varius lorem. Velit lorem sem consequat interdum tellus.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue curae.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 82,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/augue-curae."
+}

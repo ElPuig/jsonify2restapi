@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Egone non intellego, quid sit don Graece, Latine voluptas?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Quid iudicant sensus? Cur post Tarentum ad Archytam? </p>\n\n<dl>\n\t<dt><dfn>An eiusdem modi?</dfn></dt>\n\t<dd>Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest.</dd>\n\t<dt><dfn>Audeo dicere, inquit.</dfn></dt>\n\t<dd>Eam tum adesse, cum dolor omnis absit;</dd>\n</dl>\n\n\n<p>Erat enim Polemonis. Utram tandem linguam nescio? Hoc enim constituto in philosophia constituta sunt omnia. Est, ut dicis, inquam. Quaerimus enim finem bonorum. Nam ista vestra: Si gravis, brevis; Quo plebiscito decreta a senatu est consuli quaestio Cn. Si longus, levis dictata sunt. </p>\n\n<p>Neutrum vero, inquit ille. Nunc omni virtuti vitium contrario nomine opponitur. Recte, inquit, intellegis. </p>\n\n<ol>\n\t<li>Non enim, si malum est dolor, carere eo malo satis est ad bene vivendum.</li>\n\t<li>Est enim effectrix multarum et magnarum voluptatum.</li>\n</ol>\n\n\n<ul>\n\t<li>Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers?</li>\n\t<li>Sed est forma eius disciplinae, sicut fere ceterarum, triplex: una pars est naturae, disserendi altera, vivendi tertia.</li>\n\t<li>Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris.</li>\n\t<li>Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 18:03:9.734396 GMT-4",
+    "imageCaption": "Curae vitae euismod dolor ve ante.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "massa-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:10.065432 GMT-4",
+    "title": "Massa morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor metus cum porttitor turpis maecenas ante dignissim id rutrum odio nisl orci conubia at tortor.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Augue morbi ornare elit pede tortor consequat. Ipsum augue congue molestie. Netus velit enim bibendum integer in congue. Etiam risus magnis bibendum ante dapibus natoque. Etiam lorem. Ipsum nulla neque suscipit dis nulla. Proin class sapien ullamcorper fusce convallis nec lacus mollis habitasse justo augue quam praesent metus risus. Porta justo. Nulla lorem quam. Nulla magna magnis eros ligula commodo. Metus felis viverra elementum nibh. Fames massa per tellus interdum sociis nonummy taciti etiam. Velit purus tellus pellentesque blandit curae class. Fusce morbi luctus fusce laoreet ridiculus nisi aenean phasellus et urna est. Donec class porta vivamus taciti libero. Purus massa magna ante hac quisque id diam urna viverra imperdiet pulvinar.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:9.737797 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:10.061014 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "massa-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Augue justo faucibus per duis consectetuer et. Fusce velit natoque metus cubilia litora ut magnis. Justo donec neque cursus et eget metus turpis ultrices tristique duis sapien aliquet diam cras posuere. Nulla class vehicula convallis a donec quisque. Etiam porta per turpis lectus massa parturient bibendum eros nec. Augue etiam proin purus sed cursus conubia nonummy sapien porta. Neque class. Metus donec accumsan justo ve rutrum porta. Justo fusce etiam semper ridiculus facilisi primis. Curae augue vivamus iaculis eros ad. Purus massa per feugiat justo nisl quisque at mus nullam conubia tellus. Vitae morbi quisque urna. Augue vitae platea justo cubilia posuere urna ac.",
+    "_content_type_description": "text/plain",
+    "_uid": "b471791d473b49baa43b6814b99bcbd0",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Massa morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 66,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./massa-morbi."
+}

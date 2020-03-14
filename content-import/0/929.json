@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:53.329092 GMT-4",
+    "_uid": "453f0f0bd837436b8e83cb97af3ffe9f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-etiam.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:53.378312 GMT-4",
+    "title": "Dolor etiam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Risus class.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Class lacus congue ut odio sociosqu suspendisse est. Etiam massa litora cursus et sociosqu sodales ornare. Ipsum lacus habitant adipiscing tellus praesent. Morbi purus sagittis fusce lectus libero dapibus commodo. Proin augue eget curae pede cum risus adipiscing. Donec felis congue nulla vulputate nam class. Vitae justo nullam massa blandit potenti velit neque nec cras. Felis massa sit augue donec nisl posuere nullam leo duis praesent adipiscing cursus odio. Porta velit feugiat laoreet tempor porttitor sagittis ornare.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:37.750630 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:38.076399 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "ridiculus..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "dolor-etiam.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Metus curae aenean varius quis class torquent. Risus fusce fermentum. Porta lacus. Risus class pulvinar morbi quam cum ad odio. Magna vitae. Netus felis suscipit elit mauris viverra ac. Porta netus ullamcorper dui mi hymenaeos nibh orci. Class lacus conubia eleifend natoque. Massa porta orci est elementum dapibus duis enim diam. Netus curae. Magna lacus rutrum feugiat in varius fringilla ad proin litora neque. Magna nulla fusce cubilia senectus tempus adipiscing curae. Massa felis eni iaculis mi mus condimentum rhoncus felis. Purus ipsum iaculis augue nisl hac cras habitant. Ipsum dolor a elit fusce metus nibh purus nonummy lacus proin. Donec dolor auctor parturient consectetuer iaculis accumsan velit fusce dolor per. Morbi velit nostra id pharetra turpis adipiscing justo eros.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Dolor etiam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./dolor-etiam."
+}

@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:58.026267 GMT-4",
+    "_uid": "7d62b34778eb467893c2e76e696b0e48",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "proin-justo-curae-aliquam-urna-accumsan-donec-metus-dui-erat-eu-erat.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:58.361139 GMT-4",
+    "title": "Proin justo curae aliquam urna accumsan donec metus dui erat eu erat.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Ipsum vitae ornare at dui tincidunt porta ut class.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Proin metus dictum quam orci dis sapien lacinia eros. Vitae netus euismod volutpat ac scelerisque pede. Porta morbi tellus. Fusce ipsum felis cras convallis fringilla netus torquent adipiscing magnis metus parturient inceptos curae cubilia tortor. Massa ipsum per. Morbi nulla mauris blandit aptent erat donec nullam nostra per lacinia suscipit id auctor quisque. Donec ipsum.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:58.032355 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:58.356067 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Esse enim quam vellet iniquus iustus poterat inpune.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quod proximum fuit non vidit. Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>At enim hic etiam dolore.</a> An nisi populari fama? Non est igitur voluptas bonum. <a href='http://loripsum.net/' target='_blank'>Nos commodius agimus.</a> </p>\n\n<ol>\n\t<li>Praeclare enim Plato: Beatum, cui etiam in senectute contigerit, ut sapientiam verasque opiniones assequi possit.</li>\n\t<li>Non enim quaero quid verum, sed quid cuique dicendum sit.</li>\n\t<li>Videmus in quodam volucrium genere non nulla indicia pietatis, cognitionem, memoriam, in multis etiam desideria videmus.</li>\n\t<li>Cognitio autem haec est una nostri, ut vim corporis animique norimus sequamurque eam vitam, quae rebus iis ipsis perfruatur.</li>\n</ol>\n\n\n<ul>\n\t<li>Facit igitur Lucius noster prudenter, qui audire de summo bono potissimum velit;</li>\n\t<li>Apud imperitos tum illa dicta sunt, aliquid etiam coronae datum;</li>\n\t<li>Idem iste, inquam, de voluptate quid sentit?</li>\n\t<li>Vide igitur ne non debeas verbis nostris uti, sententiis tuis.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Idem adhuc;</dfn></dt>\n\t<dd>An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut reliquas obruat?</dd>\n\t<dt><dfn>Optime, inquam.</dfn></dt>\n\t<dd>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</dd>\n\t<dt><dfn>Numquam facies.</dfn></dt>\n\t<dd>Nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat;</dd>\n\t<dt><dfn>An eiusdem modi?</dfn></dt>\n\t<dd>Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Omnium enim rerum principia parva sunt, sed suis progressionibus usa augentur nec sine causa;</dd>\n\t<dt><dfn>Hic ambiguo ludimur.</dfn></dt>\n\t<dd>Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius.</dd>\n</dl>\n\n\n<h3>De illis, cum volemus.</h3>\n\n<p>Non laboro, inquit, de nomine. Itaque contra est, ac dicitis; Quae cum dixisset paulumque institisset, Quid est? At, si voluptas esset bonum, desideraret. </p>\n\n<h2>Quos quidem tibi studiose et diligenter tractandos magnopere censeo.</h2>\n\n<p>Quis hoc dicit? Non quam nostram quidem, inquit Pomponius iocans; Gerendus est mos, modo recte sentiat. De hominibus dici non necesse est. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "proin-justo-curae-aliquam-urna-accumsan-donec-metus-dui-erat-eu-erat.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Metus nulla elementum pede ridiculus sociis morbi vestibulum habitant urna nec dolor dapibus dis adipiscing ad. Fusce fames eni sit pretium at. Massa proin ante. Velit lorem natoque porttitor non nulla tempus habitasse aliquet. Nulla velit ligula ve hendrerit. Ipsum purus nam felis curae etiam. Massa augue facilisi fames aliquet arcu diam. Ipsum massa a pretium ad nullam. Fusce etiam nascetur magna montes mollis augue vehicula metus ve ac phasellus. Risus curae tempor at porta montes at. Massa lacus. Metus magna mattis elit ad per lacus ipsum neque dis non ut. Justo felis curae urna a enim adipiscing at facilisis massa. Donec dolor consequat erat nam lacinia in torquent non luctus integer. Nulla lacus conubia tristique sociosqu pede feugiat quam suscipit suspendisse hac. Proin netus viverra donec ac congue.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Proin justo curae aliquam urna accumsan donec metus dui erat eu erat.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 32,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./proin-justo-curae-aliquam-urna-accumsan-donec-metus-dui-erat-eu-erat."
+}

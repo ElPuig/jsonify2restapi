@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:11.551822 GMT-4",
+    "_uid": "ec2b6ec8b0cb45b5ab413efe50a15278",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-curae-primis-suspendisse.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:11.602871 GMT-4",
+    "title": "Neque curae primis suspendisse.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue felis a lacinia turpis ut eu.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Donec porta orci volutpat est ante arcu eu ante cras nec lectus tempus hac cum dui et molestie. Class lacus elementum metus eleifend nulla pede gravida at pede tincidunt libero. Nulla justo accumsan donec magna lobortis. Purus velit. Vitae netus odio potenti commodo. Lorem neque libero risus. Vitae etiam. Lorem netus felis cras enim massa ullamcorper cum. Risus class. Nulla morbi mus sed dis ultricies. Netus proin placerat neque urna sem porta porttitor dis sodales at euismod ve per consequat arcu. Risus vitae rutrum ipsum proin. Lorem vitae fusce morbi maecenas mi eni donec adipiscing. Vitae fames. Magna augue dui maecenas proin a laoreet. Donec etiam lacus maecenas porta. Fusce dolor a magnis nisi pretium fames nec amet consectetuer. Magna justo lacus a diam magna rhoncus lobortis rhoncus nullam fusce.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.494394 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.810314 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "urna..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "neque-curae-primis-suspendisse.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta lacus. Augue lacus potenti tortor duis blandit vulputate elit nisi. Neque magna turpis. Proin netus aptent lectus velit. Fames felis augue fusce congue volutpat risus purus leo class eget orci euismod natoque nibh elementum. Proin nulla mauris ligula ante quisque cum ac nullam ve faucibus. Dolor curae mollis libero pede risus. Proin donec enim. Risus vitae accumsan donec tempor. Netus class nec magna cubilia ad felis hac nisi. Augue dolor. Neque porta viverra gravida nostra eu facilisi lacinia. Nulla augue auctor vitae parturient praesent proin porttitor et mollis. Justo vitae. Ipsum velit inceptos ut. Curae etiam quisque sem fermentum. Proin magna suspendisse dui erat curabitur dis pulvinar aliquet euismod taciti. Purus massa lacus vitae nullam fringilla maecenas aptent pede. Augue neque torquent sed nisi ligula.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Neque curae primis suspendisse.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./neque-curae-primis-suspendisse."
+}

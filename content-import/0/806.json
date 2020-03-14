@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Ac tamen hic mallet non dolere.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bestiarum vero nullum iudicium puto. Quid me istud rogas? <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Non quam nostram quidem, inquit Pomponius iocans; Zenonis est, inquam, hoc Stoici. </p>\n\n<ul>\n\t<li>Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur.</li>\n\t<li>Nam ista vestra: Si gravis, brevis;</li>\n\t<li>Tollenda est atque extrahenda radicitus.</li>\n</ul>\n\n\n<p>Et ille ridens: Video, inquit, quid agas; Omnia peccata paria dicitis. Eaedem res maneant alio modo. Huius, Lyco, oratione locuples, rebus ipsis ielunior. Itaque his sapiens semper vacabit. </p>\n\n<p>Sed hoc sane concedamus. Cupiditates non Epicuri divisione finiebat, sed sua satietate. Non semper, inquam; Quonam, inquit, modo? Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Nunc haec primum fortasse audientis servire debemus. <a href='http://loripsum.net/' target='_blank'>Nam Pyrrho, Aristo, Erillus iam diu abiecti.</a> </p>\n\n<dl>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Quibus rebus vita consentiens virtutibusque respondens recta et honesta et constans et naturae congruens existimari potest.</dd>\n\t<dt><dfn>Nulla erit controversia.</dfn></dt>\n\t<dd>Illud quaero, quid ei, qui in voluptate summum bonum ponat, consentaneum sit dicere.</dd>\n\t<dt><dfn>Quid Zeno?</dfn></dt>\n\t<dd>Beatus autem esse in maximarum rerum timore nemo potest.</dd>\n\t<dt><dfn>Ille incendat?</dfn></dt>\n\t<dd>Hic quoque suus est de summoque bono dissentiens dici vere Peripateticus non potest.</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Bonum liberi: misera orbitas.</dd>\n</dl>\n\n\n<ol>\n\t<li>Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem.</li>\n\t<li>Venit enim mihi Platonis in mentem, quem accepimus primum hic disputare solitum;</li>\n\t<li>Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere.</li>\n\t<li>Tubulo putas dicere?</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 17:59:44.279091 GMT-4",
+    "imageCaption": "Vitae ipsum.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-proin-sed-eget.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:44.609249 GMT-4",
+    "title": "Curae proin sed eget.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus augue sagittis in condimentum eget.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Felis etiam eget sit. Porta netus. Justo class ipsum. Fames metus. Ipsum porta purus tristique pulvinar erat ad amet. Donec vitae. Metus magna purus porta euismod. Magna morbi facilisi non quisque eleifend. Velit neque nullam consectetuer tristique lorem curabitur at. Morbi neque arcu scelerisque hac eget id magna ut magna sollicitudin eleifend massa. Velit magna ante pulvinar nec ipsum odio ridiculus per.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:44.282572 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:44.604239 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "curae-proin-sed-eget.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Donec justo per magnis diam gravida sodales penatibus placerat in hac penatibus. Felis lorem purus. Purus donec eni nisi viverra laoreet. Felis fusce lacus sem ante vitae montes suspendisse. Purus nulla rhoncus nonummy cursus arcu quam ipsum phasellus senectus tempor. Morbi etiam. Morbi donec non magna elementum quisque cras eros. Etiam massa nunc blandit erat sit amet a. Massa morbi. Dolor curae facilisi urna potenti viverra penatibus non cras diam. Nulla curae penatibus cubilia risus at semper a aliquam tortor nisl fusce convallis mus. Magna risus senectus nam nunc. Class ipsum vehicula proin a blandit id sem elementum ornare. Etiam metus.",
+    "_content_type_description": "text/plain",
+    "_uid": "8c92c848ba3543e2b4ec2e75af16ea04",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae proin sed eget.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 65,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./curae-proin-sed-eget."
+}

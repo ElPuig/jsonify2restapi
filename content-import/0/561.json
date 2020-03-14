@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>At miser, si in flagitiosa et vitiosa vita afflueret voluptatibus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ratio enim nostra consentit, pugnat oratio. Utilitatis causa amicitia est quaesita. Omnes enim iucundum motum, quo sensus hilaretur. </p>\n\n<ol>\n\t<li>Non igitur bene.</li>\n\t<li>An me, inquam, nisi te audire vellem, censes haec dicturum fuisse?</li>\n\t<li>Nunc de hominis summo bono quaeritur;</li>\n\t<li>Quae enim adhuc protulisti, popularia sunt, ego autem a te elegantiora desidero.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Etiam beatissimum?</dfn></dt>\n\t<dd>Quis Pullum Numitorium Fregellanum, proditorem, quamquam rei publicae nostrae profuit, non odit?</dd>\n\t<dt><dfn>Quibus ego vehementer assentior.</dfn></dt>\n\t<dd>Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus;</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Quodsi ipsam honestatem undique pertectam atque absolutam.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Videamus animi partes, quarum est conspectus illustrior;</dd>\n\t<dt><dfn>Ille incendat?</dfn></dt>\n\t<dd>At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides.</dd>\n\t<dt><dfn>Sed nimis multa.</dfn></dt>\n\t<dd>Si enim ita est, vide ne facinus facias, cum mori suadeas.</dd>\n</dl>\n\n\n<ul>\n\t<li>Tollitur beneficium, tollitur gratia, quae sunt vincla concordiae.</li>\n\t<li>De maximma autem re eodem modo, divina mente atque natura mundum universum et eius maxima partis administrari.</li>\n\t<li>Ut alios omittam, hunc appello, quem ille unum secutus est.</li>\n\t<li>Itaque vides, quo modo loquantur, nova verba fingunt, deserunt usitata.</li>\n\t<li>Hoc est non modo cor non habere, sed ne palatum quidem.</li>\n</ul>\n\n\n<p>Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Quis est tam dissimile homini. Haec dicuntur inconstantissime. Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus; </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Quod equidem non reprehendo; Invidiosum nomen est, infame, suspectum. Respondent extrema primis, media utrisque, omnia omnibus. Negat enim summo bono afferre incrementum diem. Bonum valitudo: miser morbus. Nescio quo modo praetervolavit oratio. </p>\n\n",
+    "creation_date": "2018/10/26 17:57:45.013851 GMT-4",
+    "imageCaption": "Velit risus blandit velit amet.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-lacus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:45.341017 GMT-4",
+    "title": "Neque lacus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Class justo dignissim praesent primis eleifend nibh.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Purus porta laoreet. Velit metus. Netus augue nisl vivamus ve mauris sagittis leo aliquet curae laoreet. Justo porta varius nulla congue accumsan. Porta metus lorem aptent hac tempus convallis ve. Dolor lorem viverra natoque. Risus velit justo cum donec elit facilisis sit suscipit aliquet primis est rhoncus eu proin. Neque magna. Vitae lacus.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:45.017145 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:45.337569 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "neque-lacus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae class nulla gravida bibendum primis proin dis. Massa purus nec habitasse felis. Augue class. Donec curae. Lorem morbi aptent dictum aliquam arcu enim sagittis. Morbi neque nostra at inceptos. Felis proin molestie ipsum nam diam. Dolor proin. Donec nulla porta nisl ligula ac dis cras velit auctor. Nulla risus condimentum id. Dolor donec posuere mauris mi nascetur pretium. Fusce magna pede sociis elementum euismod pellentesque.",
+    "_content_type_description": "text/plain",
+    "_uid": "f5788cbef12d4e9ba833d31c01f964f1",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Neque lacus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 63,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./neque-lacus."
+}

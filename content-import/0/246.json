@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/26 17:29:19.496362 GMT-4",
+    "endDate": "2018/10/26 19:23:1.786028 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Sed ad bona praeterita redeamus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Tibi hoc incredibile, quod beatissimum.</a> Honesta oratio, Socratica, Platonis etiam. Haec igitur Epicuri non probo, inquam. Erit enim mecum, si tecum erit. Itaque ad tempus ad Pisonem omnes. <code>Duo Reges: constructio interrete.</code> </p>\n\n<h2>Quid me istud rogas?</h2>\n\n<p>Sed plane dicit quod intellegit. Quae cum essent dicta, discessimus. Haec quo modo conveniant, non sane intellego. Itaque hic ipse iam pridem est reiectus; </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Maximus dolor, inquit, brevis est.</a> Videsne quam sit magna dissensio? </p>\n\n<pre>\nHaec bene dicuntur, nec ego repugno, sed inter sese ipsa\npugnant.\n\nVides igitur te aut ea sumere, quae non concedantur, aut ea,\nquae etiam concessa te nihil iuvent.\n</pre>\n\n\n<dl>\n\t<dt><dfn>Quis hoc dicit?</dfn></dt>\n\t<dd>Hi curatione adhibita levantur in dies, valet alter plus cotidie, alter videt.</dd>\n\t<dt><dfn>Scaevolam M.</dfn></dt>\n\t<dd>Piso, familiaris noster, et alia multa et hoc loco Stoicos irridebat: Quid enim?</dd>\n\t<dt><dfn>Istic sum, inquit.</dfn></dt>\n\t<dd>Facile pateremur, qui etiam nunc agendi aliquid discendique causa prope contra naturam v\u00edgillas suscipere soleamus.</dd>\n</dl>\n\n\n<ul>\n\t<li>Haec para/doca illi, nos admirabilia dicamus.</li>\n\t<li>Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;</li>\n\t<li>Cur deinde Metrodori liberos commendas?</li>\n\t<li>Primum quid tu dicis breve?</li>\n</ul>\n\n\n<ol>\n\t<li>Tum ille: Tu autem cum ipse tantum librorum habeas, quos hic tandem requiris?</li>\n\t<li>Quaeque de virtutibus dicta sunt, quem ad modum eae semper voluptatibus inhaererent, eadem de amicitia dicenda sunt.</li>\n\t<li>Sic, et quidem diligentius saepiusque ista loquemur inter nos agemusque communiter.</li>\n\t<li>Propter nos enim illam, non propter eam nosmet ipsos diligimus.</li>\n</ol>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:41.454694 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "122f10f29cf347129071ae609cf49b9b",
+    "expirationDate": "None",
+    "contactName": "Velit magna.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Curae neque magna sociis nec sociis posuere tristique sem consequat congue nibh elit.",
+    "id": "dolor-purus.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:41.685804 GMT-4",
+    "title": "Dolor purus.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae etiam bibendum eu scelerisque ac ligula sociosqu.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Fusce purus massa netus montes luctus donec cum orci eros. Dolor ipsum urna eleifend mauris vehicula felis. Justo dolor potenti molestie viverra. Risus purus sapien neque parturient pede montes eget neque. Fames fusce egestas porttitor leo vitae. Netus fames turpis suscipit leo nibh. Vitae morbi primis velit. Purus curae cum enim. Porta netus aliquet.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:41.458273 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:41.697496 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "dolor-purus.",
+    "modification_date": "2018/10/26 13:51:41.686067 GMT-4",
+    "language": "en",
+    "rights": "Nulla lacus volutpat. Dolor justo arcu habitasse dictum nisl. Neque justo non eros duis nunc risus. Augue vitae eget a duis dolor cursus. Lorem proin odio dignissim vehicula mattis libero class sodales turpis ligula tincidunt. Curae proin aenean in neque dictum lorem. Risus velit. Augue metus lacus a ante neque malesuada felis. Nulla donec rutrum. Purus nulla magna risus dignissim hac quisque a primis. Velit dolor sociis donec adipiscing suscipit orci litora libero. Etiam nulla sodales conubia luctus enim viverra luctus purus. Neque etiam purus.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Dolor purus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 42,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/dolor-purus."
+}

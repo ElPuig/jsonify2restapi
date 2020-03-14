@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:05:12.547430 GMT-4",
+    "_uid": "d9a8aa73407649309a8f8f008235d9dc",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "curae-porta-donec-vel-duis-maecenas.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:05:12.887573 GMT-4",
+    "title": "Curae porta donec vel duis maecenas.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Massa porta tempus massa.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Donec massa feugiat velit id ligula cubilia egestas nisi. Purus felis eleifend porttitor curae. Lacus dolor. Felis lorem sapien neque integer lorem. Massa curae posuere ultricies duis blandit lorem. Dolor velit. Vitae lacus netus primis fusce dapibus dis ut proin nunc. Fusce velit mattis morbi cursus. Dolor massa. Nulla fames netus ullamcorper in mauris. Curae lacus. Lorem vitae mollis donec. Curae fames. Lorem fusce quis a nunc id magna congue cras nibh nisl nec. Morbi neque varius.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:12.554766 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:12.878365 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Certe nihil nisi quod possit ipsum propter se iure laudari.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliter homines, aliter philosophos loqui putas oportere? <a href='http://loripsum.net/' target='_blank'>Quae diligentissime contra Aristonem dicuntur a Chryippo.</a> Duo Reges: constructio interrete. Eam tum adesse, cum dolor omnis absit; Indicant pueri, in quibus ut in speculis natura cernitur. Tibi hoc incredibile, quod beatissimum. </p>\n\n<p>At, si voluptas esset bonum, desideraret. Prioris generis est docilitas, memoria; Quid ergo hoc loco intellegit honestum? Respondeat totidem verbis. Stoicos roga. </p>\n\n<dl>\n\t<dt><dfn>Immo alio genere;</dfn></dt>\n\t<dd>Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes.</dd>\n\t<dt><dfn>Idemne, quod iucunde?</dfn></dt>\n\t<dd>His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent.</dd>\n\t<dt><dfn>Quibus ego vehementer assentior.</dfn></dt>\n\t<dd>Itaque e contrario moderati aequabilesque habitus, affectiones ususque corporis apti esse ad naturam videntur.</dd>\n\t<dt><dfn>Paria sunt igitur.</dfn></dt>\n\t<dd>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</dd>\n\t<dt><dfn>Easdemne res?</dfn></dt>\n\t<dd>Ita nemo beato beatior.</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Non potes ergo ista tueri, Torquate, mihi crede, si te ipse et tuas cogitationes et studia perspexeris;</dd>\n</dl>\n\n\n<h2>Quo plebiscito decreta a senatu est consuli quaestio Cn.</h2>\n\n<p>Nec vero alia sunt quaerenda contra Carneadeam illam sententiam. <a href='http://loripsum.net/' target='_blank'>Dicimus aliquem hilare vivere;</a> Honesta oratio, Socratica, Platonis etiam. Idem iste, inquam, de voluptate quid sentit? Graece donan, Latine voluptatem vocant. Erat enim res aperta. <a href='http://loripsum.net/' target='_blank'>Proclivi currit oratio.</a> </p>\n\n<ol>\n\t<li>Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum.</li>\n\t<li>Magni enim aestimabat pecuniam non modo non contra leges, sed etiam legibus partam.</li>\n</ol>\n\n\n<ul>\n\t<li>Cur id non ita fit?</li>\n\t<li>Scio enim esse quosdam, qui quavis lingua philosophari possint;</li>\n\t<li>Cum autem venissemus in Academiae non sine causa nobilitata spatia, solitudo erat ea, quam volueramus.</li>\n\t<li>Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat?</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-porta-donec-vel-duis-maecenas.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Fusce metus. Metus etiam duis. Class porta vehicula proin pede tristique sit leo cum sem ad dapibus. Ipsum class donec per nullam interdum egestas quisque nisi eleifend. Massa porta litora eget vulputate consectetuer parturient amet. Ipsum risus nonummy hendrerit bibendum lobortis conubia nonummy fermentum arcu non. Netus purus vehicula et cursus gravida integer nunc turpis egestas. Etiam curae quam maecenas sed ve mauris. Etiam lacus dictum quisque quam odio imperdiet sagittis tortor quam ve. Nulla porta mauris netus dapibus diam ante non cras. Neque donec enim eu arcu cursus cum viverra id quam dolor. Fames fusce. Lacus velit est orci vel. Justo proin vitae lectus suspendisse neque malesuada elementum pede. Lorem fames semper congue fringilla. Class justo feugiat tempus nibh libero ultrices ullamcorper dui.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae porta donec vel duis maecenas.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel./curae-porta-donec-vel-duis-maecenas."
+}

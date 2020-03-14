@@ -1,0 +1,77 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:19.447320 GMT-4",
+    "_uid": "f04d0ae50b34447f924870c6914a0471",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-augue-senectus-elit-sem-mus-leo-pellentesque.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:19.504392 GMT-4",
+    "title": "Class augue senectus elit sem mus leo pellentesque.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Etiam risus eros at consectetuer.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Nulla etiam dictum. Etiam nulla sodales convallis habitant. Dolor ipsum. Magna morbi vel nisi lacus hendrerit eni sem non. Lacus fusce cubilia in cursus ac tortor vel odio adipiscing taciti accumsan. Curae lorem. Justo vitae netus rutrum ac. Risus netus ligula cursus nibh elit fringilla primis velit penatibus vel. Fames magna auctor nascetur. Metus nulla sodales auctor lacus eleifend quam litora id eget magna condimentum diam arcu pulvinar aliquet penatibus eros rutrum sodales. Nulla justo risus. Class felis a sapien urna ac consectetuer odio blandit. Curae purus blandit torquent auctor eleifend velit in metus curabitur. Netus fames rutrum ut bibendum augue ad a diam. Porta nulla. Velit etiam cras taciti vitae dui erat pellentesque. Morbi etiam pulvinar consequat a leo curabitur gravida velit. Magna fames risus suscipit non rhoncus cursus dolor risus. Ipsum netus quis a eros fusce phasellus vel viverra inceptos nullam turpis integer commodo. Velit nulla fames varius purus condimentum nunc. Donec lorem.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "cras..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "class-augue-senectus-elit-sem-mus-leo-pellentesque.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Risus class rutrum vitae ac aptent dolor rhoncus montes eget. Velit nulla montes placerat enim quis tincidunt tellus. Fusce donec laoreet venenatis aptent arcu nibh vel arcu. Morbi neque. Morbi neque ullamcorper lobortis. Lorem dolor aenean sapien velit parturient maecenas purus mollis purus. Donec neque. Dolor augue proin eni blandit ad dui suspendisse natoque nam imperdiet. Lacus proin habitant eu scelerisque pede sapien nam parturient adipiscing ve mattis platea potenti eget. Felis purus sodales. Fames proin vitae purus commodo massa. Augue nulla. Morbi donec sed urna sagittis nec erat donec semper tortor phasellus purus. Dolor morbi sem nisl morbi fringilla conubia augue eu luctus faucibus posuere mauris fames nec. Velit morbi metus nam. Dolor nulla morbi ligula litora porta iaculis in. Fames porta. Fusce proin.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Class augue senectus elit sem mus leo pellentesque.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/class-augue-senectus-elit-sem-mus-leo-pellentesque."
+}

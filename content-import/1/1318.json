@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:19.085217 GMT-4",
+    "_uid": "93d75e1164a44ca999276419dc14ba65",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fames-metus-a.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:19.151215 GMT-4",
+    "title": "Fames metus a.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Justo morbi lacus magnis at volutpat eget commodo ve duis magna velit blandit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Morbi magna fames cum magna ridiculus dui. Nulla fusce. Felis risus tellus porttitor maecenas id. Etiam dolor lacinia bibendum tempor mauris egestas et. Augue lorem tempor ligula arcu amet facilisis donec ipsum duis interdum. Netus lorem tempor porta torquent adipiscing nostra sit turpis inceptos nibh in sociis habitasse. Etiam velit magnis neque ad. Augue ipsum. Proin morbi scelerisque est urna diam. Purus morbi. Lorem fusce. Metus porta semper aenean.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.205244 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.565584 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "porta..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fames-metus-a.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Augue proin. Netus massa eget platea praesent arcu lobortis mollis varius felis nibh. Massa nulla elit nunc. Fusce vitae per sagittis quisque. Etiam justo faucibus velit aptent quis ultricies sociis. Justo magna. Donec velit orci vulputate eu vitae malesuada consequat quis. Augue massa nulla elit ullamcorper posuere suspendisse nibh aenean laoreet eni. Vitae augue nulla. Velit lacus elit nec urna nisl mus ve ridiculus. Felis massa elit aliquet. Felis ipsum nisi habitant blandit cras ac arcu orci eni. Netus curae cum erat ipsum gravida quisque ante nunc nulla. Lorem massa praesent. Curae purus. Proin lorem primis aenean sem egestas bibendum pretium posuere.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fames metus a.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./fames-metus-a."
+}

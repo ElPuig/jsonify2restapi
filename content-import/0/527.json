@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:33.213044 GMT-4",
+    "_uid": "a8f766707a9d41f2ba2be8861fbceb1c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "donec-proin-leo-enim-risus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:33.260233 GMT-4",
+    "title": "Donec proin leo enim risus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Netus porta aenean aptent habitant tincidunt quis hac lacus auctor cras et class.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Felis fames sem. Lorem netus a viverra at sociis posuere ligula eu est erat est. Justo class sagittis enim. Fusce fames nibh iaculis. Purus nulla metus quis a nunc magna aliquam. Felis risus tellus habitant hymenaeos id condimentum erat orci eu. Dolor proin luctus ve pede blandit quis nisl dui netus convallis. Neque fusce ullamcorper leo eu maecenas nonummy. Neque class lectus nascetur erat. Justo massa dis metus adipiscing condimentum turpis id. Class lorem. Class lacus. Donec justo nascetur fusce nisi libero ve proin ullamcorper ve nostra pulvinar.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "molestie..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "donec-proin-leo-enim-risus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna vitae felis praesent ve sociis tempus neque egestas eget a nisl parturient elit risus netus. Proin curae non amet sed diam duis ve eget eu. Donec dolor vehicula dignissim nisi nibh est sed. Curae lacus amet et fusce condimentum dictumst vivamus. Ipsum magna sapien aptent feugiat amet odio. Donec augue a orci dolor lectus tincidunt phasellus. Purus class congue convallis dis vivamus. Vitae nulla. Vitae class. Purus fames aptent et mauris nam turpis viverra. Donec purus rhoncus dapibus aptent purus. Augue etiam ornare porta. Fusce vitae. Morbi magna. Lorem morbi potenti tellus massa commodo sem id ultrices laoreet platea dolor. Metus proin per parturient magna erat. Class felis dolor risus a ligula.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Donec proin leo enim risus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./donec-proin-leo-enim-risus."
+}

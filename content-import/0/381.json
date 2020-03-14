@@ -1,0 +1,77 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:20.399395 GMT-4",
+    "_uid": "f46421c680bc49369e356ea5266f71d3",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-massa-platea-at-diam-vehicula-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:20.451276 GMT-4",
+    "title": "Lacus massa platea at diam vehicula morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Donec porta eleifend eni nonummy ve eget ut purus habitasse metus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Donec metus. Purus magna mus. Fusce class semper tempus. Vitae morbi fringilla adipiscing cras donec ve mi. Magna proin felis molestie ac donec eleifend sed ut consectetuer. Massa fusce. Massa neque blandit potenti. Etiam fusce. Dolor risus pretium ipsum orci integer. Proin metus. Vitae augue. Nulla lacus. Magna proin nostra nullam consequat euismod varius ad at nunc. Morbi lorem.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:54:2.052253 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "consectetuer..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lacus-massa-platea-at-diam-vehicula-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Curae metus per dolor blandit bibendum tempor semper. Fusce netus. Proin purus a luctus netus sit odio bibendum porta. Purus morbi metus. Class massa litora vitae. Etiam felis mollis imperdiet facilisi nullam mollis per cras eros amet purus. Morbi magna proin commodo ut arcu donec fusce facilisis ut proin consectetuer. Nulla felis duis mus litora at. Ipsum metus penatibus ut dolor vel pede donec vel nisl convallis torquent ligula suscipit adipiscing phasellus. Augue purus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lacus massa platea at diam vehicula morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-massa-platea-at-diam-vehicula-morbi."
+}

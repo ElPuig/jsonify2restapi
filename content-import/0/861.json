@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:17.764609 GMT-4",
+    "_uid": "82d8433068084691bfd6166fea2ebb1e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "nulla-dolor-metus-dui-cras-amet-sapien.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:18.094347 GMT-4",
+    "title": "Nulla dolor metus dui cras amet sapien.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus risus pretium ultricies amet scelerisque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Justo velit. Ipsum purus primis at rutrum. Purus etiam a mollis tristique ad curae in per suspendisse. Donec fames a pede class magnis. Porta felis auctor iaculis eros fames pulvinar. Fames lacus non. Class lacus magna molestie felis ut aptent tincidunt. Lacus felis metus eleifend malesuada a dui curabitur. Curae donec dictumst fermentum molestie augue nam. Etiam lacus semper purus malesuada duis phasellus. Velit porta accumsan nisi luctus. Justo morbi tempor.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:17.770737 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:18.088369 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Si stante, hoc natura videlicet vult, salvam esse se, quod concedimus;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Et non ex maxima parte de tota iudicabis?</a> <a href='http://loripsum.net/' target='_blank'>An tu me de L.</a> </p>\n\n<h2>Non risu potius quam oratione eiciendum?</h2>\n\n<p>Tum Triarius: Posthac quidem, inquit, audacius. <a href='http://loripsum.net/' target='_blank'>Huius, Lyco, oratione locuples, rebus ipsis ielunior.</a> </p>\n\n<ul>\n\t<li>Quid enim est a Chrysippo praetermissum in Stoicis?</li>\n\t<li>Qui non moveatur et offensione turpitudinis et comprobatione honestatis?</li>\n\t<li>Graecum enim hunc versum nostis omnes-: Suavis laborum est praeteritorum memoria.</li>\n\t<li>Mihi vero, inquit, placet agi subtilius et, ut ipse dixisti, pressius.</li>\n</ul>\n\n\n<ol>\n\t<li>Quid, cum fictas fabulas, e quibus utilitas nulla elici potest, cum voluptate legimus?</li>\n\t<li>An vero, inquit, quisquam potest probare, quod perceptfum, quod.</li>\n\t<li>Morbo gravissimo affectus, exul, orbus, egens, torqueatur eculeo: quem hunc appellas, Zeno?</li>\n\t<li>At enim, qua in vita est aliquid mali, ea beata esse non potest.</li>\n\t<li>Hos contra singulos dici est melius.</li>\n\t<li>Nec vero intermittunt aut admirationem earum rerum, quae sunt ab antiquis repertae, aut investigationem novarum.</li>\n</ol>\n\n\n<p>Explanetur igitur. Duo Reges: constructio interrete. Ut non sine causa ex iis memoriae ducta sit disciplina. In schola desinis. Est, ut dicis, inquam. Hos contra singulos dici est melius. Ea possunt paria non esse. Iam id ipsum absurdum, maximum malum neglegi. </p>\n\n<dl>\n\t<dt><dfn>Memini vero, inquam;</dfn></dt>\n\t<dd>Ergo in gubernando nihil, in officio plurimum interest, quo in genere peccetur.</dd>\n\t<dt><dfn>At certe gravius.</dfn></dt>\n\t<dd>Qua tu etiam inprudens utebare non numquam.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "nulla-dolor-metus-dui-cras-amet-sapien.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Ipsum morbi per nisl posuere velit ut est. Etiam nulla aliquet consequat odio dis at duis amet massa. Fames lorem ipsum mollis pharetra adipiscing ridiculus. Porta felis. Ipsum dolor eget nonummy lacus porta. Dolor justo nascetur sem conubia. Velit vitae nulla nec aenean posuere at nullam morbi. Fusce class justo mus etiam euismod pulvinar id purus nulla massa. Curae etiam nulla nibh rhoncus eu. Nulla fusce suscipit. Justo donec suscipit convallis augue quam at etiam aptent tempus imperdiet magna. Vitae proin phasellus nulla ac fames ullamcorper maecenas netus metus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Nulla dolor metus dui cras amet sapien.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./nulla-dolor-metus-dui-cras-amet-sapien."
+}

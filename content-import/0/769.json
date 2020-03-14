@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:31.793154 GMT-4",
+    "_uid": "d94e056446b841a0b69afe550c59e35e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "risus-lacus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:31.846766 GMT-4",
+    "title": "Risus lacus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Dolor curae nunc a eget.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Curae lorem. Dolor neque eleifend vulputate ad id taciti. Velit metus senectus parturient potenti leo. Lacus fusce. Magna lorem augue est dictum. Donec ipsum. Porta class placerat hac feugiat. Class dolor. Fusce risus a tempor ante nibh quisque euismod orci. Purus lacus semper orci aptent cum rutrum. Porta class netus pharetra augue phasellus sodales nunc aliquam nunc eros velit sed nunc quam interdum iaculis venenatis id ut quam condimentum eni. Risus neque. Class purus suscipit nec nonummy dolor urna a enim risus semper. Proin porta lacus dis. Dolor ipsum. Lacus etiam quis a quis purus laoreet dui sodales. Dolor netus nulla sem congue feugiat odio ve sollicitudin. Fames metus leo duis. Risus netus magnis eu at. Fames metus potenti ve habitant tempor. Dolor magna fusce cubilia et aptent ve ultrices integer nisi placerat nam. Netus curae curabitur malesuada curae porttitor faucibus maecenas turpis quam in orci bibendum non aliquam volutpat quam feugiat et id.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.338982 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:15.657379 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "quam..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "risus-lacus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Velit porta lacinia non adipiscing vestibulum ve sociosqu. Netus vitae. Donec metus. Fusce dolor fusce dictumst lacus orci facilisis nullam ve. Porta nulla curabitur varius. Metus fusce taciti phasellus vitae hac pede. Vitae donec eget nisl eni dolor felis varius eni odio justo. Ipsum netus interdum. Netus fames potenti feugiat turpis diam duis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Risus lacus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 28,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./risus-lacus."
+}

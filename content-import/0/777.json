@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:59:34.996894 GMT-4",
+    "_uid": "b27502318a414880baf1a25303462047",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "lorem-velit-ante-viverra-purus-duis-torquent-nam.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:35.326304 GMT-4",
+    "title": "Lorem velit ante viverra purus duis torquent nam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Porta felis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Etiam lacus euismod egestas ligula libero cubilia rhoncus neque. Class justo etiam aliquam eni praesent donec. Massa magna tellus rutrum volutpat vestibulum aenean habitant fermentum hac risus lorem. Magna proin cursus et curae. Fusce fames. Felis curae lacus primis congue. Donec netus mollis montes nulla egestas nunc est justo elit facilisis litora nunc congue et nisi pede. Donec vitae justo scelerisque torquent. Lacus massa. Etiam metus lorem est tempus aptent nec potenti ad ridiculus aliquam ipsum magna class augue. Lorem netus eget ligula. Nulla magna etiam purus leo mus mi arcu iaculis magna nunc. Fames nulla sagittis adipiscing semper vehicula amet lobortis nam libero. Lacus ipsum ullamcorper volutpat porttitor libero sagittis gravida nullam sociis fermentum ultrices nunc. Risus purus. Donec purus volutpat id. Lacus netus conubia pretium quam mi quam dapibus lacinia penatibus interdum.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:35.002206 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:35.320757 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Optime, inquam.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis Aristidem non mortuum diligit? Numquam facies. </p>\n\n<p>Tanta vis admonitionis inest in locis; Quae diligentissime contra Aristonem dicuntur a Chryippo. Disserendi artem nullam habuit. Sed in rebus apertissimis nimium longi sumus. </p>\n\n<h2>Quamquam id quidem, infinitum est in hac urbe;</h2>\n\n<p>Duo Reges: constructio interrete. Bonum liberi: misera orbitas. <a href='http://loripsum.net/' target='_blank'>Summum en\u00edm bonum exposuit vacuitatem doloris;</a> De vacuitate doloris eadem sententia erit. </p>\n\n<ol>\n\t<li>Alterum significari idem, ut si diceretur, officia media omnia aut pleraque servantem vivere.</li>\n\t<li>Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis vitia posuisse contraria.</li>\n\t<li>Quod cum accidisset ut alter alterum necopinato videremus, surrexit statim.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Non igitur bene.</dfn></dt>\n\t<dd>Immo istud quidem, inquam, quo loco quidque, nisi iniquum postulo, arbitratu meo.</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Non igitur de improbo, sed de callido improbo quaerimus, qualis Q.</dd>\n\t<dt><dfn>Ut pulsi recurrant?</dfn></dt>\n\t<dd>Quo plebiscito decreta a senatu est consuli quaestio Cn.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Dolere malum est: in crucem qui agitur, beatus esse non potest.</dd>\n</dl>\n\n\n<ul>\n\t<li>Alterum autem genus est magnarum verarumque virtutum, quas appellamus voluntarias, ut prudentiam, temperantiam, fortitudinem, iustitiam et reliquas eiusdem generis.</li>\n\t<li>Sit hoc ultimum bonorum, quod nunc a me defenditur;</li>\n\t<li>At certe gravius.</li>\n\t<li>Sic consequentibus vestris sublatis prima tolluntur.</li>\n\t<li>Rhetorice igitur, inquam, nos mavis quam dialectice disputare?</li>\n\t<li>Vide, ne etiam menses! nisi forte eum dicis, qui, simul atque arripuit, interficit.</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lorem-velit-ante-viverra-purus-duis-torquent-nam.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Porta augue habitant ultricies varius dictumst arcu nascetur cras. Fusce vitae tempus magna. Augue vitae auctor fames ad. Velit augue. Risus vitae leo elit purus ad magna mattis. Justo dolor massa. Proin etiam eleifend augue mi nascetur nisl. Morbi proin scelerisque placerat consequat et class. Porta augue sed duis sociis euismod vel lobortis lacinia pellentesque luctus mi. Morbi ipsum nostra elit ut placerat class pulvinar proin ad eros facilisis cum. Purus metus enim facilisi. Velit purus ornare aptent. Augue purus sed purus nulla sapien fringilla accumsan massa sed porta sodales. Class fames ipsum viverra sem vestibulum justo elit a urna. Lacus fusce class laoreet mus. Porta justo sociis phasellus risus a arcu justo tempor aptent nisl lectus vivamus at eleifend non risus sodales. Curae felis. Etiam porta per adipiscing. Magna proin rutrum adipiscing metus arcu volutpat purus at nostra habitasse ipsum augue.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lorem velit ante viverra purus duis torquent nam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./lorem-velit-ante-viverra-purus-duis-torquent-nam."
+}

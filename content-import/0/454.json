@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:57.679761 GMT-4",
+    "_uid": "0a78661d6fe849d39385b9af4646ea5f",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "donec-netus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:58.016622 GMT-4",
+    "title": "Donec netus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus dolor tempor parturient sociosqu viverra diam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Ipsum neque cum vitae gravida eget nisi ornare. Risus netus lacus nonummy sem in neque ad purus litora consequat. Nulla lorem dis dolor vulputate. Dolor neque eleifend leo dapibus pulvinar et ullamcorper urna eros ipsum. Fusce etiam. Justo curae tempor massa faucibus. Felis augue hac erat fringilla suscipit. Justo neque. Dolor felis mauris nisi ve mauris posuere varius felis interdum fusce. Morbi curae nam. Neque donec. Lacus augue quam et quis euismod dapibus litora cum leo iaculis ve. Etiam ipsum orci cubilia nisl sagittis. Class lacus est donec lacinia pretium quam consequat. Fames vitae enim fames ut a. Metus felis a orci in nunc sociis ve velit scelerisque pulvinar. Etiam ipsum magnis elementum et scelerisque amet ante nam.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:57.686808 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:58.012013 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Quo modo autem optimum, si bonum praeterea nullum est?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quo studio Aristophanem putamus aetatem in litteris duxisse? Sed ne, dum huic obsequor, vobis molestus sim. <a href='http://loripsum.net/' target='_blank'>Eam tum adesse, cum dolor omnis absit;</a> An tu me de L. Duo Reges: constructio interrete. Quare ad ea primum, si videtur; </p>\n\n<ol>\n\t<li>Videsne quam sit magna dissensio?</li>\n\t<li>Vide ne ista sint Manliana vestra aut maiora etiam, si imperes quod facere non possim.</li>\n\t<li>Idque testamento cavebit is, qui nobis quasi oraculum ediderit nihil post mortem ad nos pertinere?</li>\n\t<li>Sed tamen intellego quid velit.</li>\n</ol>\n\n\n<p>Stoicos roga. Sed quae tandem ista ratio est? Conferam tecum, quam cuique verso rem subicias; Praeteritis, inquit, gaudeo. Efficiens dici potest. Ita multa dicunt, quae vix intellegam. <a href='http://loripsum.net/' target='_blank'>Quis istud possit, inquit, negare?</a> <a href='http://loripsum.net/' target='_blank'>Scaevolam M.</a> </p>\n\n<p>Tecum optime, deinde etiam cum mediocri amico. Scaevolam M. Aliter enim nosmet ipsos nosse non possumus. Itaque his sapiens semper vacabit. Quid de Platone aut de Democrito loquar? Quod quidem nobis non saepe contingit. Primum divisit ineleganter; </p>\n\n<dl>\n\t<dt><dfn>Nos commodius agimus.</dfn></dt>\n\t<dd>Nec mihi illud dixeris: Haec enim ipsa mihi sunt voluptati, et erant illa Torquatis.</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Non enim ipsa genuit hominem, sed accepit a natura inchoatum.</dd>\n\t<dt><dfn>Hic ambiguo ludimur.</dfn></dt>\n\t<dd>Ex quo intellegitur officium medium quiddam esse, quod neque in bonis ponatur neque in contrariis.</dd>\n</dl>\n\n\n<ul>\n\t<li>Ea, quae dialectici nunc tradunt et docent, nonne ab illis instituta sunt aut inventa sunt?</li>\n\t<li>Aut unde est hoc contritum vetustate proverbium: quicum in tenebris?</li>\n\t<li>Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</li>\n\t<li>Atque ita re simpliciter primo collocata reliqua subtilius persequentes corporis bona facilem quandam rationem habere censebant;</li>\n</ul>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "donec-netus.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Lacus proin egestas porta nec dictumst natoque duis mus netus nostra scelerisque felis mauris. Vitae nulla. Fusce class nec lorem est dolor. Neque velit congue sociosqu neque. Augue velit primis aenean hendrerit ad turpis. Fusce etiam curabitur hendrerit orci ullamcorper vivamus. Donec purus felis non nec. Augue donec rhoncus tristique montes neque dignissim erat elit. Porta felis interdum lacus varius imperdiet lorem eget non nisl per amet. Fames morbi. Fames massa cursus ad nascetur urna pretium ve rhoncus elit dolor. Augue fames. Massa metus eni erat. Metus vitae pretium leo parturient id imperdiet urna nibh netus. Fames augue integer class ac et netus ridiculus fringilla nibh. Neque curae lectus turpis donec egestas mus pede enim euismod et tempus eu elit hymenaeos ve. Justo purus. Vitae metus netus dis. Curae proin augue neque risus pretium platea risus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Donec netus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 37,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./donec-netus."
+}

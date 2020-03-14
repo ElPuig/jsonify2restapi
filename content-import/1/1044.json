@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Summum a vobis bonum voluptas dicitur.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba. Prave, nequiter, turpiter cenabat; Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Obsecro, inquit, Torquate, haec dicit Epicurus?</a> A mene tu? Haec dicuntur inconstantissime. </p>\n\n<dl>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Si stante, hoc natura videlicet vult, salvam esse se, quod concedimus;</dd>\n\t<dt><dfn>Quid vero?</dfn></dt>\n\t<dd>Consequentia exquirere, quoad sit id, quod volumus, effectum.</dd>\n\t<dt><dfn>Facete M.</dfn></dt>\n\t<dd>Verum hoc loco sumo verbis his eandem certe vim voluptatis Epicurum nosse quam ceteros.</dd>\n</dl>\n\n\n<p>Est, ut dicis, inquam. Summum en\u00edm bonum exposuit vacuitatem doloris; Videamus animi partes, quarum est conspectus illustrior; <a href='http://loripsum.net/' target='_blank'>An hoc usque quaque, aliter in vita?</a> Tibi hoc incredibile, quod beatissimum. Quis enim redargueret? </p>\n\n<ul>\n\t<li>Quid, de quo nulla dissensio est?</li>\n\t<li>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</li>\n\t<li>Tenesne igitur, inquam, Hieronymus Rhodius quid dicat esse summum bonum, quo putet omnia referri oportere?</li>\n\t<li>Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia.</li>\n</ul>\n\n\n<ol>\n\t<li>Est, ut dicis, inquit;</li>\n\t<li>Itaque his sapiens semper vacabit.</li>\n\t<li>Ita ceterorum sententiis semotis relinquitur non mihi cum Torquato, sed virtuti cum voluptate certatio.</li>\n\t<li>Quid enim de amicitia statueris utilitatis causa expetenda vides.</li>\n</ol>\n\n\n<h2>Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum.</h2>\n\n<p>Facillimum id quidem est, inquam. Sed ille, ut dixi, vitiose. Ratio quidem vestra sic cogit. Quae autem natura suae primae institutionis oblita est? </p>\n\n",
+    "creation_date": "2018/10/26 18:01:44.001345 GMT-4",
+    "imageCaption": "Augue purus vehicula risus a feugiat aenean mi nullam.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-porta-nascetur-fames-cum-curae-nostra-justo-lorem.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:44.406276 GMT-4",
+    "title": "Netus porta nascetur fames cum curae nostra justo lorem.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Etiam nulla magnis vitae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Neque magna aptent turpis malesuada ad mattis potenti. Ipsum porta dictum risus eni erat ultricies fermentum class cursus in primis. Ipsum velit lorem placerat morbi at mollis cubilia venenatis ut elementum enim. Nulla neque. Donec porta pulvinar. Risus massa pede curae ad nisl mollis non. Morbi porta rutrum habitasse eu consequat at neque ut mi nibh orci est. Neque massa fames etiam. Vitae lorem ornare pellentesque convallis curae id tristique at eu ligula phasellus. Massa lorem. Dolor fusce curabitur nonummy porta enim. Netus fusce nunc sapien.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:44.005606 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:44.400979 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "netus-porta-nascetur-fames-cum-curae-nostra-justo-lorem.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lacus risus. Ipsum etiam auctor sociis leo eu sapien augue enim lacinia. Etiam lacus quisque et. Massa lorem platea enim posuere ad praesent nec nibh facilisis sollicitudin. Magna neque nibh dis consectetuer augue ad proin. Purus class platea mauris integer mattis et urna placerat proin. Magna etiam nam cras dignissim sociis maecenas ante. Justo neque. Vitae ipsum. Dolor nulla vitae nibh mus sagittis. Metus donec est purus. Class vitae primis duis amet class nostra nisi rhoncus curae erat ac pellentesque cursus. Netus justo magnis fames nec erat risus posuere id cum diam mi luctus potenti urna at cum tristique. Augue vitae nisl. Class morbi metus vel leo. Augue fusce dui. Velit curae ipsum cras nisl orci tristique cum quam volutpat.",
+    "_content_type_description": "text/plain",
+    "_uid": "2e0ea1095c59421aa64d7d8b644c84c2",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Netus porta nascetur fames cum curae nostra justo lorem.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 60,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./netus-porta-nascetur-fames-cum-curae-nostra-justo-lorem."
+}

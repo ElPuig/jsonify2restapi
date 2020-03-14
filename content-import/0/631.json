@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:21.439170 GMT-4",
+    "_uid": "1dbe23da4fd14117ac68d483671091a6",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lacus-velit-primis-nisl-at-curae-nam-nunc-tempus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:21.485856 GMT-4",
+    "title": "Lacus velit primis nisl at curae nam nunc tempus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem fames condimentum dui.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Class lacus nulla nunc felis id vitae primis in ut urna. Class purus ullamcorper inceptos facilisis. Proin etiam arcu diam ligula amet. Magna felis dictumst habitasse tempor consequat habitasse porta. Neque felis vel augue cum aenean egestas enim. Etiam curae nostra donec vestibulum odio vitae donec lacus. Velit vitae hymenaeos torquent urna eget neque netus potenti euismod urna fames penatibus. Dolor felis lectus. Donec lacus a diam proin montes. Augue neque faucibus. Velit risus consequat maecenas nisl eget morbi maecenas hac eros accumsan ornare auctor nec integer justo. Purus netus a euismod tempor velit at tincidunt. Neque porta senectus eni blandit ultrices. Velit curae sagittis fames est velit non ante mi elementum vitae. Velit purus. Velit ipsum sed vulputate lectus turpis. Curae purus nisi netus bibendum nunc quam taciti ac tempor a parturient eni augue orci. Lorem massa vel nulla.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:21.442522 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:21.481714 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "lacus-velit-primis-nisl-at-curae-nam-nunc-tempus.",
+    "remoteUrl": "Curae%20fames%20blandit%20erat%20nam.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa lacus curae nascetur eros libero non ante nisl proin quam ut diam orci. Netus proin facilisis justo et tellus eros. Morbi etiam. Magna neque aenean nisi montes auctor morbi suspendisse ve tempor ac. Nulla class luctus neque et nullam imperdiet dictumst at suspendisse elit ultricies torquent auctor libero ante in sollicitudin. Donec netus scelerisque. Magna massa. Lorem risus fringilla per nascetur integer cubilia rutrum etiam. Risus etiam ante euismod at fermentum lorem taciti ut lobortis. Neque massa sagittis nunc ornare ad. Purus neque. Fames felis auctor scelerisque lacus. Risus proin eros vehicula dis ut pede. Ipsum felis nisi per ac. Purus justo tempus magna auctor mi quis in tincidunt blandit quam ut consectetuer pede nulla amet per metus malesuada nisi. Massa netus pede blandit nisl nam. Augue donec habitasse facilisi ac suspendisse id ornare fermentum eu. Risus magna. Dolor proin. Massa lacus per lorem laoreet pede netus magna mollis fames pede sodales ad ut magnis dolor faucibus. Purus lorem. Etiam lorem. Metus velit venenatis ante dis fusce hymenaeos id cras ve.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Lacus velit primis nisl at curae nam nunc tempus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 52,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./lacus-velit-primis-nisl-at-curae-nam-nunc-tempus."
+}

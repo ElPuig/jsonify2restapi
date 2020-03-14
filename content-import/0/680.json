@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:50.500373 GMT-4",
+    "_uid": "4c1eef4da4854e6db149dd482f5e47c9",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "proin-metus-a-libero-lacus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:50.547645 GMT-4",
+    "title": "Proin metus a libero lacus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Augue purus platea dolor amet.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Velit lacus facilisis urna ultricies et ullamcorper odio curabitur pellentesque. Morbi fames curae enim gravida. Etiam vitae proin nunc vivamus euismod tempus curae eros neque id inceptos non. Fames felis hac senectus malesuada duis. Magna felis purus scelerisque vehicula dignissim et. Augue velit tempor conubia cum nisi a. Purus augue sem nisl rutrum adipiscing neque elit placerat. Justo augue primis scelerisque massa dictum sem posuere id. Curae magna dui nostra aliquam blandit hendrerit ante dui porta venenatis felis. Lacus nulla aenean massa condimentum molestie tristique.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.203027 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:36.521188 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "mollis..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "proin-metus-a-libero-lacus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna etiam sit parturient hymenaeos eros odio hendrerit tempus. Fames donec. Felis massa. Etiam ipsum urna non ac magnis ridiculus ad mattis a aliquet magnis. Justo augue sed odio volutpat natoque euismod facilisis litora tristique natoque auctor. Class lacus fames tempus ad placerat. Magna felis neque dolor suscipit habitasse porta quam potenti hac. Porta justo. Risus vitae tempor gravida fermentum. Curae vitae sed nibh nonummy a tempor velit malesuada. Dolor porta mus eget inceptos tristique. Magna dolor amet massa. Fames augue class tempus. Dolor curae nunc vel justo ipsum. Etiam neque luctus varius dis arcu inceptos massa id eget congue senectus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Proin metus a libero lacus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./proin-metus-a-libero-lacus."
+}

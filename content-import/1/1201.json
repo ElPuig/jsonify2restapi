@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:03:5.726612 GMT-4",
+    "_uid": "e284210f016b475e80d3bb741a9336f2",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-risus-hac-nisi-dolor-primis-mattis-ad-sit-augue.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:5.769352 GMT-4",
+    "title": "Magna risus hac nisi dolor primis mattis ad sit augue.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus vitae condimentum in varius eros arcu sem metus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Lorem augue tortor proin in. Donec dolor proin suscipit elementum ut nulla fermentum fringilla adipiscing nunc. Velit neque. Dolor neque volutpat felis at urna augue hendrerit per vivamus dictumst velit fusce turpis. Augue donec tempor lorem. Justo lorem montes tortor hymenaeos in penatibus. Felis metus. Nulla ipsum nibh facilisis ve proin porta nec porta curae. Fames vitae dis parturient metus urna dui curae netus amet quam. Magna risus elit. Massa porta litora adipiscing pellentesque potenti eleifend blandit quisque. Ipsum massa.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:5.730291 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:5.765514 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-risus-hac-nisi-dolor-primis-mattis-ad-sit-augue.",
+    "remoteUrl": "Lorem%20dolor%20mus%20venenatis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Felis fusce magna magnis accumsan purus ac turpis ve inceptos. Magna morbi diam hendrerit duis pede felis ad litora venenatis etiam et. Vitae porta ridiculus pretium class. Class augue habitant velit nisi bibendum. Nulla purus. Fusce dolor aliquam vel mi. Lacus lorem lacinia curae amet accumsan facilisis. Vitae purus tempus. Lorem proin vitae. Felis class iaculis bibendum congue adipiscing vehicula. Morbi fames nullam class magna diam. Donec lacus mus vel nec ridiculus. Justo velit tempor erat ornare. Fusce augue.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna risus hac nisi dolor primis mattis ad sit augue.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 55,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./magna-risus-hac-nisi-dolor-primis-mattis-ad-sit-augue."
+}

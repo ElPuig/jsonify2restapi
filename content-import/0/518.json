@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:31.365916 GMT-4",
+    "_uid": "4a84560488044824a1021a648cba2c86",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "proin-porta-neque-nunc-id-urna-taciti.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:31.412083 GMT-4",
+    "title": "Proin porta neque nunc id urna taciti.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Metus etiam.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Fusce vitae. Justo lacus curae est vitae. Augue porta eros nonummy risus nulla sociosqu nulla. Risus velit purus enim nisl hymenaeos vehicula magnis congue cum adipiscing semper. Felis nulla hac ligula natoque dis habitant feugiat quisque orci curae conubia massa at curabitur a habitasse. Lorem fames. Etiam porta sit eget aliquam. Risus curae nunc convallis sollicitudin quisque. Donec purus lectus magna. Porta justo.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "class..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "proin-porta-neque-nunc-id-urna-taciti.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Nulla morbi sodales nec et placerat eget erat. Neque lorem hac duis. Ipsum curae viverra ve enim nisi venenatis. Lacus dolor volutpat risus class mollis porta at. Felis netus lobortis at netus nisi dis fames convallis fermentum. Felis velit est. Lacus metus dignissim vivamus neque ac magna. Lorem augue curae torquent in ipsum bibendum urna ac porta mus nisi mauris. Metus nulla orci potenti quis vehicula penatibus eu ipsum tincidunt aliquam. Felis nulla. Proin vitae accumsan fringilla. Netus vitae euismod nec lobortis imperdiet aenean nullam. Proin justo placerat malesuada a sit ultricies nullam donec ullamcorper cras tristique. Netus fusce.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Proin porta neque nunc id urna taciti.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./proin-porta-neque-nunc-id-urna-taciti."
+}

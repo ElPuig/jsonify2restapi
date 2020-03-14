@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:32.405013 GMT-4",
+    "_uid": "12f3f4f7b9bd455d920772c4b5c671fb",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "dolor-augue-sagittis-dis-quis-donec.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:32.454037 GMT-4",
+    "title": "Dolor augue sagittis dis quis donec.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Fusce ipsum suspendisse senectus arcu.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Donec dolor phasellus rhoncus donec justo ligula ut mauris risus. Morbi felis hac natoque id accumsan elit eget morbi ornare tempor velit. Vitae donec praesent velit est eni ultricies magnis eu. Neque dolor litora montes per natoque porta et. Morbi purus mollis ornare cum ad aptent massa. Velit curae etiam duis id odio. Neque morbi a nunc magna litora id massa et. Nulla dolor montes mi ultrices integer pretium penatibus. Dolor etiam luctus facilisis fames erat faucibus mauris egestas. Lacus justo. Lorem purus dictum ac facilisi inceptos netus morbi tellus. Donec proin a viverra primis lacus ut libero. Lorem vitae morbi sapien ut duis felis amet potenti morbi ad montes egestas blandit.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "etiam..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "dolor-augue-sagittis-dis-quis-donec.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor morbi bibendum ac erat eros arcu ut. Augue curae viverra nec. Felis magna sapien. Augue velit aenean eni quis. Justo fames velit pretium. Magna fames. Massa justo amet neque rhoncus semper est nec ut phasellus massa id. Purus dolor nisl a ipsum egestas. Metus etiam per elementum. Morbi curae massa a rutrum. Massa dolor cum porttitor curae nulla non diam interdum vulputate leo nunc. Class felis. Dolor etiam pede vel sapien id tellus placerat. Lacus felis. Lorem netus tempus fusce mi vulputate velit arcu suscipit velit dictum vitae eu. Vitae fames. Purus donec eleifend cum nonummy proin.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Dolor augue sagittis dis quis donec.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 25,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./dolor-augue-sagittis-dis-quis-donec."
+}

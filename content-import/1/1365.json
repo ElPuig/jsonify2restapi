@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Aliter enim nosmet ipsos nosse non possumus.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Omnia contraria, quos etiam insanos esse vultis. Multoque hoc melius nos veriusque quam Stoici. Omnia contraria, quos etiam insanos esse vultis. Satis est ad hoc responsum. </p>\n\n<h2>Minime vero istorum quidem, inquit.</h2>\n\n<p>Videsne quam sit magna dissensio? Sed ille, ut dixi, vitiose. Quis istud possit, inquit, negare? Utram tandem linguam nescio? Igitur neque stultorum quisquam beatus neque sapientium non beatus. Qui autem esse poteris, nisi te amor ipse ceperit? </p>\n\n<ul>\n\t<li>Quod autem magnum dolorem brevem, longinquum levem esse dicitis, id non intellego quale sit.</li>\n\t<li>Reicietur etiam Carneades, nec ulla de summo bono ratio aut voluptatis non dolendive particeps aut honestatis expers probabitur.</li>\n\t<li>Sed fac ista esse non inportuna;</li>\n\t<li>Themistocles quidem, cum ei Simonides an quis alius artem memoriae polliceretur, Oblivionis, inquit, mallem.</li>\n\t<li>Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum.</li>\n\t<li>Nec tamen ille erat sapiens quis enim hoc aut quando aut ubi aut unde?</li>\n</ul>\n\n\n<ol>\n\t<li>Si enim non fuit eorum iudicii, nihilo magis hoc non addito illud est iudicatum-.</li>\n\t<li>Quamquam haec quidem praeposita recte et reiecta dicere licebit.</li>\n\t<li>Ita relinquitur sola haec disciplina digna studiosis ingenuarum artium, digna eruditis, digna claris viris, digna principibus, digna regibus.</li>\n\t<li>Quid enim me prohiberet Epicureum esse, si probarem, quae ille diceret?</li>\n\t<li>Invidiosum nomen est, infame, suspectum.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Te enim iudicem aequum puto, modo quae dicat ille bene noris.</dd>\n\t<dt><dfn>Hunc vos beatum;</dfn></dt>\n\t<dd>Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem.</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba.</dd>\n\t<dt><dfn>Haec dicuntur inconstantissime.</dfn></dt>\n\t<dd>Ergo in utroque exercebantur, eaque disciplina effecit tantam illorum utroque in genere dicendi copiam.</dd>\n\t<dt><dfn>Negare non possum.</dfn></dt>\n\t<dd>At miser, si in flagitiosa et vitiosa vita afflueret voluptatibus.</dd>\n\t<dt><dfn>Moriatur, inquit.</dfn></dt>\n\t<dd>Aliter enim nosmet ipsos nosse non possumus.</dd>\n\t<dt><dfn>Primum divisit ineleganter;</dfn></dt>\n\t<dd>Quae iam oratio non a philosopho aliquo, sed a censore opprimenda est.</dd>\n</dl>\n\n\n<p>Ergo, inquit, tibi Q. Summum a vobis bonum voluptas dicitur. Philosophi autem in suis lectulis plerumque moriuntur. Nunc haec primum fortasse audientis servire debemus. </p>\n\n",
+    "creation_date": "2018/10/26 18:04:37.108658 GMT-4",
+    "imageCaption": "Netus neque sed quam conubia a tempor arcu eu morbi.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "nulla-vitae-cum-class-penatibus-molestie-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:37.443171 GMT-4",
+    "title": "Nulla vitae cum class penatibus molestie morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Massa vitae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Vitae massa. Magna purus aenean nascetur eni amet. Dolor etiam lectus curae leo arcu velit habitasse sapien habitant curabitur cras dapibus fermentum. Curae nulla eni. Dolor vitae sem elementum cursus a. Neque risus diam. Purus nulla sapien mi suscipit sed dapibus id praesent magna feugiat. Class proin fames class sociosqu vestibulum sapien leo. Netus augue nam bibendum nonummy etiam per. Felis lacus gravida ipsum aliquet sem et neque pellentesque ipsum ad. Magna proin a egestas lectus ut vitae mollis faucibus sem. Lorem vitae tortor ac varius ante. Risus lorem eni duis phasellus taciti montes porttitor blandit. Neque magna ullamcorper vehicula hymenaeos felis ipsum. Magna purus fermentum. Dolor vitae justo fusce orci sodales a semper quam ullamcorper dui at augue mi lectus potenti urna orci duis.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:37.112466 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:37.439536 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "nulla-vitae-cum-class-penatibus-molestie-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Proin porta egestas semper litora consequat interdum. Nulla vitae velit sed nisl hymenaeos ad aptent laoreet erat nunc. Vitae morbi dis. Dolor morbi etiam torquent eros enim non odio cubilia duis ut eros eu. Fames etiam tellus class vestibulum ante magna mi litora neque condimentum eros amet fames. Dolor curae. Proin neque a mattis quis mi. Proin lorem rutrum convallis id vitae suspendisse. Purus justo. Magna justo. Vitae morbi viverra elit nam tortor aenean velit platea suspendisse. Risus proin dictumst curabitur taciti erat eu purus habitasse mi convallis quisque massa orci. Curae massa magna. Magna etiam platea litora augue nunc quisque integer nibh at massa convallis nisi gravida ad. Augue dolor montes ornare sem luctus.",
+    "_content_type_description": "text/plain",
+    "_uid": "52762383f0684ca0a696717b3904c8aa",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Nulla vitae cum class penatibus molestie morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 67,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./nulla-vitae-cum-class-penatibus-molestie-morbi."
+}

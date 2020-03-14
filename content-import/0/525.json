@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:32.814647 GMT-4",
+    "_uid": "19dc242ae4ef401a8756a9910b6ef537",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "netus-proin-fames-torquent-cras-placerat-mus.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:32.861627 GMT-4",
+    "title": "Netus proin fames torquent cras placerat mus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Proin justo torquent hac metus adipiscing eget vitae tristique parturient leo augue.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Augue lorem cum purus ridiculus adipiscing nec donec nonummy. Netus lorem condimentum et mattis habitasse ve cras metus maecenas cum enim habitasse. Lacus velit cubilia sed litora. Proin velit aptent nam blandit a auctor. Netus proin integer quis at augue. Fames etiam. Metus nulla porta cubilia ut tempus pharetra parturient iaculis cras. Massa fames lectus ante ridiculus hac quis. Magna massa mattis odio litora eu pharetra porta pretium ante consectetuer vestibulum ante justo facilisis. Dolor massa lacus pulvinar.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "parturient..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "netus-proin-fames-torquent-cras-placerat-mus.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Augue metus ornare. Neque purus iaculis mattis id ligula sagittis lacus eu donec elit magnis in class tempus. Curae porta sagittis ve sociis magna velit. Proin velit magnis leo pede augue iaculis semper sem erat nisi inceptos. Vitae fusce fringilla. Netus morbi feugiat commodo ornare eni ligula per cum. Velit class habitant cras odio fames. Fusce lacus. Morbi neque. Velit augue netus. Lorem porta accumsan ipsum in habitasse parturient aliquet enim. Etiam ipsum sem.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Netus proin fames torquent cras placerat mus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 27,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./netus-proin-fames-torquent-cras-placerat-mus."
+}

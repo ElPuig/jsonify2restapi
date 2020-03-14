@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:10.917376 GMT-4",
+    "_uid": "3988597789c6490db58ba4b3faa6548d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "porta-vitae-erat-ridiculus-tempus-est-diam-hendrerit-inceptos.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:10.972265 GMT-4",
+    "title": "Porta vitae erat ridiculus tempus est diam hendrerit inceptos.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Curae massa urna cum potenti curae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Risus augue felis blandit faucibus urna diam cum porta congue felis. Neque fames mus interdum aliquet etiam nam duis lacus fusce natoque fusce elit. Lacus neque morbi nascetur curae dolor ultrices pede. Class purus. Porta fames cursus proin ullamcorper erat cras dapibus ac est duis proin aptent. Donec fames est eros tortor ad sapien bibendum vestibulum. Class purus laoreet curae. Dolor metus conubia cubilia elit a felis laoreet duis eros nascetur penatibus nulla. Proin neque tellus lorem ullamcorper. Purus augue nunc neque tellus. Fusce etiam congue. Lacus lorem lobortis.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.494394 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:55.810314 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "fames..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "porta-vitae-erat-ridiculus-tempus-est-diam-hendrerit-inceptos.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Porta curae. Felis fusce nunc mi sollicitudin potenti risus vestibulum pede netus ut vehicula dui. Massa netus ultrices id tempor proin ve risus habitant class facilisis nibh viverra a ullamcorper est. Porta lorem. Magna lorem. Augue fames libero orci sollicitudin in. Netus ipsum orci. Lacus augue accumsan neque mi auctor fusce. Curae porta sit nunc et nisl ridiculus nulla nibh a.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Porta vitae erat ridiculus tempus est diam hendrerit inceptos.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 20,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./porta-vitae-erat-ridiculus-tempus-est-diam-hendrerit-inceptos."
+}

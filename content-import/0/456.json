@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:58.572824 GMT-4",
+    "_uid": "321077bf2ff94564807bb8a813d4f84a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "augue-justo-nonummy-iaculis-luctus-nisi-nunc-hac-rutrum-euismod-ve-nonummy.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:58.895715 GMT-4",
+    "title": "Augue justo nonummy iaculis luctus nisi nunc hac rutrum euismod ve nonummy.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin netus felis a mollis odio turpis ridiculus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Augue felis ante dignissim. Donec metus mus metus convallis pede. Massa donec eleifend nibh eni nulla quam mus a aptent nibh nullam. Augue porta proin felis dolor commodo dictum venenatis. Lorem magna cubilia. Purus velit. Donec ipsum. Metus neque. Fames proin libero in bibendum est laoreet taciti pede. Vitae felis. Lacus morbi tempus tincidunt lectus fames aliquam.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:58.578511 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:58.891150 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Atque hoc loco similitudines eas, quibus illi uti solent, dissimillimas proferebas.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> Restinguet citius, si ardentem acceperit. Occultum facinus esse potuerit, gaudebit; Itaque hic ipse iam pridem est reiectus; Negat enim summo bono afferre incrementum diem. </p>\n\n<ol>\n\t<li>Deinde disputat, quod cuiusque generis animantium statui deceat extremum.</li>\n\t<li>Itaque si aut requietem natura non quaereret aut eam posset alia quadam ratione consequi.</li>\n</ol>\n\n\n<p>Nam ista vestra: Si gravis, brevis; Quorum altera prosunt, nocent altera. Est, ut dicis, inquit; Collige omnia, quae soletis: Praesidium amicorum. Solum praeterea formosum, solum liberum, solum civem, stultost; Eadem nunc mea adversum te oratio est. </p>\n\n<ul>\n\t<li>Tu enim ista lenius, hic Stoicorum more nos vexat.</li>\n\t<li>An est aliquid, quod te sua sponte delectet?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Falli igitur possumus.</dfn></dt>\n\t<dd>Sin te auctoritas commovebat, nobisne omnibus et Platoni ipsi nescio quem illum anteponebas?</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Ego autem existimo, si honestum esse aliquid ostendero, quod sit ipsum vi sua propter seque expetendum, iacere vestra omnia.</dd>\n\t<dt><dfn>Venit ad extremum;</dfn></dt>\n\t<dd>Cum autem in quo sapienter dicimus, id a primo rectissime dicitur.</dd>\n\t<dt><dfn>Si longus, levis;</dfn></dt>\n\t<dd>Quod idem cum vestri faciant, non satis magnam tribuunt inventoribus gratiam.</dd>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Hoc dictum in una re latissime patet, ut in omnibus factis re, non teste moveamur.</dd>\n</dl>\n\n\n<p>Equidem, sed audistine modo de Carneade? Non enim solum Torquatus dixit quid sentiret, sed etiam cur. Quibusnam praeteritis? Si longus, levis dictata sunt. Paria sunt igitur. Quid me istud rogas? </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "augue-justo-nonummy-iaculis-luctus-nisi-nunc-hac-rutrum-euismod-ve-nonummy.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Dolor felis senectus ut scelerisque elit tempor et lacinia orci parturient. Ipsum morbi posuere nec id aptent maecenas. Dolor justo orci. Massa augue posuere torquent ornare montes. Felis proin ultrices vestibulum litora nec nam. Nulla massa elit natoque cras molestie sed nisi. Purus neque. Ipsum metus purus nibh accumsan odio nam orci pellentesque id netus. Justo porta eros fringilla ac duis. Risus lorem sapien. Class justo sem magna felis odio cum netus. Vitae augue arcu a proin et. Porta risus sociosqu vitae curabitur eleifend at class ac. Fusce dolor risus rutrum cursus nulla quisque taciti. Lacus justo condimentum sit duis pharetra varius amet justo non erat. Fusce felis tellus litora penatibus commodo. Augue magna. Risus massa.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue justo nonummy iaculis luctus nisi nunc hac rutrum euismod ve nonummy.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 39,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./augue-justo-nonummy-iaculis-luctus-nisi-nunc-hac-rutrum-euismod-ve-nonummy."
+}

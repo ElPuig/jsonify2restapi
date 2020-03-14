@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/11/08 12:02:46.094326 GMT-4",
+    "endDate": "2018/11/11 01:20:35.449341 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quod non faceret, si in voluptate summum bonum poneret.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Audeo dicere, inquit. At coluit ipse amicitias. Summae mihi videtur inscitiae. Sedulo, inquam, faciam. </p>\n\n<h2>Quorum sine causa fieri nihil putandum est.</h2>\n\n<p>Prave, nequiter, turpiter cenabat; Negare non possum. Quid enim de amicitia statueris utilitatis causa expetenda vides. Cur iustitia laudatur? </p>\n\n<dl>\n\t<dt><dfn>Haeret in salebra.</dfn></dt>\n\t<dd>Dic in quovis conventu te omnia facere, ne doleas.</dd>\n\t<dt><dfn>Praeclare hoc quidem.</dfn></dt>\n\t<dd>Sic, et quidem diligentius saepiusque ista loquemur inter nos agemusque communiter.</dd>\n\t<dt><dfn>De illis, cum volemus.</dfn></dt>\n\t<dd>Quid est, quod ab ea absolvi et perfici debeat?</dd>\n\t<dt><dfn>Respondeat totidem verbis.</dfn></dt>\n\t<dd>Mihi, inquam, qui te id ipsum rogavi?</dd>\n</dl>\n\n\n<p>Reguli reiciendam; Duo Reges: constructio interrete. Erat enim Polemonis. Nihilo beatiorem esse Metellum quam Regulum. Minime vero, inquit ille, consentit. </p>\n\n<ul>\n\t<li>Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.</li>\n\t<li>Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere.</li>\n\t<li>Venit enim mihi Platonis in mentem, quem accepimus primum hic disputare solitum;</li>\n\t<li>Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;</li>\n</ul>\n\n\n<ol>\n\t<li>Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat.</li>\n\t<li>Ergo ita: non posse honeste vivi, nisi honeste vivatur?</li>\n\t<li>Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem.</li>\n\t<li>Hoc est vim afferre, Torquate, sensibus, extorquere ex animis cognitiones verborum, quibus inbuti sumus.</li>\n</ol>\n\n\n<pre>\nRes tota, Torquate, non doctorum hominum, velle post mortem\nepulis celebrari memoriam sui nominis.\n\nNec enim ignoras his istud honestum non summum modo, sed\netiam, ut tu vis, solum bonum videri.\n</pre>\n\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:34.506905 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "378d3f3429d549108a4763041bf0ab07",
+    "expirationDate": "None",
+    "contactName": "Proin morbi ante primis leo elit hac.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Etiam magna morbi eros montes at arcu nunc curae.",
+    "id": "metus-felis-natoque-ligula-erat.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:41.145200 GMT-4",
+    "title": "Metus felis natoque ligula erat.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lorem etiam nisl.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Magna dolor semper luctus vulputate. Ipsum class facilisi elit mi. Vitae curae. Netus lorem pulvinar dui fames. Risus dolor. Magna justo. Vitae velit rutrum metus magna varius. Class ipsum aptent velit porttitor odio orci. Lacus velit amet. Nulla porta platea luctus imperdiet ultrices ac scelerisque eros erat litora. Vitae dolor pede dictum.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:34.510452 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:41.157108 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "metus-felis-natoque-ligula-erat.",
+    "modification_date": "2018/10/26 13:51:41.145469 GMT-4",
+    "language": "en",
+    "rights": "Netus class ipsum enim natoque. Risus augue per. Justo purus montes class. Morbi porta dignissim purus tincidunt egestas lectus purus. Magna fames. Lacus fusce egestas mi habitant ante. Purus dolor. Netus metus. Lacus ipsum per tempus mi sed ac diam praesent. Lorem vitae ante sociosqu hymenaeos vel nisl porttitor. Proin neque tellus pharetra parturient auctor curae dictumst porta laoreet cubilia. Morbi dolor egestas eros consectetuer mi posuere nunc bibendum felis duis dictumst lacus at metus id velit mi augue.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Metus felis natoque ligula erat.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 23,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/metus-felis-natoque-ligula-erat."
+}

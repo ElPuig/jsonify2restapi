@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Vadem te ad mortem tyranno dabis pro amico, ut Pythagoreus ille Siculo fecit tyranno?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non laboro, inquit, de nomine. Easdemne res? An eiusdem modi? Haec igitur Epicuri non probo, inquam. Haec et tu ita posuisti, et verba vestra sunt. Duo Reges: constructio interrete. </p>\n\n<ol>\n\t<li>Nam bonum ex quo appellatum sit, nescio, praepositum ex eo credo, quod praeponatur aliis.</li>\n\t<li>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</li>\n\t<li>Quam ob rem tandem, inquit, non satisfacit?</li>\n\t<li>Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio.</li>\n</ol>\n\n\n<ul>\n\t<li>Mihi quidem Antiochum, quem audis, satis belle videris attendere.</li>\n\t<li>Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam.</li>\n</ul>\n\n\n<h2>Quod non faceret, si in voluptate summum bonum poneret.</h2>\n\n<p>Is es profecto tu. Quamquam haec quidem praeposita recte et reiecta dicere licebit. <a href='http://loripsum.net/' target='_blank'>Minime vero, inquit ille, consentit.</a> Tollenda est atque extrahenda radicitus. Vide, quantum, inquam, fallare, Torquate. Nunc agendum est subtilius. </p>\n\n<dl>\n\t<dt><dfn>Scrupulum, inquam, abeunti;</dfn></dt>\n\t<dd>An potest, inquit ille, quicquam esse suavius quam nihil dolere?</dd>\n\t<dt><dfn>Quid adiuvas?</dfn></dt>\n\t<dd>His similes sunt omnes, qui virtuti student levantur vitiis, levantur erroribus, nisi forte censes Ti.</dd>\n</dl>\n\n\n<p>Sed residamus, inquit, si placet. Non laboro, inquit, de nomine. <a href='http://loripsum.net/' target='_blank'>Itaque contra est, ac dicitis;</a> Vide, quaeso, rectumne sit. </p>\n\n",
+    "creation_date": "2018/10/26 18:03:29.652025 GMT-4",
+    "imageCaption": "Class curae.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-lacus-a-aliquet-varius-nibh-nisi.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:30.083528 GMT-4",
+    "title": "Class lacus a aliquet varius nibh nisi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus etiam hac natoque facilisi varius mollis sodales arcu habitasse pellentesque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Donec morbi mus proin laoreet eleifend morbi amet cras ante. Dolor velit suspendisse facilisi nunc sodales venenatis. Netus morbi curae senectus vitae a amet lorem fermentum elementum ante. Lorem etiam non nascetur vitae tincidunt ante duis. Nulla risus metus lacus vehicula augue nam augue. Augue ipsum purus arcu dis libero. Curae proin tellus enim hendrerit litora sociis netus urna suspendisse rhoncus eni ve vitae litora. Metus augue luctus nec. Fusce risus eleifend ad donec sollicitudin habitasse. Dolor porta ridiculus id varius sed laoreet volutpat nulla odio egestas. Neque ipsum tellus nam id suscipit. Fusce magna montes netus parturient nonummy leo pulvinar. Massa lorem mauris magna. Justo porta congue. Etiam metus a diam id hendrerit scelerisque. Justo nulla suspendisse odio ultricies quam. Etiam proin magna aptent id ornare. Metus risus.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:29.657724 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:30.079443 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "class-lacus-a-aliquet-varius-nibh-nisi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum risus ligula vestibulum consectetuer laoreet. Ipsum neque luctus adipiscing. Lacus felis. Ipsum vitae scelerisque quis elementum. Felis etiam ornare aenean cras fringilla dignissim orci cubilia. Vitae ipsum porta a nunc vitae hendrerit tincidunt adipiscing orci dictum. Massa ipsum ligula. Augue curae a. Lacus ipsum. Magna proin varius cursus fringilla senectus luctus viverra feugiat sociis justo nascetur. Metus morbi. Fusce massa enim justo fringilla ornare maecenas. Velit augue habitant pede vivamus eu vel fames purus sem nulla nec orci nisi. Purus curae. Lorem lacus.",
+    "_content_type_description": "text/plain",
+    "_uid": "eeda3a4a5f3241b9bef0eb29d5ef7508",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class lacus a aliquet varius nibh nisi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 65,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./class-lacus-a-aliquet-varius-nibh-nisi."
+}

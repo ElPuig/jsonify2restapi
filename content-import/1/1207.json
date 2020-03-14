@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Multoque hoc melius nos veriusque quam Stoici.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ego in hoc resisto; Rationis enim perfectio est virtus; <a href='http://loripsum.net/' target='_blank'>Gerendus est mos, modo recte sentiat.</a> Duo Reges: constructio interrete. Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Utilitatis causa amicitia est quaesita. A mene tu? Quis Aristidem non mortuum diligit? </p>\n\n<p>Primum quid tu dicis breve? Quid, de quo nulla dissensio est? Ut pulsi recurrant? Quis hoc dicit? Quonam modo? An tu me de L. </p>\n\n<dl>\n\t<dt><dfn>Sumenda potius quam expetenda.</dfn></dt>\n\t<dd>Non enim solum Torquatus dixit quid sentiret, sed etiam cur.</dd>\n\t<dt><dfn>Tenent mordicus.</dfn></dt>\n\t<dd>Sunt autem, qui dicant foedus esse quoddam sapientium, ut ne minus amicos quam se ipsos diligant.</dd>\n\t<dt><dfn>Memini vero, inquam;</dfn></dt>\n\t<dd>Et ille ridens: Video, inquit, quid agas;</dd>\n\t<dt><dfn>Age sane, inquam.</dfn></dt>\n\t<dd>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Semovenda est igitur voluptas, non solum ut recta sequamini, sed etiam ut loqui deceat frugaliter.</dd>\n\t<dt><dfn>Stoicos roga.</dfn></dt>\n\t<dd>Omnia contraria, quos etiam insanos esse vultis.</dd>\n</dl>\n\n\n<ol>\n\t<li>Videsne ut, quibus summa est in voluptate, perspicuum sit quid iis faciendum sit aut non faciendum?</li>\n\t<li>Estne, quaeso, inquam, sitienti in bibendo voluptas?</li>\n</ol>\n\n\n<ul>\n\t<li>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</li>\n\t<li>Idemque diviserunt naturam hominis in animum et corpus.</li>\n\t<li>Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus.</li>\n\t<li>Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest.</li>\n</ul>\n\n\n<p>Cur deinde Metrodori liberos commendas? Tollenda est atque extrahenda radicitus. Quare conare, quaeso. </p>\n\n",
+    "creation_date": "2018/10/26 18:03:7.054081 GMT-4",
+    "imageCaption": "Magna etiam.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-purus-justo-ornare-et-quis.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:03:7.379641 GMT-4",
+    "title": "Class purus justo ornare et quis.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin velit felis aptent proin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Fames felis libero ac ornare ipsum proin a nibh. Metus ipsum. Nulla ipsum per nisi malesuada tellus enim curae taciti ante ut nunc. Proin augue. Magna porta sem dignissim sapien. Etiam lacus ultricies libero tempor phasellus sem diam ac. Purus metus purus suspendisse per. Augue netus. Morbi proin velit erat cubilia et integer nisl ad sollicitudin nonummy. Class ipsum. Nulla magna a urna parturient est class mauris. Massa lorem ultrices arcu consequat mi convallis augue. Neque class.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:7.058105 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:03:7.375682 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "class-purus-justo-ornare-et-quis.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa class nisi laoreet justo vestibulum suspendisse sapien eu pharetra posuere fermentum. Lacus lorem risus nulla tortor urna congue ad torquent pede potenti posuere ridiculus. Donec dolor odio habitant donec sollicitudin etiam nunc bibendum est class. Fusce curae tempus. Neque fusce proin leo curabitur. Morbi metus. Lacus vitae. Augue curae cursus eu rutrum. Magna porta dui lectus lorem. Augue vitae praesent sem turpis facilisi nam semper ligula dis in lacus varius. Magna netus semper proin euismod eleifend proin curae malesuada penatibus. Justo magna viverra id habitasse ut tellus.",
+    "_content_type_description": "text/plain",
+    "_uid": "16a047276d164429b55887e41920a954",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class purus justo ornare et quis.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 61,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./class-purus-justo-ornare-et-quis."
+}

@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:14.812537 GMT-4",
+    "_uid": "7110633b7dcf421a863b7cd5e3ad996d",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "donec-lorem-platea-eros-quam-felis-eu-taciti-phasellus-lorem-magna-dictum-ullamcorper.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:14.863204 GMT-4",
+    "title": "Donec lorem platea eros quam felis eu taciti phasellus lorem magna dictum ullamcorper.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Etiam class.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Proin metus massa taciti in. Felis lacus. Fusce etiam porttitor ultrices sociis nostra eni gravida accumsan diam sem lorem sit pulvinar. Massa justo augue. Donec augue a amet id neque at fames ac semper. Fusce fames ultricies nam feugiat. Vitae morbi vel arcu tortor posuere orci. Massa etiam. Proin ipsum montes magnis nunc aliquam arcu ut. Curae vitae augue donec luctus ullamcorper. Augue dolor amet penatibus mollis ante ad magna non dolor hac erat nisl sodales. Felis vitae pharetra imperdiet ipsum. Class augue magnis ullamcorper fusce vulputate sit felis curabitur sagittis mi. Proin metus conubia nostra et at. Velit massa a mollis quam consectetuer suscipit curae eni eros porttitor per praesent a. Porta curae nibh sagittis. Augue morbi. Purus justo.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.377699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.696020 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "proin..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "donec-lorem-platea-eros-quam-felis-eu-taciti-phasellus-lorem-magna-dictum-ullamcorper.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Justo ipsum netus cursus urna duis senectus cursus aptent. Proin velit. Netus porta quisque phasellus ad lectus imperdiet bibendum. Etiam netus fames consequat mus. Morbi massa. Velit felis nam erat a nibh adipiscing nisi curae class. Fames fusce luctus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Donec lorem platea eros quam felis eu taciti phasellus lorem magna dictum ullamcorper.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./donec-lorem-platea-eros-quam-felis-eu-taciti-phasellus-lorem-magna-dictum-ullamcorper."
+}

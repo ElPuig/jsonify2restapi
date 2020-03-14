@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Hoc mihi cum tuo fratre convenit.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc ipsum elegantius poni meliusque potuit. Eademne, quae restincta siti? <a href='http://loripsum.net/' target='_blank'>Ille incendat?</a> Duo Reges: constructio interrete. Satis est ad hoc responsum. Illud non continuo, ut aeque incontentae. </p>\n\n<dl>\n\t<dt><dfn>Quonam, inquit, modo?</dfn></dt>\n\t<dd>Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</dd>\n\t<dt><dfn>Sed nimis multa.</dfn></dt>\n\t<dd>Quid est igitur, inquit, quod requiras?</dd>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Quae diligentissime contra Aristonem dicuntur a Chryippo.</dd>\n\t<dt><dfn>Quid ergo?</dfn></dt>\n\t<dd>Antiquorum autem sententiam Antiochus noster mihi videtur persequi diligentissime, quam eandem Aristoteli fuisse et Polemonis docet.</dd>\n</dl>\n\n\n<ol>\n\t<li>Quid censes in Latino fore?</li>\n\t<li>Si enim non fuit eorum iudicii, nihilo magis hoc non addito illud est iudicatum-.</li>\n</ol>\n\n\n<h2>Tanta vis admonitionis inest in locis;</h2>\n\n<p>Peccata paria. Iam id ipsum absurdum, maximum malum neglegi. Prave, nequiter, turpiter cenabat; Cur post Tarentum ad Archytam? </p>\n\n<ul>\n\t<li>Summus dolor plures dies manere non potest?</li>\n\t<li>Itaque si aut requietem natura non quaereret aut eam posset alia quadam ratione consequi.</li>\n\t<li>Tum Lucius: Mihi vero ista valde probata sunt, quod item fratri puto.</li>\n\t<li>Oratio me istius philosophi non offendit;</li>\n\t<li>Quam tu ponis in verbis, ego positam in re putabam.</li>\n</ul>\n\n\n<p>Negat enim summo bono afferre incrementum diem. Bonum incolumis acies: misera caecitas. Itaque contra est, ac dicitis; Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba. Non igitur bene. Sed haec quidem liberius ab eo dicuntur et saepius. Hunc vos beatum; Tu quidem reddes; </p>\n\n",
+    "creation_date": "2018/10/26 17:59:43.215410 GMT-4",
+    "imageCaption": "Proin fames natoque tempor ante laoreet ad duis netus.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-nulla-donec-a-amet.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:59:43.544016 GMT-4",
+    "title": "Magna nulla donec a amet.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce vitae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Lorem lacus laoreet mus interdum etiam. Curae donec ante mus consectetuer sapien. Vitae augue. Lacus netus. Fames metus dictum ante feugiat diam odio. Fames dolor diam quis fermentum magnis enim augue donec nam orci dapibus. Fames ipsum. Fames metus. Justo nulla nisi gravida mollis risus ac libero neque non erat vestibulum mauris. Felis augue taciti magnis. Velit morbi donec ultrices morbi cras cubilia rhoncus varius cum. Metus morbi. Justo porta. Donec morbi. Justo velit. Fusce lorem etiam litora curae interdum dis pretium vehicula mauris. Felis donec nisi lectus dui parturient ridiculus felis malesuada cubilia mauris. Metus ipsum sem fusce eget a eros vestibulum. Vitae class faucibus. Class netus. Vitae justo luctus hendrerit ad fringilla donec risus cras hac ipsum leo.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:43.218831 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:59:43.539922 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "magna-nulla-donec-a-amet.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Ipsum nulla justo lobortis purus. Justo fusce aptent id pede feugiat cubilia hendrerit amet per. Risus massa gravida egestas. Metus proin litora orci consectetuer pharetra dolor arcu augue blandit habitasse primis risus eleifend convallis. Porta nulla. Purus fusce platea gravida et magnis nostra ipsum vestibulum condimentum nullam. Nulla class nascetur mi suspendisse ut semper praesent phasellus. Fames justo fusce a libero amet dis. Fames morbi mollis.",
+    "_content_type_description": "text/plain",
+    "_uid": "31b7b0692f484ea8b67d2d408f488e84",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna nulla donec a amet.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 63,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./felis-ipsum-dis-diam-quam-facilisi-et-condimentum-quis-sociis./magna-nulla-donec-a-amet."
+}

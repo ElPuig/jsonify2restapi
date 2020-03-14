@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Qua ex cognitione facilior facta est investigatio rerum occultissimarum.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed videbimus. Quae contraria sunt his, malane? Illud non continuo, ut aeque incontentae. At enim hic etiam dolore. </p>\n\n<p>Est enim effectrix multarum et magnarum voluptatum. Nemo igitur esse beatus potest. Ut proverbia non nulla veriora sint quam vestra dogmata. <a href='http://loripsum.net/' target='_blank'>Paria sunt igitur.</a> Deinde dolorem quem maximum? Praeclare hoc quidem. <a href='http://loripsum.net/' target='_blank'>Traditur, inquit, ab Epicuro ratio neglegendi doloris.</a> Quid de Pythagora? </p>\n\n<dl>\n\t<dt><dfn>Tria genera bonorum;</dfn></dt>\n\t<dd>Quod cum dixissent, ille contra.</dd>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Quis enim est, qui non videat haec esse in natura rerum tria?</dd>\n\t<dt><dfn>Stoicos roga.</dfn></dt>\n\t<dd>Ea possunt paria non esse.</dd>\n</dl>\n\n\n<h2>Aliter enim explicari, quod quaeritur, non potest.</h2>\n\n<p>Duo Reges: constructio interrete. Sin aliud quid voles, postea. Nihil enim hoc differt. Idem iste, inquam, de voluptate quid sentit? Primum quid tu dicis breve? Quae contraria sunt his, malane? <a href='http://loripsum.net/' target='_blank'>Omnia peccata paria dicitis.</a> </p>\n\n<ul>\n\t<li>Si enim, ut mihi quidem videtur, non explet bona naturae voluptas, iure praetermissa est;</li>\n\t<li>Paulum, cum regem Persem captum adduceret, eodem flumine invectio?</li>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n\t<li>Sed ad bona praeterita redeamus.</li>\n</ul>\n\n\n<ol>\n\t<li>Comprehensum, quod cognitum non habet?</li>\n\t<li>Quod non faceret, si in voluptate summum bonum poneret.</li>\n</ol>\n\n\n",
+    "creation_date": "2018/10/26 18:01:4.218402 GMT-4",
+    "imageCaption": "Morbi donec eni nisi vestibulum curabitur ipsum.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "class-dolor-quis-lobortis-hac-lorem-ultricies-sit.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:4.541610 GMT-4",
+    "title": "Class dolor quis lobortis hac lorem ultricies sit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fusce lacus litora felis lorem ligula.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Purus augue enim porta quisque netus in semper elementum etiam a dictum. Lorem ipsum dictum sollicitudin conubia habitant. Felis massa augue. Donec fames. Donec nulla metus. Morbi massa. Nulla donec urna aliquam proin at. Purus massa lectus dolor nulla mauris elit cubilia cras. Risus morbi ultrices augue penatibus condimentum ultricies quam suspendisse viverra scelerisque erat nibh. Curae neque sociosqu fames nisi lacus morbi auctor dis mattis a suscipit elit. Velit purus sem dictumst facilisis pellentesque vestibulum pede nulla. Proin nulla congue interdum quisque taciti. Porta etiam tempus dolor proin taciti turpis facilisi vitae velit sem diam urna lorem.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:4.222122 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:4.537981 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "class-dolor-quis-lobortis-hac-lorem-ultricies-sit.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Purus fusce. Fames vitae dictumst eni gravida dolor rhoncus non placerat posuere aliquam cras. Etiam augue tempus. Purus proin sed dis ve. Magna curae vel dolor malesuada. Lorem risus condimentum dictumst vitae id massa hac pede dictumst. Magna felis ligula. Velit neque litora mi rutrum torquent vitae eget ullamcorper blandit suspendisse. Netus donec lacinia mattis at felis id. Ipsum proin platea lacus ac purus mi proin ut. Class ipsum libero placerat elementum morbi vulputate varius nibh. Class proin lectus vehicula vestibulum facilisis suspendisse. Ipsum morbi a conubia ad libero sollicitudin natoque tristique. Nulla ipsum etiam duis dolor. Netus augue orci nulla ac dictum felis pretium nonummy. Netus augue tortor id eu cras nunc molestie eleifend nullam rutrum. Metus fusce tellus. Lorem ipsum. Morbi class. Felis morbi massa cursus. Magna fusce nulla amet risus diam viverra sed id.",
+    "_content_type_description": "text/plain",
+    "_uid": "216c5138de3745adad1083680aeafe0d",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Class dolor quis lobortis hac lorem ultricies sit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 61,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./class-dolor-quis-lobortis-hac-lorem-ultricies-sit."
+}

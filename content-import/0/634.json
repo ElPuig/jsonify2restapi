@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:21.931284 GMT-4",
+    "_uid": "e2cda4d7580f4362a84cbfc3139110c4",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "curae-metus-cubilia.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:21.972626 GMT-4",
+    "title": "Curae metus cubilia.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Purus proin purus platea ipsum rhoncus at.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Augue morbi tempus arcu aliquet euismod. Massa magna suspendisse sit turpis pharetra natoque aliquam nisi. Neque augue eleifend curabitur urna ridiculus cursus ad magnis posuere feugiat congue amet ultricies platea tellus volutpat. Magna lacus inceptos pede ante vehicula aptent torquent ultricies curae quam euismod tempor eros nunc. Augue lorem pede varius dignissim justo. Lorem neque volutpat lacus et at ac. Dolor neque lectus in nisi. Ipsum risus mauris torquent praesent ipsum aliquam eni. Neque porta cras sociis elit orci aliquam gravida penatibus ut. Velit purus sed libero nam auctor in lorem risus enim. Risus fames senectus dui donec habitasse quis elit ipsum fusce nascetur. Augue proin class interdum vestibulum rhoncus sit in proin. Velit fames a montes fames nostra adipiscing vitae eget. Proin magna massa eleifend nisi laoreet at fames sapien ad facilisi pede mi facilisis.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:21.934476 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:21.969167 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-metus-cubilia.",
+    "remoteUrl": "Donec%20purus%20mollis%20fusce.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Risus dolor donec aptent. Class magna torquent augue eu ve nec metus ultricies parturient. Class massa. Fusce netus senectus hac. Porta nulla sapien facilisis vitae praesent enim dictumst nunc duis. Magna neque vel. Donec fusce taciti eget quis dis posuere curae natoque erat. Augue netus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae metus cubilia.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 55,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./curae-metus-cubilia."
+}

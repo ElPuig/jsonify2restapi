@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:42.437337 GMT-4",
+    "_uid": "c16d8a19b489468c85aaa16fafd2e16b",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "nulla-magna-fusce-morbi-class-magna-nam.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:42.480263 GMT-4",
+    "title": "Nulla magna fusce morbi class magna nam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Lacus curae.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Augue velit aenean metus. Netus dolor nostra tellus ipsum et luctus hac dui. Porta metus. Massa morbi bibendum tincidunt vel consectetuer. Fusce vitae fusce mus odio nascetur euismod ridiculus. Netus velit iaculis sapien justo. Curae porta faucibus nibh eros.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:42.440533 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:42.476638 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "nulla-magna-fusce-morbi-class-magna-nam.",
+    "remoteUrl": "Felis%20neque%20libero%20netus%20justo%20eros.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Proin fames tempor. Metus etiam vel fames dis dolor potenti est erat arcu blandit rhoncus diam. Ipsum nulla. Felis morbi fames montes magna vehicula donec consectetuer convallis. Curae velit pulvinar et netus eu nisl bibendum hendrerit augue. Fames morbi libero ad cum curabitur morbi ipsum sociis ac netus fermentum tempus purus. Netus risus aliquam dis mi a eget neque lobortis ut. Vitae ipsum a elit class gravida pede in. Etiam fames a rhoncus magnis at vehicula rhoncus. Ipsum netus aptent neque vestibulum ac quis dictum ad bibendum posuere curae per penatibus vel. Fames justo. Porta vitae rutrum turpis class ve ad nisi etiam. Nulla fusce quis. Netus velit suspendisse.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Nulla magna fusce morbi class magna nam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 53,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./nulla-magna-fusce-morbi-class-magna-nam."
+}

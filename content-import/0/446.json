@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:56:54.298390 GMT-4",
+    "_uid": "ce84248393104fbdad1326123e374b2a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "fusce-morbi.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:56:54.351334 GMT-4",
+    "title": "Fusce morbi.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Etiam curae risus rutrum elit suspendisse euismod hac molestie a sollicitudin nisl lacus pretium.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Lacus lorem fermentum etiam orci elit nibh eni cubilia semper eu. Fames porta pretium lectus nibh per netus ipsum. Donec risus a litora nunc tempus ad faucibus orci amet massa augue. Dolor class enim. Lorem massa facilisi felis torquent. Netus etiam vitae natoque. Neque proin. Velit netus litora mi est porttitor suscipit. Curae dolor. Class dolor orci eu felis ac vulputate elit. Ipsum vitae non quis nibh fringilla faucibus aenean primis penatibus interdum. Fusce ipsum lacus faucibus metus duis amet hac lacus hac duis velit dignissim et aenean. Class justo litora purus augue a eget morbi. Fames class. Felis metus augue risus scelerisque per odio dis felis. Fusce lacus imperdiet luctus. Morbi netus habitant convallis accumsan ad aptent potenti. Lacus felis justo tempus consectetuer nonummy vulputate. Lorem augue dis.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:37.807574 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:56:38.127110 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "et..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "fusce-morbi.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Risus netus per. Felis nulla diam condimentum posuere. Magna netus. Justo proin potenti. Augue porta cursus fringilla in curabitur vitae ac tempor posuere id odio tortor porttitor. Porta massa viverra magnis morbi vestibulum senectus. Fusce risus quam dui semper nibh pede penatibus vehicula. Risus purus ornare vel aptent. Lacus donec nisi viverra mi eu urna dui et facilisi integer nibh molestie eni nonummy. Donec metus nisi quam nibh inceptos per erat per elit mus. Vitae metus accumsan fermentum amet penatibus aenean. Vitae proin fusce varius non in erat felis blandit convallis senectus ut lectus aliquam. Felis metus auctor velit viverra nam praesent penatibus. Felis donec massa velit nonummy non nisl magnis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Fusce morbi.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 29,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./fusce-morbi."
+}

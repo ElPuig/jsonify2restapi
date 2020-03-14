@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:00:52.444153 GMT-4",
+    "_uid": "4bdd45cd05d848f4869403cbd16dccfa",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "proin-massa-sed-integer-aenean-vitae-sem-amet-porta.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:52.495311 GMT-4",
+    "title": "Proin massa sed integer aenean vitae sem amet porta.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Metus curae erat tortor molestie adipiscing lacinia pede at quis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Netus lorem aptent senectus nunc. Dolor fusce libero vehicula vestibulum tellus. Lacus fusce a egestas luctus magna pretium quisque gravida taciti amet. Etiam lorem volutpat augue auctor. Fames purus luctus aptent cras ad tristique netus eu purus. Nulla felis tellus in pulvinar diam. Lorem nulla odio sagittis a sollicitudin elit. Fames lorem nulla torquent sed ad pede porta justo aptent. Lorem nulla nostra feugiat rutrum fusce. Class risus.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:37.750630 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:38.076399 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "curae..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "proin-massa-sed-integer-aenean-vitae-sem-amet-porta.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Lorem felis lorem. Purus augue vehicula proin at morbi. Fusce risus mollis purus. Magna class laoreet ultrices in lacus malesuada. Lorem porta quam. Vitae lorem. Neque fusce. Justo nulla. Etiam nulla urna nisi sed. Fusce felis fames quis ridiculus praesent ac eni scelerisque laoreet nec laoreet. Felis curae nisi potenti pretium fermentum id ligula at ligula a sodales mi. Velit fusce cubilia vel parturient turpis eros laoreet magna et nec sapien sodales in. Augue velit dis eros parturient vel lorem cubilia porttitor nibh malesuada magnis semper nibh. Etiam velit sit elit. Justo risus. Augue justo. Netus lacus. Lacus metus sagittis. Fusce donec curae semper vestibulum inceptos felis a pede fusce consequat.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Proin massa sed integer aenean vitae sem amet porta.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 22,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./donec-risus-fermentum./proin-massa-sed-integer-aenean-vitae-sem-amet-porta."
+}

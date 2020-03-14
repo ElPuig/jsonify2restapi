@@ -1,0 +1,94 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:30.070284 GMT-4",
+    "_uid": "52dab185b8dd416ea543d7295ba80d69",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "magna-risus.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:30.119105 GMT-4",
+    "title": "Magna risus.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus neque donec scelerisque.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "Link",
+    "description": "Ipsum magna faucibus morbi dignissim nulla sociosqu odio. Netus fusce. Metus velit duis dis nisi id imperdiet metus elit. Curae morbi auctor morbi. Lorem purus nisi lacus morbi sagittis vel eu. Curae fusce mauris metus parturient quisque odio parturient. Augue ipsum. Nulla proin dolor taciti id nonummy ad ac. Fusce nulla laoreet netus. Dolor donec facilisi dis ac orci senectus. Neque lacus pulvinar enim sem a lectus ridiculus donec a semper. Risus curae lorem elit suspendisse mi sapien etiam ipsum platea.",
+    "_atrefs": {},
+    "_layout": "link_redirect_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:30.073627 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:30.115103 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_content_type_remoteUrl": "text/plain",
+    "_classname": "ATLink",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "magna-risus.",
+    "remoteUrl": "Netus%20proin%20dictum%20massa.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna lacus risus feugiat nulla mi. Class ipsum sodales cubilia ultrices turpis erat nibh. Nulla lorem. Curae lacus metus. Vitae lorem semper convallis eni sodales molestie nunc quam nec dapibus eni adipiscing massa odio ad. Etiam class fusce pulvinar in mollis maecenas lobortis conubia proin parturient eget ornare ac dictumst. Porta netus quisque nam ut viverra. Etiam nulla justo dolor. Dolor lorem fames semper quisque iaculis arcu pede elementum. Fames morbi. Purus velit. Augue donec venenatis bibendum magnis sapien facilisis. Risus augue a tellus donec nonummy. Massa risus orci.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Magna risus.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 52,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae./magna-risus."
+}

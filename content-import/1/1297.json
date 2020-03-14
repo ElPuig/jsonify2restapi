@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:1.199848 GMT-4",
+    "_uid": "bd590504ace4471f9269fa0efc312cca",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "risus-velit-curae.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:1.569689 GMT-4",
+    "title": "Risus velit curae.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus purus vitae cras lectus ut cras ante dis.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Netus fusce quis a quam etiam cursus velit id vitae mi. Metus magna. Porta felis. Neque ipsum. Lorem purus. Magna velit consequat facilisis quam vel mattis ante suspendisse aliquet scelerisque erat. Proin velit potenti non potenti sociosqu. Etiam curae. Purus etiam auctor eu risus. Magna fames semper sollicitudin conubia. Felis curae mattis diam viverra ac vitae. Etiam netus scelerisque habitant metus litora dolor orci libero. Class massa arcu. Risus felis porta amet a nibh dolor sapien.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.205244 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:1.565584 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Qui est in parvis malis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed virtutem ipsam inchoavit, nihil amplius. Bonum valitudo: miser morbus. <a href='http://loripsum.net/' target='_blank'>Id enim natura desiderat.</a> Nulla erit controversia. Satis est ad hoc responsum. Omnia peccata paria dicitis. </p>\n\n<dl>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Non enim ipsa genuit hominem, sed accepit a natura inchoatum.</dd>\n\t<dt><dfn>At certe gravius.</dfn></dt>\n\t<dd>Hoc ipsum elegantius poni meliusque potuit.</dd>\n</dl>\n\n\n<ul>\n\t<li>Hoc simile tandem est?</li>\n\t<li>Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.</li>\n\t<li>Quid enim tanto opus est instrumento in optimis artibus comparandis?</li>\n</ul>\n\n\n<ol>\n\t<li>His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent.</li>\n\t<li>Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris.</li>\n\t<li>Post enim Chrysippum eum non sane est disputatum.</li>\n\t<li>Hi curatione adhibita levantur in dies, valet alter plus cotidie, alter videt.</li>\n\t<li>Dic in quovis conventu te omnia facere, ne doleas.</li>\n\t<li>Aliter homines, aliter philosophos loqui putas oportere?</li>\n</ol>\n\n\n<p>Quae sequuntur igitur? Summus dolor plures dies manere non potest? Quae cum dixisset, finem ille. Expressa vero in iis aetatibus, quae iam confirmatae sunt. </p>\n\n<p>Sed nimis multa. Duo Reges: constructio interrete. </p>\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "risus-velit-curae.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Velit lorem malesuada risus id lectus neque eu a primis donec suspendisse diam urna. Porta lacus nisi dapibus ve. Morbi felis iaculis nam cras sit massa risus dui libero. Neque porta sed malesuada. Massa porta. Class fames per cras. Proin vitae dolor mus tellus tincidunt at montes in tincidunt cubilia arcu morbi. Massa vitae dictum odio luctus sapien. Neque lacus. Lorem fames tempor risus habitasse quam non. Fames lacus iaculis dis ut nisl ve eget diam. Velit etiam erat augue. Felis lacus maecenas justo. Metus justo. Neque netus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Risus velit curae.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 30,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./risus-velit-curae."
+}

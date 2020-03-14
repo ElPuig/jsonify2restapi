@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:56.466208 GMT-4",
+    "_uid": "184e4dc5c08747f3b3d3347fd3416a85",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "risus-purus-elit-sociosqu-bibendum-euismod-tincidunt-arcu-lacinia.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:56.517339 GMT-4",
+    "title": "Risus purus elit sociosqu bibendum euismod tincidunt arcu lacinia.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Morbi dolor quis diam aliquam et.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Velit fames morbi nisl porttitor ornare odio scelerisque rhoncus pellentesque elementum ipsum lobortis sit purus convallis habitant. Proin fusce. Lorem class lorem nisl diam. Purus curae taciti. Velit purus cubilia laoreet tellus at et ante ad hac tellus primis etiam vestibulum facilisi. Massa augue. Augue dolor orci per commodo id odio quis hac. Justo purus. Neque morbi lacus proin ultricies id venenatis posuere eni venenatis cras quisque. Metus fames nec cras facilisis elit iaculis. Purus vitae semper. Porta dolor curae interdum purus sodales phasellus ante. Proin lorem. Purus neque litora fames fusce rhoncus tristique. Felis velit. Morbi neque. Fusce netus mattis at ante aenean gravida nam et consectetuer sociis. Nulla curae.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:40.773453 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:41.088324 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "nisl..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "risus-purus-elit-sociosqu-bibendum-euismod-tincidunt-arcu-lacinia.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Vitae risus. Dolor metus. Fusce vitae vel enim pellentesque. Magna lorem aliquet morbi augue tempus lectus fusce quis a quis in. Vitae etiam lorem varius nonummy hac. Curae etiam montes pulvinar proin nisi nulla commodo. Magna dolor metus nam elit feugiat tempus fermentum. Purus nulla. Felis purus condimentum vehicula eget nunc consequat sit nisi. Felis nulla. Fusce metus nostra adipiscing eleifend aliquam eu litora. Purus nulla tellus placerat. Massa risus est arcu pulvinar pellentesque. Risus fusce luctus. Vitae justo luctus. Vitae felis mattis fames ve consequat a. Class massa. Fusce purus sem curae proin facilisi morbi eu quam sociosqu volutpat. Etiam risus dictum amet id cras fames in a. Metus class ultrices non nisl justo taciti morbi. Magna nulla erat ullamcorper blandit. Metus fusce vel quam tellus class habitasse faucibus vehicula feugiat. Massa ipsum. Etiam netus. Metus vitae condimentum nibh montes lacus eros pretium.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Risus purus elit sociosqu bibendum euismod tincidunt arcu lacinia.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 27,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./porta-fames-non-parturient-dignissim-quam-duis-cubilia-vulputate./risus-purus-elit-sociosqu-bibendum-euismod-tincidunt-arcu-lacinia."
+}

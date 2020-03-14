@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:32.204163 GMT-4",
+    "_uid": "118163ef094c4432ab7f1c74067b1cd0",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "lorem-etiam-mollis-lacus-posuere-aliquam-tristique-ultrices-praesent.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:32.253828 GMT-4",
+    "title": "Lorem etiam mollis lacus posuere aliquam tristique ultrices praesent.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Neque ipsum primis cum nullam a praesent eget pulvinar leo lectus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Metus risus a gravida aptent nisl tortor ut. Massa donec primis. Etiam augue dolor nulla sociis. Felis velit sed massa. Lacus morbi mus habitant. Class velit faucibus ipsum a pretium mi ac quis. Purus morbi odio magna velit inceptos. Felis neque massa vehicula ac porta. Massa neque auctor cras duis justo congue non et. Class justo integer primis velit dolor a libero arcu nullam. Porta lorem magna habitasse nibh pretium ipsum eget. Velit netus mattis. Neque class felis a cubilia in enim purus fusce convallis. Fames magna sapien.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "fusce..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "lorem-etiam-mollis-lacus-posuere-aliquam-tristique-ultrices-praesent.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Dolor netus eget donec urna sagittis pellentesque sapien porta ridiculus dictumst platea. Etiam porta nec lorem malesuada sit. Fusce curae laoreet proin ac imperdiet lorem in cursus. Massa felis dis diam. Felis neque turpis per rutrum gravida orci. Porta augue euismod taciti ac elit curabitur duis. Lorem morbi justo lorem sed mollis id pharetra odio et. Netus velit ullamcorper sociosqu gravida erat felis libero purus mi tempor egestas tempor sem potenti placerat id scelerisque. Purus fusce augue lectus eget lectus dis vestibulum parturient. Dolor vitae magnis sed egestas eros nascetur convallis varius magnis.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Lorem etiam mollis lacus posuere aliquam tristique ultrices praesent.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./lorem-etiam-mollis-lacus-posuere-aliquam-tristique-ultrices-praesent."
+}

@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Septem autem illi non suo, sed populorum suffragio omnium nominati sunt.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Avaritiamne minuis? Aliter enim nosmet ipsos nosse non possumus. Omnes enim iucundum motum, quo sensus hilaretur. Erat enim Polemonis. </p>\n\n<dl>\n\t<dt><dfn>Sed videbimus.</dfn></dt>\n\t<dd>Iam enim adesse poterit.</dd>\n\t<dt><dfn>Easdemne res?</dfn></dt>\n\t<dd>Quo modo autem optimum, si bonum praeterea nullum est?</dd>\n\t<dt><dfn>Quid iudicant sensus?</dfn></dt>\n\t<dd>Hoc enim constituto in philosophia constituta sunt omnia.</dd>\n</dl>\n\n\n<ol>\n\t<li>Nec vero pietas adversus deos nec quanta iis gratia debeatur sine explicatione naturae intellegi potest.</li>\n\t<li>Saepe ab Aristotele, a Theophrasto mirabiliter est laudata per se ipsa rerum scientia;</li>\n</ol>\n\n\n<p>Nihil opus est exemplis hoc facere longius. Hoc loco tenere se Triarius non potuit. Sequitur disserendi ratio cognitioque naturae; <a href='http://loripsum.net/' target='_blank'>Nos cum te, M.</a> </p>\n\n<p>Restinguet citius, si ardentem acceperit. Duo Reges: constructio interrete. Conferam avum tuum Drusum cum C. Hos contra singulos dici est melius. Hoc ipsum elegantius poni meliusque potuit. Sed in rebus apertissimis nimium longi sumus. </p>\n\n<ul>\n\t<li>Quod si ita se habeat, non possit beatam praestare vitam sapientia.</li>\n\t<li>Hoc loco tenere se Triarius non potuit.</li>\n\t<li>Alterum significari idem, ut si diceretur, officia media omnia aut pleraque servantem vivere.</li>\n\t<li>Fortasse id optimum, sed ubi illud: Plus semper voluptatis?</li>\n</ul>\n\n\n",
+    "creation_date": "2018/10/26 18:00:28.370215 GMT-4",
+    "imageCaption": "Fames ipsum primis nisi id facilisis euismod cum.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "velit-justo-tempor-morbi-augue-a-aptent.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:00:28.701008 GMT-4",
+    "title": "Velit justo tempor morbi augue a aptent.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Risus velit.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Class augue scelerisque mi aenean a. Morbi velit duis dapibus integer porttitor eros vel ac convallis augue senectus phasellus ut. Curae vitae lectus dolor nulla. Netus fames bibendum felis. Augue lorem netus justo dapibus gravida ante adipiscing hendrerit fusce. Curae justo orci blandit felis massa nec platea gravida. Neque porta sem malesuada mattis mi sagittis ante non justo blandit nostra. Lorem velit litora. Nulla lorem nec quam a orci. Dolor massa porta eni. Porta massa varius morbi placerat at. Lacus etiam amet eu non eget. Proin fusce dui dolor. Fames vitae integer quis nulla. Metus augue tellus ad.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:28.374594 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:00:28.695516 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "velit-justo-tempor-morbi-augue-a-aptent.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Magna fames. Fames magna sit nisl hac diam ante. Massa magna sed sociis nostra risus neque aliquam eni adipiscing curae enim. Ipsum magna nascetur pede cras. Lorem velit ornare nisi tortor montes. Dolor fames platea maecenas vestibulum aenean diam velit mi. Felis neque eros mi pellentesque vivamus dui. Morbi vitae arcu velit. Justo fusce. Justo lorem elementum. Augue fusce. Purus dolor litora lorem parturient praesent netus at. Nulla massa lacinia convallis ut morbi luctus sollicitudin phasellus risus sem curae dignissim.",
+    "_content_type_description": "text/plain",
+    "_uid": "4a3efe4ea3694569b193353d75eb80c0",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Velit justo tempor morbi augue a aptent.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 68,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./metus-augue-platea-donec-fames-inceptos-non-ut-fermentum-ipsum./velit-justo-tempor-morbi-augue-a-aptent."
+}

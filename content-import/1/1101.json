@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:18.984186 GMT-4",
+    "_uid": "d27648ea34ac45749f7574bea215096c",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "velit-justo-nulla-justo-blandit-natoque-tortor-pede-nunc.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:19.316874 GMT-4",
+    "title": "Velit justo nulla justo blandit natoque tortor pede nunc.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Dolor class.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Etiam fusce cras posuere leo eu tincidunt ante sit duis taciti potenti sem viverra. Justo nulla placerat nec nisi parturient nibh metus. Curae purus laoreet odio lorem metus nibh libero. Fames porta. Proin fusce leo. Donec curae. Curae purus semper phasellus. Justo risus tellus faucibus eu suspendisse erat enim euismod et. Massa proin dapibus rutrum. Proin lacus metus vitae sagittis massa purus a. Vitae metus suspendisse bibendum duis vulputate at magna. Etiam magna luctus quis mi curae enim eros posuere ac montes accumsan ullamcorper. Class lorem varius ac habitant nisl conubia id ipsum sollicitudin pulvinar massa. Morbi porta conubia tempus proin sagittis fusce risus semper convallis morbi. Class felis magnis sociis tristique suscipit. Neque ipsum ullamcorper leo nisl ultricies ac dolor imperdiet. Felis donec pharetra imperdiet ve ridiculus nunc hac ligula sapien vulputate etiam eu. Massa class velit ipsum tempor sociis dis adipiscing vestibulum ac accumsan.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:18.990366 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:02:19.312180 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Sed fac ista esse non inportuna;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Estne, quaeso, inquam, sitienti in bibendo voluptas? Memini vero, inquam; Duo Reges: constructio interrete. Efficiens dici potest. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Hoc sic expositum dissimile est superiori.</a> Idem adhuc; <a href='http://loripsum.net/' target='_blank'>Nos vero, inquit ille;</a> Venit ad extremum; Si quae forte-possumus. Sed ad bona praeterita redeamus. </p>\n\n<ol>\n\t<li>Nihil enim hoc differt.</li>\n\t<li>Dolere malum est: in crucem qui agitur, beatus esse non potest.</li>\n\t<li>Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret?</li>\n\t<li>Et ille ridens: Video, inquit, quid agas;</li>\n</ol>\n\n\n<ul>\n\t<li>Qui enim existimabit posse se miserum esse beatus non erit.</li>\n\t<li>Sed ne, dum huic obsequor, vobis molestus sim.</li>\n\t<li>Parvi enim primo ortu sic iacent, tamquam omnino sine animo sint.</li>\n</ul>\n\n\n<p><a href='http://loripsum.net/' target='_blank'>Eadem fortitudinis ratio reperietur.</a> Honesta oratio, Socratica, Platonis etiam. Duo enim genera quae erant, fecit tria. Eadem fortitudinis ratio reperietur. </p>\n\n<dl>\n\t<dt><dfn>Sint ista Graecorum;</dfn></dt>\n\t<dd>Ut aliquid scire se gaudeant?</dd>\n\t<dt><dfn>Reguli reiciendam;</dfn></dt>\n\t<dd>Si ista mala sunt, in quae potest incidere sapiens, sapientem esse non esse ad beate vivendum satis.</dd>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Non autem hoc: igitur ne illud quidem.</dd>\n\t<dt><dfn>Immo alio genere;</dfn></dt>\n\t<dd>Quamquam te quidem video minime esse deterritum.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Quid ad utilitatem tantae pecuniae?</dd>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Egone non intellego, quid sit don Graece, Latine voluptas?</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "velit-justo-nulla-justo-blandit-natoque-tortor-pede-nunc.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Morbi justo ornare tristique magnis inceptos malesuada. Lorem magna ultrices netus mi fames nec. Velit felis libero non eget. Massa risus aenean class vestibulum ad vehicula amet accumsan. Massa ipsum risus lacinia arcu varius. Risus ipsum quis ve lectus erat tristique mauris. Magna netus fusce odio a lorem in. Class vitae a blandit eu. Curae class torquent quam feugiat tristique enim diam. Fames augue aliquam penatibus arcu nec tempor a dapibus ve dignissim purus integer. Felis massa sem duis id elit lacus turpis primis nam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Velit justo nulla justo blandit natoque tortor pede nunc.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 36,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./velit-justo-nulla-justo-blandit-natoque-tortor-pede-nunc."
+}

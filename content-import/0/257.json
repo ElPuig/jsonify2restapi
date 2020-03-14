@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/08 22:19:3.274157 GMT-4",
+    "endDate": "2018/10/08 22:28:45.892330 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quid est igitur, inquit, quod requiras?</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Quae similitudo in genere etiam humano apparet.</a> Sed nimis multa. Quae contraria sunt his, malane? Que Manilium, ab iisque M. </p>\n\n<ul>\n\t<li>Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur.</li>\n\t<li>Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam;</li>\n</ul>\n\n\n<p>Duo Reges: constructio interrete. Scio enim esse quosdam, qui quavis lingua philosophari possint; Nunc vides, quid faciat. Tuo vero id quidem, inquam, arbitratu. Tum Torquatus: Prorsus, inquit, assentior; </p>\n\n<dl>\n\t<dt><dfn>Ille incendat?</dfn></dt>\n\t<dd>Beatus sibi videtur esse moriens.</dd>\n\t<dt><dfn>Non semper, inquam;</dfn></dt>\n\t<dd>Vives, inquit Aristo, magnifice atque praeclare, quod erit cumque visum ages, numquam angere, numquam cupies, numquam timebis.</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit?</dd>\n</dl>\n\n\n<ol>\n\t<li>Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?</li>\n\t<li>Indicant pueri, in quibus ut in speculis natura cernitur.</li>\n\t<li>Quod idem cum vestri faciant, non satis magnam tribuunt inventoribus gratiam.</li>\n\t<li>Nam, ut sint illa vendibiliora, haec uberiora certe sunt.</li>\n</ol>\n\n\n<pre>\nQuasi vero, inquit, perpetua oratio rhetorum solum, non\netiam philosophorum sit.\n\nQuamquam id quidem, infinitum est in hac urbe;\n</pre>\n\n\n<p>Fortemne possumus dicere eundem illum Torquatum? Explanetur igitur. Ecce aliud simile dissimile. Si longus, levis dictata sunt. </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:45.389201 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "4eec7bbc725a472b9d905b1362a83453",
+    "expirationDate": "None",
+    "contactName": "Dolor magna ornare varius.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Risus etiam lorem ultricies tempor senectus.",
+    "id": "purus-etiam.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:41.994139 GMT-4",
+    "title": "Purus etiam.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Neque proin velit non lacinia ad hendrerit penatibus neque nascetur.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Felis proin convallis arcu integer vitae dis orci facilisis ligula leo. Dolor nulla condimentum nam. Ipsum felis ullamcorper id nullam ad velit taciti scelerisque lorem aptent porta ullamcorper leo ad. Etiam velit bibendum. Metus velit lobortis parturient. Lacus donec est. Ipsum augue aliquet. Curae massa. Fames etiam ultrices.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:45.392471 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.005920 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "purus-etiam.",
+    "modification_date": "2018/10/26 13:51:41.994395 GMT-4",
+    "language": "en",
+    "rights": "Velit lacus a laoreet aptent augue ad nisl facilisis. Donec fusce amet sagittis et etiam eu. Morbi donec facilisis ornare ultricies fringilla massa a odio. Neque ipsum montes. Magna justo ipsum volutpat imperdiet proin at dolor tempus eget cubilia. Augue curae posuere sed. Ipsum metus diam nec inceptos tincidunt at dictum class suscipit imperdiet pellentesque iaculis. Lorem nulla vel cras vestibulum sociis. Class neque feugiat aliquet duis ad porta. Magna augue feugiat inceptos velit. Velit magna. Neque curae eleifend fermentum. Proin donec mattis libero facilisis. Purus felis justo cursus gravida id bibendum posuere blandit lorem. Felis class. Ipsum morbi. Porta velit dui quis dapibus ve eni. Felis vitae ornare proin placerat felis.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Purus etiam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 53,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/purus-etiam."
+}

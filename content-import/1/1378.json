@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:04:48.373967 GMT-4",
+    "_uid": "014474ee73f6467da4ab21f6924531bd",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:04:48.727479 GMT-4",
+    "title": "Morbi risus mattis rhoncus auctor mi auctor vel.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Proin purus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Nulla porta neque mus hymenaeos tempor adipiscing dolor. Felis curae netus quis urna in nibh id faucibus lacinia viverra nibh. Lorem donec mattis vehicula scelerisque non diam ac lacus. Etiam felis semper. Donec purus. Purus felis varius suscipit suspendisse. Vitae fames ullamcorper leo amet a duis in. Proin magna sapien adipiscing lorem. Velit curae quam. Lorem donec rutrum. Donec risus enim nonummy dapibus lectus. Donec massa. Ipsum justo proin turpis ve velit eu velit porttitor. Metus porta proin eni adipiscing elementum suspendisse. Porta netus. Curae donec est tristique cum dictumst blandit interdum metus urna pretium. Lacus augue metus dolor magna. Justo felis vulputate blandit aenean pede sodales vivamus.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:48.380747 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:04:48.722711 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem;</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qualem igitur hominem natura inchoavit? Num quid tale Democritus? </p>\n\n<ol>\n\t<li>Sine ea igitur iucunde negat posse se vivere?</li>\n\t<li>Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam;</li>\n\t<li>Sed nonne merninisti licere mihi ista probare, quae sunt a te dicta?</li>\n\t<li>Sed quamvis comis in amicis tuendis fuerit, tamen, si haec vera sunt-nihil enim affirmo-, non satis acutus fuit.</li>\n</ol>\n\n\n<h3>Eadem nunc mea adversum te oratio est.</h3>\n\n<p>Mihi enim satis est, ipsis non satis. Sed tamen intellego quid velit. Ut pulsi recurrant? Sed fortuna fortis; Numquam facies. </p>\n\n<h2>Duo Reges: constructio interrete.</h2>\n\n<p>Tum Triarius: Posthac quidem, inquit, audacius. <a href='http://loripsum.net/' target='_blank'>Qui est in parvis malis.</a> Tria genera bonorum; <a href='http://loripsum.net/' target='_blank'>In schola desinis.</a> Illud dico, ea, quae dicat, praeclare inter se cohaerere. <a href='http://loripsum.net/' target='_blank'>Quorum sine causa fieri nihil putandum est.</a> </p>\n\n<ul>\n\t<li>Quae quidem sapientes sequuntur duce natura tamquam videntes;</li>\n\t<li>Quae diligentissime contra Aristonem dicuntur a Chryippo.</li>\n\t<li>Non est enim vitium in oratione solum, sed etiam in moribus.</li>\n\t<li>Sed tamen omne, quod de re bona dilucide dicitur, mihi praeclare dici videtur.</li>\n\t<li>Sed quanta sit alias, nunc tantum possitne esse tanta.</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Si quae forte-possumus.</dfn></dt>\n\t<dd>Itaque ad tempus ad Pisonem omnes.</dd>\n\t<dt><dfn>Quid adiuvas?</dfn></dt>\n\t<dd>Quid, cum fictas fabulas, e quibus utilitas nulla elici potest, cum voluptate legimus?</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Sed venio ad inconstantiae crimen, ne saepius dicas me aberrare;</dd>\n\t<dt><dfn>Idemne, quod iucunde?</dfn></dt>\n\t<dd>Ergo hoc quidem apparet, nos ad agendum esse natos.</dd>\n\t<dt><dfn>Pollicetur certe.</dfn></dt>\n\t<dd>Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Morbi lorem eros facilisis platea neque vivamus ad mi sapien. Velit curae hymenaeos inceptos curae id fermentum eget nibh erat taciti parturient. Etiam class. Class fames scelerisque arcu erat sit pellentesque at lacus eleifend. Felis nulla litora neque pretium pulvinar eu purus mus ultrices a suscipit dis ornare vulputate. Risus metus est vulputate sodales. Proin netus tortor. Massa risus. Massa justo dui platea torquent viverra tincidunt. Morbi ipsum lacus praesent elementum eleifend purus sollicitudin ultrices purus. Massa risus nisi sem in a primis vitae placerat penatibus mi eu. Porta metus hendrerit purus ad congue lectus. Morbi ipsum mauris praesent urna sit morbi est nisl eros metus urna nisi class augue porta habitant. Proin felis nostra. Etiam lacus bibendum ac sapien lorem molestie urna inceptos. Porta purus luctus at taciti leo platea ultrices eros.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Morbi risus mattis rhoncus auctor mi auctor vel.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 31,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel."
+}

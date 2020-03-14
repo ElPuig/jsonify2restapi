@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 18:02:14.164753 GMT-4",
+    "_uid": "3d4a3cf4120f40cf94f32e5526a491b9",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-augue-nec.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:02:14.216034 GMT-4",
+    "title": "Neque augue nec.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Fusce nulla.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Nulla augue porta turpis quam. Netus nulla. Massa dolor lacus risus sem rutrum cubilia pede quisque. Curae nulla nisl nibh habitasse. Lorem justo a orci at morbi ve. Neque lacus etiam nulla etiam fames ipsum a varius. Fusce morbi lacus elit nullam tincidunt maecenas ut nulla eu. Risus morbi dapibus cras. Felis fusce netus nec venenatis nunc euismod cubilia eleifend magna non nibh. Proin velit fusce accumsan hac purus tincidunt iaculis eni. Curae massa. Velit proin maecenas lorem curae montes primis convallis. Vitae curae justo velit diam. Dolor purus. Morbi vitae.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.377699 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:58.696020 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "montes..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "neque-augue-nec.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Metus morbi turpis sollicitudin convallis massa nullam mi nostra. Class risus eni facilisi felis pellentesque placerat. Proin morbi ullamcorper duis ridiculus praesent sapien nulla eni luctus. Risus justo dignissim aliquet turpis sem parturient ve hymenaeos quam. Etiam felis urna cursus volutpat condimentum vehicula nisl dictumst vivamus tempus id facilisi. Felis justo per senectus aliquam dapibus erat a. Magna porta a dapibus lectus arcu fusce. Vitae porta lectus ve montes imperdiet vestibulum hac justo eni adipiscing. Donec magna integer aptent ve duis purus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Neque augue nec.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 26,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-felis-mollis-condimentum-lorem-vulputate-interdum-at-per./neque-augue-nec."
+}

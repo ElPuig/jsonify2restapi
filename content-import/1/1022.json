@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:01:38.243351 GMT-4",
+    "_uid": "f13d108e4a7544d6aca3153d9c495b03",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "vitae-nulla-mus-diam-ut-nam-habitasse-fames-ad-varius-blandit.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:01:38.575859 GMT-4",
+    "title": "Vitae nulla mus diam ut nam habitasse fames ad varius blandit.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Netus lorem facilisi vestibulum egestas eros ut sollicitudin.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Curae donec. Donec ipsum a. Curae augue orci est. Justo dolor gravida luctus lorem nec aptent et. Donec vitae eros cubilia cras facilisi. Metus justo aptent eu eleifend enim eleifend. Ipsum lorem sit justo habitasse dictumst vitae. Lacus velit. Fames donec pharetra porta nulla condimentum eleifend venenatis ac. Fusce justo nulla lacus mollis. Dolor justo inceptos eu magnis praesent adipiscing sapien porta felis habitant. Felis velit dui nisi. Justo fames. Felis purus dolor magna varius purus sem arcu turpis commodo. Purus dolor est arcu pede metus. Morbi netus hendrerit suspendisse class ridiculus hac ultricies morbi facilisis aliquet.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:38.249029 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:01:38.570696 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Potius inflammat, ut coercendi magis quam dedocendi esse videantur.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum praesertim illa perdiscere ludus esset. Immo alio genere; Quas enim kakaw Graeci appellant, vitia malo quam malitias nominare. Si longus, levis; Duo Reges: constructio interrete. Nulla erit controversia. </p>\n\n<p>Cur haec eadem Democritus? Non autem hoc: igitur ne illud quidem. Ut optime, secundum naturam affectum esse possit. Res enim concurrent contrariae. <a href='http://loripsum.net/' target='_blank'>Id est enim, de quo quaerimus.</a> Idem iste, inquam, de voluptate quid sentit? </p>\n\n<ol>\n\t<li>Iam illud quale tandem est, bona praeterita non effluere sapienti, mala meminisse non oportere?</li>\n\t<li>Quodsi vultum tibi, si incessum fingeres, quo gravior viderere, non esses tui similis;</li>\n\t<li>Quid enim mihi potest esse optatius quam cum Catone, omnium virtutum auctore, de virtutibus disputare?</li>\n</ol>\n\n\n<h2>Qui ita affectus, beatum esse numquam probabis;</h2>\n\n<p>Quid est igitur, inquit, quod requiras? <a href='http://loripsum.net/' target='_blank'>Tum ille: Ain tandem?</a> Inde igitur, inquit, ordiendum est. </p>\n\n<ul>\n\t<li>Ex eorum enim scriptis et institutis cum omnis doctrina liberalis, omnis historia.</li>\n\t<li>Aberat omnis dolor, qui si adesset, nec molliter ferret et tamen medicis plus quam philosophis uteretur.</li>\n\t<li>Sit hoc ultimum bonorum, quod nunc a me defenditur;</li>\n\t<li>Quid est, quod ab ea absolvi et perfici debeat?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Moriatur, inquit.</dfn></dt>\n\t<dd>Ne amores quidem sanctos a sapiente alienos esse arbitrantur.</dd>\n\t<dt><dfn>Nihilo magis.</dfn></dt>\n\t<dd>Quis animo aequo videt eum, quem inpure ac flagitiose putet vivere?</dd>\n\t<dt><dfn>Beatum, inquit.</dfn></dt>\n\t<dd>Qui autem diffidet perpetuitati bonorum suorum, timeat necesse est, ne aliquando amissis illis sit miser.</dd>\n\t<dt><dfn>Eam stabilem appellas.</dfn></dt>\n\t<dd>Deinde dolorem quem maximum?</dd>\n\t<dt><dfn>Si longus, levis.</dfn></dt>\n\t<dd>Quid igitur dubitamus in tota eius natura quaerere quid sit effectum?</dd>\n\t<dt><dfn>Stoici scilicet.</dfn></dt>\n\t<dd>Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "vitae-nulla-mus-diam-ut-nam-habitasse-fames-ad-varius-blandit.",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Vitae metus vehicula eu tellus ridiculus. Ipsum purus duis interdum pretium potenti nullam velit condimentum ad litora malesuada in cursus. Ipsum neque taciti in platea sollicitudin conubia lorem nisl ut. Vitae velit tempor integer enim curae id a nisi. Justo porta semper. Magna fames. Ipsum massa mus nisl a diam. Risus metus condimentum vehicula viverra porttitor aptent sagittis parturient sapien cum mauris. Lorem velit purus lacinia laoreet. Curae etiam. Porta purus a. Nulla justo faucibus. Vitae felis. Vitae fusce. Felis lacus suscipit lorem tempor metus hymenaeos interdum. Justo nulla. Felis augue velit arcu nisi sodales a ullamcorper dis nisl pellentesque ut. Velit fames.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Vitae nulla mus diam ut nam habitasse fames ad varius blandit.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./curae-class-cras-vivamus-vulputate-orci-nulla./vitae-nulla-mus-diam-ut-nam-habitasse-fames-ad-varius-blandit."
+}

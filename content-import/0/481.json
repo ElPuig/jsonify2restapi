@@ -1,0 +1,96 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Qua tu etiam inprudens utebare non numquam.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum Theophrasti, Strato, physicum se voluit; Qui est in parvis malis. Eam stabilem appellas. Duo Reges: constructio interrete. Bonum patria: miserum exilium. Quid dubitas igitur mutare principia naturae? </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Ille enim occurrentia nescio quae comminiscebatur;</a> Laboro autem non sine causa; At iam decimum annum in spelunca iacet. Quo modo autem philosophus loquitur? Respondent extrema primis, media utrisque, omnia omnibus. Eam tum adesse, cum dolor omnis absit; </p>\n\n<ol>\n\t<li>Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt;</li>\n\t<li>Ea, quae dialectici nunc tradunt et docent, nonne ab illis instituta sunt aut inventa sunt?</li>\n\t<li>Deinde dolorem quem maximum?</li>\n\t<li>Qui bonum omne in virtute ponit, is potest dicere perfici beatam vitam perfectione virtutis;</li>\n\t<li>Quod idem cum vestri faciant, non satis magnam tribuunt inventoribus gratiam.</li>\n\t<li>Non enim quaero quid verum, sed quid cuique dicendum sit.</li>\n</ol>\n\n\n<dl>\n\t<dt><dfn>Optime, inquam.</dfn></dt>\n\t<dd>Itaque et vivere vitem et mori dicimus arboremque et novellan et vetulam et vigere et senescere.</dd>\n\t<dt><dfn>Proclivi currit oratio.</dfn></dt>\n\t<dd>Torquatus, is qui consul cum Cn.</dd>\n\t<dt><dfn>Quare conare, quaeso.</dfn></dt>\n\t<dd>Et harum quidem rerum facilis est et expedita distinctio.</dd>\n\t<dt><dfn>Perge porro;</dfn></dt>\n\t<dd>Tibi hoc incredibile, quod beatissimum.</dd>\n</dl>\n\n\n<ul>\n\t<li>Nemo nostrum istius generis asotos iucunde putat vivere.</li>\n\t<li>Similiter sensus, cum accessit ad naturam, tuetur illam quidem, sed etiam se tuetur;</li>\n\t<li>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum.</li>\n</ul>\n\n\n<h2>Quae duo sunt, unum facit.</h2>\n\n<p>Memini vero, inquam; A mene tu? <a href='http://loripsum.net/' target='_blank'>Sed residamus, inquit, si placet.</a> Quorum sine causa fieri nihil putandum est. Iam in altera philosophiae parte. Nihil enim hoc differt. </p>\n\n",
+    "creation_date": "2018/10/26 17:57:6.050727 GMT-4",
+    "imageCaption": "Metus etiam augue eni erat porttitor nibh eros.",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "porta-nulla-luctus-suspendisse-lorem-libero-euismod-viverra-arcu-consectetuer-parturient-arcu-class-ullamcorper-pede-odio-litora-vulputate-at.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:6.386603 GMT-4",
+    "title": "Porta nulla luctus suspendisse lorem libero euismod viverra arcu consectetuer parturient arcu class ullamcorper pede odio litora vulputate at.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Metus velit sed metus.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "_content_type_imageCaption": "text/plain",
+    "_type": "News Item",
+    "description": "Etiam netus ornare sed ac mauris ac. Justo nulla fusce nisi nascetur suspendisse sagittis pede vehicula pulvinar dolor sed. Vitae nulla odio ultricies faucibus ut lacus sem aenean varius etiam adipiscing at eros. Donec justo ipsum. Etiam felis massa non sapien natoque. Porta lacus interdum cras egestas cras eget nisl adipiscing luctus et magnis eleifend nibh sociosqu. Vitae dolor fringilla suspendisse.",
+    "_atrefs": {},
+    "_layout": "newsitem_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:6.054732 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:6.382802 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATNewsItem",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "porta-nulla-luctus-suspendisse-lorem-libero-euismod-viverra-arcu-consectetuer-parturient-arcu-class-ullamcorper-pede-odio-litora-vulputate-at.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Morbi lacus ligula vestibulum eleifend gravida habitasse odio non varius fames rhoncus. Ipsum augue pretium arcu erat fermentum mi mattis pharetra diam. Purus risus sapien porta vestibulum. Metus magna massa. Massa donec erat hendrerit. Magna fusce. Ipsum donec felis etiam. Massa morbi eni lorem curae. Etiam curae dis porta pede sodales vitae per diam conubia. Augue nulla facilisi orci diam.",
+    "_content_type_description": "text/plain",
+    "_uid": "dd5181c875584191aa856d15841a9091",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Porta nulla luctus suspendisse lorem libero euismod viverra arcu consectetuer parturient arcu class ullamcorper pede odio litora vulputate at.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 64,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./justo-morbi-porta-suspendisse-sed-sapien-lobortis-malesuada-arcu./porta-nulla-luctus-suspendisse-lorem-libero-euismod-viverra-arcu-consectetuer-parturient-arcu-class-ullamcorper-pede-odio-litora-vulputate-at."
+}

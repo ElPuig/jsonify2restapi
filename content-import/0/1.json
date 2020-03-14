@@ -1,0 +1,124 @@
+{
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<p><img class=\"image-inline\" src=\"resolveuid/7b230e194f4541f8a5ac0cf570d2555f\" /></p>\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nisi enim, auctor eget elementum nec, vulputate quis orci. Phasellus elit ipsum, mollis non aliquam tempor, ultricies a sapien. Quisque sed ipsum ut nunc interdum feugiat. Praesent tincidunt velit sit amet lacus porta mollis. Suspendisse nunc ante, eleifend sit amet tristique sed, pulvinar id eros. Nunc ornare pulvinar dignissim. Maecenas non nisi eu justo rutrum consectetur quis sed est.</p>",
+    "creation_date": "2018/10/26 12:45:6.263409 GMT-4",
+    "_uid": "29bfe699e61a4e9ba0078bcbca8ea833",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "front-page",
+    "subject": [],
+    "_history": [
+        {
+            "comment": "Edited",
+            "originator": "1.1.0",
+            "parent": {
+                "history_id": 2,
+                "location_id": null,
+                "version_id": null
+            },
+            "timestamp": "2018/10/26 13:53:31 GMT",
+            "review_state": "published",
+            "approxSize": 3655,
+            "principal": "admin"
+        },
+        {
+            "comment": "Initial revision",
+            "originator": "1.0.0",
+            "parent": {
+                "history_id": 2,
+                "location_id": null,
+                "version_id": null
+            },
+            "timestamp": "2018/10/26 13:53:31 GMT",
+            "review_state": "published",
+            "approxSize": 8015,
+            "principal": "admin"
+        }
+    ],
+    "modification_date": "2018/10/26 13:53:31.398258 GMT-4",
+    "title": "Welcome to Plone 4",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_gopip": 58,
+    "location": "",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "presentation": true,
+    "_type": "Document",
+    "description": "",
+    "_atrefs": {},
+    "_layout": "document_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "comments": "",
+                "actor": "admin",
+                "time": "2018/10/26 12:45:6.296953 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "comments": "",
+                "actor": "admin",
+                "time": "2018/10/26 12:45:6.307238 GMT-4"
+            }
+        ]
+    },
+    "_directly_provided": [
+        "Products.CMFEditions.interfaces.IVersioned"
+    ],
+    "tableContents": false,
+    "_classname": "ATDocument",
+    "banner": "",
+    "_userdefined_roles": [],
+    "_content_type": "text/html",
+    "_id": "front-page",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "",
+    "_atbrefs": {},
+    "_owner": "admin",
+    "_defaultpage": "",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Welcome to Plone 4",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/front-page"
+}

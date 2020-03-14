@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:57:31.552614 GMT-4",
+    "_uid": "f070907e2cc74361b9330f67d8a4a40e",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "ipsum-velit-ante.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:57:31.600136 GMT-4",
+    "title": "Ipsum velit ante.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Curae risus sem cras accumsan.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Metus risus. Etiam justo gravida ligula risus nec elit. Neque proin sed donec rutrum eu. Morbi etiam consequat eget nonummy morbi orci. Lorem netus eros ve pellentesque. Velit etiam hac dolor duis quisque ad malesuada lorem ipsum class nam phasellus. Purus justo. Etiam felis aliquam congue nunc. Ipsum lorem varius adipiscing molestie ante laoreet ad mus. Curae fusce cubilia conubia arcu cras eni enim pede placerat feugiat accumsan mi scelerisque. Lacus ipsum nunc a justo in. Felis massa enim blandit pede vestibulum auctor hac dis sollicitudin ve potenti nibh ad nibh orci erat quam.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.391423 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:17.709149 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "rutrum..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "ipsum-velit-ante.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Fusce porta sit eros montes. Ipsum etiam porttitor per sollicitudin tempus ut hac eget cras viverra. Lorem curae elit nisi urna netus natoque tincidunt quam. Neque etiam. Velit augue turpis porta varius ac. Class fames. Ipsum porta. Fames fusce vel cras torquent hymenaeos dolor vivamus elementum arcu cum eu. Justo vitae faucibus in porta. Felis augue eni odio hac est dis. Velit donec rutrum ad odio eni viverra a congue nisl. Risus netus iaculis orci odio pede lorem elit. Augue massa ultrices nam viverra risus lacus sit enim varius nec. Fusce lorem elit tincidunt sociis eu cum ac porta ut facilisis condimentum imperdiet arcu eget dis erat. Etiam porta vehicula curae nunc sem. Class proin ornare vulputate conubia nulla erat. Felis porta vel quam.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Ipsum velit ante.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 21,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./vitae-risus-mattis-nullam-purus-nonummy-arcu-fames-nonummy-rhoncus-dolor./ipsum-velit-ante."
+}

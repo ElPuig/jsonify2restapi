@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:54.912296 GMT-4",
+    "_uid": "2a84c1fed13c4b0b9df9f5b81e4d608a",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "curae-ipsum-condimentum-urna-quam-tristique-proin-a-turpis-odio-nullam.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:55.246914 GMT-4",
+    "title": "Curae ipsum condimentum urna quam tristique proin a turpis odio nullam.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Fames class vitae torquent fames elementum aenean.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Nulla class mauris amet turpis senectus est vivamus. Justo donec habitasse lobortis sagittis natoque laoreet nunc. Augue neque dis quam amet lorem egestas duis mollis. Etiam donec etiam leo eros lobortis. Felis netus aenean ac. Donec lacus libero elit pede parturient. Class risus accumsan cum lacus magna a amet ac. Netus class ligula luctus eni platea sit. Dolor augue. Lorem curae suspendisse diam ante velit dapibus eu dolor consectetuer. Fames fusce potenti nullam risus etiam. Risus metus torquent ultricies lorem quis justo malesuada praesent risus. Risus massa congue vitae lobortis vestibulum. Purus magna fames nullam tempus. Justo vitae aenean diam convallis sapien orci quis iaculis at litora leo vestibulum ac semper penatibus vestibulum.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:54.919118 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:58:55.241673 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href='http://loripsum.net/' target='_blank'>Iam id ipsum absurdum, maximum malum neglegi.</a> Minime vero, inquit ille, consentit. Duo Reges: constructio interrete. At iam decimum annum in spelunca iacet. Non igitur bene. Verum hoc idem saepe faciamus. </p>\n\n<p><a href='http://loripsum.net/' target='_blank'>Addidisti ad extremum etiam indoctum fuisse.</a> Aliter enim nosmet ipsos nosse non possumus. Occultum facinus esse potuerit, gaudebit; At eum nihili facit; Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; </p>\n\n<ol>\n\t<li>Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers?</li>\n\t<li>Sed haec ab Antiocho, familiari nostro, dicuntur multo melius et fortius, quam a Stasea dicebantur.</li>\n\t<li>De quibus cupio scire quid sentias.</li>\n\t<li>Nos autem non solum beatae vitae istam esse oblectationem videmus, sed etiam levamentum miseriarum.</li>\n</ol>\n\n\n<p>Haec dicuntur inconstantissime. Aliter homines, aliter philosophos loqui putas oportere? Quid de Pythagora? Quid de Platone aut de Democrito loquar? Videamus animi partes, quarum est conspectus illustrior; </p>\n\n<ul>\n\t<li>Quis animo aequo videt eum, quem inpure ac flagitiose putet vivere?</li>\n\t<li>Portenta haec esse dicit, neque ea ratione ullo modo posse vivi;</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Explanetur igitur.</dfn></dt>\n\t<dd>Prioris generis est docilitas, memoria;</dd>\n\t<dt><dfn>Peccata paria.</dfn></dt>\n\t<dd>Itaque fecimus.</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "curae-ipsum-condimentum-urna-quam-tristique-proin-a-turpis-odio-nullam.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Netus morbi congue tempor nec nibh per sociis primis amet habitasse. Curae proin a potenti in mus ad. Porta lacus hymenaeos massa quam ridiculus per dolor curae ligula. Lacus magna commodo non. Felis etiam hac dictumst netus hac nostra eni. Justo dolor morbi etiam magna non nibh erat iaculis integer platea quis suspendisse aliquet. Curae metus. Ipsum lacus pulvinar adipiscing nonummy duis. Curae class libero dolor suscipit adipiscing dictum purus posuere integer ornare massa. Magna nulla felis montes nulla gravida tristique pede eget donec. Massa donec. Dolor justo. Metus velit vitae. Metus risus. Nulla dolor. Massa lorem suscipit leo massa platea etiam lorem. Curae lorem purus orci consequat volutpat. Porta morbi velit ornare enim ad netus neque litora dis eros at sociosqu. Class etiam quis nunc. Etiam felis varius.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Curae ipsum condimentum urna quam tristique proin a turpis odio nullam.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 35,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./nulla-magna-vivamus-eni-inceptos-venenatis./curae-ipsum-condimentum-urna-quam-tristique-proin-a-turpis-odio-nullam."
+}

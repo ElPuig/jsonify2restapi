@@ -1,0 +1,125 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 18:05:12.060795 GMT-4",
+    "_uid": "73c45b8781e64b8ea987907bee5fd1a8",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "augue-magna.",
+    "subject": [],
+    "modification_date": "2018/10/26 18:05:12.402620 GMT-4",
+    "title": "Augue magna.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Justo metus velit scelerisque amet nisi volutpat per purus proin enim curae sodales cras.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_atbrefs": {},
+    "constrainTypesMode": -1,
+    "_type": "Folder",
+    "description": "Metus massa. Class donec eni ante cum fermentum tempor vehicula in mollis fusce. Lorem proin dui sit vel. Curae fames. Purus donec sit massa mus vitae nulla congue. Neque morbi. Lacus curae. Netus purus taciti natoque turpis id arcu. Vitae etiam dictum consequat ac netus pede consequat pharetra. Lacus neque. Donec nulla. Lacus augue lobortis felis metus. Vitae felis mauris massa habitant vestibulum vulputate suspendisse fringilla pede. Metus lacus aptent diam litora vestibulum accumsan euismod libero vel tempor urna gravida. Donec dolor lacus elementum ante sit proin. Metus vitae accumsan porttitor eu facilisis. Metus proin senectus. Nulla donec leo dictum mi dapibus cras ante cubilia nonummy magnis. Augue curae congue.",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:12.067779 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 18:05:12.397179 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "language": "en",
+    "_classname": "ATFolder",
+    "banner": "<h1>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum divisit ineleganter; Sed ad bona praeterita redeamus. Non semper, inquam; Que Manilium, ab iisque M. Duo Reges: constructio interrete. Facillimum id quidem est, inquam. </p>\n\n<h2>An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia?</h2>\n\n<p>Si quicquam extra virtutem habeatur in bonis. Ita enim vivunt quidam, ut eorum vita refellatur oratio. Apparet statim, quae sint officia, quae actiones. Magna laus. </p>\n\n<p>Illa tamen simplicia, vestra versuta. Nos cum te, M. Occultum facinus esse potuerit, gaudebit; Nunc agendum est subtilius. Neutrum vero, inquit ille. Aliter autem vobis placet. Post enim Chrysippum eum non sane est disputatum. Immo alio genere; An nisi populari fama? </p>\n\n<ol>\n\t<li>Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere.</li>\n\t<li>Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt;</li>\n</ol>\n\n\n<ul>\n\t<li>An me, inquis, tam amentem putas, ut apud imperitos isto modo loquar?</li>\n\t<li>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</li>\n\t<li>Quis enim confidit semper sibi illud stabile et firmum permansurum, quod fragile et caducum sit?</li>\n</ul>\n\n\n<dl>\n\t<dt><dfn>Easdemne res?</dfn></dt>\n\t<dd>Memini vero, inquam;</dd>\n\t<dt><dfn>Idem adhuc;</dfn></dt>\n\t<dd>Aliter enim nosmet ipsos nosse non possumus.</dd>\n\t<dt><dfn>Idem adhuc;</dfn></dt>\n\t<dd>Age nunc isti doceant, vel tu potius quis enim ista melius?</dd>\n\t<dt><dfn>Ita prorsus, inquam;</dfn></dt>\n\t<dd>Atque his de rebus et splendida est eorum et illustris oratio.</dd>\n\t<dt><dfn>Avaritiamne minuis?</dfn></dt>\n\t<dd>Tuo vero id quidem, inquam, arbitratu.</dd>\n\t<dt><dfn>Quid enim?</dfn></dt>\n\t<dd>Expressa vero in iis aetatibus, quae iam confirmatae sunt.</dd>\n\t<dt><dfn>Efficiens dici potest.</dfn></dt>\n\t<dd>Num igitur dubium est, quin, si in re ipsa nihil peccatur a superioribus, verbis illi commodius utantur?</dd>\n</dl>\n\n\n",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "augue-magna.",
+    "nextPreviousEnabled": true,
+    "effectiveDate": "None",
+    "_content_type_banner": "text/html",
+    "rights": "Neque fusce conubia nisi fusce. Velit lacus laoreet elementum eros amet nunc dictumst. Risus donec senectus sit ornare maecenas. Lacus felis bibendum ad. Dolor proin eni amet mi risus penatibus porta a. Augue felis facilisi elementum purus eros gravida id. Fusce magna. Proin netus. Porta fames orci diam risus fermentum curae ac. Risus curae nascetur ve netus erat lacinia fames ut lobortis tellus pede scelerisque integer pellentesque. Netus magna felis suspendisse id tempor maecenas condimentum eleifend. Curae fames.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Augue magna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 38,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/fames-neque-nostra-habitasse./morbi-risus-mattis-rhoncus-auctor-mi-auctor-vel./augue-magna."
+}

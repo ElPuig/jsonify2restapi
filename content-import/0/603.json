@@ -1,0 +1,84 @@
+{
+    "contributors": [],
+    "creation_date": "2018/10/26 17:58:11.808183 GMT-4",
+    "_uid": "9f6d05525ee44317967b8929453ac2de",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "id": "neque-dolor-inceptos-parturient.",
+    "subject": [],
+    "modification_date": "2018/10/26 17:58:11.859973 GMT-4",
+    "title": "Neque dolor inceptos parturient.",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_defaultpage": "index_html",
+    "location": "Curae fames primis donec eleifend.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "_type": "File",
+    "description": "Risus dolor dis eleifend iaculis feugiat erat dui. Purus augue. Felis ipsum leo sem elementum litora. Morbi velit neque magna. Augue justo. Lorem ipsum mattis consectetuer hymenaeos nulla orci non enim in netus scelerisque cras amet erat. Porta etiam proin sagittis phasellus mattis faucibus nisi posuere. Nulla lorem purus luctus natoque nec vestibulum parturient et porttitor a vitae euismod sagittis etiam cum nunc. Purus massa suspendisse odio fringilla mollis fusce parturient euismod nunc cum nunc tellus odio primis. Purus dolor libero pulvinar morbi id metus ve odio litora ad feugiat. Purus fames velit imperdiet orci eni auctor per.",
+    "_atrefs": {},
+    "_layout": "file_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.276205 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 17:57:57.594883 GMT-4"
+            }
+        ]
+    },
+    "_datafield_file": {
+        "encoding": "base64",
+        "filename": "curae..dat",
+        "data": "R0lGODlhAQABAPAAAPj8+AAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "content_type": "chemical/x-mopac-input",
+        "size": [
+            1,
+            1
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_classname": "ATBlob",
+    "_directly_provided": [
+        "plone.app.blob.interfaces.IATBlobFile",
+        "Products.ATContentTypes.interfaces.file.IATFile",
+        "Products.ATContentTypes.interfaces.file.IFileContent"
+    ],
+    "_userdefined_roles": [],
+    "_content_type": "chemical/x-mopac-input",
+    "_id": "neque-dolor-inceptos-parturient.",
+    "effectiveDate": "None",
+    "language": "en",
+    "rights": "Massa justo suscipit erat nascetur scelerisque mus sapien praesent ligula urna eu orci. Curae morbi molestie augue taciti. Donec risus. Justo massa ipsum. Fusce lorem nullam semper fames scelerisque. Velit nulla. Purus dolor tempor lectus. Magna felis fames nulla hac nisi est magna leo quis. Donec neque purus libero vestibulum interdum posuere vivamus hendrerit arcu aliquam ad. Morbi metus vel magna congue mollis ut. Class massa. Magna fames. Porta massa. Curae purus euismod tempor. Netus donec primis arcu at. Metus porta mauris eu orci odio primis id. Magna proin montes convallis metus.",
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {},
+    "_properties": [
+        [
+            "title",
+            "Neque dolor inceptos parturient.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 24,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/about/lacus-purus-sit-augue-facilisis-ultricies-pede./purus-class-nisl-arcu-convallis-porta-mi-fusce-id./neque-dolor-inceptos-parturient."
+}

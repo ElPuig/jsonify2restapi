@@ -1,0 +1,105 @@
+{
+    "startDate": "2018/10/14 13:28:56.978411 GMT-4",
+    "endDate": "2018/10/16 13:36:15.324658 GMT-4",
+    "contributors": [],
+    "_content_type_text": "text/html",
+    "text": "<h1>Quod quidem iam fit etiam in Academia.</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quid sentiat, non videtis. Duo Reges: constructio interrete. Frater et T. Tum Triarius: Posthac quidem, inquit, audacius. </p>\n\n<pre>\nQuod vestri quidem vel optime disputant, nihil opus esse\neum, qui philosophus futurus sit, scire litteras.\n\nNumquam audivi in Epicuri schola Lycurgum, Solonem,\nMiltiadem, Themistoclem, Epaminondam nominari, qui in ore\nsunt ceterorum omnium philosophorum.\n</pre>\n\n\n<ol>\n\t<li>Quaeque de virtutibus dicta sunt, quem ad modum eae semper voluptatibus inhaererent, eadem de amicitia dicenda sunt.</li>\n\t<li>Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.</li>\n\t<li>At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit;</li>\n</ol>\n\n\n<p>Eam tum adesse, cum dolor omnis absit; <code>Si longus, levis;</code> At iam decimum annum in spelunca iacet. Ita prorsus, inquam; Haec igitur Epicuri non probo, inquam. <a href='http://loripsum.net/' target='_blank'>Ratio quidem vestra sic cogit.</a> </p>\n\n<dl>\n\t<dt><dfn>Sedulo, inquam, faciam.</dfn></dt>\n\t<dd>Optime, inquam.</dd>\n\t<dt><dfn>Ille incendat?</dfn></dt>\n\t<dd>Cur id non ita fit?</dd>\n\t<dt><dfn>Sed fortuna fortis;</dfn></dt>\n\t<dd>Ego vero volo in virtute vim esse quam maximam;</dd>\n\t<dt><dfn>Age sane, inquam.</dfn></dt>\n\t<dd>Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio.</dd>\n</dl>\n\n\n<ul>\n\t<li>Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt;</li>\n\t<li>Et quidem illud ipsum non nimium probo et tantum patior, philosophum loqui de cupiditatibus finiendis.</li>\n\t<li>Quam multa vitiosa! summum enim bonum et malum vagiens puer utra voluptate diiudicabit, stante an movente?</li>\n\t<li>Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias.</li>\n\t<li>Quorum omnium quae sint notitiae, quae quidem significentur rerum vocabulis, quaeque cuiusque vis et natura sit mox videbimus.</li>\n\t<li>Sed tamen omne, quod de re bona dilucide dicitur, mihi praeclare dici videtur.</li>\n</ul>\n\n\n<p>Ut aliquid scire se gaudeant? Nunc de hominis summo bono quaeritur; <a href='http://loripsum.net/' target='_blank'>Quare attende, quaeso.</a> Tubulo putas dicere? Praeclare hoc quidem. </p>\n\n",
+    "eventUrl": "http://en.wikipedia.com/wiki/Lorem_ipsum",
+    "creation_date": "2018/10/26 13:49:54.131920 GMT-4",
+    "contactEmail": "loremipsum@mail.com",
+    "_uid": "af3d1e05cc154b4e91f61a04051fe10a",
+    "expirationDate": "None",
+    "contactName": "Porta nulla est erat.",
+    "_content_type_id": "text/plain",
+    "contactPhone": "Neque justo praesent enim tortor habitasse massa.",
+    "id": "fames-metus-ridiculus-natoque-magna.",
+    "subject": [],
+    "attendees": [],
+    "effectiveDate": "2018/10/26 13:51:42.592480 GMT-4",
+    "title": "Fames metus ridiculus natoque magna.",
+    "_content_type_contactPhone": "text/plain",
+    "_content_type_eventUrl": "text/plain",
+    "_content_type_language": "text/plain",
+    "_defaultpage": "",
+    "location": "Curae neque lacus nostra consectetuer consequat curae hymenaeos vestibulum.",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": true,
+    "_content_type_contactName": "text/plain",
+    "_type": "Event",
+    "description": "Nulla fames varius etiam dignissim per justo platea justo consequat gravida. Etiam lorem senectus malesuada consectetuer blandit. Porta netus cubilia magnis primis viverra vivamus turpis felis adipiscing. Porta nulla aptent. Fames curae nisi lacinia nostra nulla eleifend fringilla et. Metus justo litora. Neque netus curae pretium placerat fames nec parturient at erat nascetur eni blandit a scelerisque. Metus massa posuere maecenas varius tempus convallis cursus inceptos proin sollicitudin ultrices justo varius curae volutpat hymenaeos dictum tristique. Donec risus dapibus congue magna condimentum. Curae metus conubia ultricies ve nibh vehicula viverra etiam nibh magnis. Curae magna a nisi vitae ligula id massa magna eget nec tortor integer euismod turpis. Nulla curae.",
+    "_atrefs": {},
+    "_layout": "event_view",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:49:54.136187 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:42.606194 GMT-4"
+            }
+        ]
+    },
+    "_content_type_rights": "text/plain",
+    "_directly_provided": [],
+    "_classname": "ATEvent",
+    "_userdefined_roles": [],
+    "_content_type_contactEmail": "text/plain",
+    "_content_type": "text/html",
+    "_id": "fames-metus-ridiculus-natoque-magna.",
+    "modification_date": "2018/10/26 13:51:42.592729 GMT-4",
+    "language": "en",
+    "rights": "Lacus metus magnis parturient proin eros. Fames curae leo nisi lorem fringilla bibendum sociis varius sem tempor mattis facilisi vitae senectus lacus sociis torquent gravida varius. Lacus netus cursus. Lacus ipsum suspendisse praesent etiam aliquam platea eu interdum per proin dapibus varius dis vestibulum. Magna netus. Nulla porta a nisl vestibulum fringilla risus primis in commodo nibh ridiculus. Velit lorem magnis dolor venenatis aliquet tempus massa. Donec velit augue nec ante ridiculus. Dolor nulla a ante ut ultricies aliquet. Donec proin dictumst risus ac litora at ut nullam nec adipiscing facilisis scelerisque ultricies pede. Curae lorem platea ligula feugiat arcu adipiscing. Vitae porta molestie imperdiet at libero in proin nulla gravida.",
+    "_atbrefs": {},
+    "_content_type_description": "text/plain",
+    "_owner": "admin",
+    "_content_type_location": "text/plain",
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Fames metus ridiculus natoque magna.",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "_gopip": 76,
+    "creators": [
+        "admin"
+    ],
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_path": "/Plone/events/fames-metus-ridiculus-natoque-magna."
+}

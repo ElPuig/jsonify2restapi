@@ -1,0 +1,135 @@
+{
+    "locallyAllowedTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "contributors": [],
+    "creation_date": "2018/10/26 13:48:49.827365 GMT-4",
+    "_uid": "e91f603418694886bf947365629bcbd1",
+    "expirationDate": "None",
+    "_content_type_id": "text/plain",
+    "immediatelyAddableTypes": [
+        "Document",
+        "Event",
+        "File",
+        "Folder",
+        "Image",
+        "Link",
+        "News Item",
+        "Collection"
+    ],
+    "id": "events",
+    "subject": [],
+    "modification_date": "2018/10/26 13:51:40.417736 GMT-4",
+    "title": "Events",
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    },
+    "_content_type_language": "text/plain",
+    "_gopip": 60,
+    "location": "",
+    "_content_type_title": "text/plain",
+    "excludeFromNav": false,
+    "_atbrefs": {},
+    "constrainTypesMode": 0,
+    "_type": "Folder",
+    "description": "",
+    "_atrefs": {},
+    "_layout": "folder_listing",
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null,
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:48:49.832660 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:48:52.187883 GMT-4"
+            },
+            {
+                "action": "retract",
+                "review_state": "private",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:30.068493 GMT-4"
+            },
+            {
+                "action": "publish",
+                "review_state": "published",
+                "actor": "admin",
+                "comments": "",
+                "time": "2018/10/26 13:51:40.425662 GMT-4"
+            }
+        ]
+    },
+    "_directly_provided": [],
+    "_classname": "ATFolder",
+    "banner": "",
+    "_userdefined_roles": [],
+    "_content_type": "text/plain",
+    "_id": "events",
+    "nextPreviousEnabled": false,
+    "effectiveDate": "2018/10/26 13:48:52.181039 GMT-4",
+    "language": "en",
+    "rights": "",
+    "_owner": "admin",
+    "_defaultpage": "",
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Modify portal content": {
+            "acquire": false,
+            "roles": [
+                "Editor",
+                "Manager",
+                "Owner",
+                "Site Administrator"
+            ]
+        },
+        "Access contents information": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        },
+        "View": {
+            "acquire": false,
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    },
+    "_properties": [
+        [
+            "title",
+            "Events",
+            "string"
+        ]
+    ],
+    "allowDiscussion": false,
+    "creators": [
+        "admin"
+    ],
+    "_path": "/Plone/events"
+}
