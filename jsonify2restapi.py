@@ -33,13 +33,13 @@ for d in sorted(os.listdir(dir), key=get_int):
             new_data = {}
             new_data['@type'] = data['_type']
             new_data['title'] = data['title']
-            new_data['id'] = data['_path'][data['_path'].rfind('/')+1:]
-            logger.debug("id: " + new_data['id'])
-            # print(" - Type: " + data['_type'])
+            new_data['id'] = data['_id']
+            new_data['description'] = data['description']
+            new_data['UID'] = data['_uid'] # No funciona
+            new_data['created'] = data['creation_date'] # No funciona
+            new_data['review_state'] = 'published' # No funciona
 
-            # set restapi @type
-            # data['@type'] = data['_type']
-            # data['@id'] = data['id']
+            
 
             # post data to restapi
             #url_post = url + "/Plone"#+ data["_path"]
