@@ -35,10 +35,9 @@ for d in sorted(os.listdir(dir), key=get_int):
             new_data['title'] = data['title']
             new_data['id'] = data['_id']
             new_data['description'] = data['description']
+            new_data['contributors'] = data['contributors']
             new_data['UID'] = data['_uid'] # No funciona
             new_data['created'] = data['creation_date'] # No funciona
-            new_data['review_state'] = 'published' # No funciona
-
             
 
             # post data to restapi
@@ -57,3 +56,11 @@ for d in sorted(os.listdir(dir), key=get_int):
             else:
                 print(r.text)
                 logger.info("Ok")
+                # Si se trata de un elemento público hay que cambiar el estado
+                logger.debug("Publico: " + url + data['_path'] + "/@workflow/publish")
+                r = requests.post(url + data['_path'] + "/@workflow/publish",
+                    headers={'Accept': 'application/json'},
+                    auth=(plone_user, plone_password))
+
+                print(r.status_code)
+                print(r.text)
