@@ -43,25 +43,33 @@ def import_content(data):
         print(r.text)
         logger.info("Ok")
         # Si se trata de un elemento público hay que cambiar el estado
-        logger.debug("Publico: " + url + data['_path'] + "/@workflow/publish")
-        r = requests.post(url + data['_path'] + "/@workflow/publish",
-            headers={'Accept': 'application/json'},
-            auth=(plone_user, plone_password))
+        last_historystate = data['_history'][-1]
+        if last_historystate['review_state'] == "published":
+            logger.debug("Publico: " + url + data['_path'] + "/@workflow/publish")
+            r = requests.post(url + data['_path'] + "/@workflow/publish",
+                headers={'Accept': 'application/json'},
+                auth=(plone_user, plone_password))
 
-        print(r.status_code)
-        print(r.text)
+            print(r.status_code)
+            print(r.text)
 
-print("Content import directory: " + dir)
-print("Destination URL: " + url)
+
+
+#
+# Main script
+#
+
+logger.info("Content import directory: " + dir)
+logger.info("Destination URL: " + url)
 
 for d in sorted(os.listdir(dir), key=get_int):
-    print("Subdirectory: " + d)
+    logger.info("Subdirectory: " + d)
 
     for f in sorted(os.listdir(dir + "/" + d), key=get_int):
-        print("File: " + f)
+        logger.info("File: " + f)
 
         filename = dir + "/" + d + "/" + f
-        print(" - Filename: " + filename)
+        logger.info(" - Filename: " + filename)
 
         with open(filename, "r") as json_file:
             data = json.load(json_file)
