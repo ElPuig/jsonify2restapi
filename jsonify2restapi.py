@@ -44,6 +44,18 @@ def import_content(data):
         new_data['start'] = data['startDate']
     if "endDate" in data:
         new_data['end'] = data['endDate']
+    if "location" in data:
+        new_data['location'] = data['location']
+    if "attendees" in data:
+        new_data['attendees'] = data['attendees']
+    if "contactName" in data:
+        new_data['contact_name'] = data['contactName']
+    if "contactEmail" in data:
+        new_data['contact_email'] = data['contactEmail']
+    if "contactEmail" in data:
+        new_data['contact_phone'] = data['contactPhone']
+    # if "eventUrl" in data:
+    #     new_data['event_url'] = data['eventUrl']
 
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
@@ -54,7 +66,7 @@ def import_content(data):
         auth=(plone_user, plone_password))
 
     if r.status_code != 201:
-        logger.error(str(r.status_code) + ":" + " id: " + new_data['id'] + " type:" + new_data['@type'] + " " + filename)
+        logger.error(str(r.status_code) + ":" + " id: " + new_data['id'] + " type: " + new_data['@type'] + " " + filename)
         logger.error(new_data)
         
     else:
