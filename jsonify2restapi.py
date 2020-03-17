@@ -38,7 +38,12 @@ def import_content(data):
     # Collection, Document, Event, News Item
     if "text" in data:
         new_data['text'] = data['text']
-    
+
+    # Event
+    if "startDate" in data:
+        new_data['start'] = data['startDate']
+    if "endDate" in data:
+        new_data['end'] = data['startDate']
 
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
