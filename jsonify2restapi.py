@@ -43,12 +43,12 @@ def import_content(data):
         print(r.text)
         logger.info("Ok")
         # Si se trata de un elemento público hay que cambiar el estado
-        last_historystate = data['_history'][-1]
+        last_historystate = data['_workflow_history']['simple_publication_workflow'][-1]
         if last_historystate['review_state'] == "published":
             logger.debug("Publico: " + url + data['_path'] + "/@workflow/publish")
             history = {}
-            history['comment'] = last_historystate['comment']
-            history['effective'] = last_historystate['timestamp']
+            history['comment'] = last_historystate['comments']
+            history['effective'] = last_historystate['time']
             r = requests.post(url + data['_path'] + "/@workflow/publish",
                 headers={'Accept': 'application/json'},
                 auth=(plone_user, plone_password),
