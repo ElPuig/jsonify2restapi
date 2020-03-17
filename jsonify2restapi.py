@@ -1,3 +1,11 @@
+#
+# Tipos de documentos en plonerestapi
+#
+#   http http://10.231.51.229:8080/elpuig/@types Accept:application/json -a admin:UUXdbVpOxgRf
+#   http http://10.231.51.229:8080/elpuig/@types/Document Accept:application/json -a admin:UUXdbVpOxgRf
+#
+
+
 import re
 import requests
 import json
@@ -6,7 +14,8 @@ import os
 from logzero import logger
 
 
-dir ="/home/vcarceler/desarrollo/jsonify2restapi/content-import"
+#dir = "/home/vcarceler/desarrollo/jsonify2restapi/content-import"
+dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
 url = 'http://10.231.51.229:8080'
 plone_user = 'admin'
 plone_password = 'UUXdbVpOxgRf'
