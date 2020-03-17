@@ -92,6 +92,6 @@ for d in sorted(os.listdir(dir), key=get_int):
             data = json.load(json_file)
 
             import_content(data)
-            break
+            
 
-        break
+    break
