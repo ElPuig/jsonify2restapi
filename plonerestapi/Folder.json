@@ -1,0 +1,222 @@
+{
+  "fieldsets": [
+    {
+      "fields": [
+        "title", 
+        "description"
+      ], 
+      "id": "default", 
+      "title": "Default"
+    }, 
+    {
+      "fields": [
+        "subjects", 
+        "language", 
+        "relatedItems"
+      ], 
+      "id": "categorization", 
+      "title": "Categoritzaci\u00f3"
+    }, 
+    {
+      "fields": [
+        "effective", 
+        "expires"
+      ], 
+      "id": "dates", 
+      "title": "Dates"
+    }, 
+    {
+      "fields": [
+        "creators", 
+        "contributors", 
+        "rights"
+      ], 
+      "id": "ownership", 
+      "title": "Propietari"
+    }, 
+    {
+      "fields": [
+        "allow_discussion", 
+        "exclude_from_nav", 
+        "id", 
+        "nextPreviousEnabled"
+      ], 
+      "id": "settings", 
+      "title": "Configuraci\u00f3"
+    }
+  ], 
+  "layouts": [
+    "album_view", 
+    "event_listing", 
+    "full_view", 
+    "listing_view", 
+    "summary_view", 
+    "tabular_view"
+  ], 
+  "properties": {
+    "allow_discussion": {
+      "choices": [
+        [
+          "True", 
+          "S\u00ed"
+        ], 
+        [
+          "False", 
+          "No"
+        ]
+      ], 
+      "description": "Permet els comentaris per aquest tipus de contingut.", 
+      "enum": [
+        "True", 
+        "False"
+      ], 
+      "enumNames": [
+        "S\u00ed", 
+        "No"
+      ], 
+      "title": "Permetre comentaris", 
+      "type": "string", 
+      "vocabulary": {
+        "@id": "http://10.231.51.229:8080/elpuig/@sources/allow_discussion"
+      }
+    }, 
+    "contributors": {
+      "additionalItems": true, 
+      "description": "Noms de les persones que hi han contribu\u00eft. Introdu\u00efu cada persona en una l\u00ednia diferent.", 
+      "items": {
+        "description": "", 
+        "title": "", 
+        "type": "string"
+      }, 
+      "title": "Col\u00b7laboradors", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Users"
+        }
+      }
+    }, 
+    "creators": {
+      "additionalItems": true, 
+      "description": "Persones responsables de crear el contingut d'aquest element. Si us plau, introdu\u00efu una llista de noms d'usuari, un per l\u00ednia. El creador principal podria anar en primer lloc.", 
+      "items": {
+        "description": "", 
+        "title": "", 
+        "type": "string"
+      }, 
+      "title": "Creadors", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Users"
+        }
+      }
+    }, 
+    "description": {
+      "description": "S'usa en llistes d'elements i resultats de cerca", 
+      "minLength": 0, 
+      "title": "Descripci\u00f3", 
+      "type": "string", 
+      "widget": "textarea"
+    }, 
+    "effective": {
+      "description": "La data en qu\u00e8 es publicar\u00e0 l'element. Si no s'indica cap data es publicar\u00e0 immediatament.", 
+      "title": "Data de publicaci\u00f3", 
+      "type": "string", 
+      "widget": "datetime"
+    }, 
+    "exclude_from_nav": {
+      "default": false, 
+      "description": "Si est\u00e0 seleccionat, aquest element no es mostrar\u00e0 en l'arbre de navegaci\u00f3", 
+      "title": "Exclou de la navegaci\u00f3", 
+      "type": "boolean"
+    }, 
+    "expires": {
+      "description": "La data en qu\u00e8 vencer\u00e0 l'element. Aix\u00f2 far\u00e0 que autom\u00e0ticament l'element deixi de ser visible per a altres en aquesta data.  Si no s'escull cap data, l'element no vencer\u00e0 mai.", 
+      "title": "Data de venciment", 
+      "type": "string", 
+      "widget": "datetime"
+    }, 
+    "id": {
+      "description": "Aquest nom es mostra a la URL.", 
+      "title": "Nom curt", 
+      "type": "string"
+    }, 
+    "language": {
+      "default": "ca", 
+      "description": "", 
+      "title": "Idioma", 
+      "type": "string", 
+      "vocabulary": {
+        "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.SupportedContentLanguages"
+      }
+    }, 
+    "nextPreviousEnabled": {
+      "default": false, 
+      "description": "Habilita la navegaci\u00f3 seg\u00fcent/anterior sobre el contingut de dins d'aquesta carpeta.", 
+      "title": "Habilita la navegaci\u00f3 seg\u00fcent/anterior", 
+      "type": "boolean"
+    }, 
+    "relatedItems": {
+      "additionalItems": true, 
+      "default": [], 
+      "description": "", 
+      "items": {
+        "description": "", 
+        "title": "Related", 
+        "type": "string", 
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Catalog"
+        }
+      }, 
+      "title": "Contingut relacionat", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "pattern_options": {
+          "recentlyUsed": true
+        }, 
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Catalog"
+        }
+      }
+    }, 
+    "rights": {
+      "description": "Declaraci\u00f3 de Copyright i informaci\u00f3 d'altres drets sobre aquest element.", 
+      "minLength": 0, 
+      "title": "Drets d'autor", 
+      "type": "string", 
+      "widget": "textarea"
+    }, 
+    "subjects": {
+      "additionalItems": true, 
+      "description": "Les etiquetes normalment s'utilitzen per una millor organitzaci\u00f3 dels continguts.", 
+      "items": {
+        "description": "", 
+        "title": "", 
+        "type": "string"
+      }, 
+      "title": "Etiquetes", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Keywords"
+        }
+      }
+    }, 
+    "title": {
+      "description": "", 
+      "title": "T\u00edtol", 
+      "type": "string"
+    }
+  }, 
+  "required": [
+    "title", 
+    "nextPreviousEnabled"
+  ], 
+  "title": "Carpeta", 
+  "type": "object"
+}

@@ -1,0 +1,358 @@
+{
+  "fieldsets": [
+    {
+      "fields": [
+        "title", 
+        "description", 
+        "start", 
+        "end", 
+        "whole_day", 
+        "open_end", 
+        "sync_uid", 
+        "recurrence", 
+        "location", 
+        "attendees", 
+        "contact_name", 
+        "contact_email", 
+        "contact_phone", 
+        "event_url", 
+        "text", 
+        "changeNote"
+      ], 
+      "id": "default", 
+      "title": "Default"
+    }, 
+    {
+      "fields": [
+        "subjects", 
+        "language", 
+        "relatedItems"
+      ], 
+      "id": "categorization", 
+      "title": "Categoritzaci\u00f3"
+    }, 
+    {
+      "fields": [
+        "effective", 
+        "expires"
+      ], 
+      "id": "dates", 
+      "title": "Dates"
+    }, 
+    {
+      "fields": [
+        "creators", 
+        "contributors", 
+        "rights"
+      ], 
+      "id": "ownership", 
+      "title": "Propietari"
+    }, 
+    {
+      "fields": [
+        "allow_discussion", 
+        "exclude_from_nav", 
+        "id", 
+        "versioning_enabled"
+      ], 
+      "id": "settings", 
+      "title": "Configuraci\u00f3"
+    }
+  ], 
+  "layouts": [
+    "event_view"
+  ], 
+  "properties": {
+    "allow_discussion": {
+      "choices": [
+        [
+          "True", 
+          "S\u00ed"
+        ], 
+        [
+          "False", 
+          "No"
+        ]
+      ], 
+      "description": "Permet els comentaris per aquest tipus de contingut.", 
+      "enum": [
+        "True", 
+        "False"
+      ], 
+      "enumNames": [
+        "S\u00ed", 
+        "No"
+      ], 
+      "title": "Permetre comentaris", 
+      "type": "string", 
+      "vocabulary": {
+        "@id": "http://10.231.51.229:8080/elpuig/@sources/allow_discussion"
+      }
+    }, 
+    "attendees": {
+      "additionalItems": true, 
+      "default": [], 
+      "description": "Llista d'assistents", 
+      "items": {
+        "description": "", 
+        "title": "", 
+        "type": "string"
+      }, 
+      "title": "Assistents", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "klass": "event_attendees"
+      }
+    }, 
+    "changeNote": {
+      "description": "Escrigui un comentari que descrigui els canvis realitzats.", 
+      "title": "Comentari sobre el canvi", 
+      "type": "string"
+    }, 
+    "contact_email": {
+      "description": "Adre\u00e7a de contacte de l'esdeveniment.", 
+      "title": "Correu de contacte", 
+      "type": "string", 
+      "widgetOptions": {
+        "klass": "event_contact_email"
+      }
+    }, 
+    "contact_name": {
+      "description": "Responsable de l'esdeveniment.", 
+      "title": "Nom de contacte", 
+      "type": "string", 
+      "widgetOptions": {
+        "klass": "event_contact_name"
+      }
+    }, 
+    "contact_phone": {
+      "description": "Tel\u00e8fon de contacte de l'esdeveniment", 
+      "title": "Tel\u00e8fon de contacte", 
+      "type": "string", 
+      "widgetOptions": {
+        "klass": "event_contact_phone"
+      }
+    }, 
+    "contributors": {
+      "additionalItems": true, 
+      "description": "Noms de les persones que hi han contribu\u00eft. Introdu\u00efu cada persona en una l\u00ednia diferent.", 
+      "items": {
+        "description": "", 
+        "title": "", 
+        "type": "string"
+      }, 
+      "title": "Col\u00b7laboradors", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Users"
+        }
+      }
+    }, 
+    "creators": {
+      "additionalItems": true, 
+      "description": "Persones responsables de crear el contingut d'aquest element. Si us plau, introdu\u00efu una llista de noms d'usuari, un per l\u00ednia. El creador principal podria anar en primer lloc.", 
+      "items": {
+        "description": "", 
+        "title": "", 
+        "type": "string"
+      }, 
+      "title": "Creadors", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Users"
+        }
+      }
+    }, 
+    "description": {
+      "description": "S'usa en llistes d'elements i resultats de cerca", 
+      "minLength": 0, 
+      "title": "Descripci\u00f3", 
+      "type": "string", 
+      "widget": "textarea"
+    }, 
+    "effective": {
+      "description": "La data en qu\u00e8 es publicar\u00e0 l'element. Si no s'indica cap data es publicar\u00e0 immediatament.", 
+      "title": "Data de publicaci\u00f3", 
+      "type": "string", 
+      "widget": "datetime"
+    }, 
+    "end": {
+      "default": "2020-03-17T12:00:00+00:00", 
+      "description": "Data i hora en qu\u00e8 acaba l'esdeveniment.", 
+      "title": "L'esdeveniment acaba", 
+      "type": "string", 
+      "widget": "datetime", 
+      "widgetOptions": {
+        "default_timezone": "Europe/Madrid", 
+        "klass": "event_end"
+      }
+    }, 
+    "event_url": {
+      "description": "Adre\u00e7a web amb m\u00e9s informaci\u00f3 sobre l'esdeveniment. Afegiu http:// si es tracta d'un enlla\u00e7 extern.", 
+      "title": "URL de l'esdeveniment", 
+      "type": "string", 
+      "widgetOptions": {
+        "klass": "event_url"
+      }
+    }, 
+    "exclude_from_nav": {
+      "default": false, 
+      "description": "Si est\u00e0 seleccionat, aquest element no es mostrar\u00e0 en l'arbre de navegaci\u00f3", 
+      "title": "Exclou de la navegaci\u00f3", 
+      "type": "boolean"
+    }, 
+    "expires": {
+      "description": "La data en qu\u00e8 vencer\u00e0 l'element. Aix\u00f2 far\u00e0 que autom\u00e0ticament l'element deixi de ser visible per a altres en aquesta data.  Si no s'escull cap data, l'element no vencer\u00e0 mai.", 
+      "title": "Data de venciment", 
+      "type": "string", 
+      "widget": "datetime"
+    }, 
+    "id": {
+      "description": "Aquest nom es mostra a la URL.", 
+      "title": "Nom curt", 
+      "type": "string"
+    }, 
+    "language": {
+      "default": "ca", 
+      "description": "", 
+      "title": "Idioma", 
+      "type": "string", 
+      "vocabulary": {
+        "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.SupportedContentLanguages"
+      }
+    }, 
+    "location": {
+      "description": "Lloc de l'esdeveniment.", 
+      "title": "Ubicaci\u00f3", 
+      "type": "string", 
+      "widgetOptions": {
+        "klass": "event_location"
+      }
+    }, 
+    "open_end": {
+      "default": false, 
+      "description": "Esdeveniment sense data de fi.", 
+      "title": "Sense data d'acabament", 
+      "type": "boolean", 
+      "widgetOptions": {
+        "klass": "event_open_end"
+      }
+    }, 
+    "recurrence": {
+      "description": "Defineix la regla de periodicitat de l'esdeveniment", 
+      "minLength": 0, 
+      "title": "Recurr\u00e8ncia", 
+      "type": "string", 
+      "widget": "textarea", 
+      "widgetOptions": {
+        "first_day": 0, 
+        "klass": "event_recurrence", 
+        "show_repeat_forever": false, 
+        "start_field": "IEventBasic.start"
+      }
+    }, 
+    "relatedItems": {
+      "additionalItems": true, 
+      "default": [], 
+      "description": "", 
+      "items": {
+        "description": "", 
+        "title": "Related", 
+        "type": "string", 
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Catalog"
+        }
+      }, 
+      "title": "Contingut relacionat", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "pattern_options": {
+          "recentlyUsed": true
+        }, 
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Catalog"
+        }
+      }
+    }, 
+    "rights": {
+      "description": "Declaraci\u00f3 de Copyright i informaci\u00f3 d'altres drets sobre aquest element.", 
+      "minLength": 0, 
+      "title": "Drets d'autor", 
+      "type": "string", 
+      "widget": "textarea"
+    }, 
+    "start": {
+      "default": "2020-03-17T11:00:00+00:00", 
+      "description": "Data i hora d'inici de l'esdeveniment.", 
+      "title": "L'esdeveniment comen\u00e7a", 
+      "type": "string", 
+      "widget": "datetime", 
+      "widgetOptions": {
+        "default_timezone": "Europe/Madrid", 
+        "klass": "event_start"
+      }
+    }, 
+    "subjects": {
+      "additionalItems": true, 
+      "description": "Les etiquetes normalment s'utilitzen per una millor organitzaci\u00f3 dels continguts.", 
+      "items": {
+        "description": "", 
+        "title": "", 
+        "type": "string"
+      }, 
+      "title": "Etiquetes", 
+      "type": "array", 
+      "uniqueItems": true, 
+      "widgetOptions": {
+        "vocabulary": {
+          "@id": "http://10.231.51.229:8080/elpuig/@vocabularies/plone.app.vocabularies.Keywords"
+        }
+      }
+    }, 
+    "sync_uid": {
+      "description": "", 
+      "mode": "hidden", 
+      "title": "", 
+      "type": "string"
+    }, 
+    "text": {
+      "description": "", 
+      "title": "Text", 
+      "type": "string", 
+      "widget": "richtext"
+    }, 
+    "title": {
+      "description": "", 
+      "title": "T\u00edtol", 
+      "type": "string"
+    }, 
+    "versioning_enabled": {
+      "default": true, 
+      "description": "Activeu/desactiveu el control de versions per aquest document.", 
+      "title": "Control de versions activat", 
+      "type": "boolean"
+    }, 
+    "whole_day": {
+      "default": false, 
+      "description": "Esdeveniments de dia complet", 
+      "title": "Tot el dia", 
+      "type": "boolean", 
+      "widgetOptions": {
+        "klass": "event_whole_day"
+      }
+    }
+  }, 
+  "required": [
+    "title", 
+    "start", 
+    "end"
+  ], 
+  "title": "Esdeveniment", 
+  "type": "object"
+}

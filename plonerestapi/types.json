@@ -1,0 +1,42 @@
+[
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/Folder",
+        "addable": true,
+        "title": "Carpeta"
+    },
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/Collection",
+        "addable": true,
+        "title": "Col·lecció"
+    },
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/Link",
+        "addable": true,
+        "title": "Enllaç"
+    },
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/Event",
+        "addable": true,
+        "title": "Esdeveniment"
+    },
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/File",
+        "addable": true,
+        "title": "Fitxer"
+    },
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/Image",
+        "addable": true,
+        "title": "Imatge"
+    },
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/News Item",
+        "addable": true,
+        "title": "Notícia"
+    },
+    {
+        "@id": "http://10.231.51.229:8080/elpuig/@types/Document",
+        "addable": true,
+        "title": "Pàgina"
+    }
+]
