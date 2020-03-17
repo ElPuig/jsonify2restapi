@@ -28,12 +28,16 @@ def get_int(filename):
 def import_content(data):
     new_data = {}
     new_data['@type'] = data['_type']
-    new_data['title'] = data['title']
     new_data['id'] = data['_id']
+    new_data['title'] = data['title']
     new_data['description'] = data['description']
     new_data['contributors'] = data['contributors']
     new_data['UID'] = data['_uid'] # No funciona
     new_data['created'] = data['creation_date'] # No funciona
+
+    # Collection, Document, Event, News Item
+    if "text" in data:
+        new_data['text'] = data['text']
     
 
     # post data to plonerestapi
