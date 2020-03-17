@@ -54,8 +54,8 @@ def import_content(data):
         new_data['contact_email'] = data['contactEmail']
     if "contactEmail" in data:
         new_data['contact_phone'] = data['contactPhone']
-    # if "eventUrl" in data:
-    #     new_data['event_url'] = data['eventUrl']
+    if "eventUrl" in data and data['eventUrl'] != "": # plonerestapi no acepta una cadena vacía como event_url
+        new_data['event_url'] = data['eventUrl']
 
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
