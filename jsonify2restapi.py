@@ -43,7 +43,7 @@ def import_content(data):
     if "startDate" in data:
         new_data['start'] = data['startDate']
     if "endDate" in data:
-        new_data['end'] = data['startDate']
+        new_data['end'] = data['endDate']
 
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
