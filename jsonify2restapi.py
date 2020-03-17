@@ -60,20 +60,33 @@ def import_content(data):
     else:
         print(r.text)
         logger.info("Ok")
-        # Si se trata de un elemento público hay que cambiar el estado
-        last_historystate = data['_workflow_history']['simple_publication_workflow'][-1]
-        if last_historystate['review_state'] == "published":
-            logger.debug("Publico: " + url + data['_path'] + "/@workflow/publish")
+        # Se recorre el historial aplicando las fechas y los cambios de estado: published, private, pending
+        for state in data['_workflow_history']['simple_publication_workflow']:
+            
+            method = "/@workflow/"
+            
+            if state['review_state'] == "published":
+                method = method + "publish"
+
+            if state['review_state'] == "private":
+                method = method + "retract"
+
+            if state['review_state'] == "pending":
+                method = method + "submit"
+
+            logger.debug("Change state: " + url + data['_path'] + method)
+
             history = {}
-            history['comment'] = last_historystate['comments']
-            history['effective'] = last_historystate['time']
-            r = requests.post(url + data['_path'] + "/@workflow/publish",
+            history['comment'] = state['comments']
+            history['effective'] = state['time']
+            r = requests.post(url + data['_path'] + method,
                 headers={'Accept': 'application/json'},
                 auth=(plone_user, plone_password),
                 json=history)
 
             print(r.status_code)
             print(r.text)
+
 
 
 

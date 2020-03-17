@@ -2,21 +2,24 @@ import csv
 import requests
 import json
 
-csvfilename = 'usuarios.csv'
-url = 'http://192.168.17.111:8080/Plone/@users'
+from logzero import logger
+
+#csvfilename = 'usuarios.csv'
+csvfilename = '/home/vcarceler/Descargas/usuarios.csv'
+url = 'http://10.231.51.229:8080/elpuig/@users'
 user = 'admin'
-password = 'hW5yvGepwGVa'
+password = 'UUXdbVpOxgRf'
 
 def create_user(login, name, address, passw):
     data = {'email': address, 'fullname': name, 'password': passw, 'roles': ['Member'], 'username': login}
-    print(data)
+    logger.info("Creating ... " + str(data))
     r = requests.post(url,
         headers={'Accept': 'application/json', 'Content-Type': 'application/json'},
         json=data,
         auth=(user, password))
 
     if r.status_code != 201:
-        print(str(r.status_code) + " DATA: " + data)
+        logger.error(str(r.status_code) + " DATA: " + str(data))
 
 
 with open(csvfilename, newline='') as csvfile:
