@@ -32,8 +32,12 @@ def import_content(data):
     new_data['title'] = data['title']
     new_data['description'] = data['description']
     new_data['contributors'] = data['contributors']
+    
     new_data['UID'] = data['_uid'] # No funciona
     new_data['created'] = data['creation_date'] # No funciona
+
+    if "creators" in data:
+        new_data['creators'] = data['creators']
 
     # Collection, Document, Event, News Item
     if "text" in data:
