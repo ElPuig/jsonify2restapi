@@ -66,7 +66,16 @@ def import_content(data):
         new_data['file']['encoding'] = data['_datafield_file']['encoding']
         new_data['file']['filename'] = data['_datafield_file']['filename']
         new_data['file']['content-type'] = data['_datafield_file']['content_type']
-        
+
+    # Image
+    # 39.json
+    # /elpuig/Members/acanal8/noticies/2016-17/deures-destiu-per-als-alumnes-que-cursaran-primer-deso
+    if "_datafield_image" in data:
+        new_data['image'] = {}
+        new_data['image']['data'] = data['_datafield_image']['data']
+        new_data['image']['encoding'] = data['_datafield_image']['encoding']
+        new_data['image']['filename'] = data['_datafield_image']['filename']
+        new_data['image']['content-type'] = data['_datafield_image']['content_type']
 
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
@@ -82,7 +91,7 @@ def import_content(data):
         
     else:
         print(r.text)
-        logger.info("Ok")
+        logger.info("Ok - " + url_post)
         # Se recorre el historial aplicando las fechas y los cambios de estado: published, private, pending
         for state in data['_workflow_history']['simple_publication_workflow']:
             
