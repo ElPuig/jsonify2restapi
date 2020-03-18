@@ -77,9 +77,14 @@ def import_content(data):
         new_data['image']['filename'] = data['_datafield_image']['filename']
         new_data['image']['content-type'] = data['_datafield_image']['content_type']
 
+    # Link
+    # 994.json
+    if "remoteUrl" in data:
+        new_data['remoteUrl'] = data['remoteUrl']
+
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
-    logger.debug("url_post: " + url_post)
+    #logger.debug("url_post: " + url_post)
     r = requests.post(url_post,
         headers={'Accept': 'application/json', 'Content-Type': 'application/json'},
         json=new_data,
@@ -87,10 +92,10 @@ def import_content(data):
 
     if r.status_code != 201:
         logger.error(str(r.status_code) + ":" + " id: " + new_data['id'] + " type: " + new_data['@type'] + " " + filename)
-        logger.error(new_data)
+        #logger.error(new_data)
         
     else:
-        print(r.text)
+        #print(r.text)
         logger.info("Ok - " + url_post)
         # Se recorre el historial aplicando las fechas y los cambios de estado: published, private, pending
         for state in data['_workflow_history']['simple_publication_workflow']:
@@ -116,8 +121,8 @@ def import_content(data):
                 auth=(plone_user, plone_password),
                 json=history)
 
-            print(r.status_code)
-            print(r.text)
+            #print(r.status_code)
+            #print(r.text)
 
 
 
@@ -144,4 +149,4 @@ for d in sorted(os.listdir(dir), key=get_int):
             import_content(data)
             
 
-    break
+    
