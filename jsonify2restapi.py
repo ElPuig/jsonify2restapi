@@ -57,6 +57,17 @@ def import_content(data):
     if "eventUrl" in data and data['eventUrl'] != "": # plonerestapi no acepta una cadena vacía como event_url
         new_data['event_url'] = data['eventUrl']
 
+    # File
+    # En los datos a importar hay varios ficheros de imagen que no incluyen los datos (29.json, 30.json, 31, 32)
+    # https://plonerestapi.readthedocs.io/en/latest/serialization.html#file-image-fields
+    if "_datafield_file" in data:
+        new_data['file'] = {}
+        new_data['file']['data'] = data['_datafield_file']['data']
+        new_data['file']['encoding'] = data['_datafield_file']['encoding']
+        new_data['file']['filename'] = data['_datafield_file']['filename']
+        new_data['file']['content-type'] = data['_datafield_file']['content_type']
+        
+
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
     logger.debug("url_post: " + url_post)
