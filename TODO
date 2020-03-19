@@ -2,4 +2,7 @@
 - Usuarios
 - Permisos
 - Completar los diferentes tipos de documento
-- Definir vista por defecto
+- Definir vista por defecto. En los json "_defaultpage": "",
+- Fechas de publicación y vencimiento
+- Ocultar en el cuadro de navegación. En los json excludeFromNav
+- Escribir en un fichero los errores

@@ -95,7 +95,7 @@ def import_content(data):
         auth=(plone_user, plone_password))
 
     if r.status_code != 201:
-        logger.error(str(r.status_code) + ":" + " id: " + new_data['id'] + " type: " + new_data['@type'] + " " + filename)
+        logger.error(str(r.status_code) + ":" + " type: " + new_data['@type'] + " id: " + new_data['id'] + " " + filename)
         #logger.error(new_data)
         
     else:
