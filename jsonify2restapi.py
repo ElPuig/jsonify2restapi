@@ -98,17 +98,27 @@ def import_content(data):
 
     if r.status_code != 201:
         logger.error(str(r.status_code) + ":" + " type: " + new_data['@type'] + " id: " + new_data['id'] + " " + filename)
+
         error = {}
         error['status_code'] = r.status_code
         error['type'] = new_data['@type']
+        error['url_post'] = url_post
         error['id'] = new_data['id']
         error['filename'] = filename
         error_log_file.write(json.dumps(error) + "\n")
         #logger.error(new_data)
         
     else:
-        #print(r.text)
         logger.info("Ok - " + url_post)
+        #print(r.text)
+
+        imported = {}
+        imported['type'] = new_data['@type']
+        imported['url_post'] = url_post
+        imported['id'] = new_data['id']
+        imported['filename'] = filename
+        imported_log_file.write(json.dumps(imported) + "\n")
+        
         # Se recorre el historial aplicando las fechas y los cambios de estado: published, private, pending
         for state in data['_workflow_history']['simple_publication_workflow']:
             
