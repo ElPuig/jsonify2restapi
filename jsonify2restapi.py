@@ -165,10 +165,10 @@ for d in sorted(os.listdir(dir), key=get_int):
         filename = dir + "/" + d + "/" + f
         logger.info(" - Filename: " + filename)
 
-        with open(filename, "r") as json_file, open(error_log, "a") as error_log_file, open(imported_log, "w") as imported_log_file:
+        with open(filename, "r") as json_file, open(error_log, "a") as error_log_file, open(imported_log, "a") as imported_log_file:
             data = json.load(json_file)
 
             import_content(data)
-            break
+            
 
     
