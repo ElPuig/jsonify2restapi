@@ -19,6 +19,8 @@ dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
 url = 'http://10.231.51.229:8080'
 plone_user = 'admin'
 plone_password = 'UUXdbVpOxgRf'
+error_log = "error.log"
+imported_log = "imported.log"
 
 # returns an integer from the filename
 def get_int(filename):
@@ -96,6 +98,12 @@ def import_content(data):
 
     if r.status_code != 201:
         logger.error(str(r.status_code) + ":" + " type: " + new_data['@type'] + " id: " + new_data['id'] + " " + filename)
+        error = {}
+        error['status_code'] = r.status_code
+        error['type'] = new_data['@type']
+        error['id'] = new_data['id']
+        error['filename'] = filename
+        error_log_file.write(json.dumps(error) + "\n")
         #logger.error(new_data)
         
     else:
@@ -147,10 +155,10 @@ for d in sorted(os.listdir(dir), key=get_int):
         filename = dir + "/" + d + "/" + f
         logger.info(" - Filename: " + filename)
 
-        with open(filename, "r") as json_file:
+        with open(filename, "r") as json_file, open(error_log, "a") as error_log_file, open(imported_log, "w") as imported_log_file:
             data = json.load(json_file)
 
             import_content(data)
-            
+            break
 
     

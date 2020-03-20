@@ -7,7 +7,7 @@
 - Fechas de publicación y vencimiento
 - Ocultar en el cuadro de navegación. En los json excludeFromNav
 - Escribir en un fichero los errores
-- Copiar layout. En plonerestapi "layout": "listing_view",
+- Copiar layout. En plonerestapi "layout": "listing_view", en json "_layout": "folder_listing",
 - Imágenes: al importar no se crean automáticamente las versiones /image_thumb
   Original: https://elpuig.xeill.net/departaments/psicopedagogia/noticies/2019-2020/sortida-al-teatre-segarra/img/IMG_3202.JPG/image_thumb
   Importado: http://10.231.51.229:8080/elpuig/departaments/psicopedagogia/noticies/2019-2020/sortida-al-teatre-segarra/img/IMG_3202.JPG/image_thumb
