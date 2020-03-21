@@ -1,5 +1,5 @@
 - Importar fechas de cada cambio histórico
-- Usuarios
++ Usuarios: Importa el propietario del objeto.
 - Permisos
 - Completar los diferentes tipos de documento
 - Definir vista por defecto. En los json "_defaultpage": "", 
