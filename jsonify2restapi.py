@@ -5,7 +5,7 @@
 #   http http://10.231.51.229:8080/elpuig/@types/Document Accept:application/json -a admin:UUXdbVpOxgRf
 #
 
-
+import base64
 import re
 import requests
 import json
@@ -90,16 +90,38 @@ def import_content(data):
     if "remoteUrl" in data:
         new_data['remoteUrl'] = data['remoteUrl']
 
+    #
     # Checks
     #
+
     # Algunos json correspondientes a objetos File no incluyen los datos serializados en el campo _datafield_file y
     # curiosamente incluyen el campo _old_paths.
     # Si es el caso conviene descargar el fichero del Plone antiguo y serializar sus datos.
-    if data['_type'] == "File" and not "_datafiled_file" in data:
+    if (not "_datafield_file" in data) and data['_type'] == "File":
         logger.debug("Objeto File sin _datafield_file. Se intenta descargar desde el Plone original.")
-        logger.debug("Descarga: " + original_url + data['_path'])
+        logger.debug("Downloading: " + original_url + data['_path'])
+        
+        r = requests.get(original_url + data['_path'])
+        if r.status_code == 200:
+            logger.debug("Downloaded")
+            logger.debug("Base64 enconding")
 
-    # post data to plonerestapi
+            new_data['file'] = {}
+            new_data['file']['data'] = str(base64.b64encode(r.content))
+            new_data['file']['encoding'] = "base64"
+            m = re.search('\"(.+?)\"', r.headers['Content-Disposition'])
+            new_data['file']['filename'] = m.group(1)
+            new_data['file']['content-type'] = r.headers['Content-Type']
+
+            logger.debug("Base64 enconded")
+
+        else:
+            logger.error("Download error")
+    
+
+    #
+    # Post data to plonerestapi
+    #
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
     #logger.debug("url_post: " + url_post)
     r = requests.post(url_post,
@@ -166,6 +188,7 @@ def import_content(data):
 
 logger.info("Content import directory: " + dir)
 logger.info("Destination URL: " + url)
+logger.info("Original URL: " + original_url)
 
 for d in sorted(os.listdir(dir), key=get_int):
     logger.info("Subdirectory: " + d)
