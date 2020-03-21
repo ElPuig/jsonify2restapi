@@ -15,10 +15,12 @@ from logzero import logger
 
 
 #dir = "/home/vcarceler/desarrollo/jsonify2restapi/content-import"
-dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
+#dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
+dir = "/home/vcarceler/Descargas/content-test"
 url = 'http://10.231.51.229:8080'
 plone_user = 'admin'
 plone_password = 'UUXdbVpOxgRf'
+original_url = "http://elpuig.xeill.net"
 error_log = "error.log"
 imported_log = "imported.log"
 
@@ -87,6 +89,15 @@ def import_content(data):
     # 994.json
     if "remoteUrl" in data:
         new_data['remoteUrl'] = data['remoteUrl']
+
+    # Checks
+    #
+    # Algunos json correspondientes a objetos File no incluyen los datos serializados en el campo _datafield_file y
+    # curiosamente incluyen el campo _old_paths.
+    # Si es el caso conviene descargar el fichero del Plone antiguo y serializar sus datos.
+    if data['_type'] == "File" and not "_datafiled_file" in data:
+        logger.debug("Objeto File sin _datafield_file. Se intenta descargar desde el Plone original.")
+        logger.debug("Descarga: " + original_url + data['_path'])
 
     # post data to plonerestapi
     url_post = url + data['_path'][0:data['_path'].rfind('/')]
