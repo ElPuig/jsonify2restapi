@@ -18,4 +18,10 @@ Entre los ficheros no importados se encuentran los siguientes casos:
 
 Medidas:
 
-- Objetos *File* que no tengan los datos serializados. Se intentarán descargar desde el sitio original y subir al nuevo.
+- Objetos *File* que no tengan los datos serializados. Se intentarán descargar desde el sitio original y subir al nuevo. Ok, resuelto.
+- Objetos *Folder* que por alguna razón no quieren cargar. Tienen vacío el campo *title*, en tal caso se copia el *id*. Ok, resuelto.
+
+## 22/3/2020
+
+Si se intentan descargar ficheros desde el servidor original, conviene tener iniciada la sesión con el usuario administrador para que se puedan descargar.
+

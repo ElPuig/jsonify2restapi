@@ -15,8 +15,8 @@ from logzero import logger
 
 
 #dir = "/home/vcarceler/desarrollo/jsonify2restapi/content-import"
-#dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
-dir = "/home/vcarceler/Descargas/content-test"
+dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
+#dir = "/home/vcarceler/Descargas/content-test"
 url = 'http://10.231.51.229:8080'
 plone_user = 'admin'
 plone_password = 'UUXdbVpOxgRf'
@@ -107,17 +107,24 @@ def import_content(data):
             logger.debug("Base64 enconding")
 
             new_data['file'] = {}
+            new_data['file']['content-type'] = r.headers['Content-Type']
             new_data['file']['data'] = base64.b64encode(r.content).decode()
             new_data['file']['encoding'] = "base64"
-            m = re.search('\"(.+?)\"', r.headers['Content-Disposition'])
-            new_data['file']['filename'] = m.group(1)
-            new_data['file']['content-type'] = r.headers['Content-Type']
+            try:
+                m = re.search('\"(.+?)\"', r.headers['Content-Disposition'])
+                new_data['file']['filename'] = m.group(1)
+            except:
+                logger.error("No se ha podido descargar el fichero. ¿Está la sesión abierta?")
 
             logger.debug("Base64 enconded")
 
         else:
             logger.error("Download error")
     
+    # Algunas Folder tienen una cadena vacía en el campo title. En tal caso se copia el 'id'
+    if data['_type'] == "Folder" and data['title'] == "":
+        logger.debug("Folder sin título, copio el id.")
+        new_data['title'] = data['_id']
 
     #
     # Post data to plonerestapi
@@ -139,7 +146,7 @@ def import_content(data):
         error['id'] = new_data['id']
         error['filename'] = filename
         error_log_file.write(json.dumps(error) + "\n")
-        #logger.error(new_data)
+        logger.error(new_data)
         
     else:
         logger.info("Ok - " + url_post)
