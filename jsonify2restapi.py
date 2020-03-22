@@ -107,7 +107,7 @@ def import_content(data):
             logger.debug("Base64 enconding")
 
             new_data['file'] = {}
-            new_data['file']['data'] = str(base64.b64encode(r.content))
+            new_data['file']['data'] = base64.b64encode(r.content).decode()
             new_data['file']['encoding'] = "base64"
             m = re.search('\"(.+?)\"', r.headers['Content-Disposition'])
             new_data['file']['filename'] = m.group(1)
