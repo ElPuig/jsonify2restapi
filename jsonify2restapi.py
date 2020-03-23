@@ -15,8 +15,8 @@ from logzero import logger
 
 
 #dir = "/home/vcarceler/desarrollo/jsonify2restapi/content-import"
-dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
-#dir = "/home/vcarceler/Descargas/content-test"
+#dir = "/home/vcarceler/Descargas/content_elpuig_2020-03-16-10-19-58"
+dir = "/home/vcarceler/Descargas/content-test"
 url = 'http://10.231.51.229:8080'
 plone_user = 'admin'
 plone_password = 'UUXdbVpOxgRf'
@@ -104,7 +104,7 @@ def import_content(data):
         r = requests.get(original_url + data['_path'])
         if r.status_code == 200:
             logger.debug("Downloaded")
-            logger.debug("Base64 enconding")
+            logger.debug("Base64 encoding")
 
             new_data['file'] = {}
             new_data['file']['content-type'] = r.headers['Content-Type']
@@ -116,7 +116,7 @@ def import_content(data):
             except:
                 logger.error("No se ha podido descargar el fichero. ¿Está la sesión abierta?")
 
-            logger.debug("Base64 enconded")
+            logger.debug("Base64 encoded")
 
         else:
             logger.error("Download error")
